@@ -5,6 +5,7 @@ import { Col, Container, Row } from "reactstrap";
 import Options from "../Components/Options";
 import AudioBreakdown from "../Components/AudioBreakdown";
 import AudioPlayer from "../Components/AudioPlayer";
+import Footer from '../Components/Footer';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../styles.css'; // Import the CSS file
 
@@ -32,6 +33,11 @@ function HomePage() {
                             </Col>
                             <Col xl={6} lg={6} md={4} sm={12}>
                                 <AudioBreakdown selectedOptions={selectedOptions} />
+                            </Col>
+                        </Row>
+                        <Row>
+                            <Col xl={12}>
+                                <Footer/>
                             </Col>
                         </Row>
                     </Container>

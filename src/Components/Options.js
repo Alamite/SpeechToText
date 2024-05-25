@@ -6,19 +6,6 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPlay } from '@fortawesome/free-solid-svg-icons';
 
 function Options({ selectedOptions, setSelectedOptions }) {
-    // const options = [
-    //     { text: 'Summarization', subtext: 'Generate a summary of the content' },
-    //     { text: 'Option 2', subtext: 'Description for option 2' },
-    //     { text: 'Option 3', subtext: 'Description for option 3' },
-    //     { text: 'Option 4', subtext: 'Description for option 4' },
-    //     { text: 'Option 5', subtext: 'Description for option 5' },
-    //     { text: 'Option 6', subtext: 'Description for option 6' },
-    //     { text: 'Option 7', subtext: 'Description for option 7' },
-    //     { text: 'Option 8', subtext: 'Description for option 8' },
-    //     { text: 'Option 9', subtext: 'Description for option 9' },
-    //     { text: 'Option 10', subtext: 'Description for option 10' },
-    // ];
-
     const handleCheckboxChange = (optionText) => {
         setSelectedOptions(prevState =>
             prevState.includes(optionText)
@@ -28,7 +15,7 @@ function Options({ selectedOptions, setSelectedOptions }) {
     };
 
     return (
-        <div>
+        <div style={{height:"100%"}}>
         <div style={{display:"flex",padding:"15px 2px",justifyContent:"space-between"}}>
                                     <div className='title'>Features</div>
                                     <div className='run-button'>
@@ -56,8 +43,6 @@ function Options({ selectedOptions, setSelectedOptions }) {
                 </div>
             </div>
         </div>
-
-
         </div>
     );
 }

@@ -8,7 +8,7 @@ function Header() {
     <div
     className="App-header">
         Speech to Text
-        <img src={logo} height={"25px"}></img>
+        <img src={logo} height={"28px"}></img>
 
     </div>);
 }

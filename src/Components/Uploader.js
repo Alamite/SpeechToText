@@ -62,11 +62,11 @@ function Uploader() {
                 <div className='or-divider'>
                     <center>
                     <div style={{display:"flex", justifyContent:"center"}}>
-                    <hr style={{height:"2px",width:"70px",borderWidth:"0px",color:"black",backgroundColor:"black"}}/>
-                    <div style={{margin:"0px 10px", fontSize:"16px", alignContent:"center"}}>
+                    <hr style={{height:"2px",width:"70px",borderWidth:"0px",backgroundColor:"grey"}}/>
+                    <div style={{margin:"0px 10px",fontSize:"16px", alignContent:"center"}}>
                         OR
                     </div>
-                    <hr style={{height:"2px",width:"70px",borderWidth:"0px",color:"black",backgroundColor:"black"}}/>
+                    <hr style={{height:"2px",width:"70px",borderWidth:"0px",backgroundColor:"grey"}}/>
                     </div>
                     
                     </center>

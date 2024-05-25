@@ -88,7 +88,8 @@
 }
 
 .content-row {
-    height: calc(100vh - 28vh); /* Subtract the height of the Header if necessary */
+    /* height: calc(100vh - 28vh); */
+     /* Subtract the height of the Header if necessary */
 }
 
 .uploader-container {
@@ -96,7 +97,6 @@
 }
 
 .options-container {
-    height: 100%;
     /* display: flex;
     flex-direction: column; */
     background: rgb(0, 0, 0, 0.9); 
@@ -124,7 +124,7 @@
     height: 100%;
     /* background: grey;  */
     border: 2px solid black;
-    
+    margin-bottom: 20px;
     /* box-shadow: 0px 5px 4px rgba(0, 0, 0, 0.30);  */
     /* border-radius: 40px;  */
     backdrop-filter: blur(4px);
@@ -365,3 +365,63 @@
 
 
 
+/* Transcript styles */
+
+.transcript-content {
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #333;
+    padding: 1rem;
+    text-align: left;
+}
+
+.transcript-content p {
+    margin: 0.5rem 0;
+}
+
+.transcript-content strong {
+    color: #000;
+    margin-top: 2rem;
+}
+
+.speech-rate-details {
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+}
+
+.speech-rate-details em {
+   
+    font-style: normal;
+    font-weight: bold;
+    color: #000;
+}
+
+
+/* Sentiment styles */
+
+.sentiment-content {
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #333;
+    padding: 1rem;
+    text-align: left;
+}
+
+.sentiment-content p {
+    margin: 0.5rem 0;
+}
+
+.sentiment-content strong {
+    color: #000;
+}
+
+.sentiment-details {
+    margin-top: 0.5rem;
+}
+
+.sentiment-details em {
+
+    font-style: normal;
+    font-weight: bold;
+    color: #000;
+}
