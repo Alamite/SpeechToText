@@ -91,6 +91,7 @@ import '../styles.css'; // Import the CSS file
 function Sentiment() {
     const items = [
         {
+            speaker:'A',
             text: 'Good evening. Thank you for calling ITC. My name is&nbsp;<strong>Saneera</strong>.',
             tone: 'Happy',
             emotion: 'Gratitude',
@@ -99,6 +100,7 @@ function Sentiment() {
             icon: faSmile, // Icon for Happy tone
         },
         {
+            speaker:'B',
             text: '&nbsp;<strong>Hello</strong>. Hello sir, I\'m calling from&nbsp;<strong>Chennai</strong>.&nbsp;<strong>Hello</strong>',
             tone: 'Neutral',
             emotion: 'Neutral',
@@ -107,6 +109,7 @@ function Sentiment() {
             icon: faMeh, // Icon for Neutral tone
         },
         {
+            speaker:'A',
             text: 'Very good evening sir. Tell me how can I help you?',
             tone: 'Sad',
             emotion: 'Neutral',
@@ -115,7 +118,8 @@ function Sentiment() {
             icon: faFrown, // Icon for Neutral tone
         },
         {
-            text: 'My name is&nbsp;Shankar. <strong>Hello</strong>.',
+            speaker:'B',
+            text: 'My name is Shankar.&nbsp;<strong>Hello</strong>.',
             tone: 'Neutral',
             emotion: 'Neutral',
             sentiment: 'Neutral',
@@ -132,10 +136,11 @@ function Sentiment() {
                     key={index}
                 >
                     <h2 className="accordion-header" id={`heading${index}`}>
+                        <div className='speaker-title'>Speaker <span>{item.speaker}</span></div>
                         <div style={{display:"flex", alignItems:"center"}}>
                             <FontAwesomeIcon 
                                 icon={item.icon} 
-                                style={{ fontSize: "20px", marginLeft: "10px", color: item.icon === faSmile ? "#2ecc71" : item.icon === faFrown ? "A91D3A" : "inherit" }} 
+                                style={{ fontSize: "20px", color: item.icon === faSmile ? "#2ecc71" : item.icon === faFrown ? "A91D3A" : "inherit" }} 
                             /> {/* Display the icon */}
                             <button 
                                 className="accordion-button collapsed" 

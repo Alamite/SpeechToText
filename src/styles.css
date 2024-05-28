@@ -371,7 +371,8 @@
     font-size: 1rem;
     line-height: 1.5;
     color: #333;
-    padding: 1rem;
+    /* padding: 1rem; */
+    padding-left: 10px;
     text-align: left;
 }
 
@@ -396,6 +397,12 @@
     color: #000;
 }
 
+.speaker-title{
+    font-size: 1rem;
+    font-weight: 800;
+    text-align: left;
+    color: black;
+}
 
 /* Sentiment styles */
 
@@ -427,6 +434,7 @@
     font-weight: bold;
     color: #000;
 }
+
 
 .accordion-item {
     color: var(--bs-accordion-color);
@@ -473,6 +481,9 @@
     padding: 5px var(--bs-accordion-body-padding-x);
 }
 
+.accordion-header {
+    padding-left: 10px;
+}
 .accordion-item:first-of-type>.accordion-header .accordion-button {
     border-top-left-radius: 0px !important;
     border-top-right-radius: 0px !important;
