@@ -1,0 +1,84 @@
+import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import '../styles.css'; // Import the CSS file
+
+function Sentiment() {
+    const items = [
+        {
+            text: '😊 Good evening. Thank you for calling ITC. My name is&nbsp;<strong>Saneera</strong>.',
+            tone: 'Happy',
+            emotion: 'Gratitude',
+            sentiment: 'Positive',
+            keywords: ['evening', 'calling', 'Saneera'],
+            applyBorderLeft: true,
+        },
+        {
+            text: '😶&nbsp;<strong>Hello</strong>. Hello sir, I\'m calling from&nbsp;<strong>Chennai</strong>.&nbsp;<strong>Hello</strong>',
+            tone: 'Neutral',
+            emotion: 'Neutral',
+            sentiment: 'Neutral',
+            keywords: ['Hello', 'Chennai'],
+            applyBorderLeft: false,
+        },
+        {
+            text: '😚 Very good evening sir. Tell me how can I help you?',
+            tone: 'Neutral',
+            emotion: 'Neutral',
+            sentiment: 'Neutral',
+            keywords: ['evening', 'help'],
+            applyBorderLeft: true,
+        },
+        {
+            text: '😶 My name is&nbsp;Shankar. <strong>Hello</strong>.',
+            tone: 'Neutral',
+            emotion: 'Neutral',
+            sentiment: 'Neutral',
+            keywords: ['name', 'Shankar', 'Hello'],
+            applyBorderLeft: false,
+        }
+    ];
+
+    return (
+        <div className="accordion" id="accordionExample">
+            {items.map((item, index) => (
+                <div 
+                    className={`accordion-item ${item.applyBorderLeft ? 'border-left-red' : ''}`} 
+                    key={index}
+                >
+                    <h2 className="accordion-header" id={`heading${index}`}>
+                        <button 
+                            className="accordion-button collapsed" 
+                            type="button" 
+                            data-bs-toggle="collapse" 
+                            data-bs-target={`#collapse${index}`} 
+                            aria-expanded="false" 
+                            aria-controls={`collapse${index}`}
+                            dangerouslySetInnerHTML={{__html: item.text}}
+                        />
+                    </h2>
+                    <div 
+                        id={`collapse${index}`} 
+                        className="accordion-collapse collapse" 
+                        aria-labelledby={`heading${index}`} 
+                        data-bs-parent="#accordionExample"
+                    >
+                        <div className="accordion-body">
+                            <div className="sentiment-details">
+                                <p><em>Tone:</em> {item.tone}</p>
+                                <p><em>Emotion:</em> {item.emotion}</p>
+                                <p><em>Sentiment Label:</em> {item.sentiment}</p>
+                                <p><em>Keywords:</em> {item.keywords.map((keyword, keywordIndex) => (
+                                    <span key={keywordIndex}>
+                                        <strong>{keyword}</strong>{keywordIndex !== item.keywords.length - 1 && ', '}
+                                    </span>
+                                ))}</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            ))}
+        </div>
+    );
+}
+
+export default Sentiment;
