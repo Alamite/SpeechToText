@@ -371,8 +371,7 @@
     font-size: 1rem;
     line-height: 1.5;
     color: #333;
-    /* padding: 1rem; */
-    padding-left: 10px;
+    padding: 10px 0px;
     text-align: left;
 }
 
@@ -403,6 +402,178 @@
     text-align: left;
     color: black;
 }
+
+.transcript-content {
+    /* padding: 20px; */
+    font-family: Arial, sans-serif;
+}
+
+.transcript-item {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+    padding: 10px 10px;
+    background-color: white;
+    /* border-radius: 12px; */
+    transition: all 0.7s ease-in-out;
+
+}
+
+.transcript-item:hover{
+    /* background-color: #B4B4B4; */
+}
+.hilight-background {
+    background: linear-gradient(45deg, 
+    rgb(187, 185, 185) 0%,   /* Start with color 1 at 0% */
+    #D24545 100%  /* Transition to color 2 at 50% */
+      /* End with color 3 at 100% */
+);
+border-radius: 12px;
+}
+.transcript-item.highlight {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+    border-radius: 12px;
+    background: rgba(0, 0, 0, 0.28); 
+    color: white;
+    transition: all 0.7s ease-in-out;
+}
+
+.speaker-details {
+    display: flex;
+    
+}
+
+
+.speaker-title {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.speaker-time {
+    font-size: 0.9em;
+    color: #666;
+    text-align: left;
+}
+
+.speaker-time.highlight {
+    color: white;
+    transition: all 0.7s ease-in-out;
+}
+.speech-rate-details {
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+}
+
+.speech-rate-details .icon {
+    margin-right: 10px;
+}
+
+.speech-rate-details .details {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.details {
+    padding-left: 10px;
+
+    word-wrap: break-word;
+}
+.details-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.details-button {
+    background-color: transparent;
+    color: black;
+    /* border: 1px solid black; */
+    padding: 5px 10px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.7s ease-in-out;
+}
+
+.details-button.highlight {
+    /* border-color: white; */
+     /* Change button background color */
+    color: white; /* Change button text color */
+    transition: all 0.7s ease-in-out;
+}
+
+.details-button:hover {
+    background-color: #0056b3;
+}
+
+.keywords {
+    background-color: transparent;
+    color: black;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 5px;
+    display: inline-block;
+    transition: all 0.7s ease-in-out;
+}
+
+.keywords.highlight {
+    color: white;
+    transition: all 0.7s ease-in-out; /* Change keywords text color */
+}
+
+
+/* AI Hilight Switch */
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 34px;
+    height: 20px;
+    margin-left: 5px;
+  }
+  
+  .switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: transparent;
+    border: 1px solid black;
+    transition: .4s;
+    border-radius: 34px;
+  }
+  
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 14px;
+    width: 14px;
+    left: 3px;
+    top: 2px;
+    /* bottom: 2px; */
+    background-color: black;
+    transition: .4s;
+    border-radius: 50%;
+  }
+  
+  input:checked + .slider {
+    background-color: grey;
+    
+  }
+  
+  input:checked + .slider:before {
+    transform: translateX(14px);
+  }
+  
 
 /* Sentiment styles */
 
