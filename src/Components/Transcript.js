@@ -41,10 +41,8 @@ const mapSpeakerLabel = (label) => {
 
 
 
-function Transcript() {
+function Transcript({ highlight, translate }) {
     const [tooltipOpen, setTooltipOpen] = useState(false);
-    const [highlight, setHighlight] = useState(false);
-    const [translate, setTranslate] = useState(false); // New state for translation toggle
 
     const items = transcriptData.map(item => ({
         speaker: mapSpeakerLabel(item.speaker_label),
@@ -61,8 +59,6 @@ function Transcript() {
     }));
 
     const toggleTooltip = () => setTooltipOpen(!tooltipOpen);
-    const toggleHighlight = () => setHighlight(!highlight);
-    const toggleTranslate = () => setTranslate(!translate); // Function to toggle translation
 
     return (
         <div className='transcript-content'>
@@ -74,21 +70,6 @@ function Transcript() {
                             <Tooltip placement="top" isOpen={tooltipOpen} target={`Tooltip`} toggle={toggleTooltip}>
                                 Words Per Minute
                             </Tooltip>
-                        </div>
-                        <div style={{display:"flex"}}>
-                        Translate {/* Toggle to switch between translated and original text */}
-                            <label className="switch">
-                                <input type="checkbox" checked={translate} onChange={toggleTranslate} />
-                                <span className="slider round"></span>
-                            </label>
-                            <div style={{width:"10px"}}></div>
-                            AI Highlight
-                            <label className="switch">
-                                <input type="checkbox" checked={highlight} onChange={toggleHighlight} />
-                                <span className="slider round"></span>
-                            </label>
-                           
-                            
                         </div>
                     </div>
                 </Row>
