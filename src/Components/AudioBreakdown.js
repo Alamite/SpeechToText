@@ -1,7 +1,6 @@
 import React from 'react';
 import '../styles.css';
-import { TabContent, TabPane, Nav, NavItem, NavLink } from 'reactstrap';
-import classnames from 'classnames';
+import { TabContent, TabPane } from 'reactstrap';
 import Transcript from './Transcript';
 import Keywords from './Keywords';
 import Sentiment from './Sentiment';
@@ -9,18 +8,7 @@ import Summary from './Summary';
 // Import other option components as needed
 
 function AudioBreakdown({ selectedOptions }) {
-    const optionsWithTranscript = ['Transcript', ...selectedOptions.filter(option => option !== 'Transcript')];
-    const [activeTab, setActiveTab] = React.useState('Transcript');
-
-    const toggle = (tab) => {
-        if (activeTab !== tab) setActiveTab(tab);
-    };
-
-    React.useEffect(() => {
-        if (!optionsWithTranscript.includes(activeTab)) {
-            setActiveTab(optionsWithTranscript[0] || '');
-        }
-    }, [optionsWithTranscript, activeTab]);
+    const activeTab = selectedOptions[0] || 'Transcript';
 
     const renderTabContent = () => {
         switch (activeTab) {
@@ -40,19 +28,15 @@ function AudioBreakdown({ selectedOptions }) {
 
     return (
         <div>
-            <div style={{ padding: "12px 5px" }}>
-                <Nav tabs>
-                    {optionsWithTranscript.map((option, index) => (
-                        <NavItem key={index}>
-                            <NavLink
-                                className={classnames({ active: activeTab === option })}
-                                onClick={() => { toggle(option); }}
-                            >
-                                {option}
-                            </NavLink>
-                        </NavItem>
-                    ))}
-                </Nav>
+            <div className="active-tab-header">
+                <div style={{borderBottom:"2px solid black", display:"flex",justifyContent:"space-between"}}>
+                <div className='tab-heading'>
+                    {activeTab}
+                </div>
+                <div>
+                    {/* Toggle switches */} 
+                </div>
+                </div>
             </div>
             <div className="breakdown-container">
                 <div style={{ width: "100%" }}>

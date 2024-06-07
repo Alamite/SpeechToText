@@ -1,0 +1,2361 @@
+[
+    {
+        "speaker_label": "spk_0",
+        "start_time": 2.16,
+        "end_time": 5.11,
+        "original_transcript": "Thank you for calling ITC I am Monika How may I help you",
+        "translated_transcript": "Thank you for calling ITC I am Monika how can I help you",
+        "tone": "Neutral",
+        "rate_of_speech": 264.4067796610169,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "thank",
+            "itc",
+            "monika"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 5.82,
+        "end_time": 7.849,
+        "original_transcript": "मोनिका मैं रामल बोल रहा हूँ",
+        "translated_transcript": "Monika I am speaking Ramal",
+        "tone": "Neutral",
+        "rate_of_speech": 147.85608674223755,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "monika",
+            "ramal"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 9.06,
+        "end_time": 11.09,
+        "original_transcript": "Hi Mr रामलाल how are you sir",
+        "translated_transcript": "Hi Mr. Ramlal how are you sir",
+        "tone": "Neutral",
+        "rate_of_speech": 206.896551724138,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "hi mr. ramlal"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 12.449,
+        "end_time": 17.52,
+        "original_transcript": "madam जी आपको कितने दिन हो गए phone करे को अब सना जी को phone किया था मैंने",
+        "translated_transcript": "Madam ji how many days have you called me but now I had called Sana",
+        "tone": "Neutral",
+        "rate_of_speech": 177.4797870242556,
+        "emotion": "surprise",
+        "sentiment_label": "Positive",
+        "keywords": [
+            "madam",
+            "sana"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 18.739,
+        "end_time": 20.149,
+        "original_transcript": "इसी को call किया था sir",
+        "translated_transcript": "Had called him sir",
+        "tone": "Neutral",
+        "rate_of_speech": 170.21276595744678,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 21.02,
+        "end_time": 22.26,
+        "original_transcript": "तारा द्वीप को",
+        "translated_transcript": "To Tara Island",
+        "tone": "Neutral",
+        "rate_of_speech": 145.1612903225804,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "tara"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 23.28,
+        "end_time": 24.319,
+        "original_transcript": "समझ नहीं पा रहा हूँ",
+        "translated_transcript": "I am not able to understand",
+        "tone": "Sad",
+        "rate_of_speech": 346.48700673724807,
+        "emotion": "sadness",
+        "sentiment_label": "Negative",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 25.629,
+        "end_time": 27.629,
+        "original_transcript": "तारा तारा तप को",
+        "translated_transcript": "Tara Tara Tapa Ko",
+        "tone": "Neutral",
+        "rate_of_speech": 120.0,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "tara tara tapa ko"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 28.379,
+        "end_time": 29.469,
+        "original_transcript": "r three",
+        "translated_transcript": "R three",
+        "tone": "Neutral",
+        "rate_of_speech": 110.09174311926607,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 30.059,
+        "end_time": 30.909,
+        "original_transcript": "हाँ जी",
+        "translated_transcript": "Yes",
+        "tone": "Neutral",
+        "rate_of_speech": 70.58823529411782,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 31.42,
+        "end_time": 33.259,
+        "original_transcript": "कोई नहीं है सारा three",
+        "translated_transcript": "Nobody is there all the three",
+        "tone": "Neutral",
+        "rate_of_speech": 195.75856443719428,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 38.13,
+        "end_time": 40.7,
+        "original_transcript": "तो ना तो आपने जवाब दिया madam जी",
+        "translated_transcript": "So no did you answer madam",
+        "tone": "Neutral",
+        "rate_of_speech": 140.07782101167314,
+        "emotion": "anger",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 41.31,
+        "end_time": 42.99,
+        "original_transcript": "ना तो आपने phone किया",
+        "translated_transcript": "Didn't you make a phone call",
+        "tone": "Neutral",
+        "rate_of_speech": 214.28571428571433,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 43.849,
+        "end_time": 45.86,
+        "original_transcript": "ना आपके बन्दे का phone आया madam जी",
+        "translated_transcript": "Madam ji didn't get your slave's phone",
+        "tone": "Neutral",
+        "rate_of_speech": 208.85131775236172,
+        "emotion": "sadness",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "madam",
+            "slave 's phone"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 46.639,
+        "end_time": 48.79,
+        "original_transcript": "तो अभी आपका issue resolve नहीं हुआ क्या sir",
+        "translated_transcript": "So is your issue not resolved yet sir",
+        "tone": "Neutral",
+        "rate_of_speech": 223.1520223152026,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 49.24,
+        "end_time": 50.75,
+        "original_transcript": "नहीं madam जी हो नहीं है",
+        "translated_transcript": "No Madam ji it is not",
+        "tone": "Neutral",
+        "rate_of_speech": 238.41059602649037,
+        "emotion": "sadness",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "madam"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 52.659,
+        "end_time": 53.349,
+        "original_transcript": "I am really sorry",
+        "translated_transcript": "I am really sorry",
+        "tone": "Sad",
+        "rate_of_speech": 347.8260869565229,
+        "emotion": "sadness",
+        "sentiment_label": "Negative",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 56.099,
+        "end_time": 57.479,
+        "original_transcript": "आप छुट्टी पर हैं madam जी",
+        "translated_transcript": "Are you on vacation madam",
+        "tone": "Neutral",
+        "rate_of_speech": 217.3913043478257,
+        "emotion": "surprise",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "vacation madam"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 57.939,
+        "end_time": 58.569,
+        "original_transcript": "हाँ जी",
+        "translated_transcript": "Yes",
+        "tone": "Neutral",
+        "rate_of_speech": 95.23809523809484,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 59.86,
+        "end_time": 63.58,
+        "original_transcript": "देर का पता नहीं छुट्टी बताते आप",
+        "translated_transcript": "Don't know the delay you tell me the holiday",
+        "tone": "Neutral",
+        "rate_of_speech": 145.1612903225807,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 65.66,
+        "end_time": 72.3,
+        "original_transcript": "हाँ जी मैं दिन छुट्टी पे था बता दीजिए sir अभी आपका issue क्या है मैं team को inform करुँगी बता दीजिए",
+        "translated_transcript": "Yes, I was on day off tell me sir what is your issue now, I will inform the team. Tell me",
+        "tone": "Neutral",
+        "rate_of_speech": 189.7590361445783,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 74.87,
+        "end_time": 81.269,
+        "original_transcript": "madam आप तो कर रहा था madam सारे बंदे आप बताओ उसका reason तो कुछ नहीं पता लग गया madam जी क्या",
+        "translated_transcript": "Madam you were doing madam tell me all the guys the reason why you didn't know anything Madam ji",
+        "tone": "Neutral",
+        "rate_of_speech": 178.15283638068445,
+        "emotion": "anger",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "madam",
+            "madam"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 81.8,
+        "end_time": 85.66,
+        "original_transcript": "क्या मतलब के क्या बात हुई आपसे क्या बात नहीं हुई madam जी",
+        "translated_transcript": "What do you mean, what did you not talk to madam",
+        "tone": "Sad",
+        "rate_of_speech": 170.98445595854923,
+        "emotion": "surprise",
+        "sentiment_label": "Negative",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 87.65,
+        "end_time": 94.4,
+        "original_transcript": "ठीक है दो minute line पर बने रहिए sir अभी मैं status check करुँगी call disconnect कीजिए ठीक है ठीक है thank you sir",
+        "translated_transcript": "Okay, stay on the line for two minutes sir I will check the status right now disconnect the call, okay thank you sir",
+        "tone": "Happy",
+        "rate_of_speech": 204.44444444444446,
+        "emotion": "neutral",
+        "sentiment_label": "Positive",
+        "keywords": [
+            "okay",
+            "minutes sir"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 368.589,
+        "end_time": 370.679,
+        "original_transcript": "Line पर बने रहने के लिए धन्यवाद sir",
+        "translated_transcript": "Thank you sir for being on the line",
+        "tone": "Neutral",
+        "rate_of_speech": 229.66507177033768,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "thank"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 371.309,
+        "end_time": 371.549,
+        "original_transcript": "हाँ",
+        "translated_transcript": "Yes",
+        "tone": "Neutral",
+        "rate_of_speech": 250.00000000004974,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 371.549,
+        "end_time": 371.97,
+        "original_transcript": "जी",
+        "translated_transcript": "Ji",
+        "tone": "Neutral",
+        "rate_of_speech": 142.5178147268242,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "ji"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 372.51,
+        "end_time": 378.51,
+        "original_transcript": "हां जी sir आपके पास तीन complaint है ना sir totally आपके पास अभी आपका कितना complaint है बता दीजिए",
+        "translated_transcript": "Yes sir, you have three complaints, sir tell me how many complaints do you have right now",
+        "tone": "Happy",
+        "rate_of_speech": 170.0,
+        "emotion": "neutral",
+        "sentiment_label": "Positive",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 380.089,
+        "end_time": 380.89,
+        "original_transcript": "against complaint",
+        "translated_transcript": "Complaint against",
+        "tone": "Neutral",
+        "rate_of_speech": 149.8127340823993,
+        "emotion": "anger",
+        "sentiment_label": "Negative",
+        "keywords": [
+            "complaint"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 381.98,
+        "end_time": 382.01,
+        "original_transcript": "हाँ जी",
+        "translated_transcript": "Yes",
+        "tone": "Neutral",
+        "rate_of_speech": 2000.0000000018188,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 383.14,
+        "end_time": 385.269,
+        "original_transcript": "एक coupon के लिए complaint किया था ना sir",
+        "translated_transcript": "Did you complain for a coupon sir",
+        "tone": "Neutral",
+        "rate_of_speech": 197.27571629873003,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "coupon sir"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 386.179,
+        "end_time": 389.059,
+        "original_transcript": "coupon भी है भी है बिस्कुट भी है मैडम",
+        "translated_transcript": "There is also a coupon. There is a biscuit too Madam",
+        "tone": "Neutral",
+        "rate_of_speech": 229.1666666666625,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "madam"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 390.049,
+        "end_time": 391.839,
+        "original_transcript": "है हमारा executive आपको replacement करती है",
+        "translated_transcript": "Our executive replaces you",
+        "tone": "Neutral",
+        "rate_of_speech": 134.07821229050126,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "executive replaces"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 393.179,
+        "end_time": 396.14,
+        "original_transcript": "नहीं हुआ मैडम जी आपको complaint पाई हुई है मैंने",
+        "translated_transcript": "Not so madam, I have received a complaint",
+        "tone": "Neutral",
+        "rate_of_speech": 162.10739614994864,
+        "emotion": "anger",
+        "sentiment_label": "Negative",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 397.309,
+        "end_time": 398.239,
+        "original_transcript": "नहीं हुआ क्या",
+        "translated_transcript": "Did it not happen",
+        "tone": "Neutral",
+        "rate_of_speech": 258.0645161290461,
+        "emotion": "surprise",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 398.309,
+        "end_time": 400.13,
+        "original_transcript": "नहीं हुआ नहीं हुआ जी",
+        "translated_transcript": "It didn't happen, it didn't happen",
+        "tone": "Neutral",
+        "rate_of_speech": 197.69357495881715,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 401.75,
+        "end_time": 403.98,
+        "original_transcript": "ठीक है district के पास बात हुआ था क्या sir",
+        "translated_transcript": "Okay, was there talk with the district sir",
+        "tone": "Neutral",
+        "rate_of_speech": 215.2466367712987,
+        "emotion": "neutral",
+        "sentiment_label": "Positive",
+        "keywords": [
+            "okay",
+            "district sir"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 405.269,
+        "end_time": 407.13,
+        "original_transcript": "किसी से मेरी बात नहीं हुई madam जी",
+        "translated_transcript": "I haven't talked to anyone madam",
+        "tone": "Neutral",
+        "rate_of_speech": 193.44438473938845,
+        "emotion": "anger",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 407.76,
+        "end_time": 412.29,
+        "original_transcript": "उसी time में मैंने अजय sir को उसी time मैंने अजय sir को बोल दिया था",
+        "translated_transcript": "At the same time I told Ajay sir at the same time I told Ajay sir",
+        "tone": "Neutral",
+        "rate_of_speech": 211.9205298013231,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "ajay",
+            "ajay"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 412.799,
+        "end_time": 413.609,
+        "original_transcript": "हम्म हम्म",
+        "translated_transcript": "Hmm hmm",
+        "tone": "Neutral",
+        "rate_of_speech": 148.14814814814775,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "hmm"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 414.85,
+        "end_time": 426.5,
+        "original_transcript": "मेरे को माल नहीं पहुँच गया वो कह रहा है आपका वो receiver जो आपकी पहुंच गई मका मैंने receiver ही नहीं करी ना मेरे को माल ही नहीं receiver हैगी तो मैंने दिखाओ receiver कहाँ है",
+        "translated_transcript": "I have not received the goods, he is saying that receiver of yours who reached you, I did not buy the receiver, nor do I have the goods nor the receiver, so show me where the receiver is.",
+        "tone": "Neutral",
+        "rate_of_speech": 195.70815450643815,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 427.35,
+        "end_time": 434.79,
+        "original_transcript": "fever भी जो मेरे पास bill fever हैगी आपने सामान लिया मैंने तो सामान लिया नहीं ना मेरे पास आया",
+        "translated_transcript": "Even the fever which I have a bill fever, you have taken the goods, I have not taken the goods, I did not come to me",
+        "tone": "Neutral",
+        "rate_of_speech": 209.67741935483878,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "bill fever"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 435.149,
+        "end_time": 437.339,
+        "original_transcript": "अब sign sign नहीं किया था कैसे",
+        "translated_transcript": "How did you not sign now",
+        "tone": "Neutral",
+        "rate_of_speech": 164.3835616438358,
+        "emotion": "surprise",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 438.309,
+        "end_time": 440.91,
+        "original_transcript": "नहीं madam जी जब मेरे पास सामान है मैं sign कैसे कर दूँ",
+        "translated_transcript": "No Madam, when I have stuff how do I sign",
+        "tone": "Neutral",
+        "rate_of_speech": 230.6805074971166,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "madam"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 443.48,
+        "end_time": 444.799,
+        "original_transcript": "कुछ call आया था क्या sir",
+        "translated_transcript": "Had there been some calls sir",
+        "tone": "Neutral",
+        "rate_of_speech": 272.9340409401144,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "calls sir"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 445.7,
+        "end_time": 449.66,
+        "original_transcript": "नहीं madam जी call आया था आपको उनको अजय sir को मैंने बोल दिया था madam जी",
+        "translated_transcript": "No Madam ji I called you, I told him to Ajay sir Madam",
+        "tone": "Neutral",
+        "rate_of_speech": 196.96969696969515,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "madam",
+            "ajay",
+            "madam"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 450.47,
+        "end_time": 452.059,
+        "original_transcript": "जब तो अजय sir थे",
+        "translated_transcript": "When was Ajay sir",
+        "tone": "Neutral",
+        "rate_of_speech": 151.0383889238516,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "ajay"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 452.619,
+        "end_time": 461.17,
+        "original_transcript": "उसी time मैंने phone कर दिया था madam जी जब उसका phone आया था मैंने उसी time आपको उनको भी phone पे number लिखा दिया था सारा कुछ लिखा हुआ तो है madam जी",
+        "translated_transcript": "At the same time I made a phone call Madam ji when his phone came, I wrote you a number to him at the same time. Everything is written. Madam",
+        "tone": "Neutral",
+        "rate_of_speech": 210.50169570810462,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "madam",
+            "madam"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 462.119,
+        "end_time": 462.929,
+        "original_transcript": "हं हं",
+        "translated_transcript": "Han Han",
+        "tone": "Neutral",
+        "rate_of_speech": 148.14814814815813,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "han han"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 464.22,
+        "end_time": 468.459,
+        "original_transcript": "तो उसके बाद अमित का phone आया था वो भी आपको number लगा दिया था मैंने",
+        "translated_transcript": "So after that Amit's phone came, I had given you a number",
+        "tone": "Neutral",
+        "rate_of_speech": 169.8513800424638,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "amit",
+            "'s phone"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 469.529,
+        "end_time": 470.029,
+        "original_transcript": "हम्",
+        "translated_transcript": "Hum",
+        "tone": "Neutral",
+        "rate_of_speech": 120.0,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "hum"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 470.029,
+        "end_time": 470.13,
+        "original_transcript": "हम्",
+        "translated_transcript": "Hum",
+        "tone": "Neutral",
+        "rate_of_speech": 594.0594059405994,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "hum"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 470.88,
+        "end_time": 473.66,
+        "original_transcript": "उसके बाद वो इतने चकना बंद कर दिया madam जी",
+        "translated_transcript": "After that, she stopped choking so much madam",
+        "tone": "Neutral",
+        "rate_of_speech": 172.66187050359528,
+        "emotion": "neutral",
+        "sentiment_label": "Positive",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 474.82,
+        "end_time": 475.39,
+        "original_transcript": "हम्म",
+        "translated_transcript": "Hmm",
+        "tone": "Neutral",
+        "rate_of_speech": 105.2631578947381,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "hmm"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 477.149,
+        "end_time": 481.019,
+        "original_transcript": "आप बताओ जी आपके बंदे नहीं पहुंच सक रहे तो मेरा क्या कसूर है madam जी",
+        "translated_transcript": "You tell me if your slaves are not able to reach then what is wrong with me Madam",
+        "tone": "Sad",
+        "rate_of_speech": 279.06976744186017,
+        "emotion": "anger",
+        "sentiment_label": "Negative",
+        "keywords": [
+            "madam"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 481.709,
+        "end_time": 485.0,
+        "original_transcript": "जैसे मर्जी जो मर्जी लिख के भेजते हैं ये तो बंदे साहब के",
+        "translated_transcript": "Like you write whatever you wish and send it to a fellow",
+        "tone": "Neutral",
+        "rate_of_speech": 218.7784867821333,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 485.57,
+        "end_time": 492.89,
+        "original_transcript": "जो आपके बंदे लगे हैं जो आपके team है जो जो मर्जी लिख के भेज दो ऊपर मन तो नहीं पता madam जी कि क्या लिख के भेजा है आपके पास",
+        "translated_transcript": "Those who are your servants who are your team who write whatever they want, send them above you don't know what to write Madam",
+        "tone": "Neutral",
+        "rate_of_speech": 196.72131147541003,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "madam"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 497.64,
+        "end_time": 501.54,
+        "original_transcript": "ठीक है एक complaint था तेरे मेरे का दूसरा complaint कौन सा वाला था",
+        "translated_transcript": "Okay, there was one complaint which one was your second complaint",
+        "tone": "Neutral",
+        "rate_of_speech": 169.23076923076775,
+        "emotion": "neutral",
+        "sentiment_label": "Negative",
+        "keywords": [
+            "okay"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 502.07,
+        "end_time": 503.14,
+        "original_transcript": "एक ओपन का",
+        "translated_transcript": "of an open",
+        "tone": "Neutral",
+        "rate_of_speech": 168.22429906542163,
+        "emotion": "surprise",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 504.269,
+        "end_time": 504.79,
+        "original_transcript": "Okay",
+        "translated_transcript": "Okay",
+        "tone": "Neutral",
+        "rate_of_speech": 115.16314779270301,
+        "emotion": "neutral",
+        "sentiment_label": "Positive",
+        "keywords": [
+            "okay"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 505.899,
+        "end_time": 507.13,
+        "original_transcript": "coupon coupon",
+        "translated_transcript": "Coupon coupon",
+        "tone": "Neutral",
+        "rate_of_speech": 97.48172217709222,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "coupon"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 509.0,
+        "end_time": 510.45,
+        "original_transcript": "हाँ जी हाँ जी",
+        "translated_transcript": "Haan ji haan ji",
+        "tone": "Neutral",
+        "rate_of_speech": 165.51724137931163,
+        "emotion": "sadness",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "haan",
+            "ji haan ji"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 511.01,
+        "end_time": 512.95,
+        "original_transcript": "एक coupon एक दूसरा",
+        "translated_transcript": "One coupon another",
+        "tone": "Neutral",
+        "rate_of_speech": 92.78350515463657,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 513.859,
+        "end_time": 516.03,
+        "original_transcript": "एक biscuit का है madam जी",
+        "translated_transcript": "Madamji belongs to a biscuit",
+        "tone": "Neutral",
+        "rate_of_speech": 138.185168125292,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "madamji"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 516.929,
+        "end_time": 518.299,
+        "original_transcript": "six zero",
+        "translated_transcript": "Six zeros",
+        "tone": "Neutral",
+        "rate_of_speech": 87.59124087591212,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 518.809,
+        "end_time": 519.369,
+        "original_transcript": "biscuit का",
+        "translated_transcript": "Biscuit's",
+        "tone": "Neutral",
+        "rate_of_speech": 107.14285714284584,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "biscuit"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 519.45,
+        "end_time": 520.239,
+        "original_transcript": "क्या दिक्कत है",
+        "translated_transcript": "What is the problem",
+        "tone": "Neutral",
+        "rate_of_speech": 304.18250950570837,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 520.729,
+        "end_time": 522.34,
+        "original_transcript": "complaint number है six zero",
+        "translated_transcript": "The complaint number is six zero",
+        "tone": "Neutral",
+        "rate_of_speech": 223.46368715083938,
+        "emotion": "neutral",
+        "sentiment_label": "Negative",
+        "keywords": [
+            "complaint number"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 523.098,
+        "end_time": 526.51,
+        "original_transcript": "six zero eight double three five",
+        "translated_transcript": "Six zero eight double three five",
+        "tone": "Neutral",
+        "rate_of_speech": 105.50996483001065,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 527.609,
+        "end_time": 528.739,
+        "original_transcript": "Six eight",
+        "translated_transcript": "Six eight",
+        "tone": "Neutral",
+        "rate_of_speech": 106.19469026548715,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 530.33,
+        "end_time": 533.239,
+        "original_transcript": "six zero six zero",
+        "translated_transcript": "Six zero six zero",
+        "tone": "Neutral",
+        "rate_of_speech": 82.50257820556915,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 533.95,
+        "end_time": 534.409,
+        "original_transcript": "हाँ जी",
+        "translated_transcript": "Yes",
+        "tone": "Neutral",
+        "rate_of_speech": 130.7189542483813,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 535.619,
+        "end_time": 537.039,
+        "original_transcript": "eight double three five",
+        "translated_transcript": "Eight double three five",
+        "tone": "Neutral",
+        "rate_of_speech": 169.01408450704713,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 539.919,
+        "end_time": 540.539,
+        "original_transcript": "ठीक है",
+        "translated_transcript": "precisely",
+        "tone": "Happy",
+        "rate_of_speech": 96.77419354838638,
+        "emotion": "neutral",
+        "sentiment_label": "Positive",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 541.32,
+        "end_time": 541.88,
+        "original_transcript": "बता दीजिए",
+        "translated_transcript": "Tell me",
+        "tone": "Neutral",
+        "rate_of_speech": 214.28571428573517,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 541.88,
+        "end_time": 542.52,
+        "original_transcript": "फिर consent",
+        "translated_transcript": "Then consent",
+        "tone": "Neutral",
+        "rate_of_speech": 187.500000000004,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 542.52,
+        "end_time": 543.13,
+        "original_transcript": "के बारे में",
+        "translated_transcript": "circa",
+        "tone": "Neutral",
+        "rate_of_speech": 98.36065573770273,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 544.09,
+        "end_time": 546.039,
+        "original_transcript": "ये दो इक्कीस की complaint है madam जी",
+        "translated_transcript": "This is the complaint of two twenty-one madam",
+        "tone": "Neutral",
+        "rate_of_speech": 246.28014366342276,
+        "emotion": "anger",
+        "sentiment_label": "Negative",
+        "keywords": [
+            "twenty-one madam"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 547.549,
+        "end_time": 549.179,
+        "original_transcript": "बहुत पुराना कंप्लेंट है क्या",
+        "translated_transcript": "Is it a very old complaint",
+        "tone": "Neutral",
+        "rate_of_speech": 220.8588957055221,
+        "emotion": "neutral",
+        "sentiment_label": "Negative",
+        "keywords": [
+            "old complaint"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 549.51,
+        "end_time": 551.46,
+        "original_transcript": "हाँ जी तभी तो बोल रहा हूँ मैडम जी",
+        "translated_transcript": "Yes, that's when I am saying madam",
+        "tone": "Neutral",
+        "rate_of_speech": 215.38461538461036,
+        "emotion": "anger",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 553.84,
+        "end_time": 557.09,
+        "original_transcript": "जी आपको पता नहीं बंदे madam जी क्या कर रहे हैं क्या नहीं कर रहे हैं आप",
+        "translated_transcript": "Yes, you don't know what are you doing guy madam, what are you not doing",
+        "tone": "Neutral",
+        "rate_of_speech": 276.9230769230769,
+        "emotion": "surprise",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "guy madam"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 557.65,
+        "end_time": 561.869,
+        "original_transcript": "अब जो मर्जी लिख के दे दो वो आपके बंदे लिख के दे दे मेरे को तो मिला नहीं ना सुना",
+        "translated_transcript": "Now write whatever you want and give it to your slave and give it to me, I didn't get it, don't hear",
+        "tone": "Neutral",
+        "rate_of_speech": 312.87034842379336,
+        "emotion": "anger",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 563.219,
+        "end_time": 564.19,
+        "original_transcript": "मच लिया था",
+        "translated_transcript": "Had it done",
+        "tone": "Neutral",
+        "rate_of_speech": 185.37590113285202,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 565.08,
+        "end_time": 573.21,
+        "original_transcript": "तो आपने आपको मैंने number दिया था अमित का आपने उससे confirm करा तो by Tata मांग रहा था आपने भेजा उसके पास madam जी",
+        "translated_transcript": "So you gave you Amit's number, so you confirmed that by Tata was asking for it, you sent it to him Madam",
+        "tone": "Happy",
+        "rate_of_speech": 162.36162361623624,
+        "emotion": "neutral",
+        "sentiment_label": "Positive",
+        "keywords": [
+            "amit",
+            "'s number",
+            "tata",
+            "madam"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 573.849,
+        "end_time": 575.049,
+        "original_transcript": "Number बता दीजिए",
+        "translated_transcript": "Tell me the number",
+        "tone": "Neutral",
+        "rate_of_speech": 200.00000000001137,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 576.419,
+        "end_time": 578.989,
+        "original_transcript": "उसका number है जी",
+        "translated_transcript": "His number is G",
+        "tone": "Neutral",
+        "rate_of_speech": 93.38521400778028,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 579.859,
+        "end_time": 588.02,
+        "original_transcript": "eight two one four six आगे पता नहीं last में सात सौ पच्चीस number है seven two",
+        "translated_transcript": "Eight two one four six no further. In the last seven hundred twenty-five is the number seven two",
+        "tone": "Neutral",
+        "rate_of_speech": 132.3367234407557,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 588.679,
+        "end_time": 591.46,
+        "original_transcript": "जी भाई जी लगा हुआ था",
+        "translated_transcript": "Brother was engaged",
+        "tone": "Neutral",
+        "rate_of_speech": 64.72491909384966,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "brother"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 592.26,
+        "end_time": 595.39,
+        "original_transcript": "ये मिथ का number है madam जी जो पंचकूला दिखता है madam जी",
+        "translated_transcript": "This is the number of the myth Madam ji who looks like Panchkula Madam",
+        "tone": "Neutral",
+        "rate_of_speech": 268.37060702875436,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "madam",
+            "panchkula madam"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 596.46,
+        "end_time": 598.409,
+        "original_transcript": "पूरा ten digit number बता दीजिए",
+        "translated_transcript": "Tell me the full ten digit number",
+        "tone": "Neutral",
+        "rate_of_speech": 215.49512570549493,
+        "emotion": "neutral",
+        "sentiment_label": "Positive",
+        "keywords": [
+            "digit number"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 599.229,
+        "end_time": 601.32,
+        "original_transcript": "Med भी लिखाया हुआ था है उसके पास",
+        "translated_transcript": "Med was also written with him",
+        "tone": "Neutral",
+        "rate_of_speech": 172.16642754662772,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "med"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 602.359,
+        "end_time": 603.419,
+        "original_transcript": "मच नहीं पा रहा",
+        "translated_transcript": "Can't Mach",
+        "tone": "Neutral",
+        "rate_of_speech": 113.20754716981715,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "ca",
+            "mach"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 604.27,
+        "end_time": 606.21,
+        "original_transcript": "लिखाया हुआ है madam जी देखो check करो",
+        "translated_transcript": "It is written Madam, look check",
+        "tone": "Neutral",
+        "rate_of_speech": 185.56701030927314,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "madam"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 606.919,
+        "end_time": 607.96,
+        "original_transcript": "ठीक है line पे बने रहिये",
+        "translated_transcript": "Ok stay on the line",
+        "tone": "Neutral",
+        "rate_of_speech": 288.184438040331,
+        "emotion": "neutral",
+        "sentiment_label": "Positive",
+        "keywords": [
+            "ok"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 609.03,
+        "end_time": 611.44,
+        "original_transcript": "मैं check करो last में सात सौ पच्चीस number है जी",
+        "translated_transcript": "Check me the last number is seven hundred and twenty-five",
+        "tone": "Neutral",
+        "rate_of_speech": 248.9626556016513,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 612.84,
+        "end_time": 616.02,
+        "original_transcript": "हाँ जी line पे रुकिए thank you",
+        "translated_transcript": "Yes stop on the line thank you",
+        "tone": "Neutral",
+        "rate_of_speech": 132.07547169811528,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 657.15,
+        "end_time": 657.57,
+        "original_transcript": "क्या",
+        "translated_transcript": "what",
+        "tone": "Neutral",
+        "rate_of_speech": 142.8571428571181,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 661.32,
+        "end_time": 662.09,
+        "original_transcript": "ऐसा है",
+        "translated_transcript": "That's how",
+        "tone": "Neutral",
+        "rate_of_speech": 155.84415584415953,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 667.69,
+        "end_time": 668.51,
+        "original_transcript": "पारी",
+        "translated_transcript": "shift",
+        "tone": "Neutral",
+        "rate_of_speech": 73.17073170732276,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 669.979,
+        "end_time": 670.63,
+        "original_transcript": "Yeah",
+        "translated_transcript": "Yeah",
+        "tone": "Neutral",
+        "rate_of_speech": 92.16589861751808,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "yeah"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 754.229,
+        "end_time": 755.099,
+        "original_transcript": "सिद्धू भाई",
+        "translated_transcript": "Sidhu Bhai",
+        "tone": "Neutral",
+        "rate_of_speech": 137.9310344827579,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "sidhu bhai"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 760.77,
+        "end_time": 763.229,
+        "original_transcript": "जमाने गणों का ही",
+        "translated_transcript": "Only the era of donors",
+        "tone": "Neutral",
+        "rate_of_speech": 122.00081333875261,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 765.39,
+        "end_time": 766.59,
+        "original_transcript": "मालेगा ना भाई",
+        "translated_transcript": "Malega Na Bhai",
+        "tone": "Neutral",
+        "rate_of_speech": 149.99999999999432,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "malega na bhai"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 768.5,
+        "end_time": 769.7,
+        "original_transcript": "ये भी है",
+        "translated_transcript": "Ye Bhi Hai",
+        "tone": "Neutral",
+        "rate_of_speech": 149.99999999999432,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "ye bhi hai"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 836.109,
+        "end_time": 837.159,
+        "original_transcript": "क्या जीता है",
+        "translated_transcript": "What has won",
+        "tone": "Neutral",
+        "rate_of_speech": 171.42857142857883,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 837.929,
+        "end_time": 840.659,
+        "original_transcript": "हो और",
+        "translated_transcript": "Ho and",
+        "tone": "Neutral",
+        "rate_of_speech": 43.95604395604366,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "ho"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 843.989,
+        "end_time": 848.169,
+        "original_transcript": "ना ये बच्चा क्या",
+        "translated_transcript": "No what is this kid",
+        "tone": "Neutral",
+        "rate_of_speech": 71.77033492823053,
+        "emotion": "anger",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 848.849,
+        "end_time": 853.919,
+        "original_transcript": "पुराना है किसी का तो नहीं उठेगा खाने में",
+        "translated_transcript": "Someone is old and won't wake up to eat",
+        "tone": "Neutral",
+        "rate_of_speech": 106.50887573964631,
+        "emotion": "neutral",
+        "sentiment_label": "Positive",
+        "keywords": [
+            "someone",
+            "wo n't wake"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 859.989,
+        "end_time": 860.52,
+        "original_transcript": "पहन",
+        "translated_transcript": "Wear",
+        "tone": "Neutral",
+        "rate_of_speech": 112.99435028249671,
+        "emotion": "sadness",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "wear"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 912.289,
+        "end_time": 914.159,
+        "original_transcript": "पता नहीं लगता",
+        "translated_transcript": "Don't seem to know",
+        "tone": "Neutral",
+        "rate_of_speech": 128.3422459893045,
+        "emotion": "surprise",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1005.34,
+        "end_time": 1005.7,
+        "original_transcript": "जी",
+        "translated_transcript": "Ji",
+        "tone": "Neutral",
+        "rate_of_speech": 166.66666666666035,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "ji"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1007.32,
+        "end_time": 1009.219,
+        "original_transcript": "ऐसे के लिए निकला हुआ है",
+        "translated_transcript": "Has come out for such",
+        "tone": "Neutral",
+        "rate_of_speech": 157.97788309636644,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1017.679,
+        "end_time": 1017.859,
+        "original_transcript": "हाँ",
+        "translated_transcript": "Yes",
+        "tone": "Neutral",
+        "rate_of_speech": 333.3333333332154,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1030.349,
+        "end_time": 1031.458,
+        "original_transcript": "करते हैं",
+        "translated_transcript": "do",
+        "tone": "Neutral",
+        "rate_of_speech": 54.10279531108371,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1032.609,
+        "end_time": 1033.03,
+        "original_transcript": "कर",
+        "translated_transcript": "toll",
+        "tone": "Neutral",
+        "rate_of_speech": 142.5178147268242,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1039.43,
+        "end_time": 1040.06,
+        "original_transcript": "माता",
+        "translated_transcript": "Momma",
+        "tone": "Neutral",
+        "rate_of_speech": 95.23809523811312,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "momma"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1046.938,
+        "end_time": 1049.56,
+        "original_transcript": "जी sir मैं dam",
+        "translated_transcript": "G sir main dam",
+        "tone": "Neutral",
+        "rate_of_speech": 91.53318077803749,
+        "emotion": "neutral",
+        "sentiment_label": "Positive",
+        "keywords": [
+            "main dam"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1052.219,
+        "end_time": 1053.0,
+        "original_transcript": "पानी है",
+        "translated_transcript": "There is water",
+        "tone": "Neutral",
+        "rate_of_speech": 230.47375160052718,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1053.54,
+        "end_time": 1054.68,
+        "original_transcript": "कावरा क्यों भेजी",
+        "translated_transcript": "Why did you send Kavra",
+        "tone": "Neutral",
+        "rate_of_speech": 263.157894736819,
+        "emotion": "surprise",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "kavra"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1064.56,
+        "end_time": 1066.38,
+        "original_transcript": "पानी बंद करते हैं",
+        "translated_transcript": "Let's turn off the water",
+        "tone": "Neutral",
+        "rate_of_speech": 164.83516483515,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1068.619,
+        "end_time": 1069.119,
+        "original_transcript": "नहीं",
+        "translated_transcript": "not",
+        "tone": "Neutral",
+        "rate_of_speech": 120.0,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1100.189,
+        "end_time": 1104.439,
+        "original_transcript": "वो आएगी आ जाते है कैसे कर रहेगी क्या पता मार के घुस रहेगी क्या पता",
+        "translated_transcript": "She will come and find out how she will do it. Will she be hitting her and entering",
+        "tone": "Neutral",
+        "rate_of_speech": 254.11764705882354,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "will"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1119.619,
+        "end_time": 1128.04,
+        "original_transcript": "कोई गलती होगी नुकसान हो",
+        "translated_transcript": "There will be a mistake, there will be a loss",
+        "tone": "Neutral",
+        "rate_of_speech": 71.2504453152828,
+        "emotion": "sadness",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1131.4,
+        "end_time": 1135.04,
+        "original_transcript": "Hello",
+        "translated_transcript": "Hello",
+        "tone": "Neutral",
+        "rate_of_speech": 16.48351648351706,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "hello"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1140.0,
+        "end_time": 1140.54,
+        "original_transcript": "हम्म",
+        "translated_transcript": "Hmm",
+        "tone": "Neutral",
+        "rate_of_speech": 111.1111111111186,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "hmm"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 1142.18,
+        "end_time": 1143.119,
+        "original_transcript": "Hello",
+        "translated_transcript": "Hello",
+        "tone": "Neutral",
+        "rate_of_speech": 63.89776357828491,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "hello"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1144.0,
+        "end_time": 1144.5,
+        "original_transcript": "ने",
+        "translated_transcript": "Ne",
+        "tone": "Neutral",
+        "rate_of_speech": 120.0,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "ne"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1145.369,
+        "end_time": 1146.3,
+        "original_transcript": "बन",
+        "translated_transcript": "Bun",
+        "tone": "Neutral",
+        "rate_of_speech": 64.44683136412183,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "bun"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1149.4,
+        "end_time": 1150.38,
+        "original_transcript": "आप है ना",
+        "translated_transcript": "Aap Hain't you",
+        "tone": "Neutral",
+        "rate_of_speech": 183.67346938775168,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "aap hai"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 1151.75,
+        "end_time": 1153.859,
+        "original_transcript": "Hello",
+        "translated_transcript": "Hello",
+        "tone": "Neutral",
+        "rate_of_speech": 28.44950213371369,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "hello"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 1154.829,
+        "end_time": 1156.219,
+        "original_transcript": "Hello sir आवाज आ रहा है क्या",
+        "translated_transcript": "Hello sir is there a sound",
+        "tone": "Neutral",
+        "rate_of_speech": 258.99280575537705,
+        "emotion": "neutral",
+        "sentiment_label": "Positive",
+        "keywords": [
+            "hello"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1156.739,
+        "end_time": 1157.89,
+        "original_transcript": "हाँ जी बोलिए madam",
+        "translated_transcript": "Yes say madam",
+        "tone": "Neutral",
+        "rate_of_speech": 156.38575152040787,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 1158.8,
+        "end_time": 1165.25,
+        "original_transcript": "पर अभी मैं बात के पास बात हुआ है priority base में जल्द से जल्द solve हो जायेंगे wait कीजिये",
+        "translated_transcript": "But I have just talked to the matter. Wait for it to be resolved as soon as possible in priority base",
+        "tone": "Sad",
+        "rate_of_speech": 195.34883720930094,
+        "emotion": "neutral",
+        "sentiment_label": "Negative",
+        "keywords": [
+            "wait",
+            "priority base"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1166.52,
+        "end_time": 1168.04,
+        "original_transcript": "किससे बात हुई मम जी आपसे",
+        "translated_transcript": "Who did you talk to mamma",
+        "tone": "Neutral",
+        "rate_of_speech": 236.84210526316073,
+        "emotion": "surprise",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "who"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 1168.67,
+        "end_time": 1171.25,
+        "original_transcript": "हमारा team से internally team से बात किया था",
+        "translated_transcript": "Had talked to the team internally from our team",
+        "tone": "Neutral",
+        "rate_of_speech": 209.30232558140125,
+        "emotion": "sadness",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1171.969,
+        "end_time": 1175.209,
+        "original_transcript": "जो आपको number बोला था उससे बात हुई अमित से",
+        "translated_transcript": "Talked to Amit with the number you told",
+        "tone": "Neutral",
+        "rate_of_speech": 148.14814814814775,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "talked",
+            "amit"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 1176.079,
+        "end_time": 1179.099,
+        "original_transcript": "हां वो number पर हम बात नहीं कर सकते",
+        "translated_transcript": "Yes, we can't talk on that number",
+        "tone": "Neutral",
+        "rate_of_speech": 139.07284768212006,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "ca n't talk"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1180.099,
+        "end_time": 1185.739,
+        "original_transcript": "तो madam जी बात करो ना वो जो मेरा phone नहीं उठा रहा है वो मैं phone कर रहा हूँ madam जी वो phone ही नहीं उठा रहा",
+        "translated_transcript": "So talk madam ji, he who is not picking up my phone, I am calling that phone Madam ji he is not picking up the phone",
+        "tone": "Neutral",
+        "rate_of_speech": 276.59574468084617,
+        "emotion": "sadness",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "madam ji",
+            "madam"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 1187.26,
+        "end_time": 1189.43,
+        "original_transcript": "मैं सीधा company को inform करेंगे हाँ",
+        "translated_transcript": "Yes I will inform the company directly",
+        "tone": "Neutral",
+        "rate_of_speech": 193.5483870967677,
+        "emotion": "neutral",
+        "sentiment_label": "Positive",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1191.949,
+        "end_time": 1194.75,
+        "original_transcript": "चलो देखो कब कब तक आएंगे",
+        "translated_transcript": "Let's see when when will it come",
+        "tone": "Neutral",
+        "rate_of_speech": 149.94644769725468,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 1196.28,
+        "end_time": 1197.65,
+        "original_transcript": "जल्द से जल्द आएंगे",
+        "translated_transcript": "Will come as soon as possible",
+        "tone": "Neutral",
+        "rate_of_speech": 262.7737226277145,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "will"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1198.699,
+        "end_time": 1200.449,
+        "original_transcript": "चलो देख लेते हैं madam जी आज भी",
+        "translated_transcript": "Let's take a look, madam, even today",
+        "tone": "Neutral",
+        "rate_of_speech": 240.0,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1200.979,
+        "end_time": 1206.709,
+        "original_transcript": "आपको दे लो आधा कितना दिन होगा पंद्रह दिन तो होगा ना पंद्रह दिन madam जी आपको कौन देगा",
+        "translated_transcript": "Give me half how many days it will be fifteen days then Madam ji who will give you fifteen days",
+        "tone": "Neutral",
+        "rate_of_speech": 209.42408376963283,
+        "emotion": "neutral",
+        "sentiment_label": "Positive",
+        "keywords": [
+            "madam"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 1207.43,
+        "end_time": 1208.27,
+        "original_transcript": "हाँ जी",
+        "translated_transcript": "Yes",
+        "tone": "Neutral",
+        "rate_of_speech": 71.42857142857838,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1210.089,
+        "end_time": 1212.31,
+        "original_transcript": "आप देख लो late मत करना madam जी",
+        "translated_transcript": "You see don't delay Madam",
+        "tone": "Neutral",
+        "rate_of_speech": 135.07429085997276,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "n't delay",
+            "madam"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1215.42,
+        "end_time": 1216.199,
+        "original_transcript": "I know",
+        "translated_transcript": "I know",
+        "tone": "Neutral",
+        "rate_of_speech": 154.0436456996156,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 1220.329,
+        "end_time": 1223.75,
+        "original_transcript": "sir मैं priority base में team की inform करूंगी sir आ रहा क्या",
+        "translated_transcript": "Sir I will inform the team in priority base sir what is coming",
+        "tone": "Sad",
+        "rate_of_speech": 228.00350774626975,
+        "emotion": "neutral",
+        "sentiment_label": "Negative",
+        "keywords": [
+            "sir",
+            "priority base sir"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1224.5,
+        "end_time": 1226.189,
+        "original_transcript": "तो आ रहा है मैडम जी",
+        "translated_transcript": "So Madam is coming",
+        "tone": "Neutral",
+        "rate_of_speech": 142.09591474244456,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "madam"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1227.729,
+        "end_time": 1231.39,
+        "original_transcript": "जल्दी से जल्दी कराओ जल्दी से जल्दी करवाओ ना madam जी इसको",
+        "translated_transcript": "Get it done as soon as possible, don't madam get it done as soon as possible",
+        "tone": "Neutral",
+        "rate_of_speech": 262.223436219608,
+        "emotion": "anger",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "n't madam"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 1231.939,
+        "end_time": 1235.349,
+        "original_transcript": "हां हां मैं priority base में inform करूंगी ठीक है",
+        "translated_transcript": "Yes yes I will inform in the priority base ok",
+        "tone": "Sad",
+        "rate_of_speech": 175.95307917889315,
+        "emotion": "neutral",
+        "sentiment_label": "Negative",
+        "keywords": [
+            "priority base ok"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1235.949,
+        "end_time": 1236.979,
+        "original_transcript": "ठीक है madam जी",
+        "translated_transcript": "Ok madam",
+        "tone": "Neutral",
+        "rate_of_speech": 116.50485436893513,
+        "emotion": "neutral",
+        "sentiment_label": "Positive",
+        "keywords": [
+            "ok"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 1238.619,
+        "end_time": 1240.719,
+        "original_transcript": "ठीक है इसके अलावा कोई सादा कर सकती है",
+        "translated_transcript": "Okay, anyone else can do it simple",
+        "tone": "Neutral",
+        "rate_of_speech": 199.999999999987,
+        "emotion": "neutral",
+        "sentiment_label": "Positive",
+        "keywords": [
+            "okay"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1241.9,
+        "end_time": 1245.369,
+        "original_transcript": "नहीं बस मैं यही यही एक काम करता हूँ madam जी आप हमारा",
+        "translated_transcript": "No, this is the only thing I do, madam, you are ours",
+        "tone": "Neutral",
+        "rate_of_speech": 207.55260882099643,
+        "emotion": "anger",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 1246.53,
+        "end_time": 1248.25,
+        "original_transcript": "ठीक है आपको कब call आया था अमित से",
+        "translated_transcript": "Okay, when did you get a call from Amit",
+        "tone": "Neutral",
+        "rate_of_speech": 313.95348837208803,
+        "emotion": "surprise",
+        "sentiment_label": "Positive",
+        "keywords": [
+            "okay",
+            "amit"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1250.01,
+        "end_time": 1254.14,
+        "original_transcript": "इसको भी हो गया जी madam जी हो गए पंद्रह बीस दिन हो गए madam जी",
+        "translated_transcript": "It's happened too Madam ji Ho Gaye it's been fifteen to twenty days Madam",
+        "tone": "Neutral",
+        "rate_of_speech": 203.3898305084692,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "madam",
+            "ho gaye",
+            "madam"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 1254.979,
+        "end_time": 1256.619,
+        "original_transcript": "पंद्रह बीस दिन ठीक है क्या बोल",
+        "translated_transcript": "It's okay for fifteen to twenty days say what",
+        "tone": "Neutral",
+        "rate_of_speech": 329.2682926829524,
+        "emotion": "neutral",
+        "sentiment_label": "Positive",
+        "keywords": [
+            "'s okay"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1256.619,
+        "end_time": 1263.66,
+        "original_transcript": "रहा है वो बोल रहा था मेरे पास टाटा चाहिए मैंने कहा अभी company को बोलो तो company आपके पास भेजेगी",
+        "translated_transcript": "He was saying I want a Tata. I asked to speak to the company now, then the company will send it to you",
+        "tone": "Neutral",
+        "rate_of_speech": 195.99488708989733,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "tata"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1264.579,
+        "end_time": 1268.92,
+        "original_transcript": "मैं एक शरदजी हूँ यहाँ",
+        "translated_transcript": "I am a Sharadji here",
+        "tone": "Neutral",
+        "rate_of_speech": 69.10850034554056,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "sharadji"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 1269.439,
+        "end_time": 1269.459,
+        "original_transcript": "जी",
+        "translated_transcript": "Ji",
+        "tone": "Neutral",
+        "rate_of_speech": 3000.0000000027285,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "ji"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1271.319,
+        "end_time": 1272.43,
+        "original_transcript": "हाँ जी शरद जी",
+        "translated_transcript": "Haan ji Sharad",
+        "tone": "Neutral",
+        "rate_of_speech": 162.01620162014692,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "haan",
+            "sharad"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 1275.109,
+        "end_time": 1275.349,
+        "original_transcript": "जी हमारा",
+        "translated_transcript": "Jee Hamara",
+        "tone": "Neutral",
+        "rate_of_speech": 499.99999999998107,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "jee hamara"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1276.04,
+        "end_time": 1292.25,
+        "original_transcript": "उनको बोला था मैंने भी उनको number दिया था आपको भी आपसे बात हुई नहीं वो लोग को बोला था मैंने भी टाटा उनके पास भेज दो जब तक मेरे पास जब तक मेरे पास कोई recording नहीं आती फिर मैं connection लूँगा जी अमित जी है कह रहे थे",
+        "translated_transcript": "He told him that I had given him the number. You also did not talk to you, he asked the people to send me the Tata to them. Until I have any recording then I will take the connection, Mr. Amit ji. He was saying",
+        "tone": "Neutral",
+        "rate_of_speech": 166.56384947563194,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "tata",
+            "mr. amit"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 1293.599,
+        "end_time": 1294.449,
+        "original_transcript": "हम्म हम्म हम्म",
+        "translated_transcript": "Hmm hmm hmm",
+        "tone": "Neutral",
+        "rate_of_speech": 211.76470588231896,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "hmm",
+            "hmm hmm"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1296.199,
+        "end_time": 1304.699,
+        "original_transcript": "तो आप बताओ madam देख लो कितने दिन हो गए आप को भी देख लो अजय sir भी चले गए देख लो तीन महीने तो उसको भी अजय sir को देखो",
+        "translated_transcript": "So tell me Madam, see how many days have it been since you see you too Ajay sir is gone. See three months then look at that too Ajay sir",
+        "tone": "Neutral",
+        "rate_of_speech": 211.76470588235293,
+        "emotion": "neutral",
+        "sentiment_label": "Positive",
+        "keywords": [
+            "madam",
+            "ajay",
+            "ajay"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 1305.78,
+        "end_time": 1306.39,
+        "original_transcript": "हम्म हम्म",
+        "translated_transcript": "Hmm hmm",
+        "tone": "Neutral",
+        "rate_of_speech": 196.7213114753688,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "hmm"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1308.27,
+        "end_time": 1316.51,
+        "original_transcript": "तो आप बताओ madam जी फिर मैं हूँ अब इतना इतना करते करते तो ये भी साल निकल madam जरा",
+        "translated_transcript": "So you tell me Madam, I am then I would have done this much now, then this year would go away madam",
+        "tone": "Neutral",
+        "rate_of_speech": 160.1941747572814,
+        "emotion": "neutral",
+        "sentiment_label": "Positive",
+        "keywords": [
+            "madam"
+        ]
+    },
+    {
+        "speaker_label": "spk_0",
+        "start_time": 1318.65,
+        "end_time": 1320.349,
+        "original_transcript": "कोई बात नहीं सर आप don't worry करेंगे इसके बारे में ठीक है",
+        "translated_transcript": "No problem sir you won't worry about it alright",
+        "tone": "Neutral",
+        "rate_of_speech": 317.8340200118013,
+        "emotion": "fear",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "problem sir",
+            "wo n't"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1323.56,
+        "end_time": 1334.239,
+        "original_transcript": "देखो सर जी पता है क्या कह रहे हैं मैडम जी जो कोई भी पूछता है जो कोई भी पूछता है सर यही पूछना है क्या प्रॉब्लम क्या है मैंने कहा मैडम पता सारा कुछ",
+        "translated_transcript": "Look sir, you know what they are saying Madam, whoever asks whoever asks, sir, has to ask what is the problem. I said Madam know everything",
+        "tone": "Neutral",
+        "rate_of_speech": 146.0810937353673,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "madam",
+            "madam"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1334.79,
+        "end_time": 1336.25,
+        "original_transcript": "आप को क्या बताऊँ मैं",
+        "translated_transcript": "What shall I tell you",
+        "tone": "Neutral",
+        "rate_of_speech": 205.4794520547894,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1338.5,
+        "end_time": 1350.199,
+        "original_transcript": "जी मेरा जो case है वो handle वही कर रहे हैं पहले अजय साहब से कह रहे थे अब मोनिका madam जी कर रहे हैं अब किसके जिससे बात होती है वो अपने ही रोना रोना लेके बैठ जाता है madam जी फिर मैं क्या करूँ madam जी",
+        "translated_transcript": "Yes, they are handling my case, earlier they were asking Ajay Sahab. Now Monika Madam is doing it. Now whoever talks to him sits down crying madam ji then what should I do madam",
+        "tone": "Neutral",
+        "rate_of_speech": 174.37387810923906,
+        "emotion": "neutral",
+        "sentiment_label": "Negative",
+        "keywords": [
+            "ajay sahab",
+            "monika madam",
+            "madam ji"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1351.06,
+        "end_time": 1353.609,
+        "original_transcript": "अब किसको समझाऊं कितनी समझाऊं बात",
+        "translated_transcript": "Now to whom should I explain how many things should I explain",
+        "tone": "Neutral",
+        "rate_of_speech": 282.4637112593198,
+        "emotion": "neutral",
+        "sentiment_label": "Positive",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1355.42,
+        "end_time": 1357.219,
+        "original_transcript": "अपनी अपनी सारी करते हैं",
+        "translated_transcript": "Let's do all our own",
+        "tone": "Happy",
+        "rate_of_speech": 166.75931072818435,
+        "emotion": "neutral",
+        "sentiment_label": "Positive",
+        "keywords": []
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1358.469,
+        "end_time": 1360.68,
+        "original_transcript": "सीखा madam जी",
+        "translated_transcript": "Learned madam",
+        "tone": "Neutral",
+        "rate_of_speech": 54.27408412483008,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "learned"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1362.589,
+        "end_time": 1363.31,
+        "original_transcript": "Hello",
+        "translated_transcript": "Hello",
+        "tone": "Neutral",
+        "rate_of_speech": 83.21775312066532,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "hello"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1370.01,
+        "end_time": 1370.8,
+        "original_transcript": "Hello",
+        "translated_transcript": "Hello",
+        "tone": "Neutral",
+        "rate_of_speech": 75.9493670886111,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "hello"
+        ]
+    },
+    {
+        "speaker_label": "spk_1",
+        "start_time": 1374.15,
+        "end_time": 1374.989,
+        "original_transcript": "Hello",
+        "translated_transcript": "Hello",
+        "tone": "Neutral",
+        "rate_of_speech": 71.51370679380712,
+        "emotion": "neutral",
+        "sentiment_label": "Neutral",
+        "keywords": [
+            "hello"
+        ]
+    }
+]
