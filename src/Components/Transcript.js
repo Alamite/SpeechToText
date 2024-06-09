@@ -3,7 +3,7 @@ import '../styles.css'; // Adjust the path if necessary
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { Col, Container, Row, Tooltip } from "reactstrap";
 import { faSmile, faMeh, faFrown, faSailboat, faJetFighter, faCarSide, faCircleInfo } from '@fortawesome/free-solid-svg-icons';
-import transcriptData from '../Data/TranscriptOutput.json';  // Corrected path to the JSON file
+import transcriptData from '../Data/TranscriptOutput1.json';  // Corrected path to the JSON file
 
 // Function to map emotion to the corresponding icon
 const getIconByEmotion = (sentiment) => {
@@ -41,10 +41,10 @@ const mapSpeakerLabel = (label) => {
 
 
 
-function Transcript({ highlight, translate }) {
+function Transcript({ highlight, translate, onTextClick }) {
     const [tooltipOpen, setTooltipOpen] = useState(false);
 
-    const items = transcriptData.map(item => ({
+    const items = transcriptData.segments.map(item => ({
         speaker: mapSpeakerLabel(item.speaker_label),
         text: translate ? item.translated_transcript : item.original_transcript, // Display original text or translated text based on the translation toggle
         start: item.start_time.toFixed(2),
@@ -59,6 +59,11 @@ function Transcript({ highlight, translate }) {
     }));
 
     const toggleTooltip = () => setTooltipOpen(!tooltipOpen);
+
+    const handleTextClick = (startTime) => {
+        // Pass the start time value to the parent component when a text is clicked
+        onTextClick(startTime);
+    };
 
     return (
         <div className='transcript-content'>
@@ -75,7 +80,7 @@ function Transcript({ highlight, translate }) {
                 </Row>
                 {items.map((item, index) => (
                     <div className='highlight-background'>
-                        <div key={index} className={`transcript-item ${highlight && item.sentiment === 'Negative' ? 'highlight' : ''}`}>
+                        <div key={index} className={`transcript-item ${highlight && item.sentiment === 'Negative' ? 'highlight' : ''}`}  onClick={() => handleTextClick(item.start)}>
                             <Row>
                                 <Col xl={2}>
                                     <div className={`speaker-details ${highlight && item.sentiment === 'Negative' ? 'highlight' : ''}`}>

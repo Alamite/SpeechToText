@@ -10,7 +10,7 @@ import Summary from './Summary';
 import TrendLine from './TrendLine';
 // Import other option components as needed
 
-function AudioBreakdown({ selectedOptions }) {
+function AudioBreakdown({ selectedOptions, onTextClick }) {
 
     const [highlight, setHighlight] = useState(false);
     const [translate, setTranslate] = useState(false);
@@ -20,7 +20,7 @@ function AudioBreakdown({ selectedOptions }) {
     const renderTabContent = () => {
         switch (activeTab) {
             case 'Transcript':
-                return <Transcript highlight={highlight} translate={translate} />;
+                return <Transcript highlight={highlight} translate={translate} onTextClick={onTextClick} />;
             case 'Sentiment':
                 return <Sentiment />;
             case 'Keywords':

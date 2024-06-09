@@ -1,19 +1,8 @@
 import React, { useState } from 'react';
 import '../styles.css';
 import SentimentTrend from './SentimentTrend';
-
-
-function Tab1Content() {
-  return <div>Content for Tab 1</div>;
-}
-
-function Tab2Content() {
-  return <div>Content for Tab 2</div>; // Reusing the WordCloud component for Tab 2
-}
-
-function Tab3Content() {
-  return <div>Content for Tab 3</div>;
-}
+import EmotionTrend from './EmotionTrend';
+import ToneTrend from './ToneTrend';
 
 function TrendLine() {
   const [activeTab, setActiveTab] = useState(0);
@@ -23,11 +12,11 @@ function TrendLine() {
       case 0:
         return <SentimentTrend />;
       case 1:
-        return <Tab2Content />;
+        return <EmotionTrend />;
       case 2:
-        return <Tab3Content />;
+        return <ToneTrend />;
       default:
-        return <Tab1Content />;
+        return  <SentimentTrend />;
     }
   };
 

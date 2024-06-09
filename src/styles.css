@@ -176,6 +176,7 @@
 
 .option-text {
     /* font-weight: bold; */
+    padding-left: 10px;
     font-size: 24px;
     color: white;
     align-items: center;
@@ -433,12 +434,15 @@
     background-color: white;
     /* border-radius: 12px; */
     transition: all 0.7s ease-in-out;
-
+    cursor: pointer;
 }
 
-.transcript-item:hover{
-    /* background-color: #B4B4B4; */
+.transcript-item:hover {
+    /* background-color: rgb(241, 241, 241); */
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.4);
+    transition: all 0.3s ease-in-out;
 }
+
 .highlight-background {
     background: linear-gradient(45deg, 
     rgb(187, 185, 185) 0%,   /* Start with color 1 at 0% */
@@ -719,6 +723,6 @@ border-radius: 12px;
   
   .tab-content {
     padding: 20px;
-    height: 60vh;
+    /* height: 60vh; */
   }
   
