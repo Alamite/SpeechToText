@@ -1,6 +1,7 @@
 import React from 'react';
 import '../styles.css';
 import jsonData from '../Data/TranscriptOutput1.json';
+import SentimentBarChart from './SentimentBarChart';
 
 function Summary() {
     const { summaries } = jsonData;
@@ -21,6 +22,8 @@ function Summary() {
                     <li key={index}>{point}</li>
                 ))}
             </ul>
+            <h3>Sentiment Levels</h3>
+            <SentimentBarChart/>
         </div>
     );
 }

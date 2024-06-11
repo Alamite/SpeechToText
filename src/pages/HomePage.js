@@ -12,14 +12,16 @@ import '../styles.css'; // Import the CSS file
 function HomePage() {
     const [selectedOptions, setSelectedOptions] = useState([]);
     const [startTime, setStartTime] = useState(null); 
+    const [clicked, setClicked] = useState(false); 
 
     const handleStartTime = (startTimeValue) => {
-        // Function to handle the start time value received from the Transcript component
-        console.log('Start Time:', startTimeValue);
-        setStartTime(startTimeValue); // Update the state with the received start time value
-        // Implement any other logic you need here
+  
+        setStartTime(startTimeValue);
     };
 
+    const handleClicked = (click) => {
+        setClicked(click);
+    }
     return (
         <div className='App'>
             <div className="homepage">
@@ -28,7 +30,7 @@ function HomePage() {
                     <Container fluid>
                         <Row >
                             <Col xl={12}>
-                                <Uploader startTime={startTime}/>
+                                <Uploader startTime={startTime} clicked={clicked}/>
                             </Col>
                             {/* <Col xl={6}>
                             <AudioPlayer />
@@ -40,7 +42,7 @@ function HomePage() {
                                 <Options selectedOptions={selectedOptions} setSelectedOptions={setSelectedOptions} />
                             </Col>
                             <Col xl={6} lg={6} md={4} sm={12}>
-                                <AudioBreakdown selectedOptions={selectedOptions} onTextClick={handleStartTime} />
+                                <AudioBreakdown selectedOptions={selectedOptions} onTextClick={handleStartTime} onClicked={handleClicked} />
                             </Col>
                         </Row>
                         <Row>

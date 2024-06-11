@@ -8,9 +8,10 @@ import Keywords from './Keywords';
 import Sentiment from './Sentiment';
 import Summary from './Summary';
 import TrendLine from './TrendLine';
+import AudioEvents from './AudioEvents';
 // Import other option components as needed
 
-function AudioBreakdown({ selectedOptions, onTextClick }) {
+function AudioBreakdown({ selectedOptions, onTextClick, onClicked }) {
 
     const [highlight, setHighlight] = useState(false);
     const [translate, setTranslate] = useState(false);
@@ -20,15 +21,17 @@ function AudioBreakdown({ selectedOptions, onTextClick }) {
     const renderTabContent = () => {
         switch (activeTab) {
             case 'Transcript':
-                return <Transcript highlight={highlight} translate={translate} onTextClick={onTextClick} />;
+                return <Transcript highlight={highlight} translate={translate} onTextClick={onTextClick} onClicked={onClicked} />;
             case 'Sentiment':
                 return <Sentiment />;
             case 'Keywords':
                 return <Keywords />;
             case 'Summarization':
                 return <Summary />;
-                case 'Trend Line':
+            case 'Trend Line':
                 return <TrendLine/>;
+            case 'Audio Events':
+                return <AudioEvents/>;
             // Add cases for other options as needed
             default:
                 return <div>Content not available</div>;

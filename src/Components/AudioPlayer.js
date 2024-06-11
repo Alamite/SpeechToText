@@ -1,11 +1,11 @@
 import React, { useRef, useState, useEffect } from 'react';
-import galatta from '../Data/recording.mp3'
+import galatta from '../Data/recording.mp3';
 import '../styles.css';
 import { IoPlaySharp, IoPauseSharp } from 'react-icons/io5';
 import AudioPlayer from 'react-h5-audio-player';
 import 'react-h5-audio-player/lib/styles.css';
 
-function Player({ src, fileName, startTime }) {
+function Player({ src, fileName, startTime, clicked }) {
     const [isPlaying, setIsPlaying] = useState(false);
     const audioRef = useRef(null);
 
@@ -15,7 +15,7 @@ function Player({ src, fileName, startTime }) {
             // Set the current time of the audio player to the startTime
             audioRef.current.audio.current.currentTime = startTime;
         }
-    }, [startTime]); // Re-run effect when startTime changes
+    }, [startTime,clicked]); // Re-run effect when startTime changes
 
     const togglePlayPause = () => {
         setIsPlaying((prev) => !prev);
@@ -24,10 +24,10 @@ function Player({ src, fileName, startTime }) {
     console.log('Start Time in Audioplayer:', startTime);
     return (
         <AudioPlayer
-            autoPlay
             src={galatta}
-            onPlay={e => console.log("onPlay")}
-            autoPlayAfterSrcChange="false"
+            onPlay={togglePlayPause}
+            onPause={togglePlayPause}
+            autoPlay={isPlaying} // Play audio when isPlaying is true
             ref={audioRef} // Pass ref to access the audio player
         />
     );

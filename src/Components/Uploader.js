@@ -5,7 +5,7 @@ import AudioPlayer from './AudioPlayer';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUpload } from '@fortawesome/free-solid-svg-icons';
 
-function Uploader({startTime}) {
+function Uploader({startTime, clicked}) {
 
     const fileInputRef = React.useRef(null);
     const [uploadedFileName, setUploadedFileName] = React.useState('');
@@ -126,7 +126,7 @@ function Uploader({startTime}) {
             </div>
                     </Col>
                     <Col xl={6}>
-                        <AudioPlayer startTime={startTime}/>
+                        <AudioPlayer startTime={startTime} clicked={clicked}/>
                     </Col>
                 </Row>
             </Container>

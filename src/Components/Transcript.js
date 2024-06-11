@@ -3,6 +3,9 @@ import '../styles.css'; // Adjust the path if necessary
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { Col, Container, Row, Tooltip } from "reactstrap";
 import { faSmile, faMeh, faFrown, faSailboat, faJetFighter, faCarSide, faCircleInfo } from '@fortawesome/free-solid-svg-icons';
+import smile from '../Data/positiveEmoji.png';
+import meh from '../Data/neutralEmoji.png';
+import frown from '../Data/negativeEmoji.png';
 import transcriptData from '../Data/TranscriptOutput1.json';  // Corrected path to the JSON file
 
 // Function to map emotion to the corresponding icon
@@ -39,10 +42,20 @@ const mapSpeakerLabel = (label) => {
     }
 };
 
+const getEmojiByEmotion = (sentiment) => {
+    switch (sentiment.toLowerCase()) {
+        case 'positive':
+            return smile;
+        case 'negative':
+            return frown;
+        default:
+            return meh;
+    }
+};
 
-
-function Transcript({ highlight, translate, onTextClick }) {
+function Transcript({ highlight, translate, onTextClick, onClicked }) {
     const [tooltipOpen, setTooltipOpen] = useState(false);
+    const [clicked, setclicked] = useState(false);
 
     const items = transcriptData.segments.map(item => ({
         speaker: mapSpeakerLabel(item.speaker_label),
@@ -53,7 +66,7 @@ function Transcript({ highlight, translate, onTextClick }) {
         emotion: item.emotion,
         sentiment: item.sentiment_label,
         keywords: item.keywords,
-        icon: getIconByEmotion(item.sentiment_label),
+        icon: getEmojiByEmotion(item.sentiment_label),
         rate_of_speech: item.rate_of_speech.toFixed(0),
         WPMicon: getIconByWPM(item.rate_of_speech),
     }));
@@ -63,6 +76,8 @@ function Transcript({ highlight, translate, onTextClick }) {
     const handleTextClick = (startTime) => {
         // Pass the start time value to the parent component when a text is clicked
         onTextClick(startTime);
+        onClicked(clicked);
+        setclicked(!clicked);
     };
 
     return (
@@ -88,9 +103,10 @@ function Transcript({ highlight, translate, onTextClick }) {
                                             <div style={{ display: "flex", alignItems: "center" }}>
                                                 <span className='speaker-title'>{item.speaker}</span>
                                                 <div style={{ paddingRight: "2px" }}>
-                                                    <FontAwesomeIcon
-                                                        icon={item.icon}
-                                                        style={{ fontSize: "18px", color: item.icon === faSmile ? "#2ecc71" : item.icon === faFrown ? "#A91D3A" : "inherit" }}
+                                                    <img
+                                                        src={item.icon}
+                                                        alt={item.sentiment}
+                                                        style={{ width: "18px", height: "18px", filter: item.sentiment === 'positive' ? "invert(42%) sepia(70%) saturate(5992%) hue-rotate(105deg) brightness(99%) contrast(92%)" : item.sentiment === 'negative' ? "invert(38%) sepia(74%) saturate(2764%) hue-rotate(329deg) brightness(87%) contrast(88%)" : "inherit" }}
                                                     />
                                                 </div>
                                                 :
@@ -101,7 +117,7 @@ function Transcript({ highlight, translate, onTextClick }) {
                                 </Col>
                                 <Col xl={10}>
                                     <div className={`details ${highlight && item.sentiment === 'Negative' ? 'highlight' : ''}`}>
-                                        <span dangerouslySetInnerHTML={{ __html: item.text }}></span>
+                                        <span style={{fontWeight:"600", fontSize:"16px"}} dangerouslySetInnerHTML={{ __html: item.text }}></span>
                                         <div style={{ display: "flex", justifyContent: "space-between", paddingTop: "10px", alignItems: "center" }}>
                                             <div style={{ display: "flex" }}>
 
