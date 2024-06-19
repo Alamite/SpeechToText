@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import anychart from 'anychart';
 import 'anychart/dist/css/anychart-ui.css';
 import 'anychart/dist/fonts/css/anychart-font.css';
-import jsonData from '../Data/TranscriptOutput1.json';
+import jsonData from '../Data/TranscriptOutput4.json';
 
 const CustomRangeBarChart = () => {
     useEffect(() => {
@@ -19,7 +19,7 @@ const CustomRangeBarChart = () => {
 
         reorderedData.forEach(item => {
           let speaker = item.speaker_label === 'spk_0' ? 'Synthesis Executive' : 'Caller';
-          const entry = [speaker, item.start_time, item.end_time];
+          const entry = [speaker, parseFloat(item.start_time).toFixed(2), parseFloat(item.end_time).toFixed(2)];
           const sentiment = item.sentiment_label.toLowerCase();
         
           // Push entry to corresponding sentiment array
@@ -82,7 +82,7 @@ const CustomRangeBarChart = () => {
         // create and adjust dateTime Y scale
         var yScale = anychart.scales.linear();
         chart.yScale(yScale);
-        chart.yScale().ticks().interval(30);
+        chart.yScale().ticks().interval(0.30);
         
     
         // disable xAxis labels
@@ -96,13 +96,14 @@ const CustomRangeBarChart = () => {
         chart.minPointLength(10);
 
         // adjust Yaxis labels formatting
-        chart.yAxis().labels().format(function() {
-          const totalSeconds = parseFloat(this.tickValue);
-          const hours = Math.floor(totalSeconds / 3600);
-          const minutes = Math.floor((totalSeconds % 3600) / 60);
-          const seconds = totalSeconds % 60;
-          return `${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
-      });
+        chart.yAxis().labels().format(
+          function() {
+              const totalSeconds = parseFloat(this.tickValue);
+              const minutes = Math.floor(totalSeconds / 60);
+              const seconds = totalSeconds % 60;
+              return `${minutes}.${seconds.toString().padStart(2, '0')}`;
+          }
+      );
     
         // enable Y grids
         chart.yGrid().enabled(true);

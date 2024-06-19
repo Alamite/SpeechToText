@@ -5,7 +5,7 @@ import 'anychart/dist/js/anychart-exports.min.js';
 import 'anychart/dist/js/anychart-tag-cloud.min.js';
 import 'anychart/dist/css/anychart-ui.min.css';
 import 'anychart/dist/fonts/css/anychart-font.min.css';
-import jsonData from '../Data/TranscriptOutput1.json'; // Import the JSON data
+import jsonData from '../Data/TranscriptOutput4.json'; // Import the JSON data
 
 function WordCloud() {
   useEffect(() => {

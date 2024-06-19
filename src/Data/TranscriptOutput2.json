@@ -1,0 +1,2139 @@
+{
+    "transcription_results": [
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "0.036 - 0.0852",
+            "original_transcript_segment": "Thank you for calling ITC I am Monika How may I help you",
+            "translated_transcript_segment": "Thank you for calling ITC I am Monika how can I help you",
+            "tone": "Neutral",
+            "rate_of_speech": "15853.66 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thank",
+                "itc"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "0.097 - 0.1308",
+            "original_transcript_segment": "मोनिका मैं रामल बोल रहा हूँ",
+            "translated_transcript_segment": "Monika I am speaking Ramal",
+            "tone": "Neutral",
+            "rate_of_speech": "8875.74 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "0.151 - 0.1848",
+            "original_transcript_segment": "Hi Mr रामलाल how are you sir",
+            "translated_transcript_segment": "Hi Mr. Ramlal how are you sir",
+            "tone": "Neutral",
+            "rate_of_speech": "12426.04 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hi mr. ramlal"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "0.2075 - 0.292",
+            "original_transcript_segment": "madam जी आपको कितने दिन हो गए phone करे को अब सना जी को phone किया था मैंने",
+            "translated_transcript_segment": "Madam ji how many days have you called me but now I had called Sana",
+            "tone": "Neutral",
+            "rate_of_speech": "10650.89 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "sana"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "0.3123 - 0.3358",
+            "original_transcript_segment": "इसी को call किया था sir",
+            "translated_transcript_segment": "Had called him sir",
+            "tone": "Neutral",
+            "rate_of_speech": "10212.77 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "0.3503 - 0.371",
+            "original_transcript_segment": "तारा द्वीप को",
+            "translated_transcript_segment": "To Tara Island",
+            "tone": "Neutral",
+            "rate_of_speech": "8695.65 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "0.388 - 0.4053",
+            "original_transcript_segment": "समझ नहीं पा रहा हूँ",
+            "translated_transcript_segment": "I am not able to understand",
+            "tone": "Sad",
+            "rate_of_speech": "20809.25 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "0.4272 - 0.4605",
+            "original_transcript_segment": "तारा तारा तप को",
+            "translated_transcript_segment": "Tara Tara Tapa Ko",
+            "tone": "Neutral",
+            "rate_of_speech": "7207.21 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "tara tara tapa ko"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "0.473 - 0.4912",
+            "original_transcript_segment": "r three",
+            "translated_transcript_segment": "R three",
+            "tone": "Neutral",
+            "rate_of_speech": "6593.41 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "0.501 - 0.5151",
+            "original_transcript_segment": "हाँ जी",
+            "translated_transcript_segment": "Yes",
+            "tone": "Neutral",
+            "rate_of_speech": "4255.32 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "0.5237 - 0.5543",
+            "original_transcript_segment": "कोई नहीं है सारा three",
+            "translated_transcript_segment": "Nobody is there all the three",
+            "tone": "Neutral",
+            "rate_of_speech": "11764.71 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "0.6355 - 0.6783",
+            "original_transcript_segment": "तो ना तो आपने जवाब दिया madam जी",
+            "translated_transcript_segment": "So no did you answer madam",
+            "tone": "Neutral",
+            "rate_of_speech": "8411.21 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "0.6885 - 0.7165",
+            "original_transcript_segment": "ना तो आपने phone किया",
+            "translated_transcript_segment": "Didn't you make a phone call",
+            "tone": "Neutral",
+            "rate_of_speech": "12857.14 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "0.7308 - 0.7643",
+            "original_transcript_segment": "ना आपके बन्दे का phone आया madam जी",
+            "translated_transcript_segment": "Madam ji didn't get your slave's phone",
+            "tone": "Neutral",
+            "rate_of_speech": "12537.31 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "slave 's phone"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "0.7773 - 0.8132",
+            "original_transcript_segment": "तो अभी आपका issue resolve नहीं हुआ क्या sir",
+            "translated_transcript_segment": "So is your issue not resolved yet sir",
+            "tone": "Neutral",
+            "rate_of_speech": "13370.47 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "0.8207 - 0.8458",
+            "original_transcript_segment": "नहीं madam जी हो नहीं है",
+            "translated_transcript_segment": "No Madam ji it is not",
+            "tone": "Neutral",
+            "rate_of_speech": "14342.63 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "0.8776 - 0.8891",
+            "original_transcript_segment": "I am really sorry",
+            "translated_transcript_segment": "I am really sorry",
+            "tone": "Sad",
+            "rate_of_speech": "20869.57 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "0.935 - 0.958",
+            "original_transcript_segment": "आप छुट्टी पर हैं madam जी",
+            "translated_transcript_segment": "Are you on vacation madam",
+            "tone": "Neutral",
+            "rate_of_speech": "13043.48 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "vacation madam"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "0.9657 - 0.9762",
+            "original_transcript_segment": "हाँ जी",
+            "translated_transcript_segment": "Yes",
+            "tone": "Neutral",
+            "rate_of_speech": "5714.29 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "0.9977 - 1.0597",
+            "original_transcript_segment": "देर का पता नहीं छुट्टी बताते आप",
+            "translated_transcript_segment": "Don't know the delay you tell me the holiday",
+            "tone": "Neutral",
+            "rate_of_speech": "8709.68 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "1.0943 - 1.205",
+            "original_transcript_segment": "हाँ जी मैं दिन छुट्टी पे था बता दीजिए sir अभी आपका issue क्या है मैं team को inform करुँगी बता दीजिए",
+            "translated_transcript_segment": "Yes, I was on day off tell me sir what is your issue now, I will inform the team. Tell me",
+            "tone": "Neutral",
+            "rate_of_speech": "11382.11 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "1.2478 - 1.3545",
+            "original_transcript_segment": "madam आप तो कर रहा था madam सारे बंदे आप बताओ उसका reason तो कुछ नहीं पता लग गया madam जी क्या",
+            "translated_transcript_segment": "Madam you were doing madam tell me all the guys the reason why you didn't know anything Madam ji",
+            "tone": "Neutral",
+            "rate_of_speech": "10684.16 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "1.3633 - 1.4277",
+            "original_transcript_segment": "क्या मतलब के क्या बात हुई आपसे क्या बात नहीं हुई madam जी",
+            "translated_transcript_segment": "What do you mean, what did you not talk to madam",
+            "tone": "Sad",
+            "rate_of_speech": "10248.45 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "1.4608 - 1.5733",
+            "original_transcript_segment": "ठीक है दो minute line पर बने रहिए sir अभी मैं status check करुँगी call disconnect कीजिए ठीक है ठीक है thank you sir",
+            "translated_transcript_segment": "Okay, stay on the line for two minutes sir I will check the status right now disconnect the call, okay thank you sir",
+            "tone": "Happy",
+            "rate_of_speech": "12266.67 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay",
+                "minutes sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "6.1432 - 6.178",
+            "original_transcript_segment": "Line पर बने रहने के लिए धन्यवाद sir",
+            "translated_transcript_segment": "Thank you sir for being on the line",
+            "tone": "Neutral",
+            "rate_of_speech": "13793.10 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thank"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "6.1885 - 6.1925",
+            "original_transcript_segment": "हाँ",
+            "translated_transcript_segment": "Yes",
+            "tone": "Neutral",
+            "rate_of_speech": "15000.00 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "6.1925 - 6.1995",
+            "original_transcript_segment": "जी",
+            "translated_transcript_segment": "Ji",
+            "tone": "Neutral",
+            "rate_of_speech": "8571.43 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ji"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "6.2085 - 6.3085",
+            "original_transcript_segment": "हां जी sir आपके पास तीन complaint है ना sir totally आपके पास अभी आपका कितना complaint है बता दीजिए",
+            "translated_transcript_segment": "Yes sir, you have three complaints, sir tell me how many complaints do you have right now",
+            "tone": "Happy",
+            "rate_of_speech": "10200.00 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "6.3348 - 6.3482",
+            "original_transcript_segment": "against complaint",
+            "translated_transcript_segment": "Complaint against",
+            "tone": "Neutral",
+            "rate_of_speech": "8955.22 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "complaint"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "6.3663 - 6.3668",
+            "original_transcript_segment": "हाँ जी",
+            "translated_transcript_segment": "Yes",
+            "tone": "Neutral",
+            "rate_of_speech": "120000.00 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "6.3857 - 6.4211",
+            "original_transcript_segment": "एक coupon के लिए complaint किया था ना sir",
+            "translated_transcript_segment": "Did you complain for a coupon sir",
+            "tone": "Neutral",
+            "rate_of_speech": "11864.41 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "coupon sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "6.4363 - 6.4843",
+            "original_transcript_segment": "coupon भी है भी है बिस्कुट भी है मैडम",
+            "translated_transcript_segment": "There is also a coupon. There is a biscuit too Madam",
+            "tone": "Neutral",
+            "rate_of_speech": "13750.00 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "6.5008 - 6.5306",
+            "original_transcript_segment": "है हमारा executive आपको replacement करती है",
+            "translated_transcript_segment": "Our executive replaces you",
+            "tone": "Neutral",
+            "rate_of_speech": "8053.69 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "executive replaces"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "6.553 - 6.6023",
+            "original_transcript_segment": "नहीं हुआ मैडम जी आपको complaint पाई हुई है मैंने",
+            "translated_transcript_segment": "Not so madam, I have received a complaint",
+            "tone": "Neutral",
+            "rate_of_speech": "9736.31 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "6.6218 - 6.6373",
+            "original_transcript_segment": "नहीं हुआ क्या",
+            "translated_transcript_segment": "Did it not happen",
+            "tone": "Neutral",
+            "rate_of_speech": "15483.87 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "6.6385 - 6.6688",
+            "original_transcript_segment": "नहीं हुआ नहीं हुआ जी",
+            "translated_transcript_segment": "It didn't happen, it didn't happen",
+            "tone": "Neutral",
+            "rate_of_speech": "11881.19 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "6.6958 - 6.733",
+            "original_transcript_segment": "ठीक है district के पास बात हुआ था क्या sir",
+            "translated_transcript_segment": "Okay, was there talk with the district sir",
+            "tone": "Neutral",
+            "rate_of_speech": "12903.23 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay",
+                "district sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "6.7545 - 6.7855",
+            "original_transcript_segment": "किसी से मेरी बात नहीं हुई madam जी",
+            "translated_transcript_segment": "I haven't talked to anyone madam",
+            "tone": "Neutral",
+            "rate_of_speech": "11612.90 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "6.796 - 6.8715",
+            "original_transcript_segment": "उसी time में मैंने अजय sir को उसी time मैंने अजय sir को बोल दिया था",
+            "translated_transcript_segment": "At the same time I told Ajay sir at the same time I told Ajay sir",
+            "tone": "Neutral",
+            "rate_of_speech": "12715.23 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ajay",
+                "ajay"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "6.88 - 6.8935",
+            "original_transcript_segment": "हम्म हम्म",
+            "translated_transcript_segment": "Hmm hmm",
+            "tone": "Neutral",
+            "rate_of_speech": "8888.89 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hmm"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "6.9142 - 7.1083",
+            "original_transcript_segment": "मेरे को माल नहीं पहुँच गया वो कह रहा है आपका वो receiver जो आपकी पहुंच गई मका मैंने receiver ही नहीं करी ना मेरे को माल ही नहीं receiver हैगी तो मैंने दिखाओ receiver कहाँ है",
+            "translated_transcript_segment": "I have not received the goods, he is saying that receiver of yours who reached you, I did not buy the receiver, nor do I have the goods nor the receiver, so show me where the receiver is.",
+            "tone": "Neutral",
+            "rate_of_speech": "11746.52 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "7.1225 - 7.2465",
+            "original_transcript_segment": "fever भी जो मेरे पास bill fever हैगी आपने सामान लिया मैंने तो सामान लिया नहीं ना मेरे पास आया",
+            "translated_transcript_segment": "Even the fever which I have a bill fever, you have taken the goods, I have not taken the goods, I did not come to me",
+            "tone": "Neutral",
+            "rate_of_speech": "12580.65 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bill fever"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "7.2525 - 7.289",
+            "original_transcript_segment": "अब sign sign नहीं किया था कैसे",
+            "translated_transcript_segment": "How did you not sign now",
+            "tone": "Neutral",
+            "rate_of_speech": "9863.01 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "7.3052 - 7.3485",
+            "original_transcript_segment": "नहीं madam जी जब मेरे पास सामान है मैं sign कैसे कर दूँ",
+            "translated_transcript_segment": "No Madam, when I have stuff how do I sign",
+            "tone": "Neutral",
+            "rate_of_speech": "13856.81 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "7.3913 - 7.4133",
+            "original_transcript_segment": "कुछ call आया था क्या sir",
+            "translated_transcript_segment": "Had there been some calls sir",
+            "tone": "Neutral",
+            "rate_of_speech": "16363.64 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "calls sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "7.4283 - 7.4943",
+            "original_transcript_segment": "नहीं madam जी call आया था आपको उनको अजय sir को मैंने बोल दिया था madam जी",
+            "translated_transcript_segment": "No Madam ji I called you, I told him to Ajay sir Madam",
+            "tone": "Neutral",
+            "rate_of_speech": "11818.18 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ajay"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "7.5078 - 7.5343",
+            "original_transcript_segment": "जब तो अजय sir थे",
+            "translated_transcript_segment": "When was Ajay sir",
+            "tone": "Neutral",
+            "rate_of_speech": "9056.60 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ajay"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "7.5437 - 7.6862",
+            "original_transcript_segment": "उसी time मैंने phone कर दिया था madam जी जब उसका phone आया था मैंने उसी time आपको उनको भी phone पे number लिखा दिया था सारा कुछ लिखा हुआ तो है madam जी",
+            "translated_transcript_segment": "At the same time I made a phone call Madam ji when his phone came, I wrote you a number to him at the same time. Everything is written. Madam",
+            "tone": "Neutral",
+            "rate_of_speech": "12631.58 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "7.702 - 7.7155",
+            "original_transcript_segment": "हं हं",
+            "translated_transcript_segment": "Han Han",
+            "tone": "Neutral",
+            "rate_of_speech": "8888.89 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "han han"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "7.737 - 7.8076",
+            "original_transcript_segment": "तो उसके बाद अमित का phone आया था वो भी आपको number लगा दिया था मैंने",
+            "translated_transcript_segment": "So after that Amit's phone came, I had given you a number",
+            "tone": "Neutral",
+            "rate_of_speech": "10198.30 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "amit",
+                "'s phone"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "7.8255 - 7.8338",
+            "original_transcript_segment": "हम्",
+            "translated_transcript_segment": "Hum",
+            "tone": "Neutral",
+            "rate_of_speech": "7228.92 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hum"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "7.8338 - 7.8355",
+            "original_transcript_segment": "हम्",
+            "translated_transcript_segment": "Hum",
+            "tone": "Neutral",
+            "rate_of_speech": "35294.12 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hum"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "7.848 - 7.8943",
+            "original_transcript_segment": "उसके बाद वो इतने चकना बंद कर दिया madam जी",
+            "translated_transcript_segment": "After that, she stopped choking so much madam",
+            "tone": "Neutral",
+            "rate_of_speech": "10367.17 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "7.9137 - 7.9232",
+            "original_transcript_segment": "हम्म",
+            "translated_transcript_segment": "Hmm",
+            "tone": "Neutral",
+            "rate_of_speech": "6315.79 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hmm"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "7.9525 - 8.017",
+            "original_transcript_segment": "आप बताओ जी आपके बंदे नहीं पहुंच सक रहे तो मेरा क्या कसूर है madam जी",
+            "translated_transcript_segment": "You tell me if your slaves are not able to reach then what is wrong with me Madam",
+            "tone": "Sad",
+            "rate_of_speech": "16744.19 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "8.0285 - 8.0833",
+            "original_transcript_segment": "जैसे मर्जी जो मर्जी लिख के भेजते हैं ये तो बंदे साहब के",
+            "translated_transcript_segment": "Like you write whatever you wish and send it to a fellow",
+            "tone": "Neutral",
+            "rate_of_speech": "13138.69 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "8.0928 - 8.2148",
+            "original_transcript_segment": "जो आपके बंदे लगे हैं जो आपके team है जो जो मर्जी लिख के भेज दो ऊपर मन तो नहीं पता madam जी कि क्या लिख के भेजा है आपके पास",
+            "translated_transcript_segment": "Those who are your servants who are your team who write whatever they want, send them above you don't know what to write Madam",
+            "tone": "Neutral",
+            "rate_of_speech": "11803.28 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "8.294 - 8.359",
+            "original_transcript_segment": "ठीक है एक complaint था तेरे मेरे का दूसरा complaint कौन सा वाला था",
+            "translated_transcript_segment": "Okay, there was one complaint which one was your second complaint",
+            "tone": "Neutral",
+            "rate_of_speech": "10153.85 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "8.3678 - 8.3857",
+            "original_transcript_segment": "एक ओपन का",
+            "translated_transcript_segment": "of an open",
+            "tone": "Neutral",
+            "rate_of_speech": "10055.87 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "8.4045 - 8.4132",
+            "original_transcript_segment": "Okay",
+            "translated_transcript_segment": "Okay",
+            "tone": "Neutral",
+            "rate_of_speech": "6896.55 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "8.4316 - 8.4522",
+            "original_transcript_segment": "coupon coupon",
+            "translated_transcript_segment": "Coupon coupon",
+            "tone": "Neutral",
+            "rate_of_speech": "5825.24 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "coupon"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "8.4833 - 8.5075",
+            "original_transcript_segment": "हाँ जी हाँ जी",
+            "translated_transcript_segment": "Haan ji haan ji",
+            "tone": "Neutral",
+            "rate_of_speech": "9917.36 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "haan",
+                "ji haan ji"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "8.5168 - 8.5492",
+            "original_transcript_segment": "एक coupon एक दूसरा",
+            "translated_transcript_segment": "One coupon another",
+            "tone": "Neutral",
+            "rate_of_speech": "5555.56 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "8.5643 - 8.6005",
+            "original_transcript_segment": "एक biscuit का है madam जी",
+            "translated_transcript_segment": "Madamji belongs to a biscuit",
+            "tone": "Neutral",
+            "rate_of_speech": "8287.29 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "madamji"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "8.6155 - 8.6383",
+            "original_transcript_segment": "six zero",
+            "translated_transcript_segment": "Six zeros",
+            "tone": "Neutral",
+            "rate_of_speech": "5263.16 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "8.6468 - 8.6562",
+            "original_transcript_segment": "biscuit का",
+            "translated_transcript_segment": "Biscuit's",
+            "tone": "Neutral",
+            "rate_of_speech": "6382.98 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "biscuit"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "8.6575 - 8.6707",
+            "original_transcript_segment": "क्या दिक्कत है",
+            "translated_transcript_segment": "What is the problem",
+            "tone": "Neutral",
+            "rate_of_speech": "18181.82 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "8.6788 - 8.7057",
+            "original_transcript_segment": "complaint number है six zero",
+            "translated_transcript_segment": "The complaint number is six zero",
+            "tone": "Neutral",
+            "rate_of_speech": "13382.90 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "complaint number"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "8.7183 - 8.7752",
+            "original_transcript_segment": "six zero eight double three five",
+            "translated_transcript_segment": "Six zero eight double three five",
+            "tone": "Neutral",
+            "rate_of_speech": "6326.89 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "8.7935 - 8.8123",
+            "original_transcript_segment": "Six eight",
+            "translated_transcript_segment": "Six eight",
+            "tone": "Neutral",
+            "rate_of_speech": "6382.98 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "8.8388 - 8.8873",
+            "original_transcript_segment": "six zero six zero",
+            "translated_transcript_segment": "Six zero six zero",
+            "tone": "Neutral",
+            "rate_of_speech": "4948.45 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "8.8992 - 8.9068",
+            "original_transcript_segment": "हाँ जी",
+            "translated_transcript_segment": "Yes",
+            "tone": "Neutral",
+            "rate_of_speech": "7894.74 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "8.927 - 8.9506",
+            "original_transcript_segment": "eight double three five",
+            "translated_transcript_segment": "Eight double three five",
+            "tone": "Neutral",
+            "rate_of_speech": "10169.49 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "8.9986 - 9.009",
+            "original_transcript_segment": "ठीक है",
+            "translated_transcript_segment": "precisely",
+            "tone": "Happy",
+            "rate_of_speech": "5769.23 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "9.022 - 9.0313",
+            "original_transcript_segment": "बता दीजिए",
+            "translated_transcript_segment": "Tell me",
+            "tone": "Neutral",
+            "rate_of_speech": "12903.23 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "9.0313 - 9.042",
+            "original_transcript_segment": "फिर consent",
+            "translated_transcript_segment": "Then consent",
+            "tone": "Neutral",
+            "rate_of_speech": "11214.95 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "9.042 - 9.0522",
+            "original_transcript_segment": "के बारे में",
+            "translated_transcript_segment": "circa",
+            "tone": "Neutral",
+            "rate_of_speech": "5882.35 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "9.0682 - 9.1006",
+            "original_transcript_segment": "ये दो इक्कीस की complaint है madam जी",
+            "translated_transcript_segment": "This is the complaint of two twenty-one madam",
+            "tone": "Neutral",
+            "rate_of_speech": "14814.81 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "twenty-one madam"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "9.1258 - 9.153",
+            "original_transcript_segment": "बहुत पुराना कंप्लेंट है क्या",
+            "translated_transcript_segment": "Is it a very old complaint",
+            "tone": "Neutral",
+            "rate_of_speech": "13235.29 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "old complaint"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "9.1585 - 9.191",
+            "original_transcript_segment": "हाँ जी तभी तो बोल रहा हूँ मैडम जी",
+            "translated_transcript_segment": "Yes, that's when I am saying madam",
+            "tone": "Neutral",
+            "rate_of_speech": "12923.08 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "9.2307 - 9.2848",
+            "original_transcript_segment": "जी आपको पता नहीं बंदे madam जी क्या कर रहे हैं क्या नहीं कर रहे हैं आप",
+            "translated_transcript_segment": "Yes, you don't know what are you doing guy madam, what are you not doing",
+            "tone": "Neutral",
+            "rate_of_speech": "16635.86 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "guy madam"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "9.2942 - 9.3645",
+            "original_transcript_segment": "अब जो मर्जी लिख के दे दो वो आपके बंदे लिख के दे दे मेरे को तो मिला नहीं ना सुना",
+            "translated_transcript_segment": "Now write whatever you want and give it to your slave and give it to me, I didn't get it, don't hear",
+            "tone": "Neutral",
+            "rate_of_speech": "18776.67 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "9.387 - 9.4032",
+            "original_transcript_segment": "मच लिया था",
+            "translated_transcript_segment": "Had it done",
+            "tone": "Neutral",
+            "rate_of_speech": "11111.11 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "9.418 - 9.5535",
+            "original_transcript_segment": "तो आपने आपको मैंने number दिया था अमित का आपने उससे confirm करा तो by Tata मांग रहा था आपने भेजा उसके पास madam जी",
+            "translated_transcript_segment": "So you gave you Amit's number, so you confirmed that by Tata was asking for it, you sent it to him Madam",
+            "tone": "Happy",
+            "rate_of_speech": "9741.70 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "amit",
+                "'s number",
+                "tata"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "9.5642 - 9.5841",
+            "original_transcript_segment": "Number बता दीजिए",
+            "translated_transcript_segment": "Tell me the number",
+            "tone": "Neutral",
+            "rate_of_speech": "12060.30 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "9.607 - 9.6498",
+            "original_transcript_segment": "उसका number है जी",
+            "translated_transcript_segment": "His number is G",
+            "tone": "Neutral",
+            "rate_of_speech": "5607.48 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "9.6643 - 9.8003",
+            "original_transcript_segment": "eight two one four six आगे पता नहीं last में सात सौ पच्चीस number है seven two",
+            "translated_transcript_segment": "Eight two one four six no further. In the last seven hundred twenty-five is the number seven two",
+            "tone": "Neutral",
+            "rate_of_speech": "7941.18 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "9.8113 - 9.8577",
+            "original_transcript_segment": "जी भाई जी लगा हुआ था",
+            "translated_transcript_segment": "Brother was engaged",
+            "tone": "Neutral",
+            "rate_of_speech": "3879.31 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "brother"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "9.871 - 9.9232",
+            "original_transcript_segment": "ये मिथ का number है madam जी जो पंचकूला दिखता है madam जी",
+            "translated_transcript_segment": "This is the number of the myth Madam ji who looks like Panchkula Madam",
+            "tone": "Neutral",
+            "rate_of_speech": "16091.95 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "panchkula madam"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "9.941 - 9.9735",
+            "original_transcript_segment": "पूरा ten digit number बता दीजिए",
+            "translated_transcript_segment": "Tell me the full ten digit number",
+            "tone": "Neutral",
+            "rate_of_speech": "12923.08 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "digit number"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "9.9872 - 10.022",
+            "original_transcript_segment": "Med भी लिखाया हुआ था है उसके पास",
+            "translated_transcript_segment": "Med was also written with him",
+            "tone": "Neutral",
+            "rate_of_speech": "10344.83 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "med"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "10.0393 - 10.057",
+            "original_transcript_segment": "मच नहीं पा रहा",
+            "translated_transcript_segment": "Can't Mach",
+            "tone": "Neutral",
+            "rate_of_speech": "6779.66 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ca",
+                "mach"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "10.0712 - 10.1035",
+            "original_transcript_segment": "लिखाया हुआ है madam जी देखो check करो",
+            "translated_transcript_segment": "It is written Madam, look check",
+            "tone": "Neutral",
+            "rate_of_speech": "11145.51 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "10.1153 - 10.1327",
+            "original_transcript_segment": "ठीक है line पे बने रहिये",
+            "translated_transcript_segment": "Ok stay on the line",
+            "tone": "Neutral",
+            "rate_of_speech": "17241.38 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "10.1505 - 10.1907",
+            "original_transcript_segment": "मैं check करो last में सात सौ पच्चीस number है जी",
+            "translated_transcript_segment": "Check me the last number is seven hundred and twenty-five",
+            "tone": "Neutral",
+            "rate_of_speech": "14925.37 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "10.214 - 10.267",
+            "original_transcript_segment": "हाँ जी line पे रुकिए thank you",
+            "translated_transcript_segment": "Yes stop on the line thank you",
+            "tone": "Neutral",
+            "rate_of_speech": "7924.53 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "10.9525 - 10.9595",
+            "original_transcript_segment": "क्या",
+            "translated_transcript_segment": "what",
+            "tone": "Neutral",
+            "rate_of_speech": "8571.43 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "11.022 - 11.0348",
+            "original_transcript_segment": "ऐसा है",
+            "translated_transcript_segment": "That's how",
+            "tone": "Neutral",
+            "rate_of_speech": "9375.00 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "11.1282 - 11.1418",
+            "original_transcript_segment": "पारी",
+            "translated_transcript_segment": "shift",
+            "tone": "Neutral",
+            "rate_of_speech": "4411.76 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "11.1663 - 11.1772",
+            "original_transcript_segment": "Yeah",
+            "translated_transcript_segment": "Yeah",
+            "tone": "Neutral",
+            "rate_of_speech": "5504.59 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "yeah"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "12.5705 - 12.585",
+            "original_transcript_segment": "सिद्धू भाई",
+            "translated_transcript_segment": "Sidhu Bhai",
+            "tone": "Neutral",
+            "rate_of_speech": "8275.86 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sidhu bhai"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "12.6795 - 12.7205",
+            "original_transcript_segment": "जमाने गणों का ही",
+            "translated_transcript_segment": "Only the era of donors",
+            "tone": "Neutral",
+            "rate_of_speech": "7317.07 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "12.7565 - 12.7765",
+            "original_transcript_segment": "मालेगा ना भाई",
+            "translated_transcript_segment": "Malega Na Bhai",
+            "tone": "Neutral",
+            "rate_of_speech": "9000.00 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "malega na bhai"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "12.8083 - 12.8283",
+            "original_transcript_segment": "ये भी है",
+            "translated_transcript_segment": "Ye Bhi Hai",
+            "tone": "Neutral",
+            "rate_of_speech": "9000.00 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ye bhi hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "13.9352 - 13.9527",
+            "original_transcript_segment": "क्या जीता है",
+            "translated_transcript_segment": "What has won",
+            "tone": "Neutral",
+            "rate_of_speech": "10285.71 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "13.9655 - 14.011",
+            "original_transcript_segment": "हो और",
+            "translated_transcript_segment": "Ho and",
+            "tone": "Neutral",
+            "rate_of_speech": "2637.36 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ho"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "14.0665 - 14.1361",
+            "original_transcript_segment": "ना ये बच्चा क्या",
+            "translated_transcript_segment": "No what is this kid",
+            "tone": "Neutral",
+            "rate_of_speech": "4310.34 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "14.1475 - 14.232",
+            "original_transcript_segment": "पुराना है किसी का तो नहीं उठेगा खाने में",
+            "translated_transcript_segment": "Someone is old and won't wake up to eat",
+            "tone": "Neutral",
+            "rate_of_speech": "6390.53 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "someone",
+                "wo n't wake"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "14.3331 - 14.342",
+            "original_transcript_segment": "पहन",
+            "translated_transcript_segment": "Wear",
+            "tone": "Neutral",
+            "rate_of_speech": "6741.57 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "wear"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "15.2048 - 15.236",
+            "original_transcript_segment": "पता नहीं लगता",
+            "translated_transcript_segment": "Don't seem to know",
+            "tone": "Neutral",
+            "rate_of_speech": "7692.31 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "16.7557 - 16.7617",
+            "original_transcript_segment": "जी",
+            "translated_transcript_segment": "Ji",
+            "tone": "Neutral",
+            "rate_of_speech": "10000.00 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ji"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "16.7887 - 16.8203",
+            "original_transcript_segment": "ऐसे के लिए निकला हुआ है",
+            "translated_transcript_segment": "Has come out for such",
+            "tone": "Neutral",
+            "rate_of_speech": "9493.67 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "16.9613 - 16.9643",
+            "original_transcript_segment": "हाँ",
+            "translated_transcript_segment": "Yes",
+            "tone": "Neutral",
+            "rate_of_speech": "20000.00 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "17.1725 - 17.191",
+            "original_transcript_segment": "करते हैं",
+            "translated_transcript_segment": "do",
+            "tone": "Neutral",
+            "rate_of_speech": "3243.24 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "17.2101 - 17.2172",
+            "original_transcript_segment": "कर",
+            "translated_transcript_segment": "toll",
+            "tone": "Neutral",
+            "rate_of_speech": "8450.70 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "17.3238 - 17.3343",
+            "original_transcript_segment": "माता",
+            "translated_transcript_segment": "Momma",
+            "tone": "Neutral",
+            "rate_of_speech": "5714.29 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "momma"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "17.449 - 17.4927",
+            "original_transcript_segment": "जी sir मैं dam",
+            "translated_transcript_segment": "G sir main dam",
+            "tone": "Neutral",
+            "rate_of_speech": "5491.99 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "main dam"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "17.537 - 17.55",
+            "original_transcript_segment": "पानी है",
+            "translated_transcript_segment": "There is water",
+            "tone": "Neutral",
+            "rate_of_speech": "13846.15 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "17.559 - 17.578",
+            "original_transcript_segment": "कावरा क्यों भेजी",
+            "translated_transcript_segment": "Why did you send Kavra",
+            "tone": "Neutral",
+            "rate_of_speech": "15789.47 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "kavra"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "17.7427 - 17.773",
+            "original_transcript_segment": "पानी बंद करते हैं",
+            "translated_transcript_segment": "Let's turn off the water",
+            "tone": "Neutral",
+            "rate_of_speech": "9900.99 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "17.8103 - 17.8186",
+            "original_transcript_segment": "नहीं",
+            "translated_transcript_segment": "not",
+            "tone": "Neutral",
+            "rate_of_speech": "7228.92 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "18.3365 - 18.4073",
+            "original_transcript_segment": "वो आएगी आ जाते है कैसे कर रहेगी क्या पता मार के घुस रहेगी क्या पता",
+            "translated_transcript_segment": "She will come and find out how she will do it. Will she be hitting her and entering",
+            "tone": "Neutral",
+            "rate_of_speech": "15254.24 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "will"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "18.6603 - 18.8007",
+            "original_transcript_segment": "कोई गलती होगी नुकसान हो",
+            "translated_transcript_segment": "There will be a mistake, there will be a loss",
+            "tone": "Neutral",
+            "rate_of_speech": "4273.50 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "18.8567 - 18.9173",
+            "original_transcript_segment": "Hello",
+            "translated_transcript_segment": "Hello",
+            "tone": "Neutral",
+            "rate_of_speech": "990.10 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "19.0 - 19.009",
+            "original_transcript_segment": "हम्म",
+            "translated_transcript_segment": "Hmm",
+            "tone": "Neutral",
+            "rate_of_speech": "6666.67 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hmm"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "19.0363 - 19.052",
+            "original_transcript_segment": "Hello",
+            "translated_transcript_segment": "Hello",
+            "tone": "Neutral",
+            "rate_of_speech": "3821.66 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "19.0667 - 19.075",
+            "original_transcript_segment": "ने",
+            "translated_transcript_segment": "Ne",
+            "tone": "Neutral",
+            "rate_of_speech": "7228.92 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ne"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "19.0895 - 19.105",
+            "original_transcript_segment": "बन",
+            "translated_transcript_segment": "Bun",
+            "tone": "Neutral",
+            "rate_of_speech": "3870.97 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bun"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "19.1567 - 19.173",
+            "original_transcript_segment": "आप है ना",
+            "translated_transcript_segment": "Aap Hain't you",
+            "tone": "Neutral",
+            "rate_of_speech": "11042.94 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "aap hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "19.1958 - 19.231",
+            "original_transcript_segment": "Hello",
+            "translated_transcript_segment": "Hello",
+            "tone": "Neutral",
+            "rate_of_speech": "1704.55 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "19.2471 - 19.2703",
+            "original_transcript_segment": "Hello sir आवाज आ रहा है क्या",
+            "translated_transcript_segment": "Hello sir is there a sound",
+            "tone": "Neutral",
+            "rate_of_speech": "15517.24 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "19.279 - 19.2982",
+            "original_transcript_segment": "हाँ जी बोलिए madam",
+            "translated_transcript_segment": "Yes say madam",
+            "tone": "Neutral",
+            "rate_of_speech": "9375.00 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "19.3133 - 19.4208",
+            "original_transcript_segment": "पर अभी मैं बात के पास बात हुआ है priority base में जल्द से जल्द solve हो जायेंगे wait कीजिये",
+            "translated_transcript_segment": "But I have just talked to the matter. Wait for it to be resolved as soon as possible in priority base",
+            "tone": "Sad",
+            "rate_of_speech": "11720.93 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "wait",
+                "priority base"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "19.442 - 19.4673",
+            "original_transcript_segment": "किससे बात हुई मम जी आपसे",
+            "translated_transcript_segment": "Who did you talk to mamma",
+            "tone": "Neutral",
+            "rate_of_speech": "14229.25 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "who"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "19.4778 - 19.5208",
+            "original_transcript_segment": "हमारा team से internally team से बात किया था",
+            "translated_transcript_segment": "Had talked to the team internally from our team",
+            "tone": "Neutral",
+            "rate_of_speech": "12558.14 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "19.5328 - 19.5868",
+            "original_transcript_segment": "जो आपको number बोला था उससे बात हुई अमित से",
+            "translated_transcript_segment": "Talked to Amit with the number you told",
+            "tone": "Neutral",
+            "rate_of_speech": "8888.89 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "talked",
+                "amit"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "19.6013 - 19.6517",
+            "original_transcript_segment": "हां वो number पर हम बात नहीं कर सकते",
+            "translated_transcript_segment": "Yes, we can't talk on that number",
+            "tone": "Neutral",
+            "rate_of_speech": "8333.33 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ca n't talk"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "19.6683 - 19.7623",
+            "original_transcript_segment": "तो madam जी बात करो ना वो जो मेरा phone नहीं उठा रहा है वो मैं phone कर रहा हूँ madam जी वो phone ही नहीं उठा रहा",
+            "translated_transcript_segment": "So talk madam ji, he who is not picking up my phone, I am calling that phone Madam ji he is not picking up the phone",
+            "tone": "Neutral",
+            "rate_of_speech": "16595.74 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "19.7877 - 19.8238",
+            "original_transcript_segment": "मैं सीधा company को inform करेंगे हाँ",
+            "translated_transcript_segment": "Yes I will inform the company directly",
+            "tone": "Neutral",
+            "rate_of_speech": "11634.35 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "19.8658 - 19.9125",
+            "original_transcript_segment": "चलो देखो कब कब तक आएंगे",
+            "translated_transcript_segment": "Let's see when when will it come",
+            "tone": "Neutral",
+            "rate_of_speech": "8993.58 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "19.938 - 19.9608",
+            "original_transcript_segment": "जल्द से जल्द आएंगे",
+            "translated_transcript_segment": "Will come as soon as possible",
+            "tone": "Neutral",
+            "rate_of_speech": "15789.47 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "will"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "19.9783 - 20.0075",
+            "original_transcript_segment": "चलो देख लेते हैं madam जी आज भी",
+            "translated_transcript_segment": "Let's take a look, madam, even today",
+            "tone": "Neutral",
+            "rate_of_speech": "14383.56 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "20.0163 - 20.1118",
+            "original_transcript_segment": "आपको दे लो आधा कितना दिन होगा पंद्रह दिन तो होगा ना पंद्रह दिन madam जी आपको कौन देगा",
+            "translated_transcript_segment": "Give me half how many days it will be fifteen days then Madam ji who will give you fifteen days",
+            "tone": "Neutral",
+            "rate_of_speech": "12565.45 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "20.1238 - 20.1378",
+            "original_transcript_segment": "हाँ जी",
+            "translated_transcript_segment": "Yes",
+            "tone": "Neutral",
+            "rate_of_speech": "4285.71 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "20.1682 - 20.2052",
+            "original_transcript_segment": "आप देख लो late मत करना madam जी",
+            "translated_transcript_segment": "You see don't delay Madam",
+            "tone": "Neutral",
+            "rate_of_speech": "8108.11 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "n't delay"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "20.257 - 20.27",
+            "original_transcript_segment": "I know",
+            "translated_transcript_segment": "I know",
+            "tone": "Neutral",
+            "rate_of_speech": "9230.77 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "20.3388 - 20.3958",
+            "original_transcript_segment": "sir मैं priority base में team की inform करूंगी sir आ रहा क्या",
+            "translated_transcript_segment": "Sir I will inform the team in priority base sir what is coming",
+            "tone": "Sad",
+            "rate_of_speech": "13684.21 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "sir",
+                "priority base sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "20.4083 - 20.4365",
+            "original_transcript_segment": "तो आ रहा है मैडम जी",
+            "translated_transcript_segment": "So Madam is coming",
+            "tone": "Neutral",
+            "rate_of_speech": "8510.64 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "20.4622 - 20.5232",
+            "original_transcript_segment": "जल्दी से जल्दी कराओ जल्दी से जल्दी करवाओ ना madam जी इसको",
+            "translated_transcript_segment": "Get it done as soon as possible, don't madam get it done as soon as possible",
+            "tone": "Neutral",
+            "rate_of_speech": "15737.70 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "n't madam"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "20.5323 - 20.5892",
+            "original_transcript_segment": "हां हां मैं priority base में inform करूंगी ठीक है",
+            "translated_transcript_segment": "Yes yes I will inform in the priority base ok",
+            "tone": "Sad",
+            "rate_of_speech": "10544.82 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "priority base ok"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "20.5992 - 20.6163",
+            "original_transcript_segment": "ठीक है madam जी",
+            "translated_transcript_segment": "Ok madam",
+            "tone": "Neutral",
+            "rate_of_speech": "7017.54 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "20.6436 - 20.6787",
+            "original_transcript_segment": "ठीक है इसके अलावा कोई सादा कर सकती है",
+            "translated_transcript_segment": "Okay, anyone else can do it simple",
+            "tone": "Neutral",
+            "rate_of_speech": "11965.81 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "20.6983 - 20.7561",
+            "original_transcript_segment": "नहीं बस मैं यही यही एक काम करता हूँ madam जी आप हमारा",
+            "translated_transcript_segment": "No, this is the only thing I do, madam, you are ours",
+            "tone": "Neutral",
+            "rate_of_speech": "12456.75 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "20.7755 - 20.8042",
+            "original_transcript_segment": "ठीक है आपको कब call आया था अमित से",
+            "translated_transcript_segment": "Okay, when did you get a call from Amit",
+            "tone": "Neutral",
+            "rate_of_speech": "18815.33 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay",
+                "amit"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "20.8335 - 20.9023",
+            "original_transcript_segment": "इसको भी हो गया जी madam जी हो गए पंद्रह बीस दिन हो गए madam जी",
+            "translated_transcript_segment": "It's happened too Madam ji Ho Gaye it's been fifteen to twenty days Madam",
+            "tone": "Neutral",
+            "rate_of_speech": "12209.30 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ho gaye"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "20.9163 - 20.9436",
+            "original_transcript_segment": "पंद्रह बीस दिन ठीक है क्या बोल",
+            "translated_transcript_segment": "It's okay for fifteen to twenty days say what",
+            "tone": "Neutral",
+            "rate_of_speech": "19780.22 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "'s okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "20.9436 - 21.061",
+            "original_transcript_segment": "रहा है वो बोल रहा था मेरे पास टाटा चाहिए मैंने कहा अभी company को बोलो तो company आपके पास भेजेगी",
+            "translated_transcript_segment": "He was saying I want a Tata. I asked to speak to the company now, then the company will send it to you",
+            "tone": "Neutral",
+            "rate_of_speech": "11754.68 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "tata"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "21.0763 - 21.1487",
+            "original_transcript_segment": "मैं एक शरदजी हूँ यहाँ",
+            "translated_transcript_segment": "I am a Sharadji here",
+            "tone": "Neutral",
+            "rate_of_speech": "4143.65 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sharadji"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "21.1573 - 21.1577",
+            "original_transcript_segment": "जी",
+            "translated_transcript_segment": "Ji",
+            "tone": "Neutral",
+            "rate_of_speech": "150000.00 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ji"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "21.1886 - 21.2072",
+            "original_transcript_segment": "हाँ जी शरद जी",
+            "translated_transcript_segment": "Haan ji Sharad",
+            "tone": "Neutral",
+            "rate_of_speech": "9677.42 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "haan",
+                "sharad"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "21.2518 - 21.2558",
+            "original_transcript_segment": "जी हमारा",
+            "translated_transcript_segment": "Jee Hamara",
+            "tone": "Neutral",
+            "rate_of_speech": "30000.00 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "jee hamara"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "21.2673 - 21.5375",
+            "original_transcript_segment": "उनको बोला था मैंने भी उनको number दिया था आपको भी आपसे बात हुई नहीं वो लोग को बोला था मैंने भी टाटा उनके पास भेज दो जब तक मेरे पास जब तक मेरे पास कोई recording नहीं आती फिर मैं connection लूँगा जी अमित जी है कह रहे थे",
+            "translated_transcript_segment": "He told him that I had given him the number. You also did not talk to you, he asked the people to send me the Tata to them. Until I have any recording then I will take the connection, Mr. Amit ji. He was saying",
+            "tone": "Neutral",
+            "rate_of_speech": "9992.60 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "tata",
+                "mr. amit"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "21.56 - 21.5741",
+            "original_transcript_segment": "हम्म हम्म हम्म",
+            "translated_transcript_segment": "Hmm hmm hmm",
+            "tone": "Neutral",
+            "rate_of_speech": "12765.96 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hmm",
+                "hmm hmm"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "21.6033 - 21.745",
+            "original_transcript_segment": "तो आप बताओ madam देख लो कितने दिन हो गए आप को भी देख लो अजय sir भी चले गए देख लो तीन महीने तो उसको भी अजय sir को देखो",
+            "translated_transcript_segment": "So tell me Madam, see how many days have it been since you see you too Ajay sir is gone. See three months then look at that too Ajay sir",
+            "tone": "Neutral",
+            "rate_of_speech": "12702.89 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ajay",
+                "ajay"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "21.763 - 21.7732",
+            "original_transcript_segment": "हम्म हम्म",
+            "translated_transcript_segment": "Hmm hmm",
+            "tone": "Neutral",
+            "rate_of_speech": "11764.71 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hmm"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "21.8045 - 21.9418",
+            "original_transcript_segment": "तो आप बताओ madam जी फिर मैं हूँ अब इतना इतना करते करते तो ये भी साल निकल madam जरा",
+            "translated_transcript_segment": "So you tell me Madam, I am then I would have done this much now, then this year would go away madam",
+            "tone": "Neutral",
+            "rate_of_speech": "9613.98 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "time_segment": "21.9775 - 22.0058",
+            "original_transcript_segment": "कोई बात नहीं सर आप don't worry करेंगे इसके बारे में ठीक है",
+            "translated_transcript_segment": "No problem sir you won't worry about it alright",
+            "tone": "Neutral",
+            "rate_of_speech": "19081.27 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "problem sir",
+                "wo n't"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "22.0593 - 22.2373",
+            "original_transcript_segment": "देखो सर जी पता है क्या कह रहे हैं मैडम जी जो कोई भी पूछता है जो कोई भी पूछता है सर यही पूछना है क्या प्रॉब्लम क्या है मैंने कहा मैडम पता सारा कुछ",
+            "translated_transcript_segment": "Look sir, you know what they are saying Madam, whoever asks whoever asks, sir, has to ask what is the problem. I said Madam know everything",
+            "tone": "Neutral",
+            "rate_of_speech": "8764.04 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "22.2465 - 22.2708",
+            "original_transcript_segment": "आप को क्या बताऊँ मैं",
+            "translated_transcript_segment": "What shall I tell you",
+            "tone": "Neutral",
+            "rate_of_speech": "12345.68 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "22.3083 - 22.5033",
+            "original_transcript_segment": "जी मेरा जो case है वो handle वही कर रहे हैं पहले अजय साहब से कह रहे थे अब मोनिका madam जी कर रहे हैं अब किसके जिससे बात होती है वो अपने ही रोना रोना लेके बैठ जाता है madam जी फिर मैं क्या करूँ madam जी",
+            "translated_transcript_segment": "Yes, they are handling my case, earlier they were asking Ajay Sahab. Now Monika Madam is doing it. Now whoever talks to him sits down crying madam ji then what should I do madam",
+            "tone": "Neutral",
+            "rate_of_speech": "10461.54 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "ajay sahab",
+                "monika madam"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "22.5177 - 22.5602",
+            "original_transcript_segment": "अब किसको समझाऊं कितनी समझाऊं बात",
+            "translated_transcript_segment": "Now to whom should I explain how many things should I explain",
+            "tone": "Neutral",
+            "rate_of_speech": "16941.18 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "22.5903 - 22.6203",
+            "original_transcript_segment": "अपनी अपनी सारी करते हैं",
+            "translated_transcript_segment": "Let's do all our own",
+            "tone": "Happy",
+            "rate_of_speech": "10000.00 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "22.6411 - 22.678",
+            "original_transcript_segment": "सीखा madam जी",
+            "translated_transcript_segment": "Learned madam",
+            "tone": "Neutral",
+            "rate_of_speech": "3252.03 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "learned"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "22.7098 - 22.7218",
+            "original_transcript_segment": "Hello",
+            "translated_transcript_segment": "Hello",
+            "tone": "Neutral",
+            "rate_of_speech": "5000.00 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "22.8335 - 22.8467",
+            "original_transcript_segment": "Hello",
+            "translated_transcript_segment": "Hello",
+            "tone": "Neutral",
+            "rate_of_speech": "4545.45 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "time_segment": "22.9025 - 22.9165",
+            "original_transcript_segment": "Hello",
+            "translated_transcript_segment": "Hello",
+            "tone": "Neutral",
+            "rate_of_speech": "4285.71 words per minute",
+            "emotion": "anger",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        }
+    ],
+    "translated_segments": "Thank you for calling ITC I am Monika how can I help you Monika I am speaking Ramal Hi Mr. Ramlal how are you sir Madam ji how many days have you called me but now I had called Sana Had called him sir To Tara Island I am not able to understand Tara Tara Tapa Ko R three Yes Nobody is there all the three So no did you answer madam Didn't you make a phone call Madam ji didn't get your slave's phone So is your issue not resolved yet sir No Madam ji it is not I am really sorry Are you on vacation madam Yes Don't know the delay you tell me the holiday Yes, I was on day off tell me sir what is your issue now, I will inform the team. Tell me Madam you were doing madam tell me all the guys the reason why you didn't know anything Madam ji What do you mean, what did you not talk to madam Okay, stay on the line for two minutes sir I will check the status right now disconnect the call, okay thank you sir Thank you sir for being on the line Yes Ji Yes sir, you have three complaints, sir tell me how many complaints do you have right now Complaint against Yes Did you complain for a coupon sir There is also a coupon. There is a biscuit too Madam Our executive replaces you Not so madam, I have received a complaint Did it not happen It didn't happen, it didn't happen Okay, was there talk with the district sir I haven't talked to anyone madam At the same time I told Ajay sir at the same time I told Ajay sir Hmm hmm I have not received the goods, he is saying that receiver of yours who reached you, I did not buy the receiver, nor do I have the goods nor the receiver, so show me where the receiver is. Even the fever which I have a bill fever, you have taken the goods, I have not taken the goods, I did not come to me How did you not sign now No Madam, when I have stuff how do I sign Had there been some calls sir No Madam ji I called you, I told him to Ajay sir Madam When was Ajay sir At the same time I made a phone call Madam ji when his phone came, I wrote you a number to him at the same time. Everything is written. Madam Han Han So after that Amit's phone came, I had given you a number Hum Hum After that, she stopped choking so much madam Hmm You tell me if your slaves are not able to reach then what is wrong with me Madam Like you write whatever you wish and send it to a fellow Those who are your servants who are your team who write whatever they want, send them above you don't know what to write Madam Okay, there was one complaint which one was your second complaint of an open Okay Coupon coupon Haan ji haan ji One coupon another Madamji belongs to a biscuit Six zeros Biscuit's What is the problem The complaint number is six zero Six zero eight double three five Six eight Six zero six zero Yes Eight double three five precisely Tell me Then consent circa This is the complaint of two twenty-one madam Is it a very old complaint Yes, that's when I am saying madam Yes, you don't know what are you doing guy madam, what are you not doing Now write whatever you want and give it to your slave and give it to me, I didn't get it, don't hear Had it done So you gave you Amit's number, so you confirmed that by Tata was asking for it, you sent it to him Madam Tell me the number His number is G Eight two one four six no further. In the last seven hundred twenty-five is the number seven two Brother was engaged This is the number of the myth Madam ji who looks like Panchkula Madam Tell me the full ten digit number Med was also written with him Can't Mach It is written Madam, look check Ok stay on the line Check me the last number is seven hundred and twenty-five Yes stop on the line thank you what That's how shift Yeah Sidhu Bhai Only the era of donors Malega Na Bhai Ye Bhi Hai What has won Ho and No what is this kid Someone is old and won't wake up to eat Wear Don't seem to know Ji Has come out for such Yes do toll Momma G sir main dam There is water Why did you send Kavra Let's turn off the water not She will come and find out how she will do it. Will she be hitting her and entering There will be a mistake, there will be a loss Hello Hmm Hello Ne Bun Aap Hain't you Hello Hello sir is there a sound Yes say madam But I have just talked to the matter. Wait for it to be resolved as soon as possible in priority base Who did you talk to mamma Had talked to the team internally from our team Talked to Amit with the number you told Yes, we can't talk on that number So talk madam ji, he who is not picking up my phone, I am calling that phone Madam ji he is not picking up the phone Yes I will inform the company directly Let's see when when will it come Will come as soon as possible Let's take a look, madam, even today Give me half how many days it will be fifteen days then Madam ji who will give you fifteen days Yes You see don't delay Madam I know Sir I will inform the team in priority base sir what is coming So Madam is coming Get it done as soon as possible, don't madam get it done as soon as possible Yes yes I will inform in the priority base ok Ok madam Okay, anyone else can do it simple No, this is the only thing I do, madam, you are ours Okay, when did you get a call from Amit It's happened too Madam ji Ho Gaye it's been fifteen to twenty days Madam It's okay for fifteen to twenty days say what He was saying I want a Tata. I asked to speak to the company now, then the company will send it to you I am a Sharadji here Ji Haan ji Sharad Jee Hamara He told him that I had given him the number. You also did not talk to you, he asked the people to send me the Tata to them. Until I have any recording then I will take the connection, Mr. Amit ji. He was saying Hmm hmm hmm So tell me Madam, see how many days have it been since you see you too Ajay sir is gone. See three months then look at that too Ajay sir Hmm hmm So you tell me Madam, I am then I would have done this much now, then this year would go away madam No problem sir you won't worry about it alright Look sir, you know what they are saying Madam, whoever asks whoever asks, sir, has to ask what is the problem. I said Madam know everything What shall I tell you Yes, they are handling my case, earlier they were asking Ajay Sahab. Now Monika Madam is doing it. Now whoever talks to him sits down crying madam ji then what should I do madam Now to whom should I explain how many things should I explain Let's do all our own Learned madam Hello Hello Hello ",
+    "speaker_a_segments": "Thank you for calling ITC I am Monika how can I help you Hi Mr. Ramlal how are you sir Had called him sir I am not able to understand R three Nobody is there all the three So is your issue not resolved yet sir I am really sorry Yes Yes, I was on day off tell me sir what is your issue now, I will inform the team. Tell me Okay, stay on the line for two minutes sir I will check the status right now disconnect the call, okay thank you sir Thank you sir for being on the line Ji Yes sir, you have three complaints, sir tell me how many complaints do you have right now Did you complain for a coupon sir Our executive replaces you Did it not happen Okay, was there talk with the district sir Hmm hmm How did you not sign now Had there been some calls sir Han Han Hum Hmm Okay, there was one complaint which one was your second complaint Okay One coupon another Biscuit's The complaint number is six zero Six eight Yes precisely Tell me circa Is it a very old complaint Had it done Tell me the number Tell me the full ten digit number Can't Mach Ok stay on the line Yes stop on the line thank you Hello Hello Hello sir is there a sound But I have just talked to the matter. Wait for it to be resolved as soon as possible in priority base Had talked to the team internally from our team Yes, we can't talk on that number Yes I will inform the company directly Will come as soon as possible Yes Sir I will inform the team in priority base sir what is coming Yes yes I will inform in the priority base ok Okay, anyone else can do it simple Okay, when did you get a call from Amit It's okay for fifteen to twenty days say what Ji Jee Hamara Hmm hmm hmm Hmm hmm No problem sir you won't worry about it alright ",
+    "speaker_b_segments": "Monika I am speaking Ramal Madam ji how many days have you called me but now I had called Sana To Tara Island Tara Tara Tapa Ko Yes So no did you answer madam Didn't you make a phone call Madam ji didn't get your slave's phone No Madam ji it is not Are you on vacation madam Don't know the delay you tell me the holiday Madam you were doing madam tell me all the guys the reason why you didn't know anything Madam ji What do you mean, what did you not talk to madam Yes Complaint against Yes There is also a coupon. There is a biscuit too Madam Not so madam, I have received a complaint It didn't happen, it didn't happen I haven't talked to anyone madam At the same time I told Ajay sir at the same time I told Ajay sir I have not received the goods, he is saying that receiver of yours who reached you, I did not buy the receiver, nor do I have the goods nor the receiver, so show me where the receiver is. Even the fever which I have a bill fever, you have taken the goods, I have not taken the goods, I did not come to me No Madam, when I have stuff how do I sign No Madam ji I called you, I told him to Ajay sir Madam When was Ajay sir At the same time I made a phone call Madam ji when his phone came, I wrote you a number to him at the same time. Everything is written. Madam So after that Amit's phone came, I had given you a number Hum After that, she stopped choking so much madam You tell me if your slaves are not able to reach then what is wrong with me Madam Like you write whatever you wish and send it to a fellow Those who are your servants who are your team who write whatever they want, send them above you don't know what to write Madam of an open Coupon coupon Haan ji haan ji Madamji belongs to a biscuit Six zeros What is the problem Six zero eight double three five Six zero six zero Eight double three five Then consent This is the complaint of two twenty-one madam Yes, that's when I am saying madam Yes, you don't know what are you doing guy madam, what are you not doing Now write whatever you want and give it to your slave and give it to me, I didn't get it, don't hear So you gave you Amit's number, so you confirmed that by Tata was asking for it, you sent it to him Madam His number is G Eight two one four six no further. In the last seven hundred twenty-five is the number seven two Brother was engaged This is the number of the myth Madam ji who looks like Panchkula Madam Med was also written with him It is written Madam, look check Check me the last number is seven hundred and twenty-five what That's how shift Yeah Sidhu Bhai Only the era of donors Malega Na Bhai Ye Bhi Hai What has won Ho and No what is this kid Someone is old and won't wake up to eat Wear Don't seem to know Ji Has come out for such Yes do toll Momma G sir main dam There is water Why did you send Kavra Let's turn off the water not She will come and find out how she will do it. Will she be hitting her and entering There will be a mistake, there will be a loss Hello Hmm Ne Bun Aap Hain't you Yes say madam Who did you talk to mamma Talked to Amit with the number you told So talk madam ji, he who is not picking up my phone, I am calling that phone Madam ji he is not picking up the phone Let's see when when will it come Let's take a look, madam, even today Give me half how many days it will be fifteen days then Madam ji who will give you fifteen days You see don't delay Madam I know So Madam is coming Get it done as soon as possible, don't madam get it done as soon as possible Ok madam No, this is the only thing I do, madam, you are ours It's happened too Madam ji Ho Gaye it's been fifteen to twenty days Madam He was saying I want a Tata. I asked to speak to the company now, then the company will send it to you I am a Sharadji here Haan ji Sharad He told him that I had given him the number. You also did not talk to you, he asked the people to send me the Tata to them. Until I have any recording then I will take the connection, Mr. Amit ji. He was saying So tell me Madam, see how many days have it been since you see you too Ajay sir is gone. See three months then look at that too Ajay sir So you tell me Madam, I am then I would have done this much now, then this year would go away madam Look sir, you know what they are saying Madam, whoever asks whoever asks, sir, has to ask what is the problem. I said Madam know everything What shall I tell you Yes, they are handling my case, earlier they were asking Ajay Sahab. Now Monika Madam is doing it. Now whoever talks to him sits down crying madam ji then what should I do madam Now to whom should I explain how many things should I explain Let's do all our own Learned madam Hello Hello Hello ",
+    "summary": "Mr Ramlal has called the ITC customer support several times regarding issues with his order, but his issues have not been resolved. He is frustrated that when he calls the support team, they are not helpful and do not seem to know what is going on with his order. He has three complaints, and the support team has not resolved any of them. He is asking for a manager to help him. The call continues as the agent tries to sort out his issues.",
+    "speaker_a_summary": "Mr Ramlal is frustrated with the lack of support he has received for his three complaints. Monika, taking his call on her day off, checks the status of his previous complaints and informs him that one has been resolved and he should sign a document to formalise it in the presence of the district manager. She also informs him that a coupon, one of his other complaints, has been replaced and will be sent to him shortly. She arranges for priority treatment of his remaining complaint and promises a call within fifteen to twenty days. Mr Ramlal is satisfied with this resolution.",
+    "speaker_b_summary": "Monika calls Ramal madam and informs her that she hasn't spoken to her in a long time. Monika denies receiving any goods from her. She hasn't talked to anyone and is not on vacation either. Monika informs her that she has received a complaint against her. She is frustrated that her slaves are not able to reach her and are not informed about her whereabouts. Monika is also facing problems due to the missing Tata number. She requests madam to resolve the issue as soon as possible.",
+    "cohere_points": "- Monika calls Mr Ramal to help him with his unresolved complaint, there has been a misunderstanding that has not been dealt with.\n- There seem to be issues with the dispatch of goods and the communication within the company. \n- Mr Ramal has contacted the company multiple times and has not received a response. \n- They are currently trying to solve his issue and inform him about the progress. \n- Mr Ramal has previously spoken to Amit and Ajay about his complaint and they were not able to help him.",
+    "opening_comments": "Yes",
+    "closing_comments": "No",
+    "topic": "1. Customer service communication\n2. Complaint resolution process\n3. Issue with product delivery\n4. Unresponsive team members\n5. Follow-up on complaints\n6. Delay in resolving issues\n7. Concerns with company's service\n8. Ineffective communication\n9. Need for prompt action\n10. Lack of clarity in communication\n11. Frustration with handling complaints\n12. Request for urgent resolution\n13. Communication challenges\n14. Customer dissatisfaction\n15. Follow-up",
+    "resolution": "Based on the conversation, it appears that the customer's issue is not resolved yet, as they are still experiencing difficulties with receiving goods and communicating with the company's representatives.",
+    "Email_id": "no",
+    "Address": "no"
+}

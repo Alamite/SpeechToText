@@ -30,7 +30,7 @@ function TrendLine() {
           Emotion
         </button>
         <button onClick={() => setActiveTab(2)} className={activeTab === 2 ? 'active' : ''}>
-          Tone
+          Words per minute
         </button>
       </div>
       <div className="tab-content">

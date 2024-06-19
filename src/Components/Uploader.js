@@ -5,15 +5,16 @@ import AudioPlayer from './AudioPlayer';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUpload } from '@fortawesome/free-solid-svg-icons';
 
-function Uploader({startTime, clicked}) {
+function Uploader({startTime, clicked, onTimeUpdate}) {
 
     const fileInputRef = React.useRef(null);
     const [uploadedFileName, setUploadedFileName] = React.useState('');
     const [uploadStatus, setUploadStatus] = React.useState('');
     const [dropdownOpen1, setDropdownOpen1] = React.useState(false);
     const [dropdownOpen2, setDropdownOpen2] = React.useState(false);
-    const [selectedOption1, setSelectedOption1] = React.useState('Language');
+    const [selectedOption1, setSelectedOption1] = React.useState('Languages');
     const [selectedOption2, setSelectedOption2] = React.useState('File Name');
+    
 
     const toggleDropdown1 = () => setDropdownOpen1(!dropdownOpen1);
     const toggleDropdown2 = () => setDropdownOpen2(!dropdownOpen2);
@@ -58,6 +59,8 @@ function Uploader({startTime, clicked}) {
     };
 
 
+    
+
     return (
         <div className='container-background'>
         <div className='glass-container uploader-container'>
@@ -66,15 +69,15 @@ function Uploader({startTime, clicked}) {
                     <Col xl={6}>
                     <div className='uploader-input'>
                 <div>
-                <div className='input-group'>
+                {/* <div className='input-group'>
                     <input
                         type="url"
                         className="form-control"
                         id="youtubeLink"
-                        placeholder="Enter a YouTube link"
+                        placeholder="Upload your file"
                     />
-                </div>
-                <div className='or-divider'>
+                </div> */}
+                {/* <div className='or-divider'>
                     <center>
                     <div style={{display:"flex", justifyContent:"center"}}>
                     <hr style={{height:"2px",width:"70px",borderWidth:"0px",backgroundColor:"grey"}}/>
@@ -85,11 +88,11 @@ function Uploader({startTime, clicked}) {
                     </div>
                     
                     </center>
-                </div>
+                </div> */}
                 <div style={{display:"flex"}}>
 
-                <div className='upload-button'>
-                    <button type="submit" className="btn upload-btn-primary" onClick={handleUploadClick}> <FontAwesomeIcon icon={faUpload} /> Upload file </button>
+                 <div className='upload-button'>
+                    <button type="submit" className="btn upload-btn-primary" onClick={handleUploadClick}> <FontAwesomeIcon icon={faUpload} /> Upload File </button>
                     <input
                         type="file"
                         ref={fileInputRef}
@@ -97,8 +100,8 @@ function Uploader({startTime, clicked}) {
                         accept="audio/mp3"
                         onChange={handleFileChange}
                     />
-                </div>
-                <Dropdown isOpen={dropdownOpen1} toggle={toggleDropdown1} style={{ marginRight: '10px' }}>
+                    </div>
+                        <Dropdown isOpen={dropdownOpen1} toggle={toggleDropdown1} style={{ marginRight: '10px' }}>
                                             <DropdownToggle caret className="btn btn-secondary">
                                                 {selectedOption1}
                                             </DropdownToggle>
@@ -119,14 +122,14 @@ function Uploader({startTime, clicked}) {
                                             </DropdownMenu>
                                         </Dropdown>
                 <div className='uploaded-file-name'>
-                {uploadedFileName || 'No file uploaded'}
+                {uploadedFileName || 'File name will appear here'}
                 </div>
                 </div>
                 </div>
             </div>
                     </Col>
                     <Col xl={6}>
-                        <AudioPlayer startTime={startTime} clicked={clicked}/>
+                        <AudioPlayer startTime={startTime} clicked={clicked} onTimeUpdate={onTimeUpdate}/>
                     </Col>
                 </Row>
             </Container>

@@ -1,0 +1,25 @@
+{
+    "events" :[
+            {
+                "text": "Monika from ITC calls a customer, Ramal, as per his request to address his grievances that have not been resolved yet",
+                "sentiment": "negative"
+            },
+            {
+                "text": "Ramal was on vacation and couldn't be reached by their employees, so his complaints accumulated.",
+                "sentiment": "positive"
+            },
+            {
+                "text": "Monika transfers him to different departments during the call, but none of the issues get resolved",
+                "sentiment": "negative"
+            },
+            {
+                "text": "The call ends without any resolution and Monika promises to look into the issue despite knowing that it will not make any difference",
+                "sentiment": "neutral"
+            },
+            {
+                "text": "Throughout the call, the customer is very frustrated and complains about the lack of help from the company",
+                "sentiment": "negative"
+            }
+        ]
+      
+}

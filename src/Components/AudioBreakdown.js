@@ -9,9 +9,12 @@ import Sentiment from './Sentiment';
 import Summary from './Summary';
 import TrendLine from './TrendLine';
 import AudioEvents from './AudioEvents';
+import TopicDetection from './TopicDetection';
+import Utterances from './Utterances';
+import IDI from './IDI';
 // Import other option components as needed
 
-function AudioBreakdown({ selectedOptions, onTextClick, onClicked }) {
+function AudioBreakdown({ selectedOptions, onTextClick, onClicked, currentTime }) {
 
     const [highlight, setHighlight] = useState(false);
     const [translate, setTranslate] = useState(false);
@@ -21,9 +24,11 @@ function AudioBreakdown({ selectedOptions, onTextClick, onClicked }) {
     const renderTabContent = () => {
         switch (activeTab) {
             case 'Transcript':
-                return <Transcript highlight={highlight} translate={translate} onTextClick={onTextClick} onClicked={onClicked} />;
+                return <Transcript highlight={highlight} translate={translate} onTextClick={onTextClick} onClicked={onClicked} currentTime={currentTime} />;
             case 'Sentiment':
                 return <Sentiment />;
+            case 'Topic Detection':
+                return <TopicDetection/>;
             case 'Keywords':
                 return <Keywords />;
             case 'Summarization':
@@ -32,6 +37,12 @@ function AudioBreakdown({ selectedOptions, onTextClick, onClicked }) {
                 return <TrendLine/>;
             case 'Audio Events':
                 return <AudioEvents/>;
+            case 'Utterances':
+                return <Utterances/>;
+            case 'IDI Classification':
+                return <IDI/>;
+            case 'AM':
+                    return <amchartTemp/>;
             // Add cases for other options as needed
             default:
                 return <div>Content not available</div>;
@@ -50,7 +61,7 @@ function AudioBreakdown({ selectedOptions, onTextClick, onClicked }) {
                     </div>
                     {activeTab === 'Transcript' && (
                         <div style={{display:"flex"}}>
-                            Translate {/* Toggle to switch between translated and original text */}
+                            Translate All {/* Toggle to switch between translated and original text */}
                             <label className="switch">
                                 <input type="checkbox" checked={translate} onChange={toggleTranslate} />
                                 <span className="slider round"></span>

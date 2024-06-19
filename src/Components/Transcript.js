@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import '../styles.css'; // Adjust the path if necessary
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { Col, Container, Row, Tooltip } from "reactstrap";
@@ -6,7 +6,7 @@ import { faSmile, faMeh, faFrown, faSailboat, faJetFighter, faCarSide, faCircleI
 import smile from '../Data/positiveEmoji.png';
 import meh from '../Data/neutralEmoji.png';
 import frown from '../Data/negativeEmoji.png';
-import transcriptData from '../Data/TranscriptOutput1.json';  // Corrected path to the JSON file
+import transcriptData from '../Data/TranscriptOutput4.json';  // Corrected path to the JSON file
 
 // Function to map emotion to the corresponding icon
 const getIconByEmotion = (sentiment) => {
@@ -19,6 +19,7 @@ const getIconByEmotion = (sentiment) => {
             return faMeh;
     }
 };
+
 // WPM Icon
 const getIconByWPM = (rate) => {
     if (rate < 120) {
@@ -34,7 +35,7 @@ const getIconByWPM = (rate) => {
 const mapSpeakerLabel = (label) => {
     switch (label) {
         case 'spk_0':
-            return 'Synthesis Agent';
+            return 'Synthesis Agent';
         case 'spk_1':
             return 'Caller';
         default:
@@ -53,23 +54,33 @@ const getEmojiByEmotion = (sentiment) => {
     }
 };
 
-function Transcript({ highlight, translate, onTextClick, onClicked }) {
+function Transcript({ highlight, translate, onTextClick, onClicked, currentTime }) {
     const [tooltipOpen, setTooltipOpen] = useState(false);
-    const [clicked, setclicked] = useState(false);
-
-    const items = transcriptData.segments.map(item => ({
+    const [clicked, setClicked] = useState(false);
+    const [items, setItems] = useState(transcriptData.segments.map(item => ({
         speaker: mapSpeakerLabel(item.speaker_label),
-        text: translate ? item.translated_transcript : item.original_transcript, // Display original text or translated text based on the translation toggle
-        start: item.start_time.toFixed(2),
-        end: item.end_time.toFixed(2),
+        text: item.original_transcript,
+        translated_text: item.translated_transcript,
+        start: parseFloat(item.start_time).toFixed(2),
+        end: parseFloat(item.end_time).toFixed(2),
         tone: item.tone,
         emotion: item.emotion,
         sentiment: item.sentiment_label,
         keywords: item.keywords,
         icon: getEmojiByEmotion(item.sentiment_label),
-        rate_of_speech: item.rate_of_speech.toFixed(0),
+        rate_of_speech: parseFloat(item.rate_of_speech).toFixed(0),
         WPMicon: getIconByWPM(item.rate_of_speech),
-    }));
+        translate: false, // Initial translate state for each item
+    })));
+
+    useEffect(() => {
+        // Update all items translate state based on the global translate prop
+        const newItems = items.map(item => ({
+            ...item,
+            translate
+        }));
+        setItems(newItems);
+    }, [translate]);
 
     const toggleTooltip = () => setTooltipOpen(!tooltipOpen);
 
@@ -77,31 +88,30 @@ function Transcript({ highlight, translate, onTextClick, onClicked }) {
         // Pass the start time value to the parent component when a text is clicked
         onTextClick(startTime);
         onClicked(clicked);
-        setclicked(!clicked);
+        setClicked(!clicked);
+    };
+
+    const toggleTranslate = (index, event) => {
+        event.stopPropagation();
+        const newItems = [...items];
+        newItems[index].translate = !newItems[index].translate;
+        setItems(newItems);
     };
 
     return (
         <div className='transcript-content'>
             <Container fluid>
-                <Row>
-                    <div style={{ display: "flex", justifyContent: "space-between" }}>
-                        <div>
-                            WPM <FontAwesomeIcon icon={faCircleInfo} id={`Tooltip`} />
-                            <Tooltip placement="top" isOpen={tooltipOpen} target={`Tooltip`} toggle={toggleTooltip}>
-                                Words Per Minute
-                            </Tooltip>
-                        </div>
-                    </div>
-                </Row>
                 {items.map((item, index) => (
-                    <div className='highlight-background'>
-                        <div key={index} className={`transcript-item ${highlight && item.sentiment === 'Negative' ? 'highlight' : ''}`}  onClick={() => handleTextClick(item.start)}>
+                    <div key={index} className='highlight-background'>
+                        <div 
+                            className={`transcript-item ${highlight && item.sentiment === 'Negative' ? 'highlight' : ''}`}  
+                        >
                             <Row>
                                 <Col xl={2}>
                                     <div className={`speaker-details ${highlight && item.sentiment === 'Negative' ? 'highlight' : ''}`}>
                                         <div>
                                             <div style={{ display: "flex", alignItems: "center" }}>
-                                                <span className='speaker-title'>{item.speaker}</span>
+                                                <span className='speaker-title'>{item.speaker} </span>
                                                 <div style={{ paddingRight: "2px" }}>
                                                     <img
                                                         src={item.icon}
@@ -117,23 +127,40 @@ function Transcript({ highlight, translate, onTextClick, onClicked }) {
                                 </Col>
                                 <Col xl={10}>
                                     <div className={`details ${highlight && item.sentiment === 'Negative' ? 'highlight' : ''}`}>
-                                        <span style={{fontWeight:"600", fontSize:"16px"}} dangerouslySetInnerHTML={{ __html: item.text }}></span>
+                                        <span 
+                                            className={`transcript-text ${currentTime >= item.start && currentTime <= item.end ? 'current-time-highlight' : ''}`} 
+                                            style={{ fontWeight: "600", fontSize: "16px" }} 
+                                            dangerouslySetInnerHTML={{ __html: translate || item.translate ? item.translated_text : item.text }}
+                                            onClick={() => handleTextClick(item.start)}
+                                        ></span>
                                         <div style={{ display: "flex", justifyContent: "space-between", paddingTop: "10px", alignItems: "center" }}>
                                             <div style={{ display: "flex" }}>
-
                                                 <div style={{ paddingLeft: "5px" }}>
                                                     <FontAwesomeIcon icon={item.WPMicon} />
-                                                    <span style={{ paddingRight: "2px" }}>{item.rate_of_speech}</span>
+                                                    <span style={{ paddingRight: "2px", paddingLeft:"5px" }}>{item.rate_of_speech}</span>
                                                     WPM
                                                 </div>
                                             </div>
                                             <div className="details-buttons">
                                                 <button className={`details-button ${highlight && item.sentiment === 'Negative' ? 'highlight' : ''}`}>Emotion: {item.emotion}</button>
-                                                <button className={`details-button ${highlight && item.sentiment === 'Negative' ? 'highlight' : ''}`}>Tone: {item.tone}</button>
+                                                {/* <button className={`details-button ${highlight && item.sentiment === 'Negative' ? 'highlight' : ''}`}>Tone: {item.tone}</button> */}
                                             </div>
                                         </div>
-                                        <div className={`keywords ${highlight && item.sentiment === 'Negative' ? 'highlight' : ''}`}>
-                                            Keywords: {item.keywords.join(', ')}
+                                        <div style={{display:"flex", justifyContent:"space-between", alignItems:"center"}}>
+                                            <div className={`keywords ${highlight && item.sentiment === 'Negative' ? 'highlight' : ''}`}>
+                                                Keywords: {item.keywords.join(', ')}
+                                            </div>
+                                            <div style={{alignItems:"center"}}>
+                                                Translate
+                                                <label className="switch">
+                                                    <input 
+                                                        type="checkbox" 
+                                                        checked={item.translate} 
+                                                        onChange={(event) => toggleTranslate(index, event)} 
+                                                    />
+                                                    <span className="slider round"></span>
+                                                </label>
+                                            </div>
                                         </div>
                                     </div>
                                 </Col>
