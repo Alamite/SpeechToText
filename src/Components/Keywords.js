@@ -33,7 +33,7 @@ function WordCloud() {
     chart.data(formattedData);
     // Set chart title
     chart
-      .title('Keywords from Local JSON Data')
+      .title('')
       // Set array of angles, by which words will be placed
       .angles([0])
       // Enable color range

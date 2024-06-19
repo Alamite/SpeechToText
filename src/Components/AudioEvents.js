@@ -33,7 +33,7 @@ function AudioEvents() {
         <h3><FontAwesomeIcon icon={faVolumeMute} style={{ marginRight: '10px' }} />
         Silence</h3>
             <p><b>Total Duration : </b> {convertToHHMMSS(parseFloat(jsonData.total_silence_duration).toFixed(2))}</p>
-            <p><b>Number of Events : </b> {jsonData.num_silences}</p>
+            <p><b>Total Count of Event : </b> {jsonData.num_silences}</p>
         <br/>
             <h3><FontAwesomeIcon icon={faMusic} style={{ marginRight: '10px' }} />
         Hold Music</h3>

@@ -78,6 +78,7 @@ const CustomRangeBarChart = () => {
         chart.rangeBar(angerMapping).xMode('scatter').name('Anger').fill(angerColor).stroke(null);
         chart.rangeBar(sadnessMapping).xMode('scatter').name('Sadness').fill(sadnessColor).stroke(null);
     
+        
         // set the padding between bars
         chart.barsPadding(-1);
         
