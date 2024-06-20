@@ -92,9 +92,7 @@
      /* Subtract the height of the Header if necessary */
 }
 
-.uploader-container {
-    /* height: 20vh; */
-}
+
 
 .options-container {
     /* display: flex;
@@ -190,7 +188,14 @@
     margin-left: 27px;
 }
 
-/* Uploader styles */
+/* Uploader styles  ------------------------------------------------------------------*/
+
+.uploader-container {
+    /* height: 20vh; */
+    position: relative;
+    z-index: 1000;
+}
+
 .uploader-input {
     /* display: flex; */
     width: 100%;
@@ -223,6 +228,9 @@
     text-align: left;
 }
 
+.dropdown-menu, .dropdown {
+    z-index: 1050; /* Ensure the dropdown appears above other elements */
+}
 .run-button {
     margin-left: auto; /* Push to the extreme right */
 }
@@ -810,18 +818,23 @@ border-radius: 12px;
     /* height: 60vh; */
   }
   
-
+/* Topic Detection------------------------------------------------------------ */
+.no-bullets {
+    list-style-type: none;
+    padding: 0;
+  }
 
 
   /* Audio events styles ------------------------------------------------------ */
 
   .audioevents-content {
     padding: 10px 10px;
+    font-size: 1.2rem;
   }
 
-  .table {
+  /* .table {
     border-radius: 12px !important;
-    /* border: 5px solid black !important; */
+
     font-size: 18px;
     margin-bottom: 0px !important;
   }
@@ -834,11 +847,11 @@ border-radius: 12px;
 .table-bordered thead th {
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-    background-color: #92C7CF; /* Set background color for the header row */
+    background-color: #92C7CF; 
 }
 
 .table-bordered tbody tr:first-child {
-    background-color: #92C7CF; /* Set background color for the first row in the body */
+    background-color: #92C7CF; 
 }
 
 .table-bordered tbody tr:last-child td:first-child {
@@ -847,4 +860,21 @@ border-radius: 12px;
 
 .table-bordered tbody tr:last-child td:last-child {
     border-bottom-right-radius: 10px;
+}
+ */
+
+
+
+/* Utterances ----------------------------------------------------------------------- */
+
+.table .first-column {
+    width: 40%;
+}
+
+.error {
+    color: red !important;
+}
+
+.default {
+    color: inherit;
 }

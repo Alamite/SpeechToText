@@ -8,10 +8,10 @@ import '../styles.css';
 function IDI() {
     return (
         <div className='audioevents-content'>
-        <Table bordered>
-            <thead>
+        <Table className="table">
+            <thead className="table-dark">
                 <tr>
-                    <th>Interaction</th>
+                    <th className="first-column">Interaction</th>
                     <th>Discipline</th>
                     <th>Intent</th>
                 </tr>

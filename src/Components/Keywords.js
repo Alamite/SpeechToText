@@ -9,14 +9,15 @@ import jsonData from '../Data/TranscriptOutput4.json'; // Import the JSON data
 
 function WordCloud() {
   useEffect(() => {
-    // Extract keywords from the JSON data
+    // Extract and format keywords from the JSON data
     const keywords = {};
     jsonData.segments.forEach(item => {
+      const category = item.speaker_label === 'spk_0' ? 'Synthesis Agent' : 'Caller';
       item.keywords.forEach(keyword => {
         if (keywords[keyword]) {
-          keywords[keyword]++;
+          keywords[keyword].value++;
         } else {
-          keywords[keyword] = 1;
+          keywords[keyword] = { value: 1, category: category };
         }
       });
     });
@@ -24,39 +25,32 @@ function WordCloud() {
     // Format the keywords for AnyChart
     const formattedData = Object.keys(keywords).map(key => ({
       x: key,
-      value: keywords[key]
+      value: keywords[key].value,
+      category: keywords[key].category
     }));
 
-    // Create tag cloud
-    var chart = anychart.tagCloud();
-    // Set data with local array
-    chart.data(formattedData);
-    // Set chart title
-    chart
-      .title('')
-      // Set array of angles, by which words will be placed
-      .angles([0])
-      // Enable color range
-      .colorRange(true)
-      // Set color scale
-      .colorScale(anychart.scales.ordinalColor())
-      // Set settings for normal state
-      .normal({
-        fontFamily: 'Times New Roman'
-      })
-      // Set settings for hovered state
-      .hovered({
-        fill: '#df8892'
-      })
-      // Set settings for selected state
-      .selected({
-        fill: '#df8892',
-        fontWeight: 'bold'
-      });
+    // Create a chart and set the data
+    var chart = anychart.tagCloud(formattedData);
 
-    // Set container id for the chart
-    chart.container('container');
-    // Initiate chart drawing
+    // Create and configure a color scale
+    var customColorScale = anychart.scales.ordinalColor();
+    customColorScale.colors(["#3498db", "#e74c3c"]); // Colors for Synthesis Agent and Caller
+
+    // Set the color scale as the color scale of the chart
+    chart.colorScale(customColorScale);
+
+    chart.angles([0]);
+
+    // Add a color range
+    chart.colorRange().enabled(true);
+
+    // Set the chart title
+    chart.title("Tag Cloud Chart: Synthesis Agent vs Caller");
+
+    // Set the container id
+    chart.container("container");
+
+    // Initiate drawing the chart
     chart.draw();
 
     // Cleanup function to dispose of the chart when the component unmounts

@@ -1,5 +1,4 @@
 import React from 'react';
-import { Table } from 'reactstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLaugh, faMusic, faMicrophone, faVolumeMute } from '@fortawesome/free-solid-svg-icons';
 import jsonData from '../Data/TranscriptOutput4.json';
