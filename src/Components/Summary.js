@@ -125,9 +125,9 @@ function Summary() {
           <button onClick={() => setActiveTab(2)} className={activeTab === 2 ? 'active' : ''}>
             Resolution
           </button>
-          <button onClick={() => setActiveTab(3)} className={activeTab === 3 ? 'active' : ''}>
+          {/* <button onClick={() => setActiveTab(3)} className={activeTab === 3 ? 'active' : ''}>
             Sequence of events Temp
-          </button>
+          </button> */}
         </div>
         <div className="tab-content">
           {renderContent()}

@@ -57,6 +57,7 @@ const getEmojiByEmotion = (sentiment) => {
 function Transcript({ highlight, translate, onTextClick, onClicked, currentTime }) {
     const [tooltipOpen, setTooltipOpen] = useState(false);
     const [clicked, setClicked] = useState(false);
+    const [globalTranslate, setGlobalTranslate] = useState(translate);
     const [items, setItems] = useState(transcriptData.segments.map(item => ({
         speaker: mapSpeakerLabel(item.speaker_label),
         text: item.original_transcript,
@@ -70,7 +71,7 @@ function Transcript({ highlight, translate, onTextClick, onClicked, currentTime 
         icon: getEmojiByEmotion(item.sentiment_label),
         rate_of_speech: parseFloat(item.rate_of_speech).toFixed(0),
         WPMicon: getIconByWPM(item.rate_of_speech),
-        translate: false, // Initial translate state for each item
+        translate: translate, // Initial translate state for each item
     })));
 
     useEffect(() => {
@@ -80,6 +81,7 @@ function Transcript({ highlight, translate, onTextClick, onClicked, currentTime 
             translate
         }));
         setItems(newItems);
+        setGlobalTranslate(translate);
     }, [translate]);
 
     const toggleTooltip = () => setTooltipOpen(!tooltipOpen);
@@ -130,7 +132,7 @@ function Transcript({ highlight, translate, onTextClick, onClicked, currentTime 
                                         <span 
                                             className={`transcript-text ${currentTime >= item.start && currentTime <= item.end ? 'current-time-highlight' : ''}`} 
                                             style={{ fontWeight: "600", fontSize: "16px" }} 
-                                            dangerouslySetInnerHTML={{ __html: translate || item.translate ? item.translated_text : item.text }}
+                                            dangerouslySetInnerHTML={{ __html: item.translate ? item.translated_text : item.text }}
                                             onClick={() => handleTextClick(item.start)}
                                         ></span>
                                         <div style={{ display: "flex", justifyContent: "space-between", paddingTop: "10px", alignItems: "center" }}>
