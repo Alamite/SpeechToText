@@ -1,7 +1,7 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLaugh, faMusic, faMicrophone, faVolumeMute } from '@fortawesome/free-solid-svg-icons';
-import jsonData from '../Data/TranscriptOutput4.json';
+// import jsonData from '../Data/TranscriptOutput4.json';
 import '../styles.css';
 
 
@@ -18,14 +18,14 @@ const convertToHHMMSS = (timeInSeconds) => {
     return `${paddedHours}:${paddedMinutes}:${paddedSeconds}`;
 };
 
-const eventsData = [
-    // { icon: faLaugh, eventType: 'Laughter', totalDuration: '00:00:00', numberOfEvents: 0 },
-    { icon: faMusic, eventType: 'Hold Music', totalDuration: '00:00:00', numberOfEvents: 0 },
-    { icon: faVolumeMute, eventType: 'Silence', totalDuration: convertToHHMMSS(parseFloat(jsonData.total_silence_duration).toFixed(2)), numberOfEvents: jsonData.num_silences },
-    { icon: faMicrophone, eventType: 'Speech', totalDuration: '00:00:00', numberOfEvents: 0 },
-];
+// const eventsData = [
+//     // { icon: faLaugh, eventType: 'Laughter', totalDuration: '00:00:00', numberOfEvents: 0 },
+//     { icon: faMusic, eventType: 'Hold Music', totalDuration: '00:00:00', numberOfEvents: 0 },
+//     { icon: faVolumeMute, eventType: 'Silence', totalDuration: convertToHHMMSS(parseFloat(jsonData.total_silence_duration).toFixed(2)), numberOfEvents: jsonData.num_silences },
+//     { icon: faMicrophone, eventType: 'Speech', totalDuration: '00:00:00', numberOfEvents: 0 },
+// ];
 
-function AudioEvents() {
+function AudioEvents({jsonData}) {
     return (
 
         <div className='sentiment-content'>

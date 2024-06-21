@@ -7,7 +7,7 @@ import 'anychart/dist/css/anychart-ui.min.css';
 import 'anychart/dist/fonts/css/anychart-font.min.css';
 import jsonData from '../Data/TranscriptOutput4.json'; // Import the JSON data
 
-function WordCloud() {
+function WordCloud({jsonData}) {
   useEffect(() => {
     // Extract and format keywords from the JSON data
     const keywords = {};

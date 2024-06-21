@@ -54,25 +54,32 @@ const getEmojiByEmotion = (sentiment) => {
     }
 };
 
-function Transcript({ highlight, translate, onTextClick, onClicked, currentTime }) {
+function Transcript({ jsonData, highlight, translate, onTextClick, onClicked, currentTime }) {
     const [tooltipOpen, setTooltipOpen] = useState(false);
     const [clicked, setClicked] = useState(false);
     const [globalTranslate, setGlobalTranslate] = useState(translate);
-    const [items, setItems] = useState(transcriptData.segments.map(item => ({
-        speaker: mapSpeakerLabel(item.speaker_label),
-        text: item.original_transcript,
-        translated_text: item.translated_transcript,
-        start: parseFloat(item.start_time).toFixed(2),
-        end: parseFloat(item.end_time).toFixed(2),
-        tone: item.tone,
-        emotion: item.emotion,
-        sentiment: item.sentiment_label,
-        keywords: item.keywords,
-        icon: getEmojiByEmotion(item.sentiment_label),
-        rate_of_speech: parseFloat(item.rate_of_speech).toFixed(0),
-        WPMicon: getIconByWPM(item.rate_of_speech),
-        translate: translate, // Initial translate state for each item
-    })));
+    const [items, setItems] = useState([]);
+    
+    useEffect(() => {
+        if (jsonData && jsonData.segments) {
+            const newItems = jsonData.segments.map(item => ({
+                speaker: mapSpeakerLabel(item.speaker_label),
+                text: item.original_transcript,
+                translated_text: item.translated_transcript,
+                start: parseFloat(item.start_time).toFixed(2),
+                end: parseFloat(item.end_time).toFixed(2),
+                tone: item.tone,
+                emotion: item.emotion,
+                sentiment: item.sentiment_label,
+                keywords: item.keywords,
+                icon: getEmojiByEmotion(item.sentiment_label),
+                rate_of_speech: parseFloat(item.rate_of_speech).toFixed(0),
+                WPMicon: getIconByWPM(item.rate_of_speech),
+                translate: translate, // Initial translate state for each item
+            }));
+            setItems(newItems);
+        }
+    }, [jsonData, translate]);
 
     useEffect(() => {
         // Update all items translate state based on the global translate prop

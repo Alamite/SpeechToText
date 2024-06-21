@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import '../styles.css';
-import jsonData from '../Data/TranscriptOutput1.json';
+import jsonData from '../Data/TranscriptOutput4.json';
 import sequence from '../Data/sequence.json';
 import SentimentBarChart from './SentimentBarChart';
 
@@ -31,26 +31,24 @@ import SentimentBarChart from './SentimentBarChart';
 
 // export default Summary;
 
-function OverallSummary() {
-    const { summaries } = jsonData;
-  
+function OverallSummary({jsonData}) {
 
     return (
         <div className='sentiment-content'>
             <h2>Overall Summary</h2>
-            <p>{summaries.overall_summary}</p>
+            <p>{jsonData.summary}</p>
             {/* <h3>Sentiment Levels</h3>              Sentiment levels chart
             <SentimentBarChart/> */}
         </div>
     );
 }
 
-function EventSequence() {
-    const { summaries } = jsonData;
+function EventSequence({jsonData}) {
+
     // Remove the first hyphen and split the cohere points into an array
-    const coherePoints = summaries.cohere_points.startsWith('- ')
-        ? summaries.cohere_points.substring(2).split('\n- ').filter(point => point.trim() !== '')
-        : summaries.cohere_points.split('\n- ').filter(point => point.trim() !== '');
+    const coherePoints = jsonData.cohere_points.startsWith('- ')
+        ? jsonData.cohere_points.substring(2).split('\n- ').filter(point => point.trim() !== '')
+        : jsonData.cohere_points.split('\n- ').filter(point => point.trim() !== '');
 
     return (
         <div className='sentiment-content'>
@@ -81,31 +79,29 @@ function EventSequenceSentiment() {
   );
 }
 
-function Resolution() {
-    const { summaries } = jsonData;
-  
+function Resolution({jsonData}) {
 
     return (
         <div className='sentiment-content'>
             <h2>Resolution</h2>
-            <p>{jsonData.resolution}</p>
+            <p>{jsonData.Resolution}</p>
             {/* <h3>Sentiment Levels</h3>              Sentiment levels chart
             <SentimentBarChart/> */}
         </div>
     );
 }
 
-function Summary() {
+function Summary({jsonData}) {
     const [activeTab, setActiveTab] = useState(0);
   
     const renderContent = () => {
       switch (activeTab) {
         case 0:
-          return <OverallSummary />;
+          return <OverallSummary jsonData={jsonData} />;
         case 1:
-          return <EventSequence />;
+          return <EventSequence jsonData={jsonData}/>;
         case 2:
-          return <Resolution/>;
+          return <Resolution jsonData={jsonData}/>;
         case 3:
           return <EventSequenceSentiment />;
         default:

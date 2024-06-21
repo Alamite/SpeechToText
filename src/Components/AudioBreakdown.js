@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import '../styles.css'; // Adjust the path if necessary
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { Col, Container, Row, Tooltip } from "reactstrap";
@@ -14,33 +14,61 @@ import Utterances from './Utterances';
 import IDI from './IDI';
 // Import other option components as needed
 
-function AudioBreakdown({ selectedOptions, onTextClick, onClicked, currentTime }) {
+function AudioBreakdown({ selectedOptions, onTextClick, onClicked, currentTime, jsonData }) {
 
     const [highlight, setHighlight] = useState(false);
     const [translate, setTranslate] = useState(false);
+    // const [jsonData, setJsonData] = useState(null);
 
     const activeTab = selectedOptions[0] || 'Transcript';
+
+    // useEffect(() => {
+    //     if (selectedFile) {
+    //         const fetchData = async () => {
+    //             try {
+    //                 console.log('Fetching JSON file:', `/api/files/${selectedFile.folder}/${selectedFile.file}`);
+    //                 const response = await fetch(`http://localhost:3001/api/files/${selectedFile.folder}/${selectedFile.file}`);
+    //                 console.log('Response:', response); // Log the response
+
+    //                 if (!response.ok) {
+    //                     throw new Error('Network response was not ok');
+    //                 }
+
+    //                 // Read the response stream
+    //                 const text = await response.text();
+    //                 // console.log(text);
+    //                 const data = JSON.parse(text);
+    //                 console.log('JSON Data:', data); // Log the JSON data
+    //                 setJsonData(data); // Store JSON data in state
+    //             } catch (error) {
+    //                 console.error('Error fetching JSON file:', error);
+    //             }
+    //         };
+
+    //         fetchData();
+    //     }
+    // }, [selectedFile]);
 
     const renderTabContent = () => {
         switch (activeTab) {
             case 'Transcript':
-                return <Transcript highlight={highlight} translate={translate} onTextClick={onTextClick} onClicked={onClicked} currentTime={currentTime} />;
+                return <Transcript jsonData={jsonData} highlight={highlight} translate={translate} onTextClick={onTextClick} onClicked={onClicked} currentTime={currentTime} />;
             case 'Sentiment':
-                return <Sentiment />;
+                return <Sentiment jsonData={jsonData}/>;
             case 'Topic Detection':
-                return <TopicDetection/>;
+                return <TopicDetection jsonData={jsonData}/>;
             case 'Keywords':
-                return <Keywords />;
+                return <Keywords jsonData={jsonData}/>;
             case 'Summarization':
-                return <Summary />;
+                return <Summary jsonData={jsonData}/>;
             case 'Trend Line':
-                return <TrendLine/>;
+                return <TrendLine jsonData={jsonData}/>;
             case 'Audio Events':
-                return <AudioEvents/>;
+                return <AudioEvents jsonData={jsonData}/>;
             case 'Utterances':
-                return <Utterances/>;
+                return <Utterances jsonData={jsonData}/>;
             case 'IDI Classification':
-                return <IDI/>;
+                return <IDI jsonData={jsonData}/>;
             case 'AM':
                     return <amchartTemp/>;
             // Add cases for other options as needed

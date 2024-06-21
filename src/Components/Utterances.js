@@ -4,7 +4,7 @@ import jsonData from '../Data/TranscriptOutput4.json';
 import SentimentBarChart from './SentimentBarChart';
 
 
-function Utterances() {
+function Utterances({jsonData}) {
 
     var opening_comments_error = false;
     var closing_comments_error = false;

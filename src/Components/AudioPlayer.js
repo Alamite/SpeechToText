@@ -1,12 +1,30 @@
 import React, { useRef, useState, useEffect } from 'react';
-import galatta from '../Data/recording.mp3';
 import '../styles.css';
 import AudioPlayer from 'react-h5-audio-player';
 import 'react-h5-audio-player/lib/styles.css';
 
-function Player({ src, fileName, startTime, clicked, onTimeUpdate }) {
+function Player({ selectedFile, startTime, clicked, onTimeUpdate }) {
     const [isPlaying, setIsPlaying] = useState(false);
+    const [mp3Url, setMp3Url] = useState(null); // State to hold the fetched MP3 file URL
     const audioRef = useRef(null);
+
+    useEffect(() => {
+        if (selectedFile) {
+            const apiUrl = `http://localhost:3001/api/files/${selectedFile.folder}/${selectedFile.file}`;
+            const mp3Url = apiUrl.replace('.json', '.mp3');
+            console.log(mp3Url);
+
+            fetch(mp3Url)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    // Assuming the response is a direct URL to the MP3 file
+                    setMp3Url(mp3Url); // Store the fetched MP3 file URL in state
+                })
+                .catch(error => console.error('Error fetching MP3 file:', error));
+        }
+    }, [selectedFile]);
 
     const convertToSeconds = (time) => {
         const minutes = Math.floor(time); // Get the integer part (minutes)
@@ -23,18 +41,13 @@ function Player({ src, fileName, startTime, clicked, onTimeUpdate }) {
     useEffect(() => {
         // Check if startTime is provided and the audio ref is initialized
         if (startTime && audioRef.current) {
-            // Set the current time of the audio player to the startTime
-
-            // Convert startTime to seconds
-        const startTimeInSeconds = convertToSeconds(startTime);
-        
-        // Set the current time of the audio player to the startTime in seconds
-        audioRef.current.audio.current.currentTime = startTimeInSeconds;
+            const startTimeInSeconds = convertToSeconds(startTime);
+            audioRef.current.audio.current.currentTime = startTimeInSeconds;
         }
-    }, [startTime, clicked]); // Re-run effect when startTime changes
+    }, [startTime, clicked]);
 
     const togglePlayPause = () => {
-        setIsPlaying((prev) => !prev);
+        setIsPlaying(prev => !prev);
     };
 
     const handleTimeUpdate = () => {
@@ -45,7 +58,8 @@ function Player({ src, fileName, startTime, clicked, onTimeUpdate }) {
 
     return (
         <AudioPlayer
-            src={galatta}
+            key={mp3Url}
+            src={mp3Url} // Pass the fetched MP3 file URL as src
             onPlay={togglePlayPause}
             onPause={togglePlayPause}
             autoPlay={isPlaying} // Play audio when isPlaying is true
@@ -57,6 +71,7 @@ function Player({ src, fileName, startTime, clicked, onTimeUpdate }) {
 }
 
 export default Player;
+
 
 
 

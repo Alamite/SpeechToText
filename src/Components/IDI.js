@@ -5,7 +5,7 @@ import { faLaugh, faMusic, faMicrophone, faVolumeMute } from '@fortawesome/free-
 import jsonData from '../Data/TranscriptOutput4.json';
 import '../styles.css';
 
-function IDI() {
+function IDI({jsonData}) {
     return (
         <div className='audioevents-content'>
         <Table className="table">
