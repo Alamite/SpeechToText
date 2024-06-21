@@ -49,6 +49,9 @@ function AudioBreakdown({ selectedOptions, onTextClick, onClicked, currentTime, 
     //     }
     // }, [selectedFile]);
 
+    const NoFilePage = () => {
+        return (<div>Please Select a File to Get Started</div>)
+    }
     const renderTabContent = () => {
         switch (activeTab) {
             case 'Transcript':
@@ -69,8 +72,8 @@ function AudioBreakdown({ selectedOptions, onTextClick, onClicked, currentTime, 
                 return <Utterances jsonData={jsonData}/>;
             case 'IDI Classification':
                 return <IDI jsonData={jsonData}/>;
-            case 'AM':
-                    return <amchartTemp/>;
+            case 'No File':
+                    return <NoFilePage/>;
             // Add cases for other options as needed
             default:
                 return <div>Content not available</div>;

@@ -4,19 +4,19 @@ import SentimentTrend from './SentimentTrend';
 import EmotionTrend from './EmotionTrend';
 import ToneTrend from './ToneTrend';
 
-function TrendLine() {
+function TrendLine({jsonData}) {
   const [activeTab, setActiveTab] = useState(0);
 
   const renderContent = () => {
     switch (activeTab) {
       case 0:
-        return <SentimentTrend />;
+        return <SentimentTrend jsonData={jsonData} />;
       case 1:
-        return <EmotionTrend />;
+        return <EmotionTrend jsonData={jsonData}/>;
       case 2:
-        return <ToneTrend />;
+        return <ToneTrend jsonData={jsonData}/>;
       default:
-        return  <SentimentTrend />;
+        return  <SentimentTrend jsonData={jsonData}/>;
     }
   };
 

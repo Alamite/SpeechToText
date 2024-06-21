@@ -4,7 +4,7 @@ import 'anychart/dist/css/anychart-ui.css';
 import 'anychart/dist/fonts/css/anychart-font.css';
 import jsonData from '../Data/TranscriptOutput1.json';
 
-const CustomRangeBarChart = () => {
+const CustomRangeBarChart = ({jsonData}) => {
     useEffect(() => {
         const themeSettings = {
             "bar": {
@@ -152,7 +152,7 @@ const CustomRangeBarChart = () => {
             chart.dispose();
         };
 
-    }, []);
+    }, [jsonData]);
 
     return <div id="container" style={{ width: '100%', height: '40vh' }}></div>;
 };
