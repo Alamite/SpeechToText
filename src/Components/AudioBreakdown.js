@@ -72,7 +72,7 @@ function AudioBreakdown({ selectedOptions, onTextClick, onClicked, currentTime, 
                 return <Utterances jsonData={jsonData}/>;
             case 'IDI Classification':
                 return <IDI jsonData={jsonData}/>;
-            case 'No File':
+            case 'No File Selected':
                     return <NoFilePage/>;
             // Add cases for other options as needed
             default:

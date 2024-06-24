@@ -11,7 +11,7 @@ function Options({ selectedOptions, setSelectedOptions, onRun, isEnabled }) {
 
     useEffect(() => {
         if (!selectedOptions || selectedOptions.length === 0) {
-            setSelectedOptions(['No File']);
+            setSelectedOptions(['No File Selected']);
         }
     }, [selectedOptions, setSelectedOptions]);
 

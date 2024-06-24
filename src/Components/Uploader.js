@@ -100,7 +100,7 @@ function Uploader({ startTime, clicked, onTimeUpdate, onSelectFile, audioFile })
                                     </div>
                                     <Dropdown isOpen={dropdownOpen1} toggle={toggleDropdown1} style={{ marginRight: '10px' }}>
                                         <DropdownToggle caret className="btn btn-secondary">
-                                            {selectedFolder ? selectedFolder.folder : 'Select Folder'}
+                                            {selectedFolder ? selectedFolder.folder : 'Language'}
                                         </DropdownToggle>
                                         <DropdownMenu>
                                             {folders.map((folder, index) => (
@@ -128,9 +128,9 @@ function Uploader({ startTime, clicked, onTimeUpdate, onSelectFile, audioFile })
                                             ))}
                                         </DropdownMenu>
                                     </Dropdown>
-                                    <div className='uploaded-file-name'>
+                                    {/* <div className='uploaded-file-name'>
                                         {uploadedFileName || 'File name will appear here'}
-                                    </div>
+                                    </div> */}
                                 </div>
                             </div>
                         </Col>
