@@ -64,12 +64,13 @@
   }
 
   .run-btn-primary {
-    background-color: #B4B4B4 !important;
+    background-color: #2ecc71 !important;
     border-color:#B4B4B4 !important;
     color: white !important;
   }
 
   .run-btn-primary:hover {
+    color: #000 !important;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2) !important;
     background-color: #2ecc71 !important;
     border-color:#2ecc71 !important;
@@ -436,7 +437,7 @@
     color: #333;
     padding: 10px 0px;
     text-align: left;
-    height: 70vh;
+    height: 77vh;
     overflow-y: scroll;
 }
 
@@ -667,7 +668,7 @@ border-radius: 12px;
   }
   
   input:checked + .slider {
-    background-color: grey;
+    background-color: #AADDEE;
     
   }
   

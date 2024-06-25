@@ -30,7 +30,7 @@ function Uploader({ startTime, clicked, onTimeUpdate, onSelectFile, audioFile })
             })
             .catch(error => {
                 console.error('Error fetching files:', error);
-                alert('Failed to fetch files. Please check the console for more details.');
+                // alert('Failed to fetch files. Please check the console for more details.');
             });
     }, []);
 
@@ -100,7 +100,7 @@ function Uploader({ startTime, clicked, onTimeUpdate, onSelectFile, audioFile })
                                     </div>
                                     <Dropdown isOpen={dropdownOpen1} toggle={toggleDropdown1} style={{ marginRight: '10px' }}>
                                         <DropdownToggle caret className="btn btn-secondary">
-                                            {selectedFolder ? selectedFolder.folder : 'Language'}
+                                            {selectedFolder ? selectedFolder.folder : 'Select Language'}
                                         </DropdownToggle>
                                         <DropdownMenu>
                                             {folders.map((folder, index) => (

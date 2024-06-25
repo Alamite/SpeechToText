@@ -49,12 +49,12 @@ const CustomRangeBarChart = ({jsonData}) => {
         const negativeMapping = negativeDataSet.mapAs({ x: 0, low: 1, high: 2 });
     
         // get colors from theme
-        const themeColors = anychart.theme().length
-          ? anychart.theme()[0].palette.items
-          : anychart.palettes.defaultPalette;
+        // const themeColors = anychart.theme().length
+        //   ? anychart.theme()[0].palette.items
+        //   : anychart.palettes.defaultPalette;
         const positiveColor = '#2ecc71';
-        const neutralColor = themeColors[0] || '#a5a5a5';
-        const negativeColor = themeColors[6] || '#ff3e29';
+        const neutralColor =  '#a5a5a5';
+        const negativeColor =  '#ff3e29';
     
         // create a chart
         const chart = anychart.bar();

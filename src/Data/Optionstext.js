@@ -8,5 +8,5 @@ export const optionstext = [
     { text: 'Keywords', subtext: 'Indicates whether to add punctuation and capitalization to the transcript.' },
     { text: 'Trend Line', subtext:'Sample text'},
     {text:'Audio Events', subtext:'Sample text'},
-    { text: 'Utterances', subtext: 'Segments speech into meaningful semantic units. By default, when utterances is enabled, it starts a new utterance after 0.8s of silence. You can customize the length of time used to determine where to split utterances with the utt_split parameter' },
+    { text: 'Utterances', subtext: 'Sample text' },
 ];

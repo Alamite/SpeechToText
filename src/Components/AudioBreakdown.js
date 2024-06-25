@@ -13,68 +13,39 @@ import TopicDetection from './TopicDetection';
 import Utterances from './Utterances';
 import IDI from './IDI';
 // Import other option components as needed
-
 function AudioBreakdown({ selectedOptions, onTextClick, onClicked, currentTime, jsonData }) {
 
     const [highlight, setHighlight] = useState(false);
     const [translate, setTranslate] = useState(false);
-    // const [jsonData, setJsonData] = useState(null);
 
     const activeTab = selectedOptions[0] || 'Transcript';
-
-    // useEffect(() => {
-    //     if (selectedFile) {
-    //         const fetchData = async () => {
-    //             try {
-    //                 console.log('Fetching JSON file:', `/api/files/${selectedFile.folder}/${selectedFile.file}`);
-    //                 const response = await fetch(`http://localhost:3001/api/files/${selectedFile.folder}/${selectedFile.file}`);
-    //                 console.log('Response:', response); // Log the response
-
-    //                 if (!response.ok) {
-    //                     throw new Error('Network response was not ok');
-    //                 }
-
-    //                 // Read the response stream
-    //                 const text = await response.text();
-    //                 // console.log(text);
-    //                 const data = JSON.parse(text);
-    //                 console.log('JSON Data:', data); // Log the JSON data
-    //                 setJsonData(data); // Store JSON data in state
-    //             } catch (error) {
-    //                 console.error('Error fetching JSON file:', error);
-    //             }
-    //         };
-
-    //         fetchData();
-    //     }
-    // }, [selectedFile]);
 
     const NoFilePage = () => {
         return (<div>Please Select a File to Get Started</div>)
     }
+
     const renderTabContent = () => {
         switch (activeTab) {
             case 'Transcript':
-                return <Transcript jsonData={jsonData} highlight={highlight} translate={translate} onTextClick={onTextClick} onClicked={onClicked} currentTime={currentTime} />;
+                return <Transcript key="Transcript" jsonData={jsonData} highlight={highlight} translate={translate} onTextClick={onTextClick} onClicked={onClicked} currentTime={currentTime} />;
             case 'Sentiment':
-                return <Sentiment jsonData={jsonData}/>;
+                return <Sentiment key="Sentiment" jsonData={jsonData} />;
             case 'Topic Detection':
-                return <TopicDetection jsonData={jsonData}/>;
+                return <TopicDetection key="TopicDetection" jsonData={jsonData} />;
             case 'Keywords':
-                return <Keywords jsonData={jsonData}/>;
+                return <Keywords key="Keywords" jsonData={jsonData} />;
             case 'Summarization':
-                return <Summary jsonData={jsonData}/>;
+                return <Summary key="Summary" jsonData={jsonData} />;
             case 'Trend Line':
-                return <TrendLine jsonData={jsonData}/>;
+                return <TrendLine key="TrendLine" jsonData={jsonData} />;
             case 'Audio Events':
-                return <AudioEvents jsonData={jsonData}/>;
+                return <AudioEvents key="AudioEvents" jsonData={jsonData} />;
             case 'Utterances':
-                return <Utterances jsonData={jsonData}/>;
+                return <Utterances key="Utterances" jsonData={jsonData} />;
             case 'IDI Classification':
-                return <IDI jsonData={jsonData}/>;
+                return <IDI key="IDI" jsonData={jsonData} />;
             case 'No File Selected':
-                    return <NoFilePage/>;
-            // Add cases for other options as needed
+                return <NoFilePage />;
             default:
                 return <div>Content not available</div>;
         }
@@ -86,18 +57,18 @@ function AudioBreakdown({ selectedOptions, onTextClick, onClicked, currentTime, 
     return (
         <div>
             <div className="active-tab-header">
-                <div style={{borderBottom:"2px solid black", display:"flex",justifyContent:"space-between"}}>
+                <div style={{ borderBottom: "2px solid black", display: "flex", justifyContent: "space-between" }}>
                     <div className='tab-heading'>
                         {activeTab}
                     </div>
                     {activeTab === 'Transcript' && (
-                        <div style={{display:"flex"}}>
+                        <div style={{ display: "flex" }}>
                             Translate All {/* Toggle to switch between translated and original text */}
                             <label className="switch">
                                 <input type="checkbox" checked={translate} onChange={toggleTranslate} />
                                 <span className="slider round"></span>
                             </label>
-                            <div style={{width:"10px"}}></div>
+                            <div style={{ width: "10px" }}></div>
                             AI Highlight
                             <label className="switch">
                                 <input type="checkbox" checked={highlight} onChange={toggleHighlight} />

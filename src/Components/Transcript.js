@@ -61,6 +61,7 @@ function Transcript({ jsonData, highlight, translate, onTextClick, onClicked, cu
     const [items, setItems] = useState([]);
     
     useEffect(() => {
+        // console.log(jsonData)
         if (jsonData && jsonData.segments) {
             const newItems = jsonData.segments.map(item => ({
                 speaker: mapSpeakerLabel(item.speaker_label),
@@ -77,19 +78,11 @@ function Transcript({ jsonData, highlight, translate, onTextClick, onClicked, cu
                 WPMicon: getIconByWPM(item.rate_of_speech),
                 translate: translate, // Initial translate state for each item
             }));
-            setItems(newItems);
+            console.log(newItems);
+            setItems(prevItems => newItems);
+            console.log("items:", items);
         }
     }, [jsonData, translate]);
-
-    useEffect(() => {
-        // Update all items translate state based on the global translate prop
-        const newItems = items.map(item => ({
-            ...item,
-            translate
-        }));
-        setItems(newItems);
-        setGlobalTranslate(translate);
-    }, [translate]);
 
     const toggleTooltip = () => setTooltipOpen(!tooltipOpen);
 

@@ -48,7 +48,7 @@ function HomePage() {
                     setIsRunButtonPressed(true);
                     setAudioFile(selectedFile);
                     setCurrentTime(0.00);
-                    console.log('JSON Data:', data); // Log the JSON data
+                
                 })
                 .catch(error => console.error('Error fetching JSON file:', error));
         }

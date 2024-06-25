@@ -12,7 +12,6 @@ function Player({ selectedFile, startTime, clicked, onTimeUpdate }) {
         if (selectedFile) {
             const apiUrl = `http://localhost:3001/api/files/${selectedFile.folder}/${selectedFile.file}`;
             const mp3Url = apiUrl.replace('.json', '.mp3');
-            console.log(mp3Url);
 
             fetch(mp3Url)
                 .then(response => {
