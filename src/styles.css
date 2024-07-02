@@ -438,7 +438,7 @@
     padding: 10px 0px;
     text-align: left;
     height: 77vh;
-    overflow-y: scroll;
+    overflow-y: auto;
 }
 
 .reduce-padding {

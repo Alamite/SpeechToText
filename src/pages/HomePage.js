@@ -33,8 +33,9 @@ function HomePage() {
     const handleRun = () => {
         if (selectedFile) {
             const apiUrl = `http://localhost:3001/api/files/${selectedFile.folder}/${selectedFile.file}`;
-            const jsonUrl = apiUrl.replace('.mp3', '.json');
-            console.log('Fetching JSON file:', apiUrl);
+            var jsonUrl = apiUrl.replace('.mp3', '.json');
+            jsonUrl = jsonUrl.replace('Audio', 'Transcript');
+            // console.log('Fetching JSON file:', apiUrl);
 
             fetch(jsonUrl)
                 .then(response => {

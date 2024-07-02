@@ -60,11 +60,11 @@ function Utterances({jsonData}) {
                 </thead>
                 <tbody>
                     <tr>
-                        <td className={opening_comments_error ? "error" : "default"}><b>Opening comments</b></td>
+                        <td className={opening_comments_error ? "error" : "default"}><b>Opening Statements</b></td>
                         <td className={opening_comments_error ? "error" : "default"}>{jsonData.opening_comments}</td>
                     </tr>
                     <tr>
-                        <td className={closing_comments_error ? "error" : "default"}><b>Closing comments</b></td>
+                        <td className={closing_comments_error ? "error" : "default"}><b>Closing Statements</b></td>
                         <td className={closing_comments_error ? "error" : "default"}>{jsonData.closing_comments}</td>
                     </tr>
                     <tr>

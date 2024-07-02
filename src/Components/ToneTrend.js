@@ -2,13 +2,13 @@ import React, { useEffect } from 'react';
 import anychart from 'anychart';
 import 'anychart/dist/css/anychart-ui.css';
 import 'anychart/dist/fonts/css/anychart-font.css';
-import jsonData from '../Data/TranscriptOutput1.json';
+// import jsonData from '../Data/TranscriptOutput1.json';
 
-const CustomRangeBarChart = () => {
+const CustomRangeBarChart = ({jsonData}) => {
     useEffect(() => {
-        const happyData = [];
-        const neutralData = [];
-        const sadData = [];
+        const slowData = [];
+        const mediumData = [];
+        const fastData = [];
         
         const segments = jsonData.segments;
 
@@ -19,43 +19,38 @@ const CustomRangeBarChart = () => {
 
         reorderedData.forEach(item => {
           let speaker = item.speaker_label === 'spk_0' ? 'Synthesis Executive' : 'Caller';
-          const entry = [speaker, item.start_time, item.end_time];
-          const tone = item.tone.toLowerCase();
+          const entry = [speaker, parseFloat(item.start_time).toFixed(2), parseFloat(item.end_time).toFixed(2)];
+          const wpm = parseFloat(item.rate_of_speech);
         
-          // Push entry to corresponding tone array
-          if (tone === 'happy') {
-            happyData.push(entry);
-          } else if (tone === 'neutral') {
-            neutralData.push(entry);
-          } else if (tone === 'sad') {
-            sadData.push(entry);
+          // Push entry to corresponding wpm array
+          if (wpm < 120) {
+            slowData.push(entry);
+          } else if (wpm >= 120 && wpm <= 150) {
+            mediumData.push(entry);
+          } else {
+            fastData.push(entry);
           }
         });
         
-        console.log('Happy Data:', happyData);
-        console.log('Neutral Data:', neutralData);
-        console.log('Sad Data:', sadData);
         // set input dateTime format
         anychart.format.inputDateTimeFormat('yyyy-MM-dd HH:mm');
     
         // create data sets
-        const happyDataSet = anychart.data.set(happyData);
-        const neutralDataSet = anychart.data.set(neutralData);
-        const sadDataSet = anychart.data.set(sadData);
+        const slowDataSet = anychart.data.set(slowData);
+        const mediumDataSet = anychart.data.set(mediumData);
+        const fastDataSet = anychart.data.set(fastData);
     
         // map the data
-        const happyMapping = happyDataSet.mapAs({ x: 0, low: 1, high: 2 });
-        const neutralMapping = neutralDataSet.mapAs({ x: 0, low: 1, high: 2 });
-        const sadMapping = sadDataSet.mapAs({ x: 0, low: 1, high: 2 });
+        const slowMapping = slowDataSet.mapAs({ x: 0, low: 1, high: 2 });
+        const mediumMapping = mediumDataSet.mapAs({ x: 0, low: 1, high: 2 });
+        const fastMapping = fastDataSet.mapAs({ x: 0, low: 1, high: 2 });
     
-        // get colors from theme
-        const themeColors = anychart.theme().length
-          ? anychart.theme()[0].palette.items
-          : anychart.palettes.defaultPalette;
-        const happyColor = '#2ecc71';  // Green for happy
-        const neutralColor = themeColors[0] || '#a5a5a5';  // Default neutral color
-        const sadColor = '#A91D3A';  // Red for sad
+     
+        const slowColor = '#3498db';  // Green for happy
+        const mediumColor = '#2ecc71';  // Default neutral color
+        const fastColor = '#ff3e29';  // Red for sad
     
+        
         // create a chart
         const chart = anychart.bar();
     
@@ -70,9 +65,9 @@ const CustomRangeBarChart = () => {
         });
     
         // create series with mapped data and set the series settings
-        chart.rangeBar(happyMapping).xMode('scatter').name('Happy').fill(happyColor).stroke(null);
-        chart.rangeBar(neutralMapping).xMode('scatter').name('Neutral').fill(neutralColor).stroke(null);
-        chart.rangeBar(sadMapping).xMode('scatter').name('Sad').fill(sadColor).stroke(null);
+        chart.rangeBar(slowMapping).xMode('scatter').name('Slow').fill(slowColor).stroke(null);
+        chart.rangeBar(mediumMapping).xMode('scatter').name('Medium').fill(mediumColor).stroke(null);
+        chart.rangeBar(fastMapping).xMode('scatter').name('Fast').fill(fastColor).stroke(null);
     
         // set the padding between bars
         chart.barsPadding(-1);
@@ -83,7 +78,7 @@ const CustomRangeBarChart = () => {
         // create and adjust dateTime Y scale
         var yScale = anychart.scales.linear();
         chart.yScale(yScale);
-        chart.yScale().ticks().interval(30);
+        chart.yScale().ticks().interval(0.30);
         
     
         // disable xAxis labels
@@ -99,10 +94,10 @@ const CustomRangeBarChart = () => {
         // adjust Yaxis labels formatting
         chart.yAxis().labels().format(function() {
           const totalSeconds = parseFloat(this.tickValue);
-          const hours = Math.floor(totalSeconds / 3600);
-          const minutes = Math.floor((totalSeconds % 3600) / 60);
-          const seconds = totalSeconds % 60;
-          return `${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+          const minutes = Math.floor(totalSeconds / 60);
+          const seconds = Math.floor(totalSeconds % 60);
+          const hundredths = Math.round((totalSeconds - Math.floor(totalSeconds)) * 100);
+          return `${String(minutes).padStart(2, '0')}.${String(seconds).padStart(2, '0')}.${String(hundredths).padStart(2, '0')}`;
       });
     
         // enable Y grids
@@ -133,7 +128,7 @@ const CustomRangeBarChart = () => {
             chart.dispose();
           };
     
-      }, []);
+      }, [jsonData]);
 
   return  <div id="container" style={{ width: '100%', height: '40vh' }}></div>;
 };

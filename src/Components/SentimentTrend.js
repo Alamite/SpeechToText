@@ -53,7 +53,7 @@ const CustomRangeBarChart = ({jsonData}) => {
         //   ? anychart.theme()[0].palette.items
         //   : anychart.palettes.defaultPalette;
         const positiveColor = '#2ecc71';
-        const neutralColor =  '#a5a5a5';
+        const neutralColor =  '#3498db';
         const negativeColor =  '#ff3e29';
     
         // create a chart
@@ -96,14 +96,13 @@ const CustomRangeBarChart = ({jsonData}) => {
         chart.minPointLength(10);
 
         // adjust Yaxis labels formatting
-        chart.yAxis().labels().format(
-          function() {
-              const totalSeconds = parseFloat(this.tickValue);
-              const minutes = Math.floor(totalSeconds / 60);
-              const seconds = totalSeconds % 60;
-              return `${minutes}.${seconds.toString().padStart(2, '0')}`;
-          }
-      );
+        chart.yAxis().labels().format(function() {
+          const totalSeconds = parseFloat(this.tickValue);
+          const minutes = Math.floor(totalSeconds / 60);
+          const seconds = Math.floor(totalSeconds % 60);
+          const hundredths = Math.round((totalSeconds - Math.floor(totalSeconds)) * 100);
+          return `${String(minutes).padStart(2, '0')}.${String(seconds).padStart(2, '0')}.${String(hundredths).padStart(2, '0')}`;
+      });
     
         // enable Y grids
         chart.yGrid().enabled(true);

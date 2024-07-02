@@ -1,0 +1,1650 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0483",
+            "end_time": "0.0607",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "81.08",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.0662",
+            "end_time": "0.1077",
+            "original_transcript": "thank you for calling R T C my name is How may I help you today",
+            "translated_transcript": "thank you for calling R T C my name is How can I help you today",
+            "tone": "Neutral",
+            "rate_of_speech": "385.54",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "r t"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.1298",
+            "end_time": "0.1793",
+            "original_transcript": "Sir \u0bb5\u0ba3\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0ba8\u0bbe\u0b99\u0bcd\u0b95 \u0b87\u0b99\u0bcd\u0b95 \u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bc6\u0b99\u0bcd\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bbf\u0bb2 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bc7\u0b9a\u0bc1\u0bb1\u0bcb\u0bae\u0bcd",
+            "translated_transcript": "Sir Hi, we will be speaking from Trichengotila.",
+            "tone": "Neutral",
+            "rate_of_speech": "161.56",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir hi",
+                "trichengotila"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.2112",
+            "end_time": "0.2205",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "107.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.2205",
+            "end_time": "0.229",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "117.65",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.2351",
+            "end_time": "0.26",
+            "original_transcript": "Which language are you comfortable sir",
+            "translated_transcript": "Which language are you comfortable with",
+            "tone": "Happy",
+            "rate_of_speech": "241.45",
+            "emotion": "curiosity",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.2718",
+            "end_time": "0.3075",
+            "original_transcript": "Tamil language wanted",
+            "translated_transcript": "Tamil language wanted",
+            "tone": "Neutral",
+            "rate_of_speech": "84.07",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "tamil"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.3187",
+            "end_time": "0.3995",
+            "original_transcript": "Okay can I call for a minute hold sir just I will check my Tamil agent and I will transfer the call",
+            "translated_transcript": "Alright, I can call for a minute hold if I will check my Tamil agent and I will transfer the call",
+            "tone": "Neutral",
+            "rate_of_speech": "259.85",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "alright",
+                "minute hold",
+                "tamil"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.4187",
+            "end_time": "0.4723",
+            "original_transcript": "Transfer place transfer that Tamil language",
+            "translated_transcript": "Transfer place transfer that Tamil language",
+            "tone": "Neutral",
+            "rate_of_speech": "111.80",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "transfer",
+                "tamil"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.4838",
+            "end_time": "0.5333",
+            "original_transcript": "problem I will just check",
+            "translated_transcript": "problem I will just check",
+            "tone": "Neutral",
+            "rate_of_speech": "101.01",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.6475",
+            "end_time": "0.6788",
+            "original_transcript": "\u0bb9\u0bb2\u0bcb",
+            "translated_transcript": "Hello",
+            "tone": "Neutral",
+            "rate_of_speech": "31.91",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.1555",
+            "end_time": "2.2037",
+            "original_transcript": "Good evening sir this is from I T C H",
+            "translated_transcript": "Good evening sir this is from I T C H",
+            "tone": "Happy",
+            "rate_of_speech": "207.61",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good evening sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.2317",
+            "end_time": "2.2737",
+            "original_transcript": "Hello Sir \u0ba4\u0bae\u0bbf\u0bb4\u0bcd language \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0baa\u0bc7\u0b9a\u0bc1\u0bb5\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bbe",
+            "translated_transcript": "Hello Sir Tamil language Tamil Speechwinhala",
+            "tone": "Neutral",
+            "rate_of_speech": "142.86",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hello sir tamil",
+                "tamil speechwinhala"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.2737",
+            "end_time": "2.3077",
+            "original_transcript": "Sir \u0bb5\u0ba3\u0b95\u0bcd\u0b95\u0bae\u0bcd Sir \u0ba4\u0bae\u0bbf\u0bb4\u0bcd language \u0b9a\u0bca\u0bb2\u0bcd\u0bb2\u0bc1\u0b99\u0bcd\u0b95 Sir \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0ba4\u0bbe\u0ba9\u0bcd \u0baa\u0bc7\u0b9a\u0bc1\u0bb1\u0bc7\u0ba9\u0bcd",
+            "translated_transcript": "Sir Hello Sir Tamil please tell me Sir I will speak Tamil",
+            "tone": "Neutral",
+            "rate_of_speech": "352.77",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir hello sir tamil",
+                "sir",
+                "tamil"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.339",
+            "end_time": "2.4417",
+            "original_transcript": "\u0bb5\u0ba3\u0b95\u0bcd\u0b95\u0b99\u0bcd\u0b95 \u0ba8\u0bbe\u0b99\u0bcd\u0b95 \u0b85\u0baa\u0bcd\u0baa\u0bbe\u0bb5\u0bc1\u0bae\u0bcd \u0baa\u0bc7\u0b9a\u0bc1\u0bb1\u0bcb\u0bae\u0bcd \u0b89\u0b99\u0bcd\u0b95 \u0bae\u0bcd\u0ba4\u0bc0\u0baa\u0bcd Product Use \u0baa\u0ba3\u0bcd\u0bb1\u0ba4\u0bc1",
+            "translated_transcript": "Hello Dad and I will talk about your deep Product Use",
+            "tone": "Neutral",
+            "rate_of_speech": "107.13",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hello dad",
+                "product"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.4523",
+            "end_time": "2.4885",
+            "original_transcript": "\u0b9a\u0bb0\u0bbf\u0b99\u0bcd\u0b95 Sir \u0b95\u0b9f\u0bc8 owner \u0baa\u0bc7\u0b9a\u0bc1\u0bb1\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bbe Sir",
+            "translated_transcript": "Please speak to the owner of the store Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "248.85",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "please",
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.508",
+            "end_time": "2.5926",
+            "original_transcript": "\u0b95\u0b9f\u0bc8 owner \u0ba4\u0bbe\u0ba9\u0bcd \u0b88\u0bb0\u0bcb\u0b9f\u0bc1 Wholesale \u0baf\u0bbe\u0bb0\u0bc1 Distributor \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b99\u0bcd\u0b95\u0ba9\u0bcd\u0ba9\u0bc1 \u0b95\u0bc7\u0b9f\u0bcd\u0b9f\u0bbe\u0ba9\u0bcd",
+            "translated_transcript": "Shop owner asked if Erode Wholesale is a Distributor",
+            "tone": "Neutral",
+            "rate_of_speech": "106.30",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "shop owner",
+                "erode wholesale",
+                "distributor"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.6045",
+            "end_time": "2.6438",
+            "original_transcript": "Sir \u0b89\u0b99\u0bcd\u0b95 \u0b95\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc1 Supply \u0bb5\u0bc7\u0ba3\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bbe",
+            "translated_transcript": "Sir Find Supply for Your Store",
+            "tone": "Neutral",
+            "rate_of_speech": "152.54",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir find",
+                "your store"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.6642",
+            "end_time": "2.6865",
+            "original_transcript": "\u0b86 \u0b86\u0bae\u0bbe\u0b99\u0bcd\u0b95",
+            "translated_transcript": "Ah yes",
+            "tone": "Neutral",
+            "rate_of_speech": "89.55",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.6968",
+            "end_time": "2.7333",
+            "original_transcript": "\u0b86 \u0b89\u0b99\u0bcd\u0b95 \u0b9a\u0bca\u0ba8\u0bcd\u0ba4 \u0b95\u0b9f\u0bc8 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bbe sir",
+            "translated_transcript": "Do you have your own shop, sir?",
+            "tone": "Happy",
+            "rate_of_speech": "191.69",
+            "emotion": "curiosity",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "own shop"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.7501",
+            "end_time": "2.751",
+            "original_transcript": "\u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
+            "translated_transcript": "Existence",
+            "tone": "Neutral",
+            "rate_of_speech": "1200.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "existence"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.7535",
+            "end_time": "2.766",
+            "original_transcript": "\u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b99\u0bcd\u0b95",
+            "translated_transcript": "Be there",
+            "tone": "Neutral",
+            "rate_of_speech": "160.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "be"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.7708",
+            "end_time": "2.8045",
+            "original_transcript": "Sir \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcb\u0b9f \u0b95\u0b9f\u0bc8\u0baf address \u0b9a\u0bca\u0bb2\u0bcd\u0bb1\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bbe",
+            "translated_transcript": "Please tell me your store address",
+            "tone": "Neutral",
+            "rate_of_speech": "178.22",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "please",
+                "store address"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.8357",
+            "end_time": "2.885",
+            "original_transcript": "\u0bb8\u0bcd\u0bb0\u0bc0 \u0bb5\u0bc6\u0b99\u0bcd\u0b95\u0b9f\u0bc7\u0bb8\u0bcd\u0bb5\u0bb0\u0bbe Store \u0bb8\u0bcd\u0bb0\u0bc0",
+            "translated_transcript": "Sri Venkateswara Store Sri",
+            "tone": "Neutral",
+            "rate_of_speech": "81.05",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sri venkateswara store sri"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.885",
+            "end_time": "2.9083",
+            "original_transcript": "\u0bb5\u0bc6\u0b99\u0bcd\u0b95\u0b9f\u0bc7\u0bb8\u0bcd\u0bb5\u0bb0\u0bbe Store",
+            "translated_transcript": "Venkateswara Store",
+            "tone": "Neutral",
+            "rate_of_speech": "85.71",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "venkateswara store"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.9462",
+            "end_time": "3.0022",
+            "original_transcript": "One one three two not eight",
+            "translated_transcript": "One one three two not eight",
+            "tone": "Neutral",
+            "rate_of_speech": "107.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.0215",
+            "end_time": "3.0572",
+            "original_transcript": "one one three two not eight \u0b99\u0bcd\u0b95\u0bb3\u0bbe Sir",
+            "translated_transcript": "one one three two not eight Gala Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "224.30",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.0702",
+            "end_time": "3.1167",
+            "original_transcript": "\u0b87\u0bb2\u0bcd\u0bb2 Two not eight One one three old number",
+            "translated_transcript": "No Two not eight One three old numbers",
+            "tone": "Neutral",
+            "rate_of_speech": "172.04",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "old numbers"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.1235",
+            "end_time": "3.1487",
+            "original_transcript": "\u0b9a\u0bb0\u0bbf \u0b87\u0bb0\u0bc1\u0ba8\u0bc2\u0ba4\u0bcd\u0ba4\u0bbf \u0b8e\u0b9f\u0bcd\u0b9f\u0bc1",
+            "translated_transcript": "Okay, two hundred and eight",
+            "tone": "Neutral",
+            "rate_of_speech": "198.81",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.1703",
+            "end_time": "3.2255",
+            "original_transcript": "\u0b87\u0bb0\u0bc1\u0ba8\u0bc2\u0ba4\u0bcd\u0ba4\u0bbf \u0b8e\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb0\u0bbe\u0bae\u0bb8\u0bcd\u0bb5\u0bbe\u0bae\u0bbf \u0baa\u0bbf\u0bb3\u0bbe\u0b9a\u0bbe",
+            "translated_transcript": "Two Hundred Eight Ramaswamy Plaza",
+            "tone": "Neutral",
+            "rate_of_speech": "90.66",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hundred",
+                "ramaswamy plaza"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.237",
+            "end_time": "3.2735",
+            "original_transcript": "\u0bb0\u0bbe\u0bae\u0bb8\u0bcd\u0bb5\u0bbe\u0bae\u0bbf \u0baa\u0bbf\u0bb3\u0bbe\u0b9a\u0bbe",
+            "translated_transcript": "Ramaswamy Plaza",
+            "tone": "Neutral",
+            "rate_of_speech": "54.79",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ramaswamy plaza"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.2943",
+            "end_time": "3.3168",
+            "original_transcript": "\u0b9a\u0b99\u0bcd\u0b95\u0bb0\u0bcd\u0b95\u0bbf\u0bb0\u0bbf \u0bb0\u0bcb\u0b9f\u0bc1",
+            "translated_transcript": "Sangargiri Road",
+            "tone": "Neutral",
+            "rate_of_speech": "88.95",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sangargiri"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.3483",
+            "end_time": "3.3648",
+            "original_transcript": "\u0b9a\u0b99\u0bcd\u0b95\u0bb0\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bb0\u0bcd Sir",
+            "translated_transcript": "Shankar Shankar Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "181.82",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "shankar shankar sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.3742",
+            "end_time": "3.404",
+            "original_transcript": "\u0b9a\u0b99\u0bcd\u0b95\u0bb0\u0bbf \u0bb0\u0bcb\u0b9f\u0bc1",
+            "translated_transcript": "Sankari Road",
+            "tone": "Neutral",
+            "rate_of_speech": "67.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sankari"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.4222",
+            "end_time": "3.4375",
+            "original_transcript": "\u0b9a\u0b99\u0bcd\u0b95\u0bb0\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bbe",
+            "translated_transcript": "Sangaringala",
+            "tone": "Neutral",
+            "rate_of_speech": "65.22",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sangaringala"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.4588",
+            "end_time": "3.484",
+            "original_transcript": "S A N K A R I",
+            "translated_transcript": "S A N K A R I",
+            "tone": "Neutral",
+            "rate_of_speech": "278.15",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "n k"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.494",
+            "end_time": "3.4941",
+            "original_transcript": "A",
+            "translated_transcript": "A",
+            "tone": "Neutral",
+            "rate_of_speech": "6000.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.5001",
+            "end_time": "3.5335",
+            "original_transcript": "\u0b9a\u0b99\u0bcd\u0b95\u0bb0\u0bbf\u0ba9\u0bcd\u0ba9\u0bc1 \u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bb0\u0bbf\u0ba9\u0bcd\u0ba9\u0bc1 \u0bb5\u0bb0\u0bc1\u0bae\u0bcd",
+            "translated_transcript": "Shangarun comes Shangarh",
+            "tone": "Neutral",
+            "rate_of_speech": "90.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "shangarun",
+                "shangarh"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.5442",
+            "end_time": "3.5685",
+            "original_transcript": "\u0b9a\u0bb0\u0bbf\u0b99\u0bcd\u0b95 \u0b9a\u0bbe\u0bb0\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bb0\u0bbf",
+            "translated_transcript": "Saranga Sar Sankari",
+            "tone": "Neutral",
+            "rate_of_speech": "123.20",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "saranga sar sankari"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.582",
+            "end_time": "3.5955",
+            "original_transcript": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bc6\u0b99\u0bcd\u0b95\u0bcb\u0b9f\u0bc1",
+            "translated_transcript": "Thiruchengodu",
+            "tone": "Neutral",
+            "rate_of_speech": "74.07",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thiruchengodu"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.608",
+            "end_time": "3.6862",
+            "original_transcript": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bc6\u0b99\u0bcd\u0b95\u0bcb\u0b9f\u0bc1 T H I R U C H U N G O D U Correct Sir",
+            "translated_transcript": "Trichengodu T H I R U C H U N G O D U Correct Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "204.69",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "trichengodu t h",
+                "r u",
+                "h u n g",
+                "d u correct sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.6952",
+            "end_time": "3.7203",
+            "original_transcript": "\u0bae\u0bcd Correct correct",
+            "translated_transcript": "Correct correct",
+            "tone": "Neutral",
+            "rate_of_speech": "79.47",
+            "emotion": "approval",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "correct"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.7298",
+            "end_time": "3.7902",
+            "original_transcript": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bc6\u0b99\u0bcd\u0b95\u0bcb\u0b9f\u0bc1 \u0b9a\u0bb0\u0bbf\u0b99\u0bcd\u0b95 Sir \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcb\u0b9f PIN code \u0b9a\u0bca\u0bb2\u0bcd\u0bb1\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bbe",
+            "translated_transcript": "Please tell me your PIN code to connect to Trichengo",
+            "tone": "Neutral",
+            "rate_of_speech": "165.70",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "please",
+                "pin",
+                "trichengo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.815",
+            "end_time": "3.8573",
+            "original_transcript": "PIN code sir PIN code",
+            "translated_transcript": "PIN code or PIN code",
+            "tone": "Neutral",
+            "rate_of_speech": "118.06",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pin",
+                "pin"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.8767",
+            "end_time": "3.9013",
+            "original_transcript": "PIN code number \u0b9a\u0bca\u0bb2\u0bcd\u0bb1\u0bbe\u0bb0\u0bc1",
+            "translated_transcript": "Enter PIN code number",
+            "tone": "Neutral",
+            "rate_of_speech": "162.16",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "enter pin",
+                "code number"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.9268",
+            "end_time": "3.9493",
+            "original_transcript": "\u0b9a\u0bb0\u0bbf \u0b9a\u0bb0\u0bbf Time \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bcb\u0b99\u0bcd\u0b95",
+            "translated_transcript": "All right, take your time.",
+            "tone": "Happy",
+            "rate_of_speech": "222.22",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.97",
+            "end_time": "4.0248",
+            "original_transcript": "\u0b87\u0ba4\u0bc1 \u0b87\u0baa\u0bcd\u0baa \u0baf\u0bbe\u0bb0\u0bc1 \u0baf\u0bbe\u0bb0\u0bc1 \u0bae\u0bc2\u0bb2\u0bbf\u0baf\u0bae\u0bbe Supply \u0baa\u0ba3\u0bcd\u0ba3\u0bc1\u0bb5\u0bc0\u0b99\u0bcd\u0b95",
+            "translated_transcript": "Can anyone supply it now?",
+            "tone": "Neutral",
+            "rate_of_speech": "91.16",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.0363",
+            "end_time": "4.1245",
+            "original_transcript": "Sir I T C \u0bb5\u0ba8\u0bcd\u0ba4\u0bc1 Direct \u0b9f\u0bbe Supply \u0baa\u0ba3\u0bcd\u0ba3\u0ba9\u0bc1\u0bae\u0bcd Sir I T I C \u0baf\u0bcb\u0b9f Distributors \u0ba4\u0bbe\u0ba9\u0bcd Supply \u0baa\u0ba3\u0bcd\u0ba3\u0bc1\u0bb5\u0bbe\u0b99\u0bcd\u0b95 \u0b8e\u0bb2\u0bcd\u0bb2\u0bbe \u0b95\u0b9f\u0bc8\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+            "translated_transcript": "Sir I T C come and make Direct to Supply Sir I T I C Yoda Distributors to supply all stores",
+            "tone": "Neutral",
+            "rate_of_speech": "238.14",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "sir",
+                "direct",
+                "sir",
+                "yoda distributors"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.1432",
+            "end_time": "4.1751",
+            "original_transcript": "\u0b85\u0ba4\u0bbe\u0ba9\u0bcd \u0b88\u0bb0\u0bcb\u0b9f\u0bc1\u0bb2 \u0baf\u0bbe\u0bb0\u0bc1 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b99\u0bcd\u0b95\u0ba9\u0bcd\u0ba9\u0bc1 \u0b95\u0bc7\u0b9f\u0bcd\u0b9f\u0bc7\u0ba9\u0bcd",
+            "translated_transcript": "I asked if there was someone in Herod.",
+            "tone": "Neutral",
+            "rate_of_speech": "250.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "herod"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.1938",
+            "end_time": "4.4232",
+            "original_transcript": "\u0b85\u0ba4\u0bc1 All over India \u0b8e\u0bb2\u0bcd\u0bb2\u0bbe\u0bb0\u0bc1\u0bae\u0bcd \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b99\u0bcd\u0b95 Sir \u0b87\u0baa\u0bcd\u0baa \u0ba8\u0bbe\u0b99\u0bcd\u0b95 \u0b89\u0b99\u0bcd\u0b95 Request register \u0baa\u0ba3\u0bcd\u0ba3\u0bc1\u0bb5\u0bcb\u0bae\u0bcd Request register \u0baa\u0ba3\u0bcd\u0ba3\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0b8e\u0b99\u0bcd\u0b95 Team \u0b95\u0bcd\u0b95\u0bc1 \u0baa\u0ba3\u0bcd\u0ba3\u0bc1\u0bb5\u0bcb\u0bae\u0bcd Sir \u0b8e\u0b99\u0bcd\u0b95 team \u0bb5\u0ba8\u0bcd\u0ba4\u0bc1 \u0b85\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0ba4\u0bcd\u0ba4 Distributor \u0b85\u0ba8\u0bcd\u0ba4 place\u0b95\u0bcd\u0b95\u0bc1 appoint \u0baa\u0ba3\u0bcd\u0ba3\u0bbf \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 Contact \u0baa\u0ba3\u0bcd\u0ba3 \u0b9a\u0bca\u0bb2\u0bcd\u0bb2\u0bc1\u0bb5\u0bbe\u0b99\u0bcd\u0b95 Sir",
+            "translated_transcript": "It's All over India Sir Now we will make your Request register Request register and make it to Team Sir where will the team come and the appropriate Distributor will add to the place and tell you Contact Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "170.06",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "india sir",
+                "request",
+                "request",
+                "team sir",
+                "distributor",
+                "contact sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.4413",
+            "end_time": "4.4571",
+            "original_transcript": "\u0bae\u0bcd\u0bae\u0bcd",
+            "translated_transcript": "Mm",
+            "tone": "Neutral",
+            "rate_of_speech": "63.22",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mm"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.4627",
+            "end_time": "4.4783",
+            "original_transcript": "\u0b9a\u0bb0\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bbe sir",
+            "translated_transcript": "Sarangala sir",
+            "tone": "Neutral",
+            "rate_of_speech": "127.66",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sarangala"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.4882",
+            "end_time": "4.5527",
+            "original_transcript": "Dealer Discount \u0b95\u0bc1\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc0\u0b99\u0bcd\u0b95",
+            "translated_transcript": "Dealer Discount Deals",
+            "tone": "Neutral",
+            "rate_of_speech": "46.51",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "discount deals"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.6333",
+            "end_time": "4.677",
+            "original_transcript": "Sir pricing discount \u0b8e\u0bb2\u0bcd\u0bb2\u0bbe\u0bae\u0bc7 \u0b8e\u0b99\u0bcd\u0b95 Team Information \u0b85\u0bb5\u0b99\u0bcd\u0b95\u0bb3\u0bc7 \u0b9a\u0bca\u0bb2\u0bcd\u0bb2\u0bc1\u0bb5\u0bbe\u0b99\u0bcd\u0b95 Sir",
+            "translated_transcript": "Sir pricing discount Let Team Information tell you everything Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "229.10",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir",
+                "team information",
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.6951",
+            "end_time": "4.7103",
+            "original_transcript": "\u0b86\u0bb9\u0bcd",
+            "translated_transcript": "Aah",
+            "tone": "Neutral",
+            "rate_of_speech": "65.93",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "aah"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.7218",
+            "end_time": "4.7638",
+            "original_transcript": "\u0b9a\u0bb0\u0bbf\u0b99\u0bcd\u0b95 Number \u0b87\u0ba8\u0bcd\u0ba4 \u0baa\u0bc7\u0b9a\u0bc1\u0bb1 Number note \u0baa\u0ba3\u0bcd\u0ba3\u0bbf\u0b95\u0bcd\u0b95\u0b99\u0bcd\u0b95",
+            "translated_transcript": "Adjust Number Talk to this Number Make a note",
+            "tone": "Neutral",
+            "rate_of_speech": "214.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "adjust number talk",
+                "number"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.7898",
+            "end_time": "4.814",
+            "original_transcript": "PIN code number PIN code number \u0b9a\u0bca\u0bb2\u0bcd\u0bb2\u0bc1\u0b99\u0bcd\u0b95 Sir",
+            "translated_transcript": "Please tell me your PIN code number, sir.",
+            "tone": "Neutral",
+            "rate_of_speech": "331.26",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "please",
+                "pin",
+                "code number"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.8292",
+            "end_time": "4.8953",
+            "original_transcript": "Phone number \u0b85\u0ba4\u0bc1\u0bb2 \u0b85\u0b9f\u0bbf\u0b9a\u0bcd\u0b9a\u0bc7\u0ba9\u0bcd",
+            "translated_transcript": "Add your phone number.",
+            "tone": "Neutral",
+            "rate_of_speech": "60.45",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "phone number"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.9887",
+            "end_time": "5.035",
+            "original_transcript": "Six three seven two zero nine \u0baa\u0bcb\u0b9f\u0bc1\u0ba4\u0bc1",
+            "translated_transcript": "Six three seven, two zero nine",
+            "tone": "Neutral",
+            "rate_of_speech": "129.50",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.0445",
+            "end_time": "5.0615",
+            "original_transcript": "Six three",
+            "translated_transcript": "Six-three",
+            "tone": "Neutral",
+            "rate_of_speech": "58.82",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "six-three"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.0745",
+            "end_time": "5.1662",
+            "original_transcript": "Zero nine okay sir Sir \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcb\u0b9f \u0baa\u0bc7\u0bb0\u0bcd Sir",
+            "translated_transcript": "Zero nine okay sir Sir with you Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "87.27",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "zero",
+                "okay sir",
+                "sir",
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.1898",
+            "end_time": "5.2222",
+            "original_transcript": "\u0b8e\u0ba9\u0bcd \u0baa\u0bc7\u0bb0\u0bc1 \u0b95\u0bc7\u0b9f\u0bcd\u0b9f \u0b85\u0baa\u0bcd\u0baa\u0bbe\u0bb5\u0bc1\u0b99\u0bcd\u0b95",
+            "translated_transcript": "Dad asked for my name.",
+            "tone": "Neutral",
+            "rate_of_speech": "154.72",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "dad"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.2315",
+            "end_time": "5.261",
+            "original_transcript": "Sir \u0b95\u0bca\u0b9e\u0bcd\u0b9a\u0bae\u0bcd spill \u0baa\u0ba3\u0bcd\u0ba3\u0bbf\u0b9f\u0bc1\u0bb1\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bbe",
+            "translated_transcript": "Sir a little spill farm",
+            "tone": "Neutral",
+            "rate_of_speech": "169.49",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "sir",
+                "spill farm"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.2818",
+            "end_time": "5.3341",
+            "original_transcript": "K T Karnataka and Tamilnadu",
+            "translated_transcript": "K T Karnataka and Tamil Nadu",
+            "tone": "Neutral",
+            "rate_of_speech": "114.69",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "k t karnataka",
+                "tamil nadu"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.3458",
+            "end_time": "5.3575",
+            "original_transcript": "K T",
+            "translated_transcript": "K T",
+            "tone": "Neutral",
+            "rate_of_speech": "171.43",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "k t"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.3725",
+            "end_time": "5.4088",
+            "original_transcript": "A P P A V U",
+            "translated_transcript": "A P P A V U",
+            "tone": "Neutral",
+            "rate_of_speech": "165.21",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "p p",
+                "v u"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.4298",
+            "end_time": "5.4542",
+            "original_transcript": "A P P A V U",
+            "translated_transcript": "A P P A V U",
+            "tone": "Neutral",
+            "rate_of_speech": "246.58",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "p p",
+                "v u"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.4753",
+            "end_time": "5.506",
+            "original_transcript": "\u0b85\u0ba4\u0bbe\u0ba9\u0bcd \u0b8e\u0b99\u0bcd\u0b95 \u0b85\u0baa\u0bcd\u0baa\u0bbe\u0bb5\u0bc1\u0bae\u0bcd \u0baa\u0bc7\u0bb0\u0bc1",
+            "translated_transcript": "That's where my dad is.",
+            "tone": "Neutral",
+            "rate_of_speech": "163.04",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.506",
+            "end_time": "5.518",
+            "original_transcript": "\u0b85\u0baa\u0bcd\u0baa\u0bbe\u0bb5\u0bc1\u0bae\u0bcd",
+            "translated_transcript": "Daddies too",
+            "tone": "Neutral",
+            "rate_of_speech": "166.67",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "daddies"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.5413",
+            "end_time": "5.5473",
+            "original_transcript": "K T",
+            "translated_transcript": "K T",
+            "tone": "Neutral",
+            "rate_of_speech": "334.26",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "k t"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.578",
+            "end_time": "5.636",
+            "original_transcript": "\u0b85\u0baa\u0bcd\u0baa\u0bbe \u0b85\u0bb5\u0bcd\u0bb3\u0bb5\u0bbe \u0b85\u0baa\u0bcd\u0baa\u0bbe\u0bb5\u0bc1\u0bae\u0bcd \u0b9a\u0bca\u0bb2\u0bcd\u0bb1\u0bc7\u0ba9\u0bcd \u0b85\u0baa\u0bcd\u0baa\u0bb1\u0bae\u0bbe \u0b85\u0baa\u0bcd\u0baa\u0bbe\u0bb5\u0bc1\u0bae\u0bcd \u0b85\u0baa\u0bcd\u0baa\u0bbe\u0bb5\u0bc1\u0bae\u0bcd\u0ba9\u0bcd\u0ba9\u0bc0\u0b99\u0bcd\u0b95\u0ba9\u0bcd\u0ba9\u0bbe \u0ba8\u0bbe\u0ba9\u0bcd \u0b8e\u0ba9\u0bcd\u0ba9 \u0b9a\u0bca\u0bb2\u0bcd\u0bb1\u0ba4\u0bc1",
+            "translated_transcript": "I will say so much dad and dad and dad what do I say",
+            "tone": "Neutral",
+            "rate_of_speech": "241.31",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.653",
+            "end_time": "5.7255",
+            "original_transcript": "\u0b9a\u0bbe\u0bbf\u0b99\u0bcd\u0b95 Sir \u0b95\u0bc7 \u0b9f\u0bbf \u0b85\u0baa\u0bcd\u0baa\u0bbe\u0bb5\u0bc1\u0bae\u0bcd \u0b85\u0baa\u0bcd\u0baa\u0bb1\u0bae\u0bcd \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcb\u0b9f Contact number \u0b87\u0ba4\u0bc1\u0ba4\u0bbe\u0ba9\u0b99\u0bcd\u0b95 Sir \u0b87\u0baa\u0bcd\u0baa",
+            "translated_transcript": "Singing Sir K D Dad is also with you Contact number This is Sir Now",
+            "tone": "Neutral",
+            "rate_of_speech": "206.90",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "singing sir k d dad",
+                "contact",
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.7473",
+            "end_time": "5.7938",
+            "original_transcript": "\u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0ba4\u0bc1 \u0b87\u0baa\u0bcd\u0baa Office \u0b8e\u0b99\u0bcd\u0b95\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bc7\u0b9a\u0bc1\u0bb1\u0bc0\u0b99\u0bcd\u0b95 \u0b87\u0baa\u0bcd\u0baa \u0ba8\u0bc0\u0b99\u0bcd\u0b95",
+            "translated_transcript": "Where do you talk to your office now?",
+            "tone": "Neutral",
+            "rate_of_speech": "171.98",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.8013",
+            "end_time": "5.8331",
+            "original_transcript": "I T C I Bangalore\u0bb2 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bc7\u0b9a\u0bc1\u0bb1\u0bcb\u0b99\u0bcd\u0b95 Sir",
+            "translated_transcript": "I T C I Speak from Bangalore Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "251.31",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "speak",
+                "bangalore sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.858",
+            "end_time": "5.9365",
+            "original_transcript": "\u0baa\u0bc6\u0b99\u0bcd\u0b95\u0bb3\u0bc2\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bbe PIN code number six three seven three four",
+            "translated_transcript": "Bangalore PIN nummer six three seven three four",
+            "tone": "Neutral",
+            "rate_of_speech": "101.91",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bangalore pin"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.9605",
+            "end_time": "6.0257",
+            "original_transcript": "Three four \u0b99\u0bcd\u0b95\u0bb3\u0bbe Six three seven three not four",
+            "translated_transcript": "Three four gang Six three seven three not four",
+            "tone": "Neutral",
+            "rate_of_speech": "138.11",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.036",
+            "end_time": "6.0408",
+            "original_transcript": "\u0b86\u0bae\u0bbe",
+            "translated_transcript": "Ama",
+            "tone": "Neutral",
+            "rate_of_speech": "206.90",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ama"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.052",
+            "end_time": "6.3338",
+            "original_transcript": "Okay Sir \u0b9a\u0bbe\u0bbf\u0b99\u0bcd\u0b95 Sir \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bcb\u0b9f request \u0ba8\u0bbe\u0b99\u0bcd\u0b95 Register \u0baa\u0ba3\u0bcd\u0bb1\u0bcb\u0bae\u0bcd \u0b85\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bb1\u0bae\u0bcd \u0b8e\u0b99\u0bcd\u0b95 Team Approve \u0baa\u0ba3\u0bcd\u0ba3\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0b8e\u0b99\u0bcd\u0b95 Team \u0bb5\u0ba8\u0bcd\u0ba4\u0bc1 Direct \u0b9f\u0bbe Contact \u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd \u0bb5\u0bc7\u0bb1 \u0b8e\u0ba9\u0bcd\u0ba9\u0bc6\u0ba9\u0bcd\u0ba9 details pricing \u0baa\u0ba4\u0bcd\u0ba4\u0bbf \u0b85\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bb1\u0bae\u0bcd Products \u0b9a\u0bcb\u0b9f \u0b8e\u0ba9\u0bcd\u0ba9 Value \u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0ba9 Profit \u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0ba9 Discount \u0bb5\u0bb0\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bc6\u0bb2\u0bcd\u0bb2\u0bbe\u0bae\u0bcd \u0b8e\u0b99\u0bcd\u0b95 Team \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bca\u0bb2\u0bcd\u0bb2\u0bc1\u0bb5\u0bbe\u0b99\u0bcd\u0b95 Sir",
+            "translated_transcript": "Okay Sir Singing Sir request with you We Register and then where Team Approve and where Team comes in and comes Direct to Contact What else details pricing section on the other side Products add Value what Profit comes what Discount comes and where does Team tell you Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "173.86",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay sir singing sir",
+                "team approve",
+                "team",
+                "direct",
+                "contact",
+                "products",
+                "value",
+                "profit",
+                "discount",
+                "team",
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.348",
+            "end_time": "6.3591",
+            "original_transcript": "\u0bae\u0bcd\u0bae\u0bcd",
+            "translated_transcript": "Mm",
+            "tone": "Neutral",
+            "rate_of_speech": "89.69",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mm"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.364",
+            "end_time": "6.3775",
+            "original_transcript": "\u0b9a\u0bb0\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bbe sir",
+            "translated_transcript": "Sarangala sir",
+            "tone": "Neutral",
+            "rate_of_speech": "148.15",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sarangala"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.3956",
+            "end_time": "6.449",
+            "original_transcript": "Okay\u0b99\u0bcd\u0b95\u0b99\u0bcd\u0b95 \u0b8e\u0baa\u0bcd\u0baa Contact \u0baa\u0ba3\u0bcd\u0ba3\u0bc1\u0bb5\u0bbe\u0b99\u0bcd\u0b95",
+            "translated_transcript": "How to Contact Okayanganga",
+            "tone": "Neutral",
+            "rate_of_speech": "74.98",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "contact okayanganga"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.4596",
+            "end_time": "6.5263",
+            "original_transcript": "\u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bbe \u0b9a\u0bc0\u0b95\u0bcd\u0b95\u0bbf\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1\u0bb2 \u0baa\u0ba3\u0bcd\u0ba3\u0bbf\u0b9f\u0bc1\u0bb5\u0bbe\u0b99\u0bcd\u0b95 Sir \u0ba8\u0bbe\u0b99\u0bcd\u0b95 \u0baa\u0ba3\u0bcd\u0ba3\u0bc1\u0bb5\u0bcb\u0bae\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bbe \u0baa\u0ba3\u0bcd\u0ba3\u0bc1\u0bb5\u0bbe\u0b99\u0bcd\u0b95 Sir",
+            "translated_transcript": "Please do it soon, Sir, we will do it, please do it.",
+            "tone": "Neutral",
+            "rate_of_speech": "180.00",
+            "emotion": "desire",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "please",
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.531",
+            "end_time": "6.5603",
+            "original_transcript": "\u0ba8\u0bc0\u0b99\u0bcd\u0b95 \u0b8e\u0ba4\u0bc1\u0bae\u0bcd \u0b9a\u0bca\u0bb2\u0bcd\u0bb2 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0ba4\u0bbe Rate \u0b8e\u0ba9\u0bcd\u0ba9\u0ba9\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1",
+            "translated_transcript": "You can't say anything. Rate Entente",
+            "tone": "Neutral",
+            "rate_of_speech": "204.55",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ca n't",
+                "rate entente"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.5738",
+            "end_time": "6.638",
+            "original_transcript": "Sir \u0b85\u0ba8\u0bcd\u0ba4 Details \u0b8e\u0b99\u0bcd\u0b95\u0b95\u0bbf\u0b9f\u0bcd\u0b9f \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba4\u0bc1\u0b99\u0bcd\u0b95 Sir \u0b85\u0ba4\u0ba9\u0bbe\u0bb2\u0ba4\u0bbe\u0ba9\u0bcd \u0b8e\u0b99\u0bcd\u0b95 Team Direct \u0b86 \u0b9a\u0bca\u0bb2\u0bcd\u0bb2\u0bc1\u0bb5\u0bbe\u0b99\u0bcd\u0b95",
+            "translated_transcript": "Sir where are those details sir that's why tell Team Direct",
+            "tone": "Neutral",
+            "rate_of_speech": "171.43",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "sir",
+                "details sir",
+                "team direct"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.652",
+            "end_time": "6.6652",
+            "original_transcript": "\u0b89\u0bae\u0bcd\u0bae\u0bcd \u0b89\u0bae\u0bcd\u0bae\u0bcd",
+            "translated_transcript": "You are yours",
+            "tone": "Neutral",
+            "rate_of_speech": "227.56",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.676",
+            "end_time": "6.736",
+            "original_transcript": "\u0b9a\u0bb0\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bbe Sir \u0b89\u0b99\u0bcd\u0b95 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bbe",
+            "translated_transcript": "Come on, Sir, will you be there?",
+            "tone": "Neutral",
+            "rate_of_speech": "116.63",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.7601",
+            "end_time": "6.8173",
+            "original_transcript": "Email I D \u0ba8\u0bbe\u0b99\u0bcd\u0b95 \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bcd Use \u0baa\u0ba3\u0bcd\u0bb1\u0ba4\u0bbf\u0bb2\u0bcd\u0bb2 Mail I D \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
+            "translated_transcript": "Email I D We have the most Use Mail I D",
+            "tone": "Neutral",
+            "rate_of_speech": "192.36",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "email"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.8272",
+            "end_time": "6.86",
+            "original_transcript": "\u0b8e\u0ba8\u0bcd\u0ba4 \u0baa\u0bbf\u0bb0\u0b9a\u0bcd\u0b9a\u0ba9\u0bc8\u0baf\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0bcd\u0bb2 \u0b9a\u0bb0\u0bbf\u0b99\u0bcd\u0b95",
+            "translated_transcript": "No problem, no problem.",
+            "tone": "Neutral",
+            "rate_of_speech": "121.83",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.8743",
+            "end_time": "6.8837",
+            "original_transcript": "\u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bbe",
+            "translated_transcript": "Kandippa",
+            "tone": "Neutral",
+            "rate_of_speech": "107.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "kandippa"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.8837",
+            "end_time": "6.8917",
+            "original_transcript": "Register",
+            "translated_transcript": "Registrieren",
+            "tone": "Neutral",
+            "rate_of_speech": "124.74",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "registrieren"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.8917",
+            "end_time": "6.9553",
+            "original_transcript": "\u0baa\u0ba3\u0bcd\u0bb1\u0bc7\u0ba9\u0bcd Sir I T C \u0b87\u0ba4 \u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc7\u0bb1 \u0b8f\u0ba4\u0bbe\u0bb5\u0ba4\u0bc1 Help \u0baa\u0ba3\u0bcd\u0ba3 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bbe Sir",
+            "translated_transcript": "Please read Sir I T C Can you find something else please help Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "219.90",
+            "emotion": "caring",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "please",
+                "sir",
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.9725",
+            "end_time": "6.9813",
+            "original_transcript": "\u0b8e\u0baa\u0bcd\u0baa\u0b9f\u0bbf\u0b99\u0bcd\u0b95",
+            "translated_transcript": "How",
+            "tone": "Neutral",
+            "rate_of_speech": "113.21",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.9951",
+            "end_time": "7.037",
+            "original_transcript": "\u0b87\u0ba4 \u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc7\u0bb1 \u0b8e\u0ba4\u0bc1\u0ba9\u0bbe \u0ba8\u0bbe\u0b99\u0bcd\u0b95 help \u0baa\u0ba3\u0bcd\u0ba3 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bbe \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1",
+            "translated_transcript": "Can we help you get out of this?",
+            "tone": "Neutral",
+            "rate_of_speech": "191.16",
+            "emotion": "caring",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.0576",
+            "end_time": "7.105",
+            "original_transcript": "\u0bb5\u0bc7\u0bb1 \u0b8e\u0ba9\u0bcd\u0ba9 \u0bb5\u0bc7\u0bb1 \u0b8e\u0ba9\u0bcd\u0ba9\u0bc6\u0ba9\u0bcd\u0ba9 \u0bb5\u0b9a\u0bcd\u0b9a\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc0\u0b99\u0bcd\u0b95 I T C",
+            "translated_transcript": "What else do you think I T C",
+            "tone": "Neutral",
+            "rate_of_speech": "169.01",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.1143",
+            "end_time": "7.2456",
+            "original_transcript": "I T C \u0bb2 \u0ba8\u0bc6\u0bb1\u0bc8\u0baf Products \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 Sir \u0b87\u0baa\u0bcd\u0baa \u0b86\u0b9a\u0bc0\u0bb0\u0bcd\u0bb5\u0bbe\u0ba4 \u0b86\u0b9f\u0bcd\u0b9f\u0bbe \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bb1\u0bae\u0bcd Sun biscuits \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0baa\u0bcd\u0baa\u0bb1\u0bae\u0bcd noodles \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b85\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bb1\u0bae\u0bcd Cigarette",
+            "translated_transcript": "I T C C have the right Products Sir Now there are blessings Ata there are Sun biscuits there are noodles on the outside Cigarette",
+            "tone": "Neutral",
+            "rate_of_speech": "190.36",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "c c",
+                "products sir",
+                "ata",
+                "sun",
+                "cigarette"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.2456",
+            "end_time": "7.2737",
+            "original_transcript": "item \u0b8e\u0bb2\u0bcd\u0bb2\u0bbe\u0bae\u0bcd \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbe \u0b9a\u0bbf\u0b95\u0bb0\u0bc6\u0b9f\u0bcd \u0b8e\u0bb2\u0bcd\u0bb2\u0bbe\u0bae\u0bcd",
+            "translated_transcript": "item Everything There is Cigarette Everything",
+            "tone": "Neutral",
+            "rate_of_speech": "214.16",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "cigarette"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.2961",
+            "end_time": "7.3128",
+            "original_transcript": "\u0b9a\u0bbf\u0b95\u0bb0\u0bc6\u0b9f\u0bcd \u0bb5\u0bc7\u0ba3\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bbe Sir",
+            "translated_transcript": "Cigarette Venugla Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "180.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "cigarette venugla sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.3295",
+            "end_time": "7.3455",
+            "original_transcript": "\u0b85\u0ba4\u0bbe\u0ba9\u0bcd \u0b95\u0bc7\u0b9f\u0bcd\u0b9f\u0bc7\u0ba9\u0bcd Cigarette",
+            "translated_transcript": "That's what I heard about Cigarette.",
+            "tone": "Neutral",
+            "rate_of_speech": "374.61",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "cigarette"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.4082",
+            "end_time": "7.5943",
+            "original_transcript": "Cigarette\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd I T C \u0bb2 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b99\u0bcd\u0b95 Sir \u0b8e\u0bb2\u0bcd\u0bb2\u0bbe Products \u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd I T C \u0bb2 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b99\u0bcd\u0b95 Sir \u0b87\u0baa\u0bcd\u0baa \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 Supply \u0bb5\u0bc6\u0bb1\u0bc1\u0bae\u0bcd \u0bb5\u0bc7\u0ba3\u0bc1\u0bae\u0bcd\u0ba9\u0bbe \u0b85\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd Register \u0baa\u0ba3\u0bcd\u0ba3\u0bc1\u0bb5\u0bcb\u0bae\u0bcd \u0b87\u0bb2\u0bcd\u0bb2 \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bc7\u0ba3\u0bc1\u0bae\u0bcd\u0ba9\u0bbe \u0b8e\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0baa\u0ba3\u0bcd\u0ba3\u0bc1\u0bb5\u0bcb\u0bae\u0bcd Sir",
+            "translated_transcript": "Cigarette and I T C's Sir I C's for all Products Sir Now you just need a supply, we'll just register it for you and we'll do it for everything or for everything Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "182.62",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "cigarette",
+                "c 's",
+                "sir",
+                "c 's",
+                "products sir",
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.6137",
+            "end_time": "7.6145",
+            "original_transcript": "\u0b8e\u0bb2\u0bcd\u0bb2\u0bbe",
+            "translated_transcript": "Ella",
+            "tone": "Neutral",
+            "rate_of_speech": "1224.49",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ella"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.6343",
+            "end_time": "7.8138",
+            "original_transcript": "\u0b8e\u0bb2\u0bcd\u0bb2\u0bbe\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd All items \u0b95\u0bcd\u0b95\u0bc7 \u0baa\u0bcb\u0b9f\u0b9f\u0bcd\u0b9f\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bbe Okay sir \u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bbe All items \u0b95\u0bcd\u0b95\u0bc7 \u0baa\u0bcb\u0b9f\u0bcd\u0bb1\u0bc7\u0ba9\u0bcd adjust \u0baa\u0ba3\u0bcd\u0ba3\u0bb1\u0bc7\u0ba9\u0bcd Sir \u0b8e\u0b99\u0bcd\u0b95 Team \u0bb2 \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bbe Contact \u0bb5\u0bb0\u0bc1\u0bae\u0bcd Sir",
+            "translated_transcript": "Please put all items on All items Okay sir I will adjust to All items Sir Where will the Team come from Contact Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "133.70",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "please",
+                "okay",
+                "sir",
+                "team",
+                "contact sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.8397",
+            "end_time": "7.9617",
+            "original_transcript": "Okay Already \u0ba8\u0bc0\u0b99\u0bcd\u0b95 \u0ba4\u0baa\u0bcd\u0baa \u0baa\u0ba3\u0bcd\u0ba3\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bb1 Margin \u0b8e\u0ba9\u0bcd\u0ba9 \u0b95\u0bc1\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc0\u0b99\u0bcd\u0b95\u0ba9\u0bcd\u0ba9\u0bc1 \u0b95\u0bc7\u0b9f\u0bcd\u0b9f\u0bbe \u0b85\u0ba4 \u0b9a\u0bca\u0bb2\u0bcd\u0bb2 \u0bae\u0bbe\u0b9f\u0bcd\u0b9f\u0bc7\u0b99\u0bcd\u0b95\u0bbf\u0bb1\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bc7",
+            "translated_transcript": "Okay Already you won't tell Margin what you're buying to try to escape",
+            "tone": "Neutral",
+            "rate_of_speech": "106.56",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay",
+                "wo n't",
+                "margin",
+                "'re buying"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.9735",
+            "end_time": "8.1137",
+            "original_transcript": "\u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bbe \u0b8e\u0b99\u0bcd\u0b95 team \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bca\u0bb2\u0bcd\u0bb2\u0bc1\u0bb5\u0bbe\u0b99\u0bcd\u0b95 sir \u0b8e\u0b99\u0bcd\u0b95 \u0b95\u0bbf\u0b9f\u0bcd\u0b9f \u0b85\u0ba8\u0bcd\u0ba4 details \u0b87\u0bb2\u0bcd\u0bb2 \u0b87\u0bb2\u0bcd\u0bb2\u0ba9\u0bcd\u0ba9\u0bbe \u0ba8\u0bbe\u0b99\u0bcd\u0b95 \u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bbe \u0b9a\u0bca\u0bb2\u0bcd\u0bb2\u0bbf\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bcb\u0bae\u0bcd sir \u0b8e\u0b99\u0bcd\u0b95 team \u0b95\u0bbf\u0b9f\u0bcd\u0b9f \u0ba4\u0bbe\u0ba9\u0bcd \u0b8e\u0bb2\u0bcd\u0bb2\u0bbe\u0bae\u0bcd \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bcb\u0bae\u0bcd \u0b85\u0ba4\u0bc1\u0ba9\u0bbe\u0bb2 \u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bbe \u0b85\u0bb5\u0b99\u0bcd\u0b95 call \u0baa\u0ba3\u0bcd\u0ba3\u0bbf \u0b9a\u0bca\u0bb2\u0bcd\u0bb2\u0bc1\u0bb5\u0bbe\u0b99\u0bcd\u0b95 \u0b9a\u0bbe\u0bb0\u0bcd",
+            "translated_transcript": "Definitely where team can tell you sir there are not those details or we would have told you sir where is the team almost everything so definitely call them and tell me sir",
+            "tone": "Neutral",
+            "rate_of_speech": "235.43",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "definitely"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.13",
+            "end_time": "8.1792",
+            "original_transcript": "Sir Right\u0b99\u0bcd\u0b95 \u0b89\u0b99\u0bcd\u0b95 Name \u0b8e\u0ba9\u0bcd\u0ba9 \u0b9a\u0bca\u0ba9\u0bcd\u0ba9\u0bc0\u0b99\u0bcd\u0b95",
+            "translated_transcript": "Sir Right, what did you say your name?",
+            "tone": "Happy",
+            "rate_of_speech": "162.66",
+            "emotion": "curiosity",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "sir right"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.1942",
+            "end_time": "8.2273",
+            "original_transcript": "\u0b9c\u0bbe\u0ba9\u0bcd \u0b9c\u0bbe\u0ba9\u0bcd",
+            "translated_transcript": "John John",
+            "tone": "Neutral",
+            "rate_of_speech": "60.27",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "john john"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.2395",
+            "end_time": "8.246",
+            "original_transcript": "\u0b9c\u0bbe\u0ba9\u0bcd",
+            "translated_transcript": "Jon",
+            "tone": "Neutral",
+            "rate_of_speech": "153.45",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "jon"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.2588",
+            "end_time": "8.2663",
+            "original_transcript": "\u0b86\u0bae\u0bbe\u0b99\u0bcd\u0b95 Sir",
+            "translated_transcript": "Yes, sir.",
+            "tone": "Neutral",
+            "rate_of_speech": "266.08",
+            "emotion": "approval",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.2955",
+            "end_time": "8.3448",
+            "original_transcript": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bcd\u0bb2 \u0bb5\u0ba8\u0bcd\u0ba4\u0bc1 Company \u0baf\u0bbf\u0ba9\u0bc1\u0b9f\u0bc8\u0baf Office \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbe \u0b87\u0bb2\u0bcd\u0bb2 \u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0ba8\u0bbe\u0b9f\u0bcd\u0bb2",
+            "translated_transcript": "Come to Tamil Nadu and the Company's Office is in Tamil Nadu",
+            "tone": "Neutral",
+            "rate_of_speech": "243.24",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "tamil nadu",
+                "company 's office",
+                "tamil nadu"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.3542",
+            "end_time": "8.4242",
+            "original_transcript": "All over India\u0bb2 I T C \u0baf\u0bcb\u0b9f \u0b8e\u0bb2\u0bcd\u0bb2\u0bbe \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0bb2\u0baf\u0bc1\u0bae\u0bcd Company\u0b99\u0bcd\u0b95 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b99\u0bcd\u0b95 Sir",
+            "translated_transcript": "All over India I T C Yoda will be with the Company",
+            "tone": "Neutral",
+            "rate_of_speech": "171.43",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "india",
+                "yoda"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.436",
+            "end_time": "8.4455",
+            "original_transcript": "\u0b89\u0bae\u0bcd\u0bae\u0bcd",
+            "translated_transcript": "Umm",
+            "tone": "Neutral",
+            "rate_of_speech": "105.26",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "umm"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.4583",
+            "end_time": "8.4952",
+            "original_transcript": "\u0b95\u0ba3\u0bcd\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bbe \u0b89\u0b99\u0bcd\u0b95 request register \u0baa\u0ba3\u0bcd\u0ba3\u0bcb\u0bae\u0bcd sir",
+            "translated_transcript": "Please register your request, sir.",
+            "tone": "Neutral",
+            "rate_of_speech": "135.81",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "please"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.5046",
+            "end_time": "8.5351",
+            "original_transcript": "Okay thank you",
+            "translated_transcript": "Okay, thank you",
+            "tone": "Neutral",
+            "rate_of_speech": "98.36",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.5388",
+            "end_time": "8.6643",
+            "original_transcript": "thank you call \u0baa\u0ba3\u0bcd\u0ba3\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0ba9\u0bcd\u0bb1\u0bbf Sir Thank you sir",
+            "translated_transcript": "Thank you for calling Sir Thank you sir",
+            "tone": "Neutral",
+            "rate_of_speech": "63.75",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thank",
+                "sir thank"
+            ]
+        }
+    ],
+    "translated_segments": "Hallo thank you for calling R T C my name is How can I help you today Sir Hi, we will be speaking from Trichengotila. Hallo Hallo Which language are you comfortable with Tamil language wanted Alright, I can call for a minute hold if I will check my Tamil agent and I will transfer the call Transfer place transfer that Tamil language problem I will just check Hello Good evening sir this is from I T C H Hello Sir Tamil language Tamil Speechwinhala Sir Hello Sir Tamil please tell me Sir I will speak Tamil Hello Dad and I will talk about your deep Product Use Please speak to the owner of the store Sir Shop owner asked if Erode Wholesale is a Distributor Sir Find Supply for Your Store Ah yes Do you have your own shop, sir? Existence Be there Please tell me your store address Sri Venkateswara Store Sri Venkateswara Store One one three two not eight one one three two not eight Gala Sir No Two not eight One three old numbers Okay, two hundred and eight Two Hundred Eight Ramaswamy Plaza Ramaswamy Plaza Sangargiri Road Shankar Shankar Sir Sankari Road Sangaringala S A N K A R I A Shangarun comes Shangarh Saranga Sar Sankari Thiruchengodu Trichengodu T H I R U C H U N G O D U Correct Sir Correct correct Please tell me your PIN code to connect to Trichengo PIN code or PIN code Enter PIN code number All right, take your time. Can anyone supply it now? Sir I T C come and make Direct to Supply Sir I T I C Yoda Distributors to supply all stores I asked if there was someone in Herod. It's All over India Sir Now we will make your Request register Request register and make it to Team Sir where will the team come and the appropriate Distributor will add to the place and tell you Contact Sir Mm Sarangala sir Dealer Discount Deals Sir pricing discount Let Team Information tell you everything Sir Aah Adjust Number Talk to this Number Make a note Please tell me your PIN code number, sir. Add your phone number. Six three seven, two zero nine Six-three Zero nine okay sir Sir with you Sir Dad asked for my name. Sir a little spill farm K T Karnataka and Tamil Nadu K T A P P A V U A P P A V U That's where my dad is. Daddies too K T I will say so much dad and dad and dad what do I say Singing Sir K D Dad is also with you Contact number This is Sir Now Where do you talk to your office now? I T C I Speak from Bangalore Sir Bangalore PIN nummer six three seven three four Three four gang Six three seven three not four Ama Okay Sir Singing Sir request with you We Register and then where Team Approve and where Team comes in and comes Direct to Contact What else details pricing section on the other side Products add Value what Profit comes what Discount comes and where does Team tell you Sir Mm Sarangala sir How to Contact Okayanganga Please do it soon, Sir, we will do it, please do it. You can't say anything. Rate Entente Sir where are those details sir that's why tell Team Direct You are yours Come on, Sir, will you be there? Email I D We have the most Use Mail I D No problem, no problem. Kandippa Registrieren Please read Sir I T C Can you find something else please help Sir How Can we help you get out of this? What else do you think I T C I T C C have the right Products Sir Now there are blessings Ata there are Sun biscuits there are noodles on the outside Cigarette item Everything There is Cigarette Everything Cigarette Venugla Sir That's what I heard about Cigarette. Cigarette and I T C's Sir I C's for all Products Sir Now you just need a supply, we'll just register it for you and we'll do it for everything or for everything Sir Ella Please put all items on All items Okay sir I will adjust to All items Sir Where will the Team come from Contact Sir Okay Already you won't tell Margin what you're buying to try to escape Definitely where team can tell you sir there are not those details or we would have told you sir where is the team almost everything so definitely call them and tell me sir Sir Right, what did you say your name? John John Jon Yes, sir. Come to Tamil Nadu and the Company's Office is in Tamil Nadu All over India I T C Yoda will be with the Company Umm Please register your request, sir. Okay, thank you Thank you for calling Sir Thank you sir ",
+    "speaker_a_segments": "Hallo Sir Hi, we will be speaking from Trichengotila. Hallo Tamil language wanted Transfer place transfer that Tamil language Hello Sir Tamil language Tamil Speechwinhala Hello Dad and I will talk about your deep Product Use Shop owner asked if Erode Wholesale is a Distributor Ah yes Be there Sri Venkateswara Store Sri One one three two not eight No Two not eight One three old numbers Two Hundred Eight Ramaswamy Plaza Sangargiri Road Sankari Road S A N K A R I Shangarun comes Shangarh Thiruchengodu Correct correct Enter PIN code number Can anyone supply it now? I asked if there was someone in Herod. Mm Dealer Discount Deals Aah Adjust Number Talk to this Number Make a note Add your phone number. Six three seven, two zero nine Dad asked for my name. K T Karnataka and Tamil Nadu A P P A V U That's where my dad is. I will say so much dad and dad and dad what do I say Where do you talk to your office now? Bangalore PIN nummer six three seven three four Ama Mm How to Contact Okayanganga You can't say anything. Rate Entente You are yours Email I D We have the most Use Mail I D Registrieren How What else do you think I T C item Everything There is Cigarette Everything That's what I heard about Cigarette. Ella Okay Already you won't tell Margin what you're buying to try to escape Sir Right, what did you say your name? Jon Come to Tamil Nadu and the Company's Office is in Tamil Nadu Okay, thank you ",
+    "speaker_b_segments": "thank you for calling R T C my name is How can I help you today Hallo Which language are you comfortable with Alright, I can call for a minute hold if I will check my Tamil agent and I will transfer the call problem I will just check Hello Good evening sir this is from I T C H Sir Hello Sir Tamil please tell me Sir I will speak Tamil Please speak to the owner of the store Sir Sir Find Supply for Your Store Do you have your own shop, sir? Existence Please tell me your store address Venkateswara Store one one three two not eight Gala Sir Okay, two hundred and eight Ramaswamy Plaza Shankar Shankar Sir Sangaringala A Saranga Sar Sankari Trichengodu T H I R U C H U N G O D U Correct Sir Please tell me your PIN code to connect to Trichengo PIN code or PIN code All right, take your time. Sir I T C come and make Direct to Supply Sir I T I C Yoda Distributors to supply all stores It's All over India Sir Now we will make your Request register Request register and make it to Team Sir where will the team come and the appropriate Distributor will add to the place and tell you Contact Sir Sarangala sir Sir pricing discount Let Team Information tell you everything Sir Please tell me your PIN code number, sir. Six-three Zero nine okay sir Sir with you Sir Sir a little spill farm K T A P P A V U Daddies too K T Singing Sir K D Dad is also with you Contact number This is Sir Now I T C I Speak from Bangalore Sir Three four gang Six three seven three not four Okay Sir Singing Sir request with you We Register and then where Team Approve and where Team comes in and comes Direct to Contact What else details pricing section on the other side Products add Value what Profit comes what Discount comes and where does Team tell you Sir Sarangala sir Please do it soon, Sir, we will do it, please do it. Sir where are those details sir that's why tell Team Direct Come on, Sir, will you be there? No problem, no problem. Kandippa Please read Sir I T C Can you find something else please help Sir Can we help you get out of this? I T C C have the right Products Sir Now there are blessings Ata there are Sun biscuits there are noodles on the outside Cigarette Cigarette Venugla Sir Cigarette and I T C's Sir I C's for all Products Sir Now you just need a supply, we'll just register it for you and we'll do it for everything or for everything Sir Please put all items on All items Okay sir I will adjust to All items Sir Where will the Team come from Contact Sir Definitely where team can tell you sir there are not those details or we would have told you sir where is the team almost everything so definitely call them and tell me sir John John Yes, sir. All over India I T C Yoda will be with the Company Umm Please register your request, sir. Thank you for calling Sir Thank you sir ",
+    "summary": "The caller wants to speak with someone who can provide information about becoming a distributor of ITC products. Initially, the caller is frustrated because he is unable to communicate in Tamil, which he would like, and is transferred multiple times. Eventually, he is connected with a representative named Kandippa who is based in Bangalore but can help the caller. The caller provides his contact information and location, and Kandippa assures the caller that he will register the request and that a team will be in contact with him regarding next steps. The caller also inquires about cigarettes, and Kandippa confirms that ITC is a distributor of cigarettes as well as several other types of products. The call ends with both parties thanking each other.",
+    "speaker_a_summary": "The speaker is calling from Trichy to a Tamil-speaking person in Sri Venkateswara Store to inquire about being a distributor for their products. They are also trying to get a contact number for a dealer in Herod. The call gets cut off and the speaker tries to get the other person's name and a way to contact them. The call ends without any conclusions being made.",
+    "speaker_b_summary": "The customer calls R T C to change the language of the call to Tamil and wants to speak to the owner of the store. The owner of the store is called Venkateswara Store and they are located at 1130, 208 Ramaswamy Plaza, Shankar Shankar Street, Sangaringala, Saranga Sar, Trichengodu, THIRUCHUNGODU. The customer wants to know how to get supply for their store and wants to know the details of the products, pricing, discounts and where the team is going to contact them from. The call center agent tells them that they will need to provide their PIN code to proceed but the customer does not provide this information. The call center agent then tells the customer that they will need to register the request in order for the team to contact them and provide the necessary information. The customer also wants to know if they can get cigarettes and IC products for all products and the call center agent tells them that they can adjust all the items for the customer. They also provide their contact number for the customer to call back and then thank the customer for calling.",
+    "cohere_points": "- Customer is calling in to register a request for a product from ITC, specifically cigarettes and wants to know where they would need to go to get them. \n- They will need to provide their PIN code, contact number and address for delivery. \n- Agent will register the request and confirm with the customer soon. \n- The customer's name is John. \n- Agent is fromRTC and is located in Bangalore.",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "1. Customer service inquiries\n2. Language preference\n3. Tamil language support\n4. Transfer to Tamil agent\n5. Address verification\n6. Store details\n7. Supply chain query\n8. Distributor availability\n9. Request registration process\n10. Team approval\n11. Distributor communication\n12. Pricing and discounts\n13. Contact information exchange\n14. Office location\n15. Product range and supply",
+    "Resolution": "The customer's issue seems to be partially resolved as the representative has offered to register the request and provide further assistance, but the complete resolution is pending confirmation from the relevant team.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "Yes.\n\nDuring the conversation, the caller displayed empathy by patiently listening to the customer, offering assistance, understanding the customer's needs, and expressing gratitude at the end of the call.",
+    "Was there any profanity on the call": "No",
+    "Interaction": "Query",
+    "Discipline": "B2B",
+    "Intent": "New Distributorship Request",
+    "total_silence_duration": 125.99899999999982,
+    "num_silences": 112
+}

@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import '../styles.css'; // Adjust the path if necessary
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { Col, Container, Row, Tooltip } from "reactstrap";
@@ -8,7 +8,6 @@ import meh from '../Data/neutralEmoji.png';
 import frown from '../Data/negativeEmoji.png';
 import transcriptData from '../Data/TranscriptOutput4.json';  // Corrected path to the JSON file
 
-// Function to map emotion to the corresponding icon
 const getIconByEmotion = (sentiment) => {
     switch (sentiment.toLowerCase()) {
         case 'positive':
@@ -20,18 +19,16 @@ const getIconByEmotion = (sentiment) => {
     }
 };
 
-// WPM Icon
 const getIconByWPM = (rate) => {
     if (rate < 120) {
-        return faSailboat; // Less than 120 is represented by boat
+        return faSailboat;
     } else if (rate >= 120 && rate <= 150) {
-        return faCarSide; // 120 - 150 is represented by a car icon
+        return faCarSide;
     } else {
-        return faJetFighter; // 150+ is represented by a plane icon
+        return faJetFighter;
     }
 };
 
-// Function to map speaker labels
 const mapSpeakerLabel = (label) => {
     switch (label) {
         case 'spk_0':
@@ -59,9 +56,9 @@ function Transcript({ jsonData, highlight, translate, onTextClick, onClicked, cu
     const [clicked, setClicked] = useState(false);
     const [globalTranslate, setGlobalTranslate] = useState(translate);
     const [items, setItems] = useState([]);
-    
+    const transcriptRef = useRef(null);
+
     useEffect(() => {
-        // console.log(jsonData)
         if (jsonData && jsonData.segments) {
             const newItems = jsonData.segments.map(item => ({
                 speaker: mapSpeakerLabel(item.speaker_label),
@@ -76,18 +73,33 @@ function Transcript({ jsonData, highlight, translate, onTextClick, onClicked, cu
                 icon: getEmojiByEmotion(item.sentiment_label),
                 rate_of_speech: parseFloat(item.rate_of_speech).toFixed(0),
                 WPMicon: getIconByWPM(item.rate_of_speech),
-                translate: translate, // Initial translate state for each item
+                translate: translate,
             }));
-            console.log(newItems);
-            setItems(prevItems => newItems);
-            console.log("items:", items);
+            setItems(newItems);
         }
     }, [jsonData, translate]);
+
+    useEffect(() => {
+        const currentItem = items.find(item => currentTime >= item.start && currentTime <= item.end);
+        if (currentItem) {
+            const index = items.indexOf(currentItem);
+            const itemRef = document.getElementById(`transcript-item-${index}`);
+            if (itemRef && transcriptRef.current) {
+                const itemTop = itemRef.offsetTop;
+                const itemBottom = itemTop + itemRef.offsetHeight;
+                const parentScrollTop = transcriptRef.current.scrollTop;
+                const parentHeight = transcriptRef.current.clientHeight;
+    
+                if (itemTop < parentScrollTop || itemBottom > parentScrollTop + parentHeight) {
+                    itemRef.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                }
+            }
+        }
+    }, [currentTime, items]);
 
     const toggleTooltip = () => setTooltipOpen(!tooltipOpen);
 
     const handleTextClick = (startTime) => {
-        // Pass the start time value to the parent component when a text is clicked
         onTextClick(startTime);
         onClicked(clicked);
         setClicked(!clicked);
@@ -101,10 +113,10 @@ function Transcript({ jsonData, highlight, translate, onTextClick, onClicked, cu
     };
 
     return (
-        <div className='transcript-content'>
+        <div className='transcript-content' ref={transcriptRef}>
             <Container fluid>
                 {items.map((item, index) => (
-                    <div key={index} className='highlight-background'>
+                    <div key={index} className='highlight-background' id={`transcript-item-${index}`}>
                         <div 
                             className={`transcript-item ${highlight && item.sentiment === 'Negative' ? 'highlight' : ''}`}  
                         >
@@ -145,7 +157,6 @@ function Transcript({ jsonData, highlight, translate, onTextClick, onClicked, cu
                                             </div>
                                             <div className="details-buttons">
                                                 <button className={`details-button ${highlight && item.sentiment === 'Negative' ? 'highlight' : ''}`}>Emotion: {item.emotion}</button>
-                                                {/* <button className={`details-button ${highlight && item.sentiment === 'Negative' ? 'highlight' : ''}`}>Tone: {item.tone}</button> */}
                                             </div>
                                         </div>
                                         <div style={{display:"flex", justifyContent:"space-between", alignItems:"center"}}>

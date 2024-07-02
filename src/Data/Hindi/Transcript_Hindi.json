@@ -1,0 +1,710 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0096",
+            "end_time": "0.0532",
+            "original_transcript": "Thank you for calling IC This is How may I help you",
+            "translated_transcript": "Thank you for calling IC This is how can I help you",
+            "tone": "Neutral",
+            "rate_of_speech": "16513.76",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thank",
+                "ic"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.0625",
+            "end_time": "0.216",
+            "original_transcript": "sir ये phone काटने का कोई reason नहीं होता है आप बार-बार phone काट दे रहे हो बात नहीं सुनते हो किसी की phone काट दिया आपने ये कोई reason है कलाश बोल रहा हूँ बोलो",
+            "translated_transcript": "Sir, there is no reason to disconnect the phone. You are disconnecting the phone again and again, do not listen to you, you have disconnected someone's phone. This is a reason why I am saying Kalash",
+            "tone": "Neutral",
+            "rate_of_speech": "14071.66",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir",
+                "'s phone",
+                "kalash"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.2323",
+            "end_time": "0.3173",
+            "original_transcript": "कैलाश जी okay मैं check करेगा wait कीजिए sir वो concern agent में transfer करेगा ठीक है",
+            "translated_transcript": "Okay Kailash ji I will check, wait sir he will transfer it to the concern agent. Okay",
+            "tone": "Neutral",
+            "rate_of_speech": "12000.00",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay kailash",
+                "concern agent",
+                "okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.3263",
+            "end_time": "0.5475",
+            "original_transcript": "तो sir ये phone काटने का कोई reason नहीं होता है से बात किया जाता है कोई भी समझो एक complex होता है complex complex समझो ना आपको क्यों बार बार phone काट के ऐसे कर रहे हो",
+            "translated_transcript": "So sir, there is no reason to disconnect this phone, it is talked to. Understand any. Understand that there is a complex complex. Understand why are you doing this by disconnecting the phone again and again.",
+            "tone": "Neutral",
+            "rate_of_speech": "9764.92",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "understand",
+                "understand",
+                "complex complex",
+                "understand"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.5516",
+            "end_time": "0.614",
+            "original_transcript": "sir मैंने नहीं cut किया sir मैं details check करेगा sir एक minute wait कीजिए",
+            "translated_transcript": "Sir I haven't cut it sir I will check the details sir wait a minute",
+            "tone": "Neutral",
+            "rate_of_speech": "14423.08",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir",
+                "details sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.6288",
+            "end_time": "0.6842",
+            "original_transcript": "हाँ ठीक है कोई दिक्कत नहीं है एक minute क्या एक घंटा wait करूँगा कोई issue",
+            "translated_transcript": "Yes okay, no problem will I wait one minute or an hour any issue",
+            "tone": "Neutral",
+            "rate_of_speech": "15162.45",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.6842",
+            "end_time": "0.6913",
+            "original_transcript": "नहीं है",
+            "translated_transcript": "No",
+            "tone": "Neutral",
+            "rate_of_speech": "8450.70",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.046",
+            "end_time": "1.4055",
+            "original_transcript": "Good evening sir line पे रहने के लिए धन्यवाद समझ जाते है आपका call cut गया था network problem की वजह से आपका complaint register करके हमारे team को हमारे एक agent घर पे जाएंगे वो packet आपसे हम ले लेंगे वापस आप हमें दे दीजियेगा ताकि हम उसका test कर सके और आपको जो है उसी time पे हमारी team के तौर पर नया packet आपको देंगे उसे आप ले",
+            "translated_transcript": "Good evening sir thank you for being on the line, you understand that your call was cut off due to network problem and register your complaint, one of our agents will go to our team's house, we will take that packet from you. You will give it back to us so that we can test it and give the new packet to you as our team at the same time.",
+            "tone": "Neutral",
+            "rate_of_speech": "11682.89",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good evening sir",
+                "network problem",
+                "team 's house",
+                "new packet"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.4055",
+            "end_time": "1.4143",
+            "original_transcript": "लीजिएगा please",
+            "translated_transcript": "Please take",
+            "tone": "Neutral",
+            "rate_of_speech": "13636.36",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "please"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.424",
+            "end_time": "1.4767",
+            "original_transcript": "तो इसके लिए sir मैं क्या complaint process कर दूँ आपका",
+            "translated_transcript": "So sir what complaint should I process for this",
+            "tone": "Neutral",
+            "rate_of_speech": "10246.68",
+            "emotion": "curiosity",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.4978",
+            "end_time": "1.509",
+            "original_transcript": "क्या",
+            "translated_transcript": "what",
+            "tone": "Neutral",
+            "rate_of_speech": "5357.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.5181",
+            "end_time": "1.55",
+            "original_transcript": "हमारे agent आएंगे वो packet लाने",
+            "translated_transcript": "Our agents will come to bring that packet",
+            "tone": "Neutral",
+            "rate_of_speech": "15047.02",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.5643",
+            "end_time": "1.5878",
+            "original_transcript": "आप वो packet दीजिएगा हमें",
+            "translated_transcript": "You give us that packet",
+            "tone": "Neutral",
+            "rate_of_speech": "12765.96",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.6327",
+            "end_time": "1.7387",
+            "original_transcript": "मैं packet खुद लेके आ जाऊंगा कोई issue नहीं है मैं खुद packet लेके आ जाऊंगा मुझे बताइए factory किधर है मैं plant किधर है",
+            "translated_transcript": "I will bring the packet myself, there is no issue I will bring the packet myself. Tell me where is the factory where is the plant",
+            "tone": "Neutral",
+            "rate_of_speech": "14716.98",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.7507",
+            "end_time": "1.7983",
+            "original_transcript": "plant की जानकारी हमें नहीं है exactly कहाँ पर है आपका",
+            "translated_transcript": "We don't know about the plant exactly where are you",
+            "tone": "Neutral",
+            "rate_of_speech": "12605.04",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.8108",
+            "end_time": "1.8988",
+            "original_transcript": "तो आप package लेने के लिए ऐसे कैसे बोल सकते हो कि package लेने के लिए कोई भी बंदा मैं भेज देता हूँ लेके आयेगा",
+            "translated_transcript": "So how can you say that any guy I send me to collect the package will come",
+            "tone": "Neutral",
+            "rate_of_speech": "11590.91",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.908",
+            "end_time": "1.9147",
+            "original_transcript": "भेजेंगे",
+            "translated_transcript": "Will send",
+            "tone": "Neutral",
+            "rate_of_speech": "17910.45",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "will"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.9235",
+            "end_time": "1.9315",
+            "original_transcript": "दे सकते हैं",
+            "translated_transcript": "Can give",
+            "tone": "Neutral",
+            "rate_of_speech": "15000.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.9495",
+            "end_time": "2.1037",
+            "original_transcript": "तो agent जायेंगे वो packet लाने के लिए लेके आपसे वापस हमारे पास भेजेंगे बैंगलोर में जहां पर आएगा वो packet collect करेंगे हम check करेंगे उसमें क्या है",
+            "translated_transcript": "So the agent will go to fetch the packet and send it back to us in Bangalore. Wherever it arrives, they will collect the packet. We will check what is in it",
+            "tone": "Neutral",
+            "rate_of_speech": "12451.36",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bangalore",
+                "wherever"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.1328",
+            "end_time": "2.1532",
+            "original_transcript": "factory में करेंगे",
+            "translated_transcript": "Will do it in the factory",
+            "tone": "Neutral",
+            "rate_of_speech": "17647.06",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "will"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.1617",
+            "end_time": "2.2282",
+            "original_transcript": "बैंगलोर में किधर कसुंधरा या किधर है बैंगलोर में",
+            "translated_transcript": "Where is Kasundhara in Bangalore or where in Bangalore",
+            "tone": "Neutral",
+            "rate_of_speech": "8120.30",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "kasundhara",
+                "bangalore",
+                "bangalore"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.2578",
+            "end_time": "2.3505",
+            "original_transcript": "exactly ये factory में बना है वो पहले हमें देखना क्योंकि batch number मैंने देखा",
+            "translated_transcript": "Exactly it is made in the factory. Let us see first because I saw the batch number",
+            "tone": "Neutral",
+            "rate_of_speech": "11003.24",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "exactly",
+                "batch number"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.3505",
+            "end_time": "2.6203",
+            "original_transcript": "नहीं है मैंने तो पूरा batch number आपको bar code का batch number का पूरा whatsapp किया हुआ है और मैंने दोनों left side का right side का दोनों का whatsapp किया हुआ है और अपने बेटे का भी जो side effect हुआ है वो whatsapp किया हुआ है देखो",
+            "translated_transcript": "No, I have WhatsApp the full batch number of the bar code and I have WhatsApp on both the left side on the right side and the side effect of my son is also WhatsApp. Look at the side effect my son has had.",
+            "tone": "Neutral",
+            "rate_of_speech": "9785.03",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "whatsapp",
+                "full batch number",
+                "whatsapp",
+                "left side",
+                "right side",
+                "side effect",
+                "whatsapp",
+                "side effect"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.6251",
+            "end_time": "2.82",
+            "original_transcript": "उसके लिए complain register करके हम पहले आपके घर पर agent भेजेंगे तो उससे क्या होगा ना आपका जो packet है हम वो आपसे collect करेंगे उसको हम",
+            "translated_transcript": "After registering a complaint for that, we will send an agent to your home first, so what will happen to that, we will collect your packet from you we will collect it from you",
+            "tone": "Neutral",
+            "rate_of_speech": "10466.91",
+            "emotion": "curiosity",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.82",
+            "end_time": "2.8272",
+            "original_transcript": "lab में",
+            "translated_transcript": "In the lab",
+            "tone": "Neutral",
+            "rate_of_speech": "25000.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.8272",
+            "end_time": "2.9488",
+            "original_transcript": "भेज के test करेंगे उसका problem को solve करेंगे और आपको एक नया packet दिया जाएगा as a goodation के तौर पर sir",
+            "translated_transcript": "We will test it and solve the problem and you will be given a new packet as a goodation sir",
+            "tone": "Neutral",
+            "rate_of_speech": "9868.42",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "new packet",
+                "goodation sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.96",
+            "end_time": "3.062",
+            "original_transcript": "तो मेरे को दोबारा कुरकरा दिया जाएगा दोबारा बेटे को खिलाऊं दोबारा उसकी side effect हो फिर उसको पैसा लगाओ ऐसा",
+            "translated_transcript": "So I will be given a kurkara again. I feed my son again if he has a side effect, then invest money to him.",
+            "tone": "Neutral",
+            "rate_of_speech": "14117.65",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "side effect",
+                "invest money"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.062",
+            "end_time": "3.2687",
+            "original_transcript": "नहीं होता है sir हमारा सारा product को हम quality test बहुत बार करने के बाद भेजते हैं अगर इस packet में problem आया है तो इसको हम वापस लेकर check कर लेंगे आपको नया packet में ऐसा कोई दिक्कत नहीं आएगा आप उसे आराम से",
+            "translated_transcript": "It does not happen sir, we send all our products after doing quality tests many times. If there is a problem in this packet, then we will take it back and check it. You will not find any such problem in the new packet. You can do it comfortably.",
+            "tone": "Neutral",
+            "rate_of_speech": "14223.51",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "quality tests",
+                "such problem",
+                "new packet"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.2833",
+            "end_time": "3.4163",
+            "original_transcript": "ऐसा ही ऐसा ही एक बार अपने मानेसर के अंदर वो IMT मानेसर में company juice वाली company ठीक है",
+            "translated_transcript": "One such time inside its Manesar, that company with company juice in IMT Manesar is fine",
+            "tone": "Neutral",
+            "rate_of_speech": "7218.05",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "such time",
+                "manesar",
+                "company juice",
+                "imt manesar"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.4212",
+            "end_time": "3.5253",
+            "original_transcript": "जो भी production खाली दस रुपए के juice का packet बनाती है बीस रुपए का पच्चीस का तीस का पचास ML का सौ ml का ढाई सौ ml का",
+            "translated_transcript": "Whichever production produces an empty packet of juice worth ten rupees twenty five, thirty of fifty ml of hundred ml of 2.5 hundred ml",
+            "tone": "Neutral",
+            "rate_of_speech": "13832.85",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "whichever",
+                "empty packet"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.5421",
+            "end_time": "3.6381",
+            "original_transcript": "juice बनाती है ठीक है तो उसमें issue हुआ issue हुआ तो हमको उधर गए",
+            "translated_transcript": "If you make juice, it's okay, so there was an issue in it, so we went there",
+            "tone": "Neutral",
+            "rate_of_speech": "10625.00",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "'s okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.6483",
+            "end_time": "3.7783",
+            "original_transcript": "तो हम पूरा check किया तो check किया तो drum कहीं से मंगा रहे हैं आम का लीची का",
+            "translated_transcript": "So if we have done a complete check, then we are asking for drum of mango lychee from somewhere",
+            "tone": "Neutral",
+            "rate_of_speech": "8769.23",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "complete check",
+                "mango lychee"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.7958",
+            "end_time": "4.0796",
+            "original_transcript": "उसका इसका sporting जो ढक्कन का जो cover होता है जो plastic के अंदर cover लगाते हैं sporting वो खुद कर रहे थे तीसरा floor पे उधर जाके check किया sporting खुद कर रहे हैं बोला ऐसा cover sporting करते हैं तो लोग क्या कर रहे हैं ना तो hair का पहरा हुआ है",
+            "translated_transcript": "Its sporting, which is the cover of the lid that covers the plastic inside, they were doing sporting themselves. They were doing sporting themselves on the third floor and checking that they are doing sporting themselves. He said that if people do such cover sporting, then the hair is guarded",
+            "tone": "Neutral",
+            "rate_of_speech": "10570.82",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.113",
+            "end_time": "4.4223",
+            "original_transcript": "शरीर में ऊपर सिर में ना hair cap है ना gloves है ना अंदर जो अगर जब कोई भी आदमी products बनाता है खाने पीने का तो उसमें lab ऐसा होता है अंदर जब factory के अंदर entry करोगे तो पूरा dust बिल्कुल नहीं होना चाहिए किधर से भी कुछ नहीं होना चाहिए पूरा AC",
+            "translated_transcript": "Above the body there is no hair cap or gloves or gloves inside. When any man makes products to eat and drink, then the lab is like this. When you enter inside the factory, then there should not be any dust from where there should be nothing. Complete AC",
+            "tone": "Neutral",
+            "rate_of_speech": "9505.33",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "hair cap",
+                "complete ac"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.4552",
+            "end_time": "4.5182",
+            "original_transcript": "ठीक है मैंने उधर जा के देखा उसको कनवर पानी हुआ है",
+            "translated_transcript": "Okay, I went over there and saw that he was very watery",
+            "tone": "Neutral",
+            "rate_of_speech": "11428.57",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.5273",
+            "end_time": "4.753",
+            "original_transcript": "उधर से माल आ रहा है last में जाके धीरे धीरे धीरे धीरे तीन घंटे में जाकर के ऊपर माल पहुँच रहा है कोई कार्टून क्या बना रहा है कोई क्या नहीं बना रहा है कोई गुटखा खा रहा है कोई कुछ खा रहा है ये कर रहा है ऐसा चलता है",
+            "translated_transcript": "Goods are coming from there. Go to the last one and slowly in three hours the goods are arriving at the top. What cartoons are you preparing, what are they not preparing, someone is eating gutkha, someone is eating something. It goes like this",
+            "tone": "Neutral",
+            "rate_of_speech": "11696.94",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "goods"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.813",
+            "end_time": "4.9716",
+            "original_transcript": "तो मुझे देखो sir sir मेरी बात सुनिए आपको request है कि मुझे खाली अपने plant का address डाल दीजिए बस",
+            "translated_transcript": "So look at me sir sir listen to me. You request me to enter your plant's address empty. Just",
+            "tone": "Neutral",
+            "rate_of_speech": "7187.89",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "sir sir",
+                "plant 's address empty"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.9931",
+            "end_time": "5.0813",
+            "original_transcript": "मैं सुबह की date में दस बजे plant खुलने से पहले मैं और मेरी team पहुंच जाएगी",
+            "translated_transcript": "My team and I will arrive before the plant opens at 10 o'clock in the morning date",
+            "tone": "Neutral",
+            "rate_of_speech": "11564.63",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "morning date"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.1158",
+            "end_time": "5.2583",
+            "original_transcript": "बमपुर में हो में हो में हो भिलाई पावर में हो तुम्हारा में में कहीं भी हो",
+            "translated_transcript": "Bampur Me Ho Me Ho Me Ho Bhilai Power Ho Wherever I am",
+            "tone": "Neutral",
+            "rate_of_speech": "5473.68",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bampur",
+                "ho",
+                "ho",
+                "ho bhilai power ho wherever"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.2713",
+            "end_time": "5.3201",
+            "original_transcript": "मैं पहुँच जाऊंगा क्योंकि मैं दिल्ली से आया हुआ हूँ",
+            "translated_transcript": "I will reach because I come from Delhi",
+            "tone": "Neutral",
+            "rate_of_speech": "9836.07",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "delhi"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.3385",
+            "end_time": "5.3995",
+            "original_transcript": "एक ही बेटी मेरी बेटी से बहुत प्यार करता हूँ ढाई साल की है",
+            "translated_transcript": "Only one daughter loves my daughter very much. She is two and a half years old",
+            "tone": "Neutral",
+            "rate_of_speech": "15737.70",
+            "emotion": "love",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.41",
+            "end_time": "5.4537",
+            "original_transcript": "शादी के सत्ताईस साल पीछे हुई है मेरी बेटी",
+            "translated_transcript": "My daughter is twenty-seven years behind marriage",
+            "tone": "Sad",
+            "rate_of_speech": "9610.98",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "twenty-seven years"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.4625",
+            "end_time": "5.6498",
+            "original_transcript": "पूरा data दे सकता हूँ पूरा data सत्ताईस साल पीछे हुई है अगर इसको इस से खाने से हुआ है तो मैं उसकी तक जाऊंगा उसको तह तक जाऊंगा क्यों होना चाहिए मेरा",
+            "translated_transcript": "I can provide complete data. All the data is twenty-seven years back. If it happened by eating it, then I will go to the bottom of it. I will get to the bottom of why it should be mine",
+            "tone": "Neutral",
+            "rate_of_speech": "12493.33",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "complete data",
+                "twenty-seven years"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.6597",
+            "end_time": "5.7048",
+            "original_transcript": "सब कुछ खत्म हो गया लेकिन जाऊंगा दस में",
+            "translated_transcript": "Everything is over but I will go in ten",
+            "tone": "Neutral",
+            "rate_of_speech": "11973.39",
+            "emotion": "optimism",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.7472",
+            "end_time": "5.8045",
+            "original_transcript": "ठीक है sir आप line पे रहिए मैं आपको कल दो minute hold पे रख सकता हूँ",
+            "translated_transcript": "Okay sir stay on the line I can hold you for two minutes tomorrow",
+            "tone": "Neutral",
+            "rate_of_speech": "14659.69",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay",
+                "sir stay"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.8152",
+            "end_time": "5.836",
+            "original_transcript": "हाँ ठीक है कोई issue नहीं",
+            "translated_transcript": "Yes ok no issue",
+            "tone": "Neutral",
+            "rate_of_speech": "11538.46",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.836",
+            "end_time": "5.8408",
+            "original_transcript": "है",
+            "translated_transcript": "jest",
+            "tone": "Neutral",
+            "rate_of_speech": "12500.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.8615",
+            "end_time": "5.8738",
+            "original_transcript": "Line पे है",
+            "translated_transcript": "It's on the line",
+            "tone": "Neutral",
+            "rate_of_speech": "19512.20",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.8928",
+            "end_time": "5.9335",
+            "original_transcript": "packet में किसी को नहीं दूंगा packet में रखा हुआ हूँ",
+            "translated_transcript": "I will not give it to anyone in the packet. I am kept in the packet",
+            "tone": "Neutral",
+            "rate_of_speech": "23587.22",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        }
+    ],
+    "translated_segments": "Thank you for calling IC This is how can I help you Sir, there is no reason to disconnect the phone. You are disconnecting the phone again and again, do not listen to you, you have disconnected someone's phone. This is a reason why I am saying Kalash Okay Kailash ji I will check, wait sir he will transfer it to the concern agent. Okay So sir, there is no reason to disconnect this phone, it is talked to. Understand any. Understand that there is a complex complex. Understand why are you doing this by disconnecting the phone again and again. Sir I haven't cut it sir I will check the details sir wait a minute Yes okay, no problem will I wait one minute or an hour any issue No Good evening sir thank you for being on the line, you understand that your call was cut off due to network problem and register your complaint, one of our agents will go to our team's house, we will take that packet from you. You will give it back to us so that we can test it and give the new packet to you as our team at the same time. Please take So sir what complaint should I process for this what Our agents will come to bring that packet You give us that packet I will bring the packet myself, there is no issue I will bring the packet myself. Tell me where is the factory where is the plant We don't know about the plant exactly where are you So how can you say that any guy I send me to collect the package will come Will send Can give So the agent will go to fetch the packet and send it back to us in Bangalore. Wherever it arrives, they will collect the packet. We will check what is in it Will do it in the factory Where is Kasundhara in Bangalore or where in Bangalore Exactly it is made in the factory. Let us see first because I saw the batch number No, I have WhatsApp the full batch number of the bar code and I have WhatsApp on both the left side on the right side and the side effect of my son is also WhatsApp. Look at the side effect my son has had. After registering a complaint for that, we will send an agent to your home first, so what will happen to that, we will collect your packet from you we will collect it from you In the lab We will test it and solve the problem and you will be given a new packet as a goodation sir So I will be given a kurkara again. I feed my son again if he has a side effect, then invest money to him. It does not happen sir, we send all our products after doing quality tests many times. If there is a problem in this packet, then we will take it back and check it. You will not find any such problem in the new packet. You can do it comfortably. One such time inside its Manesar, that company with company juice in IMT Manesar is fine Whichever production produces an empty packet of juice worth ten rupees twenty five, thirty of fifty ml of hundred ml of 2.5 hundred ml If you make juice, it's okay, so there was an issue in it, so we went there So if we have done a complete check, then we are asking for drum of mango lychee from somewhere Its sporting, which is the cover of the lid that covers the plastic inside, they were doing sporting themselves. They were doing sporting themselves on the third floor and checking that they are doing sporting themselves. He said that if people do such cover sporting, then the hair is guarded Above the body there is no hair cap or gloves or gloves inside. When any man makes products to eat and drink, then the lab is like this. When you enter inside the factory, then there should not be any dust from where there should be nothing. Complete AC Okay, I went over there and saw that he was very watery Goods are coming from there. Go to the last one and slowly in three hours the goods are arriving at the top. What cartoons are you preparing, what are they not preparing, someone is eating gutkha, someone is eating something. It goes like this So look at me sir sir listen to me. You request me to enter your plant's address empty. Just My team and I will arrive before the plant opens at 10 o'clock in the morning date Bampur Me Ho Me Ho Me Ho Bhilai Power Ho Wherever I am I will reach because I come from Delhi Only one daughter loves my daughter very much. She is two and a half years old My daughter is twenty-seven years behind marriage I can provide complete data. All the data is twenty-seven years back. If it happened by eating it, then I will go to the bottom of it. I will get to the bottom of why it should be mine Everything is over but I will go in ten Okay sir stay on the line I can hold you for two minutes tomorrow Yes ok no issue jest It's on the line I will not give it to anyone in the packet. I am kept in the packet ",
+    "speaker_a_segments": "Thank you for calling IC This is how can I help you Okay Kailash ji I will check, wait sir he will transfer it to the concern agent. Okay Sir I haven't cut it sir I will check the details sir wait a minute No Good evening sir thank you for being on the line, you understand that your call was cut off due to network problem and register your complaint, one of our agents will go to our team's house, we will take that packet from you. You will give it back to us so that we can test it and give the new packet to you as our team at the same time. So sir what complaint should I process for this Our agents will come to bring that packet You give us that packet We don't know about the plant exactly where are you Will send So the agent will go to fetch the packet and send it back to us in Bangalore. Wherever it arrives, they will collect the packet. We will check what is in it Exactly it is made in the factory. Let us see first because I saw the batch number After registering a complaint for that, we will send an agent to your home first, so what will happen to that, we will collect your packet from you we will collect it from you We will test it and solve the problem and you will be given a new packet as a goodation sir It does not happen sir, we send all our products after doing quality tests many times. If there is a problem in this packet, then we will take it back and check it. You will not find any such problem in the new packet. You can do it comfortably. Okay sir stay on the line I can hold you for two minutes tomorrow jest It's on the line ",
+    "speaker_b_segments": "Sir, there is no reason to disconnect the phone. You are disconnecting the phone again and again, do not listen to you, you have disconnected someone's phone. This is a reason why I am saying Kalash So sir, there is no reason to disconnect this phone, it is talked to. Understand any. Understand that there is a complex complex. Understand why are you doing this by disconnecting the phone again and again. Yes okay, no problem will I wait one minute or an hour any issue Please take what I will bring the packet myself, there is no issue I will bring the packet myself. Tell me where is the factory where is the plant So how can you say that any guy I send me to collect the package will come Can give Will do it in the factory Where is Kasundhara in Bangalore or where in Bangalore No, I have WhatsApp the full batch number of the bar code and I have WhatsApp on both the left side on the right side and the side effect of my son is also WhatsApp. Look at the side effect my son has had. In the lab So I will be given a kurkara again. I feed my son again if he has a side effect, then invest money to him. One such time inside its Manesar, that company with company juice in IMT Manesar is fine Whichever production produces an empty packet of juice worth ten rupees twenty five, thirty of fifty ml of hundred ml of 2.5 hundred ml If you make juice, it's okay, so there was an issue in it, so we went there So if we have done a complete check, then we are asking for drum of mango lychee from somewhere Its sporting, which is the cover of the lid that covers the plastic inside, they were doing sporting themselves. They were doing sporting themselves on the third floor and checking that they are doing sporting themselves. He said that if people do such cover sporting, then the hair is guarded Above the body there is no hair cap or gloves or gloves inside. When any man makes products to eat and drink, then the lab is like this. When you enter inside the factory, then there should not be any dust from where there should be nothing. Complete AC Okay, I went over there and saw that he was very watery Goods are coming from there. Go to the last one and slowly in three hours the goods are arriving at the top. What cartoons are you preparing, what are they not preparing, someone is eating gutkha, someone is eating something. It goes like this So look at me sir sir listen to me. You request me to enter your plant's address empty. Just My team and I will arrive before the plant opens at 10 o'clock in the morning date Bampur Me Ho Me Ho Me Ho Bhilai Power Ho Wherever I am I will reach because I come from Delhi Only one daughter loves my daughter very much. She is two and a half years old My daughter is twenty-seven years behind marriage I can provide complete data. All the data is twenty-seven years back. If it happened by eating it, then I will go to the bottom of it. I will get to the bottom of why it should be mine Everything is over but I will go in ten Yes ok no issue I will not give it to anyone in the packet. I am kept in the packet ",
+    "summary": "The customer called IC in regards to frequent disconnections during a call. The customer is concerned as they have a package that they need to send back to the company as their son experienced side effects after consuming the product. The customer is advised to register a complaint, and an agent will visit their home to collect the package. The customer is concerned that the product may not be handled properly and wants to know more about the manufacturing process. They are assured that the product will be tested and a new packet will be provided. The customer then proceeds to describe the unsanitary conditions of the factory and the lack of hygiene of the workers. They also mention that the product appears to be very watery. The customer insists on visiting the factory the next day as their daughter loves the product and they want to ensure its quality. The call ends with the customer waiting to provide additional information.",
+    "speaker_a_summary": "The customer wants to know why a packet of a plant that they purchased kept dying. The customer support agent registers a complaint and assures the customer that an agent will visit their home to collect the packet for further investigation in Bangalore. They explain that the plant goes through quality tests multiple times before being distributed and if there is an issue, they will send a new packet to the customer's home. The customer is advised to stay on the line for two more minutes for the next agent.",
+    "speaker_b_summary": "The caller is upset that their phone keeps getting disconnected during the call. They are discussing an issue with a package and wants to know the address of a plant in Bangalore, as they will collect the package themselves. The caller describes the state of the factory, mentioning poor hygiene and unsafe conditions. They are very adamant about collecting the package themselves as they have a 2-year-old daughter who had an adverse reaction to a product and they want to get to the bottom of it. They will go to any length to find out why their daughter is experiencing issues and is frustrated that the call keeps getting cut. The caller will arrive at the plant by 10 am.",
+    "cohere_points": "- User called IC in regards to frequent disconnections during a call\n- Agent wants the user to provide patience so they can resolve the issue\n- Issue could be due to network problems\n- User wants to register a complaint about a product they purchased. \n- Agent wants to know the address where the product was purchased so they can send someone to collect it for further analysis.",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "1. Phone Disconnecting Issue\n2. Transferring Call to Agent\n3. Network Problem\n4. Complaint Registration Process\n5. Packet Collection Procedure\n6. Batch Number Tracking\n7. Quality Testing Procedures\n8. Side Effects Investigation\n9. Product Return Policy\n10. Quality Control Measures\n11. Manufacturing Location\n12. Packaging Inspection\n13. Factory Visit Arrangements\n14. Product Safety Standards\n15. Customer Service Follow-up",
+    "Resolution": "The customer's issue is not resolved as they are still expressing concerns and requesting further action to address the problem with the product.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callersEmail_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "Yes.\n\nThe caller displayed empathy when they mentioned understanding the frustration of the customer with the disconnected phone calls and reassured them that the issue will be resolved by sending an agent to collect and test the packet before providing a new one.",
+    "Was there any profanity on the call": "No.",
+    "Interaction": "Query",
+    "Discipline": "Service",
+    "Intent": "Other Service Related"
+}

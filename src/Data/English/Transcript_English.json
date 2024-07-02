@@ -1,0 +1,619 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0472",
+            "end_time": "0.178",
+            "original_transcript": "Good afternoon Welcome to ITC And",
+            "translated_transcript": "Good afternoon Welcome to ITC And",
+            "tone": "Happy",
+            "rate_of_speech": "2752.29",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good afternoon",
+                "welcome",
+                "itc"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.1883",
+            "end_time": "0.5555",
+            "original_transcript": "OK",
+            "translated_transcript": "OK",
+            "tone": "Neutral",
+            "rate_of_speech": "163.40",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.5686",
+            "end_time": "0.788",
+            "original_transcript": "let me call it also",
+            "translated_transcript": "let me call it also",
+            "tone": "Neutral",
+            "rate_of_speech": "1367.37",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.801",
+            "end_time": "1.0213",
+            "original_transcript": "Uh",
+            "translated_transcript": "Uh",
+            "tone": "Neutral",
+            "rate_of_speech": "272.36",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "uh"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.1773",
+            "end_time": "1.5293",
+            "original_transcript": "OK sir Uh",
+            "translated_transcript": "OK sir Uh",
+            "tone": "Neutral",
+            "rate_of_speech": "511.36",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok sir",
+                "uh"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.9722",
+            "end_time": "1.9938",
+            "original_transcript": "VI you already now Now No",
+            "translated_transcript": "VI you already now Now No",
+            "tone": "Neutral",
+            "rate_of_speech": "16666.67",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "vi"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.0051",
+            "end_time": "2.0175",
+            "original_transcript": "ma VJTR",
+            "translated_transcript": "ma VJTR",
+            "tone": "Neutral",
+            "rate_of_speech": "9677.42",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "vjtr"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.0375",
+            "end_time": "2.0507",
+            "original_transcript": "VJ Vijay",
+            "translated_transcript": "VJ Vijay",
+            "tone": "Neutral",
+            "rate_of_speech": "9090.91",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "vj vijay"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.069",
+            "end_time": "2.456",
+            "original_transcript": "or contact number area 94547 Double nine double 2411",
+            "translated_transcript": "or contact number area 94547 Double nine double 2411",
+            "tone": "Neutral",
+            "rate_of_speech": "1395.35",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "contact number area"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.4686",
+            "end_time": "2.494",
+            "original_transcript": "Pota twist",
+            "translated_transcript": "Pota twist",
+            "tone": "Neutral",
+            "rate_of_speech": "4724.41",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pota"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.5463",
+            "end_time": "2.62",
+            "original_transcript": "We get near by",
+            "translated_transcript": "We get near by",
+            "tone": "Neutral",
+            "rate_of_speech": "3256.45",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.6335",
+            "end_time": "2.6453",
+            "original_transcript": "uh 10",
+            "translated_transcript": "uh 10",
+            "tone": "Neutral",
+            "rate_of_speech": "10169.49",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.6573",
+            "end_time": "2.7895",
+            "original_transcript": "â‚¹10 KTK or so our scale A batch Number of manufacturing date Will packet will be a",
+            "translated_transcript": "â‚¹10 KTK or so our scale A batch Number of manufacturing date Will packet will be a",
+            "tone": "Neutral",
+            "rate_of_speech": "7715.58",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ktk",
+                "number",
+                "will"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.8123",
+            "end_time": "2.8978",
+            "original_transcript": "22 2023 or expire 29 September 2023 Here",
+            "translated_transcript": "22 2023 or expire 29 September 2023 Here",
+            "tone": "Neutral",
+            "rate_of_speech": "5614.04",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "september"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.9383",
+            "end_time": "2.9605",
+            "original_transcript": "sir Sorry Do I repeat that again",
+            "translated_transcript": "sir Sorry Do I repeat that again",
+            "tone": "Sad",
+            "rate_of_speech": "18918.92",
+            "emotion": "remorse",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "sorry"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.9777",
+            "end_time": "3.02",
+            "original_transcript": "June 2020 20 Manufacturing here",
+            "translated_transcript": "June 2020 20 Manufacturing here",
+            "tone": "Neutral",
+            "rate_of_speech": "7092.20",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "june",
+                "manufacturing"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.0295",
+            "end_time": "3.0356",
+            "original_transcript": "Hm",
+            "translated_transcript": "Hm",
+            "tone": "Neutral",
+            "rate_of_speech": "9836.07",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hm"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.0488",
+            "end_time": "3.0813",
+            "original_transcript": "29 September",
+            "translated_transcript": "29 September",
+            "tone": "Neutral",
+            "rate_of_speech": "3692.31",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "september"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.1158",
+            "end_time": "3.127",
+            "original_transcript": "concert June",
+            "translated_transcript": "concert June",
+            "tone": "Neutral",
+            "rate_of_speech": "10714.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "june"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.1533",
+            "end_time": "3.197",
+            "original_transcript": "to June 2023",
+            "translated_transcript": "to June 2023",
+            "tone": "Neutral",
+            "rate_of_speech": "4118.99",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "june"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.2073",
+            "end_time": "3.2535",
+            "original_transcript": "22 2nd",
+            "translated_transcript": "22 2nd",
+            "tone": "Neutral",
+            "rate_of_speech": "2597.40",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.262",
+            "end_time": "3.3363",
+            "original_transcript": "29 September 2023 Expiry date is",
+            "translated_transcript": "29 September 2023 Expiry date is",
+            "tone": "Neutral",
+            "rate_of_speech": "4845.22",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "september",
+                "expiry"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.35",
+            "end_time": "3.392",
+            "original_transcript": "batch number K batch number K",
+            "translated_transcript": "batch number K batch number K",
+            "tone": "Neutral",
+            "rate_of_speech": "8571.43",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "batch number",
+                "batch number"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.4337",
+            "end_time": "3.5178",
+            "original_transcript": "PP 01 DB P 01",
+            "translated_transcript": "PP 01 DB P 01",
+            "tone": "Neutral",
+            "rate_of_speech": "3567.18",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pp",
+                "db p"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.5273",
+            "end_time": "3.5328",
+            "original_transcript": "zero",
+            "translated_transcript": "zero",
+            "tone": "Neutral",
+            "rate_of_speech": "10909.09",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.533",
+            "end_time": "3.5392",
+            "original_transcript": "one",
+            "translated_transcript": "one",
+            "tone": "Neutral",
+            "rate_of_speech": "9677.42",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.5457",
+            "end_time": "3.5618",
+            "original_transcript": "BP 01",
+            "translated_transcript": "BP 01",
+            "tone": "Neutral",
+            "rate_of_speech": "7453.42",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bp"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.5682",
+            "end_time": "3.5773",
+            "original_transcript": "G",
+            "translated_transcript": "G",
+            "tone": "Neutral",
+            "rate_of_speech": "6593.41",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.5865",
+            "end_time": "3.6313",
+            "original_transcript": "Ok so sir uh you consist to that",
+            "translated_transcript": "Ok so sir uh you consist to that",
+            "tone": "Neutral",
+            "rate_of_speech": "10714.29",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok",
+                "sir uh"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.6442",
+            "end_time": "3.9193",
+            "original_transcript": "Ok",
+            "translated_transcript": "Ok",
+            "tone": "Neutral",
+            "rate_of_speech": "218.10",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.9255",
+            "end_time": "4.3258",
+            "original_transcript": "yeah",
+            "translated_transcript": "yeah",
+            "tone": "Neutral",
+            "rate_of_speech": "149.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.326",
+            "end_time": "4.7265",
+            "original_transcript": "Yeah",
+            "translated_transcript": "Yeah",
+            "tone": "Neutral",
+            "rate_of_speech": "149.81",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "yeah"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.7385",
+            "end_time": "5.0755",
+            "original_transcript": "You",
+            "translated_transcript": "You",
+            "tone": "Neutral",
+            "rate_of_speech": "178.04",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.0848",
+            "end_time": "5.1185",
+            "original_transcript": "KK matana of com",
+            "translated_transcript": "KK matana of com",
+            "tone": "Neutral",
+            "rate_of_speech": "7121.66",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "kk"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.1315",
+            "end_time": "5.1446",
+            "original_transcript": "area have been good Care",
+            "translated_transcript": "area have been good Care",
+            "tone": "Happy",
+            "rate_of_speech": "22900.76",
+            "emotion": "admiration",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "care"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.1553",
+            "end_time": "5.193",
+            "original_transcript": "the pin pin code double",
+            "translated_transcript": "the pin pin code double",
+            "tone": "Neutral",
+            "rate_of_speech": "7957.56",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pin pin code double"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.3558",
+            "end_time": "5.4357",
+            "original_transcript": "260 Double two double 260 Double two double 260 double two",
+            "translated_transcript": "260 Double two double 260 Double two double 260 double two",
+            "tone": "Neutral",
+            "rate_of_speech": "8260.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.4672",
+            "end_time": "5.6173",
+            "original_transcript": "and or a P details up basis I inquiry for you",
+            "translated_transcript": "and or a P details up basis I inquiry for you",
+            "tone": "Neutral",
+            "rate_of_speech": "4397.07",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.6215",
+            "end_time": "5.7382",
+            "original_transcript": "Thank you",
+            "translated_transcript": "Thank you",
+            "tone": "Neutral",
+            "rate_of_speech": "1028.28",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thank"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.7492",
+            "end_time": "5.8055",
+            "original_transcript": "Thank you",
+            "translated_transcript": "Thank you",
+            "tone": "Neutral",
+            "rate_of_speech": "2131.44",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thank"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.8056",
+            "end_time": "5.8287",
+            "original_transcript": "You have to call",
+            "translated_transcript": "You have to call",
+            "tone": "Neutral",
+            "rate_of_speech": "10389.61",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.8622",
+            "end_time": "5.8762",
+            "original_transcript": "OK thank you",
+            "translated_transcript": "OK thank you",
+            "tone": "Neutral",
+            "rate_of_speech": "12857.14",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.9433",
+            "end_time": "5.9546",
+            "original_transcript": "Good Thank",
+            "translated_transcript": "Good Thank",
+            "tone": "Happy",
+            "rate_of_speech": "10619.47",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "thank"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.9548",
+            "end_time": "5.9596",
+            "original_transcript": "you",
+            "translated_transcript": "you",
+            "tone": "Neutral",
+            "rate_of_speech": "12500.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        }
+    ],
+    "translated_segments": "Good afternoon Welcome to ITC And OK let me call it also Uh OK sir Uh VI you already now Now No ma VJTR VJ Vijay or contact number area 94547 Double nine double 2411 Pota twist We get near by uh 10 â‚¹10 KTK or so our scale A batch Number of manufacturing date Will packet will be a 22 2023 or expire 29 September 2023 Here sir Sorry Do I repeat that again June 2020 20 Manufacturing here Hm 29 September concert June to June 2023 22 2nd 29 September 2023 Expiry date is batch number K batch number K PP 01 DB P 01 zero one BP 01 G Ok so sir uh you consist to that Ok yeah Yeah You KK matana of com area have been good Care the pin pin code double 260 Double two double 260 Double two double 260 double two and or a P details up basis I inquiry for you Thank you Thank you You have to call OK thank you Good Thank you ",
+    "speaker_a_segments": "Good afternoon Welcome to ITC And let me call it also OK sir Uh ma VJTR or contact number area 94547 Double nine double 2411 Pota twist We get near by â‚¹10 KTK or so our scale A batch Number of manufacturing date Will packet will be a sir Sorry Do I repeat that again Hm concert June batch number K batch number K zero BP 01 Ok so sir uh you consist to that Yeah area have been good Care the pin pin code double and or a P details up basis I inquiry for you You have to call Good Thank ",
+    "speaker_b_segments": "OK Uh VI you already now Now No VJ Vijay uh 10 22 2023 or expire 29 September 2023 Here June 2020 20 Manufacturing here 29 September to June 2023 22 2nd 29 September 2023 Expiry date is PP 01 DB P 01 one G Ok yeah You KK matana of com 260 Double two double 260 Double two double 260 double two Thank you Thank you OK thank you you ",
+    "summary": "The narrator details the contents of a package that was manufactured in June 2020 and expires on September 29, 2023, specifying the batch number and manufacturing date. The package has the pin code of double 260, double two, double 260, double two. The contact details of the recipient, VJ Vijay, are provided along with their area code and phone number. The narrator informs Vijay that the package will be sent out shortly.",
+    "speaker_a_summary": "The caller is looking for information about a product they purchased, with a manufacturing date of June, and batch number K-0-BP-01. They provide the contact details for ITC and the call center asks for the pin-pin code and other details to initiate an inquiry. The caller thanks the representative and the call ends.",
+    "speaker_b_summary": "The expiry date of VJ Vijay's credit card is September 29, 2023, which is 22 months after their manufacturing date of June 20, 2020. Vijay's credit card number is 2602 602 2602.",
+    "cohere_points": "- The text is a recording of a phone conversation between a customer and a customer service representative regarding a product purchase. \n- The key phrases are:\n- Purchase details\n- Pin code\n- Manufacturing date\n- Expiry date\n- Batch number \n\nLet me know if there is anything else I can get done for you!",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "1. ITC Welcome\n2. Contact Number\n3. Manufacturing Date\n4. Expiry Date\n5. Batch Number\n6. Near By\n7. June 2020\n8. Scale A\n9. Vijay or Contact\n10. Double 2411\n11. Pota Twist\n12. KTK Area\n13. Concert Details\n14. Pin Code\n15. Inquiry Details",
+    "Resolution": "The customer's issue is not resolved as the conversation seems to be about product details and not addressing any specific problem or concern.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callersEmail_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "No, empathy was not displayed in this conversation.",
+    "Was there any profanity on the call": "No.",
+    "Interaction": "Query",
+    "Discipline": "Service",
+    "Intent": "Product Not Received"
+}
