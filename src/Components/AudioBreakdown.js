@@ -70,7 +70,7 @@ function AudioBreakdown({ selectedOptions, onTextClick, onClicked, currentTime, 
                             </label>
                             <div style={{ width: "10px" }}></div>
                             AI Highlight
-                            <label className="switch">
+                            <label className="switch ai-highlight-switch">
                                 <input type="checkbox" checked={highlight} onChange={toggleHighlight} />
                                 <span className="slider round"></span>
                             </label>

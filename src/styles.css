@@ -435,7 +435,7 @@
     font-size: 1rem;
     line-height: 1.5;
     color: #333;
-    padding: 10px 0px;
+    /* padding: 10px 0px; */
     text-align: left;
     height: 77vh;
     overflow-y: auto;
@@ -513,7 +513,8 @@ border-radius: 12px;
 }
 
 .current-time-highlight {
-    background-color: #FFE8C5; /* Highlight color */
+    background-color: #F1EFEF;
+    color: black; /* Highlight color */
     padding: 5px 5px;
     border-radius: 7px;
     transition: background-color 0.3s ease;
@@ -526,9 +527,13 @@ border-radius: 12px;
     transition: background-color 0.3s ease;
 }
 
+.transcript-text{
+    margin-left: 2px ;
+}
 .transcript-text:hover{
     cursor: pointer;
-    background-color: #7BC9FF; /* Highlight color */
+    background-color: #D1D8C5;
+    color: black; /* Highlight color */
     padding: 5px 5px;
     border-radius: 7px;
     transition: background-color 0.3s ease;
@@ -601,9 +606,9 @@ border-radius: 12px;
     transition: all 0.7s ease-in-out;
 }
 
-.details-button:hover {
+/* .details-button:hover {
     background-color: #0056b3;
-}
+} */
 
 .keywords {
     background-color: transparent;
@@ -671,7 +676,10 @@ border-radius: 12px;
     background-color: #AADDEE;
     
   }
-  
+  .ai-highlight-switch input:checked + .slider {
+    background-color: #E97777; /* Your desired color */
+}
+
   input:checked + .slider:before {
     transform: translateX(14px);
   }

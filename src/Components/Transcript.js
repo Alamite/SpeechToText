@@ -3,9 +3,9 @@ import '../styles.css'; // Adjust the path if necessary
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { Col, Container, Row, Tooltip } from "reactstrap";
 import { faSmile, faMeh, faFrown, faSailboat, faJetFighter, faCarSide, faCircleInfo } from '@fortawesome/free-solid-svg-icons';
-import smile from '../Data/positiveEmoji.png';
-import meh from '../Data/neutralEmoji.png';
-import frown from '../Data/negativeEmoji.png';
+import smile from '../Data/positiveIcon2.png';
+import meh from '../Data/neutralIcon2.png';
+import frown from '../Data/negativeIcon2.png';
 import transcriptData from '../Data/TranscriptOutput4.json';  // Corrected path to the JSON file
 
 const getIconByEmotion = (sentiment) => {
@@ -34,7 +34,7 @@ const mapSpeakerLabel = (label) => {
         case 'spk_0':
             return 'Synthesis Agent';
         case 'spk_1':
-            return 'Caller';
+            return 'Customer';
         default:
             return label;
     }
@@ -114,7 +114,7 @@ function Transcript({ jsonData, highlight, translate, onTextClick, onClicked, cu
 
     return (
         <div className='transcript-content' ref={transcriptRef}>
-            <Container fluid>
+            <Container fluid style={{padding:"none !important"}}>
                 {items.map((item, index) => (
                     <div key={index} className='highlight-background' id={`transcript-item-${index}`}>
                         <div 
@@ -126,16 +126,17 @@ function Transcript({ jsonData, highlight, translate, onTextClick, onClicked, cu
                                         <div>
                                             <div style={{ display: "flex", alignItems: "center" }}>
                                                 <span className='speaker-title'>{item.speaker} </span>
-                                                <div style={{ paddingRight: "2px" }}>
+                                                <div style={{ paddingRight: "2px"}}>
                                                     <img
                                                         src={item.icon}
                                                         alt={item.sentiment}
-                                                        style={{ width: "18px", height: "18px", filter: item.sentiment === 'positive' ? "invert(42%) sepia(70%) saturate(5992%) hue-rotate(105deg) brightness(99%) contrast(92%)" : item.sentiment === 'negative' ? "invert(38%) sepia(74%) saturate(2764%) hue-rotate(329deg) brightness(87%) contrast(88%)" : "inherit" }}
+                                                        style={{ width: "22px", height: "22px", filter: item.sentiment === 'positive' ? "invert(42%) sepia(70%) saturate(5992%) hue-rotate(105deg) brightness(99%) contrast(92%)" : item.sentiment === 'negative' ? "invert(38%) sepia(74%) saturate(2764%) hue-rotate(329deg) brightness(87%) contrast(88%)" : "inherit" }}
                                                     />
                                                 </div>
                                                 :
                                             </div>
                                             <span className={`speaker-time ${highlight && item.sentiment === 'Negative' ? 'highlight' : ''}`}>({item.start} - {item.end})</span>
+                                            
                                         </div>
                                     </div>
                                 </Col>
