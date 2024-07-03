@@ -3,8 +3,8 @@ import '../styles.css'; // Adjust the path if necessary
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { Col, Container, Row, Tooltip } from "reactstrap";
 import { faSmile, faMeh, faFrown, faSailboat, faJetFighter, faCarSide, faCircleInfo } from '@fortawesome/free-solid-svg-icons';
-import smile from '../Data/positiveIcon2.png';
-import meh from '../Data/neutralIcon2.png';
+import smile from '../Data/positiveGreen.png';
+import meh from '../Data/neutralYellow.png';
 import frown from '../Data/negativeIcon2.png';
 import transcriptData from '../Data/TranscriptOutput4.json';  // Corrected path to the JSON file
 
@@ -34,7 +34,7 @@ const mapSpeakerLabel = (label) => {
         case 'spk_0':
             return 'Synthesis Agent';
         case 'spk_1':
-            return 'Customer';
+            return 'Caller';
         default:
             return label;
     }
@@ -126,7 +126,7 @@ function Transcript({ jsonData, highlight, translate, onTextClick, onClicked, cu
                                         <div>
                                             <div style={{ display: "flex", alignItems: "center" }}>
                                                 <span className='speaker-title'>{item.speaker} </span>
-                                                <div style={{ paddingRight: "2px"}}>
+                                                <div style={{ paddingRight: "2px", marginBottom:"2px"}}>
                                                     <img
                                                         src={item.icon}
                                                         alt={item.sentiment}

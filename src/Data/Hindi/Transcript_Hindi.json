@@ -5,9 +5,9 @@
             "start_time": "0.0096",
             "end_time": "0.0532",
             "original_transcript": "Thank you for calling IC This is How may I help you",
-            "translated_transcript": "Thank you for calling IC This is how can I help you",
+            "translated_transcript": "Thank you for calling IC This is how I can help you",
             "tone": "Neutral",
-            "rate_of_speech": "16513.76",
+            "rate_of_speech": "275.76",
             "emotion": "gratitude",
             "sentiment_label": "Neutral",
             "keywords": [
@@ -19,141 +19,150 @@
             "speaker_label": "spk_1",
             "start_time": "0.0625",
             "end_time": "0.216",
-            "original_transcript": "sir ये phone काटने का कोई reason नहीं होता है आप बार-बार phone काट दे रहे हो बात नहीं सुनते हो किसी की phone काट दिया आपने ये कोई reason है कलाश बोल रहा हूँ बोलो",
-            "translated_transcript": "Sir, there is no reason to disconnect the phone. You are disconnecting the phone again and again, do not listen to you, you have disconnected someone's phone. This is a reason why I am saying Kalash",
-            "tone": "Neutral",
-            "rate_of_speech": "14071.66",
+            "original_transcript": "sir \u092f\u0947 phone \u0915\u093e\u091f\u0928\u0947 \u0915\u093e \u0915\u094b\u0908 reason \u0928\u0939\u0940\u0902 \u0939\u094b\u0924\u093e \u0939\u0948 \u0906\u092a \u092c\u093e\u0930-\u092c\u093e\u0930 phone \u0915\u093e\u091f \u0926\u0947 \u0930\u0939\u0947 \u0939\u094b \u092c\u093e\u0924 \u0928\u0939\u0940\u0902 \u0938\u0941\u0928\u0924\u0947 \u0939\u094b \u0915\u093f\u0938\u0940 \u0915\u0940 phone \u0915\u093e\u091f \u0926\u093f\u092f\u093e \u0906\u092a\u0928\u0947 \u092f\u0947 \u0915\u094b\u0908 reason \u0939\u0948 \u0915\u0932\u093e\u0936 \u092c\u094b\u0932 \u0930\u0939\u093e \u0939\u0942\u0901 \u092c\u094b\u0932\u094b",
+            "translated_transcript": "sir ye cut the phone why there was no reason why I cut the bar-bar phone, keep cutting the phone, don't listen to me if I cut the phone, why don't you talk?",
+            "tone": "Sad",
+            "rate_of_speech": "214.98",
             "emotion": "neutral",
-            "sentiment_label": "Neutral",
+            "sentiment_label": "Negative",
             "keywords": [
-                "sir",
-                "'s phone",
-                "kalash"
+                "bar-bar phone"
             ]
         },
         {
             "speaker_label": "spk_0",
             "start_time": "0.2323",
             "end_time": "0.3173",
-            "original_transcript": "कैलाश जी okay मैं check करेगा wait कीजिए sir वो concern agent में transfer करेगा ठीक है",
-            "translated_transcript": "Okay Kailash ji I will check, wait sir he will transfer it to the concern agent. Okay",
+            "original_transcript": "\u0915\u0948\u0932\u093e\u0936 \u091c\u0940 okay \u092e\u0948\u0902 check \u0915\u0930\u0947\u0917\u093e wait \u0915\u0940\u091c\u093f\u090f sir \u0935\u094b concern agent \u092e\u0947\u0902 transfer \u0915\u0930\u0947\u0917\u093e \u0920\u0940\u0915 \u0939\u0948",
+            "translated_transcript": "Kailash ji okay check me wait Kijie sir Wo transfer to concern agent ok",
             "tone": "Neutral",
-            "rate_of_speech": "12000.00",
+            "rate_of_speech": "164.67",
             "emotion": "neutral",
             "sentiment_label": "Positive",
             "keywords": [
-                "okay kailash",
-                "concern agent",
-                "okay"
+                "kailash",
+                "ji okay check",
+                "kijie",
+                "wo",
+                "concern agent ok"
             ]
         },
         {
             "speaker_label": "spk_1",
             "start_time": "0.3263",
             "end_time": "0.5475",
-            "original_transcript": "तो sir ये phone काटने का कोई reason नहीं होता है से बात किया जाता है कोई भी समझो एक complex होता है complex complex समझो ना आपको क्यों बार बार phone काट के ऐसे कर रहे हो",
-            "translated_transcript": "So sir, there is no reason to disconnect this phone, it is talked to. Understand any. Understand that there is a complex complex. Understand why are you doing this by disconnecting the phone again and again.",
+            "original_transcript": "\u0924\u094b sir \u092f\u0947 phone \u0915\u093e\u091f\u0928\u0947 \u0915\u093e \u0915\u094b\u0908 reason \u0928\u0939\u0940\u0902 \u0939\u094b\u0924\u093e \u0939\u0948 \u0938\u0947 \u092c\u093e\u0924 \u0915\u093f\u092f\u093e \u091c\u093e\u0924\u093e \u0939\u0948 \u0915\u094b\u0908 \u092d\u0940 \u0938\u092e\u091d\u094b \u090f\u0915 complex \u0939\u094b\u0924\u093e \u0939\u0948 complex complex \u0938\u092e\u091d\u094b \u0928\u093e \u0906\u092a\u0915\u094b \u0915\u094d\u092f\u094b\u0902 \u092c\u093e\u0930 \u092c\u093e\u0930 phone \u0915\u093e\u091f \u0915\u0947 \u0910\u0938\u0947 \u0915\u0930 \u0930\u0939\u0947 \u0939\u094b",
+            "translated_transcript": "He was talking about phone cuts and there was no reason why he was going to the phone.",
             "tone": "Neutral",
-            "rate_of_speech": "9764.92",
+            "rate_of_speech": "81.39",
             "emotion": "neutral",
-            "sentiment_label": "Negative",
+            "sentiment_label": "Neutral",
             "keywords": [
-                "understand",
-                "understand",
-                "complex complex",
-                "understand"
+                "phone cuts"
             ]
         },
         {
             "speaker_label": "spk_0",
             "start_time": "0.5516",
             "end_time": "0.614",
-            "original_transcript": "sir मैंने नहीं cut किया sir मैं details check करेगा sir एक minute wait कीजिए",
-            "translated_transcript": "Sir I haven't cut it sir I will check the details sir wait a minute",
+            "original_transcript": "sir \u092e\u0948\u0902\u0928\u0947 \u0928\u0939\u0940\u0902 cut \u0915\u093f\u092f\u093e sir \u092e\u0948\u0902 details check \u0915\u0930\u0947\u0917\u093e sir \u090f\u0915 minute wait \u0915\u0940\u091c\u093f\u090f",
+            "translated_transcript": "sir main no cut kiya sir main details check sir a minute wait kejia",
             "tone": "Neutral",
-            "rate_of_speech": "14423.08",
+            "rate_of_speech": "224.54",
             "emotion": "neutral",
-            "sentiment_label": "Neutral",
+            "sentiment_label": "Positive",
             "keywords": [
-                "sir",
-                "details sir"
+                "cut kiya sir",
+                "main details check sir"
             ]
         },
         {
             "speaker_label": "spk_1",
             "start_time": "0.6288",
             "end_time": "0.6842",
-            "original_transcript": "हाँ ठीक है कोई दिक्कत नहीं है एक minute क्या एक घंटा wait करूँगा कोई issue",
-            "translated_transcript": "Yes okay, no problem will I wait one minute or an hour any issue",
+            "original_transcript": "\u0939\u093e\u0901 \u0920\u0940\u0915 \u0939\u0948 \u0915\u094b\u0908 \u0926\u093f\u0915\u094d\u0915\u0924 \u0928\u0939\u0940\u0902 \u0939\u0948 \u090f\u0915 minute \u0915\u094d\u092f\u093e \u090f\u0915 \u0918\u0902\u091f\u093e wait \u0915\u0930\u0942\u0901\u0917\u093e \u0915\u094b\u0908 issue",
+            "translated_transcript": "Ha ok hai koi dickat hai a minute or a bell wait a minute or an issue",
             "tone": "Neutral",
-            "rate_of_speech": "15162.45",
-            "emotion": "approval",
+            "rate_of_speech": "307.23",
+            "emotion": "neutral",
             "sentiment_label": "Positive",
-            "keywords": []
+            "keywords": [
+                "ha",
+                "ok hai koi dickat hai"
+            ]
         },
         {
             "speaker_label": "spk_0",
             "start_time": "0.6842",
             "end_time": "0.6913",
-            "original_transcript": "नहीं है",
-            "translated_transcript": "No",
+            "original_transcript": "\u0928\u0939\u0940\u0902 \u0939\u0948",
+            "translated_transcript": "No, Hai",
             "tone": "Neutral",
-            "rate_of_speech": "8450.70",
+            "rate_of_speech": "279.07",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
-            "keywords": []
+            "keywords": [
+                "hai"
+            ]
         },
         {
             "speaker_label": "spk_0",
             "start_time": "1.046",
             "end_time": "1.4055",
-            "original_transcript": "Good evening sir line पे रहने के लिए धन्यवाद समझ जाते है आपका call cut गया था network problem की वजह से आपका complaint register करके हमारे team को हमारे एक agent घर पे जाएंगे वो packet आपसे हम ले लेंगे वापस आप हमें दे दीजियेगा ताकि हम उसका test कर सके और आपको जो है उसी time पे हमारी team के तौर पर नया packet आपको देंगे उसे आप ले",
-            "translated_transcript": "Good evening sir thank you for being on the line, you understand that your call was cut off due to network problem and register your complaint, one of our agents will go to our team's house, we will take that packet from you. You will give it back to us so that we can test it and give the new packet to you as our team at the same time.",
+            "original_transcript": "Good evening sir line \u092a\u0947 \u0930\u0939\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0927\u0928\u094d\u092f\u0935\u093e\u0926 \u0938\u092e\u091d \u091c\u093e\u0924\u0947 \u0939\u0948 \u0906\u092a\u0915\u093e call cut \u0917\u092f\u093e \u0925\u093e network problem \u0915\u0940 \u0935\u091c\u0939 \u0938\u0947 \u0906\u092a\u0915\u093e complaint register \u0915\u0930\u0915\u0947 \u0939\u092e\u093e\u0930\u0947 team \u0915\u094b \u0939\u092e\u093e\u0930\u0947 \u090f\u0915 agent \u0918\u0930 \u092a\u0947 \u091c\u093e\u090f\u0902\u0917\u0947 \u0935\u094b packet \u0906\u092a\u0938\u0947 \u0939\u092e \u0932\u0947 \u0932\u0947\u0902\u0917\u0947 \u0935\u093e\u092a\u0938 \u0906\u092a \u0939\u092e\u0947\u0902 \u0926\u0947 \u0926\u0940\u091c\u093f\u092f\u0947\u0917\u093e \u0924\u093e\u0915\u093f \u0939\u092e \u0909\u0938\u0915\u093e test \u0915\u0930 \u0938\u0915\u0947 \u0914\u0930 \u0906\u092a\u0915\u094b \u091c\u094b \u0939\u0948 \u0909\u0938\u0940 time \u092a\u0947 \u0939\u092e\u093e\u0930\u0940 team \u0915\u0947 \u0924\u094c\u0930 \u092a\u0930 \u0928\u092f\u093e packet \u0906\u092a\u0915\u094b \u0926\u0947\u0902\u0917\u0947 \u0909\u0938\u0947 \u0906\u092a \u0932\u0947",
+            "translated_transcript": "Good evening sir line Pe rahne ke lia Thank you for your call cut if you have a network problem that subtracts your complaint by registering your complaint, each team who has an agent at home to send you a packet to return your message to us. Test Kar Sake Aur Apko Jo Hai Usi Time Pe Hamari Team Ke Tour Per New Packet Apco Denge Use Aap Le",
             "tone": "Neutral",
-            "rate_of_speech": "11682.89",
+            "rate_of_speech": "191.92",
             "emotion": "gratitude",
             "sentiment_label": "Positive",
             "keywords": [
-                "good evening sir",
+                "good evening sir line",
+                "pe",
+                "rahne ke lia",
+                "thank",
                 "network problem",
-                "team 's house",
-                "new packet"
+                "test kar sake aur apko jo hai usi",
+                "pe hamari team ke tour per",
+                "packet apco denge",
+                "aap"
             ]
         },
         {
             "speaker_label": "spk_1",
             "start_time": "1.4055",
             "end_time": "1.4143",
-            "original_transcript": "लीजिएगा please",
-            "translated_transcript": "Please take",
+            "original_transcript": "\u0932\u0940\u091c\u093f\u090f\u0917\u093e please",
+            "translated_transcript": "Legiega please",
             "tone": "Neutral",
-            "rate_of_speech": "13636.36",
+            "rate_of_speech": "226.42",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
             "keywords": [
-                "please"
+                "legiega"
             ]
         },
         {
             "speaker_label": "spk_0",
             "start_time": "1.424",
             "end_time": "1.4767",
-            "original_transcript": "तो इसके लिए sir मैं क्या complaint process कर दूँ आपका",
-            "translated_transcript": "So sir what complaint should I process for this",
+            "original_transcript": "\u0924\u094b \u0907\u0938\u0915\u0947 \u0932\u093f\u090f sir \u092e\u0948\u0902 \u0915\u094d\u092f\u093e complaint process \u0915\u0930 \u0926\u0942\u0901 \u0906\u092a\u0915\u093e",
+            "translated_transcript": "He is involved in the main complaint process.",
             "tone": "Neutral",
-            "rate_of_speech": "10246.68",
-            "emotion": "curiosity",
+            "rate_of_speech": "151.95",
+            "emotion": "neutral",
             "sentiment_label": "Negative",
-            "keywords": []
+            "keywords": [
+                "main complaint process"
+            ]
         },
         {
             "speaker_label": "spk_1",
             "start_time": "1.4978",
             "end_time": "1.509",
-            "original_transcript": "क्या",
-            "translated_transcript": "what",
+            "original_transcript": "\u0915\u094d\u092f\u093e",
+            "translated_transcript": "key",
             "tone": "Neutral",
-            "rate_of_speech": "5357.14",
+            "rate_of_speech": "89.55",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
             "keywords": []
@@ -162,46 +171,56 @@
             "speaker_label": "spk_0",
             "start_time": "1.5181",
             "end_time": "1.55",
-            "original_transcript": "हमारे agent आएंगे वो packet लाने",
-            "translated_transcript": "Our agents will come to bring that packet",
+            "original_transcript": "\u0939\u092e\u093e\u0930\u0947 agent \u0906\u090f\u0902\u0917\u0947 \u0935\u094b packet \u0932\u093e\u0928\u0947",
+            "translated_transcript": "Hamare agent Aange Wo Packet Lane",
             "tone": "Neutral",
-            "rate_of_speech": "15047.02",
+            "rate_of_speech": "188.38",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
-            "keywords": []
+            "keywords": [
+                "hamare",
+                "aange wo packet"
+            ]
         },
         {
             "speaker_label": "spk_0",
             "start_time": "1.5643",
             "end_time": "1.5878",
-            "original_transcript": "आप वो packet दीजिएगा हमें",
-            "translated_transcript": "You give us that packet",
+            "original_transcript": "\u0906\u092a \u0935\u094b packet \u0926\u0940\u091c\u093f\u090f\u0917\u093e \u0939\u092e\u0947\u0902",
+            "translated_transcript": "Ap Wo Packet Dijiega",
             "tone": "Neutral",
-            "rate_of_speech": "12765.96",
+            "rate_of_speech": "170.33",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
-            "keywords": []
+            "keywords": [
+                "ap wo packet dijiega"
+            ]
         },
         {
             "speaker_label": "spk_1",
             "start_time": "1.6327",
             "end_time": "1.7387",
-            "original_transcript": "मैं packet खुद लेके आ जाऊंगा कोई issue नहीं है मैं खुद packet लेके आ जाऊंगा मुझे बताइए factory किधर है मैं plant किधर है",
-            "translated_transcript": "I will bring the packet myself, there is no issue I will bring the packet myself. Tell me where is the factory where is the plant",
+            "original_transcript": "\u092e\u0948\u0902 packet \u0916\u0941\u0926 \u0932\u0947\u0915\u0947 \u0906 \u091c\u093e\u090a\u0902\u0917\u093e \u0915\u094b\u0908 issue \u0928\u0939\u0940\u0902 \u0939\u0948 \u092e\u0948\u0902 \u0916\u0941\u0926 packet \u0932\u0947\u0915\u0947 \u0906 \u091c\u093e\u090a\u0902\u0917\u093e \u092e\u0941\u091d\u0947 \u092c\u0924\u093e\u0907\u090f factory \u0915\u093f\u0927\u0930 \u0939\u0948 \u092e\u0948\u0902 plant \u0915\u093f\u0927\u0930 \u0939\u0948",
+            "translated_transcript": "Main packet is the same as the issue of the main packet is the same as the main packet is the same as the factory where the main plant is.",
             "tone": "Neutral",
-            "rate_of_speech": "14716.98",
-            "emotion": "curiosity",
-            "sentiment_label": "Neutral",
-            "keywords": []
+            "rate_of_speech": "283.02",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "main packet",
+                "main packet",
+                "main packet",
+                "main plant"
+            ]
         },
         {
             "speaker_label": "spk_0",
             "start_time": "1.7507",
             "end_time": "1.7983",
-            "original_transcript": "plant की जानकारी हमें नहीं है exactly कहाँ पर है आपका",
-            "translated_transcript": "We don't know about the plant exactly where are you",
+            "original_transcript": "plant \u0915\u0940 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u0939\u092e\u0947\u0902 \u0928\u0939\u0940\u0902 \u0939\u0948 exactly \u0915\u0939\u093e\u0901 \u092a\u0930 \u0939\u0948 \u0906\u092a\u0915\u093e",
+            "translated_transcript": "plant that you don't know exactly how to do it",
             "tone": "Neutral",
-            "rate_of_speech": "12605.04",
+            "rate_of_speech": "209.79",
             "emotion": "neutral",
             "sentiment_label": "Positive",
             "keywords": []
@@ -210,82 +229,87 @@
             "speaker_label": "spk_1",
             "start_time": "1.8108",
             "end_time": "1.8988",
-            "original_transcript": "तो आप package लेने के लिए ऐसे कैसे बोल सकते हो कि package लेने के लिए कोई भी बंदा मैं भेज देता हूँ लेके आयेगा",
-            "translated_transcript": "So how can you say that any guy I send me to collect the package will come",
+            "original_transcript": "\u0924\u094b \u0906\u092a package \u0932\u0947\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0910\u0938\u0947 \u0915\u0948\u0938\u0947 \u092c\u094b\u0932 \u0938\u0915\u0924\u0947 \u0939\u094b \u0915\u093f package \u0932\u0947\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0915\u094b\u0908 \u092d\u0940 \u092c\u0902\u0926\u093e \u092e\u0948\u0902 \u092d\u0947\u091c \u0926\u0947\u0924\u093e \u0939\u0942\u0901 \u0932\u0947\u0915\u0947 \u0906\u092f\u0947\u0917\u093e",
+            "translated_transcript": "How can you say that if you have a package lane, how can you say that the package has been taken away from me?",
             "tone": "Neutral",
-            "rate_of_speech": "11590.91",
+            "rate_of_speech": "272.73",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
-            "keywords": []
+            "keywords": [
+                "package lane"
+            ]
         },
         {
             "speaker_label": "spk_0",
             "start_time": "1.908",
             "end_time": "1.9147",
-            "original_transcript": "भेजेंगे",
-            "translated_transcript": "Will send",
+            "original_transcript": "\u092d\u0947\u091c\u0947\u0902\u0917\u0947",
+            "translated_transcript": "Bhejenge",
             "tone": "Neutral",
-            "rate_of_speech": "17910.45",
+            "rate_of_speech": "150.38",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
             "keywords": [
-                "will"
+                "bhejenge"
             ]
         },
         {
             "speaker_label": "spk_1",
             "start_time": "1.9235",
             "end_time": "1.9315",
-            "original_transcript": "दे सकते हैं",
-            "translated_transcript": "Can give",
+            "original_transcript": "\u0926\u0947 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902",
+            "translated_transcript": "De sakte hai",
             "tone": "Neutral",
-            "rate_of_speech": "15000.00",
+            "rate_of_speech": "375.78",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
-            "keywords": []
+            "keywords": [
+                "de",
+                "sakte hai"
+            ]
         },
         {
             "speaker_label": "spk_0",
             "start_time": "1.9495",
             "end_time": "2.1037",
-            "original_transcript": "तो agent जायेंगे वो packet लाने के लिए लेके आपसे वापस हमारे पास भेजेंगे बैंगलोर में जहां पर आएगा वो packet collect करेंगे हम check करेंगे उसमें क्या है",
-            "translated_transcript": "So the agent will go to fetch the packet and send it back to us in Bangalore. Wherever it arrives, they will collect the packet. We will check what is in it",
+            "original_transcript": "\u0924\u094b agent \u091c\u093e\u092f\u0947\u0902\u0917\u0947 \u0935\u094b packet \u0932\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0932\u0947\u0915\u0947 \u0906\u092a\u0938\u0947 \u0935\u093e\u092a\u0938 \u0939\u092e\u093e\u0930\u0947 \u092a\u093e\u0938 \u092d\u0947\u091c\u0947\u0902\u0917\u0947 \u092c\u0948\u0902\u0917\u0932\u094b\u0930 \u092e\u0947\u0902 \u091c\u0939\u093e\u0902 \u092a\u0930 \u0906\u090f\u0917\u093e \u0935\u094b packet collect \u0915\u0930\u0947\u0902\u0917\u0947 \u0939\u092e check \u0915\u0930\u0947\u0902\u0917\u0947 \u0909\u0938\u092e\u0947\u0902 \u0915\u094d\u092f\u093e \u0939\u0948",
+            "translated_transcript": "The agent is going to go to Bangalore to collect the packet and collect the packet and check it out.",
             "tone": "Neutral",
-            "rate_of_speech": "12451.36",
+            "rate_of_speech": "129.73",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
             "keywords": [
-                "bangalore",
-                "wherever"
+                "bangalore"
             ]
         },
         {
             "speaker_label": "spk_1",
             "start_time": "2.1328",
             "end_time": "2.1532",
-            "original_transcript": "factory में करेंगे",
-            "translated_transcript": "Will do it in the factory",
+            "original_transcript": "factory \u092e\u0947\u0902 \u0915\u0930\u0947\u0902\u0917\u0947",
+            "translated_transcript": "Karenge in factory",
             "tone": "Neutral",
-            "rate_of_speech": "17647.06",
+            "rate_of_speech": "147.54",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
             "keywords": [
-                "will"
+                "karenge"
             ]
         },
         {
             "speaker_label": "spk_1",
             "start_time": "2.1617",
             "end_time": "2.2282",
-            "original_transcript": "बैंगलोर में किधर कसुंधरा या किधर है बैंगलोर में",
-            "translated_transcript": "Where is Kasundhara in Bangalore or where in Bangalore",
+            "original_transcript": "\u092c\u0948\u0902\u0917\u0932\u094b\u0930 \u092e\u0947\u0902 \u0915\u093f\u0927\u0930 \u0915\u0938\u0941\u0902\u0927\u0930\u093e \u092f\u093e \u0915\u093f\u0927\u0930 \u0939\u0948 \u092c\u0948\u0902\u0917\u0932\u094b\u0930 \u092e\u0947\u0902",
+            "translated_transcript": "Kidhar Kasundhara in Bangalore or Kidhar Hai in Bangalore",
             "tone": "Neutral",
-            "rate_of_speech": "8120.30",
+            "rate_of_speech": "135.30",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
             "keywords": [
-                "kasundhara",
+                "kidhar kasundhara",
                 "bangalore",
+                "kidhar hai",
                 "bangalore"
             ]
         },
@@ -293,14 +317,14 @@
             "speaker_label": "spk_0",
             "start_time": "2.2578",
             "end_time": "2.3505",
-            "original_transcript": "exactly ये factory में बना है वो पहले हमें देखना क्योंकि batch number मैंने देखा",
-            "translated_transcript": "Exactly it is made in the factory. Let us see first because I saw the batch number",
+            "original_transcript": "exactly \u092f\u0947 factory \u092e\u0947\u0902 \u092c\u0928\u093e \u0939\u0948 \u0935\u094b \u092a\u0939\u0932\u0947 \u0939\u092e\u0947\u0902 \u0926\u0947\u0916\u0928\u093e \u0915\u094d\u092f\u094b\u0902\u0915\u093f batch number \u092e\u0948\u0902\u0928\u0947 \u0926\u0947\u0916\u093e",
+            "translated_transcript": "Be at exactly the factory and see what batch number is mine",
             "tone": "Neutral",
-            "rate_of_speech": "11003.24",
-            "emotion": "approval",
+            "rate_of_speech": "129.52",
+            "emotion": "neutral",
             "sentiment_label": "Positive",
             "keywords": [
-                "exactly",
+                "be",
                 "batch number"
             ]
         },
@@ -308,43 +332,42 @@
             "speaker_label": "spk_1",
             "start_time": "2.3505",
             "end_time": "2.6203",
-            "original_transcript": "नहीं है मैंने तो पूरा batch number आपको bar code का batch number का पूरा whatsapp किया हुआ है और मैंने दोनों left side का right side का दोनों का whatsapp किया हुआ है और अपने बेटे का भी जो side effect हुआ है वो whatsapp किया हुआ है देखो",
-            "translated_transcript": "No, I have WhatsApp the full batch number of the bar code and I have WhatsApp on both the left side on the right side and the side effect of my son is also WhatsApp. Look at the side effect my son has had.",
+            "original_transcript": "\u0928\u0939\u0940\u0902 \u0939\u0948 \u092e\u0948\u0902\u0928\u0947 \u0924\u094b \u092a\u0942\u0930\u093e batch number \u0906\u092a\u0915\u094b bar code \u0915\u093e batch number \u0915\u093e \u092a\u0942\u0930\u093e whatsapp \u0915\u093f\u092f\u093e \u0939\u0941\u0906 \u0939\u0948 \u0914\u0930 \u092e\u0948\u0902\u0928\u0947 \u0926\u094b\u0928\u094b\u0902 left side \u0915\u093e right side \u0915\u093e \u0926\u094b\u0928\u094b\u0902 \u0915\u093e whatsapp \u0915\u093f\u092f\u093e \u0939\u0941\u0906 \u0939\u0948 \u0914\u0930 \u0905\u092a\u0928\u0947 \u092c\u0947\u091f\u0947 \u0915\u093e \u092d\u0940 \u091c\u094b side effect \u0939\u0941\u0906 \u0939\u0948 \u0935\u094b whatsapp \u0915\u093f\u092f\u093e \u0939\u0941\u0906 \u0939\u0948 \u0926\u0947\u0916\u094b",
+            "translated_transcript": "No hai main that full batch number apko bar code or batch number ka full whatsapp kia hua hai and main two left side ka right side ka two ka whatsapp kia hua hai and up islands ka bhi jo side effect hua hai wo whatsapp kia hua hai see",
             "tone": "Neutral",
-            "rate_of_speech": "9785.03",
+            "rate_of_speech": "185.29",
             "emotion": "neutral",
             "sentiment_label": "Positive",
             "keywords": [
-                "whatsapp",
-                "full batch number",
-                "whatsapp",
-                "left side",
-                "right side",
-                "side effect",
-                "whatsapp",
-                "side effect"
+                "full batch number apko",
+                "batch number ka",
+                "full whatsapp kia hua hai",
+                "side ka",
+                "side ka",
+                "ka whatsapp kia hua hai",
+                "islands ka bhi jo side effect hua hai wo whatsapp kia hua hai"
             ]
         },
         {
             "speaker_label": "spk_0",
             "start_time": "2.6251",
             "end_time": "2.82",
-            "original_transcript": "उसके लिए complain register करके हम पहले आपके घर पर agent भेजेंगे तो उससे क्या होगा ना आपका जो packet है हम वो आपसे collect करेंगे उसको हम",
-            "translated_transcript": "After registering a complaint for that, we will send an agent to your home first, so what will happen to that, we will collect your packet from you we will collect it from you",
+            "original_transcript": "\u0909\u0938\u0915\u0947 \u0932\u093f\u090f complain register \u0915\u0930\u0915\u0947 \u0939\u092e \u092a\u0939\u0932\u0947 \u0906\u092a\u0915\u0947 \u0918\u0930 \u092a\u0930 agent \u092d\u0947\u091c\u0947\u0902\u0917\u0947 \u0924\u094b \u0909\u0938\u0938\u0947 \u0915\u094d\u092f\u093e \u0939\u094b\u0917\u093e \u0928\u093e \u0906\u092a\u0915\u093e \u091c\u094b packet \u0939\u0948 \u0939\u092e \u0935\u094b \u0906\u092a\u0938\u0947 collect \u0915\u0930\u0947\u0902\u0917\u0947 \u0909\u0938\u0915\u094b \u0939\u092e",
+            "translated_transcript": "If you complain to register, you have seen your house per agent that you can collect your package.",
             "tone": "Neutral",
-            "rate_of_speech": "10466.91",
-            "emotion": "curiosity",
-            "sentiment_label": "Negative",
+            "rate_of_speech": "92.39",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
             "keywords": []
         },
         {
             "speaker_label": "spk_1",
             "start_time": "2.82",
             "end_time": "2.8272",
-            "original_transcript": "lab में",
-            "translated_transcript": "In the lab",
+            "original_transcript": "lab \u092e\u0947\u0902",
+            "translated_transcript": "in the lab",
             "tone": "Neutral",
-            "rate_of_speech": "25000.00",
+            "rate_of_speech": "417.63",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
             "keywords": []
@@ -353,358 +376,400 @@
             "speaker_label": "spk_0",
             "start_time": "2.8272",
             "end_time": "2.9488",
-            "original_transcript": "भेज के test करेंगे उसका problem को solve करेंगे और आपको एक नया packet दिया जाएगा as a goodation के तौर पर sir",
-            "translated_transcript": "We will test it and solve the problem and you will be given a new packet as a goodation sir",
+            "original_transcript": "\u092d\u0947\u091c \u0915\u0947 test \u0915\u0930\u0947\u0902\u0917\u0947 \u0909\u0938\u0915\u093e problem \u0915\u094b solve \u0915\u0930\u0947\u0902\u0917\u0947 \u0914\u0930 \u0906\u092a\u0915\u094b \u090f\u0915 \u0928\u092f\u093e packet \u0926\u093f\u092f\u093e \u091c\u093e\u090f\u0917\u093e as a goodation \u0915\u0947 \u0924\u094c\u0930 \u092a\u0930 sir",
+            "translated_transcript": "Bhej ke test Karenge Uska problem to solve Karenge and Apko a new packet dia giveaway as a goodation ke tour per sir",
             "tone": "Neutral",
-            "rate_of_speech": "9868.42",
+            "rate_of_speech": "189.07",
             "emotion": "neutral",
             "sentiment_label": "Positive",
             "keywords": [
-                "new packet",
-                "goodation sir"
+                "bhej",
+                "ke test",
+                "karenge uska",
+                "karenge",
+                "apko",
+                "new packet dia giveaway",
+                "goodation ke tour"
             ]
         },
         {
             "speaker_label": "spk_1",
             "start_time": "2.96",
             "end_time": "3.062",
-            "original_transcript": "तो मेरे को दोबारा कुरकरा दिया जाएगा दोबारा बेटे को खिलाऊं दोबारा उसकी side effect हो फिर उसको पैसा लगाओ ऐसा",
-            "translated_transcript": "So I will be given a kurkara again. I feed my son again if he has a side effect, then invest money to him.",
+            "original_transcript": "\u0924\u094b \u092e\u0947\u0930\u0947 \u0915\u094b \u0926\u094b\u092c\u093e\u0930\u093e \u0915\u0941\u0930\u0915\u0930\u093e \u0926\u093f\u092f\u093e \u091c\u093e\u090f\u0917\u093e \u0926\u094b\u092c\u093e\u0930\u093e \u092c\u0947\u091f\u0947 \u0915\u094b \u0916\u093f\u0932\u093e\u090a\u0902 \u0926\u094b\u092c\u093e\u0930\u093e \u0909\u0938\u0915\u0940 side effect \u0939\u094b \u092b\u093f\u0930 \u0909\u0938\u0915\u094b \u092a\u0948\u0938\u093e \u0932\u0917\u093e\u0913 \u0910\u0938\u093e",
+            "translated_transcript": "It is me who has two or two side effects and one side effect.",
             "tone": "Neutral",
-            "rate_of_speech": "14117.65",
+            "rate_of_speech": "137.25",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
             "keywords": [
-                "side effect",
-                "invest money"
+                "side effect"
             ]
         },
         {
             "speaker_label": "spk_0",
             "start_time": "3.062",
             "end_time": "3.2687",
-            "original_transcript": "नहीं होता है sir हमारा सारा product को हम quality test बहुत बार करने के बाद भेजते हैं अगर इस packet में problem आया है तो इसको हम वापस लेकर check कर लेंगे आपको नया packet में ऐसा कोई दिक्कत नहीं आएगा आप उसे आराम से",
-            "translated_transcript": "It does not happen sir, we send all our products after doing quality tests many times. If there is a problem in this packet, then we will take it back and check it. You will not find any such problem in the new packet. You can do it comfortably.",
+            "original_transcript": "\u0928\u0939\u0940\u0902 \u0939\u094b\u0924\u093e \u0939\u0948 sir \u0939\u092e\u093e\u0930\u093e \u0938\u093e\u0930\u093e product \u0915\u094b \u0939\u092e quality test \u092c\u0939\u0941\u0924 \u092c\u093e\u0930 \u0915\u0930\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926 \u092d\u0947\u091c\u0924\u0947 \u0939\u0948\u0902 \u0905\u0917\u0930 \u0907\u0938 packet \u092e\u0947\u0902 problem \u0906\u092f\u093e \u0939\u0948 \u0924\u094b \u0907\u0938\u0915\u094b \u0939\u092e \u0935\u093e\u092a\u0938 \u0932\u0947\u0915\u0930 check \u0915\u0930 \u0932\u0947\u0902\u0917\u0947 \u0906\u092a\u0915\u094b \u0928\u092f\u093e packet \u092e\u0947\u0902 \u0910\u0938\u093e \u0915\u094b\u0908 \u0926\u093f\u0915\u094d\u0915\u0924 \u0928\u0939\u0940\u0902 \u0906\u090f\u0917\u093e \u0906\u092a \u0909\u0938\u0947 \u0906\u0930\u093e\u092e \u0938\u0947",
+            "translated_transcript": "No it was sir all product co um quality test most of the time it goes wrong or there is a problem with this packet. Ram Se",
             "tone": "Neutral",
-            "rate_of_speech": "14223.51",
-            "emotion": "neutral",
-            "sentiment_label": "Positive",
+            "rate_of_speech": "130.66",
+            "emotion": "disapproval",
+            "sentiment_label": "Neutral",
             "keywords": [
-                "quality tests",
-                "such problem",
-                "new packet"
+                "product co um quality test",
+                "ram se"
             ]
         },
         {
             "speaker_label": "spk_1",
             "start_time": "3.2833",
             "end_time": "3.4163",
-            "original_transcript": "ऐसा ही ऐसा ही एक बार अपने मानेसर के अंदर वो IMT मानेसर में company juice वाली company ठीक है",
-            "translated_transcript": "One such time inside its Manesar, that company with company juice in IMT Manesar is fine",
+            "original_transcript": "\u0910\u0938\u093e \u0939\u0940 \u0910\u0938\u093e \u0939\u0940 \u090f\u0915 \u092c\u093e\u0930 \u0905\u092a\u0928\u0947 \u092e\u093e\u0928\u0947\u0938\u0930 \u0915\u0947 \u0905\u0902\u0926\u0930 \u0935\u094b IMT \u092e\u093e\u0928\u0947\u0938\u0930 \u092e\u0947\u0902 company juice \u0935\u093e\u0932\u0940 company \u0920\u0940\u0915 \u0939\u0948",
+            "translated_transcript": "Aisa hi isa hi ha un bar apne manager ke under wo IMT manager me company juice wali company ok hai",
             "tone": "Neutral",
-            "rate_of_speech": "7218.05",
+            "rate_of_speech": "157.91",
             "emotion": "neutral",
             "sentiment_label": "Positive",
             "keywords": [
-                "such time",
-                "manesar",
-                "company juice",
-                "imt manesar"
+                "aisa",
+                "hi isa hi",
+                "apne manager ke",
+                "imt",
+                "company juice wali company ok hai"
             ]
         },
         {
             "speaker_label": "spk_1",
             "start_time": "3.4212",
             "end_time": "3.5253",
-            "original_transcript": "जो भी production खाली दस रुपए के juice का packet बनाती है बीस रुपए का पच्चीस का तीस का पचास ML का सौ ml का ढाई सौ ml का",
-            "translated_transcript": "Whichever production produces an empty packet of juice worth ten rupees twenty five, thirty of fifty ml of hundred ml of 2.5 hundred ml",
+            "original_transcript": "\u091c\u094b \u092d\u0940 production \u0916\u093e\u0932\u0940 \u0926\u0938 \u0930\u0941\u092a\u090f \u0915\u0947 juice \u0915\u093e packet \u092c\u0928\u093e\u0924\u0940 \u0939\u0948 \u092c\u0940\u0938 \u0930\u0941\u092a\u090f \u0915\u093e \u092a\u091a\u094d\u091a\u0940\u0938 \u0915\u093e \u0924\u0940\u0938 \u0915\u093e \u092a\u091a\u093e\u0938 ML \u0915\u093e \u0938\u094c ml \u0915\u093e \u0922\u093e\u0908 \u0938\u094c ml \u0915\u093e",
+            "translated_transcript": "Jo bhi production down ten rupees k juice ka packet banati hai twenty rupees ka thirty ka fifty ml ka sa sa ml ka dhai sa ml",
             "tone": "Neutral",
-            "rate_of_speech": "13832.85",
+            "rate_of_speech": "259.20",
             "emotion": "neutral",
-            "sentiment_label": "Positive",
+            "sentiment_label": "Negative",
             "keywords": [
-                "whichever",
-                "empty packet"
+                "jo",
+                "bhi production",
+                "rupees k juice ka packet banati hai",
+                "rupees ka",
+                "ml ka sa sa ml ka dhai sa ml"
             ]
         },
         {
             "speaker_label": "spk_1",
             "start_time": "3.5421",
             "end_time": "3.6381",
-            "original_transcript": "juice बनाती है ठीक है तो उसमें issue हुआ issue हुआ तो हमको उधर गए",
-            "translated_transcript": "If you make juice, it's okay, so there was an issue in it, so we went there",
+            "original_transcript": "juice \u092c\u0928\u093e\u0924\u0940 \u0939\u0948 \u0920\u0940\u0915 \u0939\u0948 \u0924\u094b \u0909\u0938\u092e\u0947\u0902 issue \u0939\u0941\u0906 issue \u0939\u0941\u0906 \u0924\u094b \u0939\u092e\u0915\u094b \u0909\u0927\u0930 \u0917\u090f",
+            "translated_transcript": "juice banati hai ok hai to usme issue hua issue hua to hamko borrow",
             "tone": "Neutral",
-            "rate_of_speech": "10625.00",
+            "rate_of_speech": "145.83",
             "emotion": "neutral",
             "sentiment_label": "Positive",
             "keywords": [
-                "'s okay"
+                "juice banati hai ok hai",
+                "usme issue hua issue hua",
+                "hamko borrow"
             ]
         },
         {
             "speaker_label": "spk_1",
             "start_time": "3.6483",
             "end_time": "3.7783",
-            "original_transcript": "तो हम पूरा check किया तो check किया तो drum कहीं से मंगा रहे हैं आम का लीची का",
-            "translated_transcript": "So if we have done a complete check, then we are asking for drum of mango lychee from somewhere",
-            "tone": "Neutral",
-            "rate_of_speech": "8769.23",
-            "emotion": "neutral",
+            "original_transcript": "\u0924\u094b \u0939\u092e \u092a\u0942\u0930\u093e check \u0915\u093f\u092f\u093e \u0924\u094b check \u0915\u093f\u092f\u093e \u0924\u094b drum \u0915\u0939\u0940\u0902 \u0938\u0947 \u092e\u0902\u0917\u093e \u0930\u0939\u0947 \u0939\u0948\u0902 \u0906\u092e \u0915\u093e \u0932\u0940\u091a\u0940 \u0915\u093e",
+            "translated_transcript": "He ham full check what he check what he drum how he is manga ha ha ha lichi",
+            "tone": "Happy",
+            "rate_of_speech": "138.46",
+            "emotion": "amusement",
             "sentiment_label": "Positive",
             "keywords": [
-                "complete check",
-                "mango lychee"
+                "full check"
             ]
         },
         {
             "speaker_label": "spk_1",
             "start_time": "3.7958",
             "end_time": "4.0796",
-            "original_transcript": "उसका इसका sporting जो ढक्कन का जो cover होता है जो plastic के अंदर cover लगाते हैं sporting वो खुद कर रहे थे तीसरा floor पे उधर जाके check किया sporting खुद कर रहे हैं बोला ऐसा cover sporting करते हैं तो लोग क्या कर रहे हैं ना तो hair का पहरा हुआ है",
-            "translated_transcript": "Its sporting, which is the cover of the lid that covers the plastic inside, they were doing sporting themselves. They were doing sporting themselves on the third floor and checking that they are doing sporting themselves. He said that if people do such cover sporting, then the hair is guarded",
+            "original_transcript": "\u0909\u0938\u0915\u093e \u0907\u0938\u0915\u093e sporting \u091c\u094b \u0922\u0915\u094d\u0915\u0928 \u0915\u093e \u091c\u094b cover \u0939\u094b\u0924\u093e \u0939\u0948 \u091c\u094b plastic \u0915\u0947 \u0905\u0902\u0926\u0930 cover \u0932\u0917\u093e\u0924\u0947 \u0939\u0948\u0902 sporting \u0935\u094b \u0916\u0941\u0926 \u0915\u0930 \u0930\u0939\u0947 \u0925\u0947 \u0924\u0940\u0938\u0930\u093e floor \u092a\u0947 \u0909\u0927\u0930 \u091c\u093e\u0915\u0947 check \u0915\u093f\u092f\u093e sporting \u0916\u0941\u0926 \u0915\u0930 \u0930\u0939\u0947 \u0939\u0948\u0902 \u092c\u094b\u0932\u093e \u0910\u0938\u093e cover sporting \u0915\u0930\u0924\u0947 \u0939\u0948\u0902 \u0924\u094b \u0932\u094b\u0917 \u0915\u094d\u092f\u093e \u0915\u0930 \u0930\u0939\u0947 \u0939\u0948\u0902 \u0928\u093e \u0924\u094b hair \u0915\u093e \u092a\u0939\u0930\u093e \u0939\u0941\u0906 \u0939\u0948",
+            "translated_transcript": "Uska iska sporting who was wearing a cover that was covered with plastic and an under cover. Pahra Hua Hai",
             "tone": "Neutral",
-            "rate_of_speech": "10570.82",
+            "rate_of_speech": "70.47",
             "emotion": "neutral",
-            "sentiment_label": "Positive",
-            "keywords": []
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "uska",
+                "pahra hua hai"
+            ]
         },
         {
             "speaker_label": "spk_1",
             "start_time": "4.113",
             "end_time": "4.4223",
-            "original_transcript": "शरीर में ऊपर सिर में ना hair cap है ना gloves है ना अंदर जो अगर जब कोई भी आदमी products बनाता है खाने पीने का तो उसमें lab ऐसा होता है अंदर जब factory के अंदर entry करोगे तो पूरा dust बिल्कुल नहीं होना चाहिए किधर से भी कुछ नहीं होना चाहिए पूरा AC",
-            "translated_transcript": "Above the body there is no hair cap or gloves or gloves inside. When any man makes products to eat and drink, then the lab is like this. When you enter inside the factory, then there should not be any dust from where there should be nothing. Complete AC",
+            "original_transcript": "\u0936\u0930\u0940\u0930 \u092e\u0947\u0902 \u090a\u092a\u0930 \u0938\u093f\u0930 \u092e\u0947\u0902 \u0928\u093e hair cap \u0939\u0948 \u0928\u093e gloves \u0939\u0948 \u0928\u093e \u0905\u0902\u0926\u0930 \u091c\u094b \u0905\u0917\u0930 \u091c\u092c \u0915\u094b\u0908 \u092d\u0940 \u0906\u0926\u092e\u0940 products \u092c\u0928\u093e\u0924\u093e \u0939\u0948 \u0916\u093e\u0928\u0947 \u092a\u0940\u0928\u0947 \u0915\u093e \u0924\u094b \u0909\u0938\u092e\u0947\u0902 lab \u0910\u0938\u093e \u0939\u094b\u0924\u093e \u0939\u0948 \u0905\u0902\u0926\u0930 \u091c\u092c factory \u0915\u0947 \u0905\u0902\u0926\u0930 entry \u0915\u0930\u094b\u0917\u0947 \u0924\u094b \u092a\u0942\u0930\u093e dust \u092c\u093f\u0932\u094d\u0915\u0941\u0932 \u0928\u0939\u0940\u0902 \u0939\u094b\u0928\u093e \u091a\u093e\u0939\u093f\u090f \u0915\u093f\u0927\u0930 \u0938\u0947 \u092d\u0940 \u0915\u0941\u091b \u0928\u0939\u0940\u0902 \u0939\u094b\u0928\u093e \u091a\u093e\u0939\u093f\u090f \u092a\u0942\u0930\u093e AC",
+            "translated_transcript": "In the upper head of the body, no hair cap, no gloves, no underwear, no job, no job, no dust at all, no food, drink, drink, drink, do you want it in the lab. Se bhi kuch no hon chahiye pura AC",
             "tone": "Neutral",
-            "rate_of_speech": "9505.33",
+            "rate_of_speech": "135.78",
             "emotion": "neutral",
-            "sentiment_label": "Positive",
+            "sentiment_label": "Neutral",
             "keywords": [
+                "upper head",
                 "hair cap",
-                "complete ac"
+                "se",
+                "bhi kuch",
+                "hon chahiye pura",
+                "ac"
             ]
         },
         {
             "speaker_label": "spk_1",
             "start_time": "4.4552",
             "end_time": "4.5182",
-            "original_transcript": "ठीक है मैंने उधर जा के देखा उसको कनवर पानी हुआ है",
-            "translated_transcript": "Okay, I went over there and saw that he was very watery",
+            "original_transcript": "\u0920\u0940\u0915 \u0939\u0948 \u092e\u0948\u0902\u0928\u0947 \u0909\u0927\u0930 \u091c\u093e \u0915\u0947 \u0926\u0947\u0916\u093e \u0909\u0938\u0915\u094b \u0915\u0928\u0935\u0930 \u092a\u093e\u0928\u0940 \u0939\u0941\u0906 \u0939\u0948",
+            "translated_transcript": "Ok hai main loan ke dekha usko kanwar pani hua hai",
             "tone": "Neutral",
-            "rate_of_speech": "11428.57",
+            "rate_of_speech": "174.60",
             "emotion": "neutral",
             "sentiment_label": "Positive",
             "keywords": [
-                "okay"
+                "ok",
+                "main loan ke dekha usko kanwar pani hua hai"
             ]
         },
         {
             "speaker_label": "spk_1",
             "start_time": "4.5273",
             "end_time": "4.753",
-            "original_transcript": "उधर से माल आ रहा है last में जाके धीरे धीरे धीरे धीरे तीन घंटे में जाकर के ऊपर माल पहुँच रहा है कोई कार्टून क्या बना रहा है कोई क्या नहीं बना रहा है कोई गुटखा खा रहा है कोई कुछ खा रहा है ये कर रहा है ऐसा चलता है",
-            "translated_transcript": "Goods are coming from there. Go to the last one and slowly in three hours the goods are arriving at the top. What cartoons are you preparing, what are they not preparing, someone is eating gutkha, someone is eating something. It goes like this",
+            "original_transcript": "\u0909\u0927\u0930 \u0938\u0947 \u092e\u093e\u0932 \u0906 \u0930\u0939\u093e \u0939\u0948 last \u092e\u0947\u0902 \u091c\u093e\u0915\u0947 \u0927\u0940\u0930\u0947 \u0927\u0940\u0930\u0947 \u0927\u0940\u0930\u0947 \u0927\u0940\u0930\u0947 \u0924\u0940\u0928 \u0918\u0902\u091f\u0947 \u092e\u0947\u0902 \u091c\u093e\u0915\u0930 \u0915\u0947 \u090a\u092a\u0930 \u092e\u093e\u0932 \u092a\u0939\u0941\u0901\u091a \u0930\u0939\u093e \u0939\u0948 \u0915\u094b\u0908 \u0915\u093e\u0930\u094d\u091f\u0942\u0928 \u0915\u094d\u092f\u093e \u092c\u0928\u093e \u0930\u0939\u093e \u0939\u0948 \u0915\u094b\u0908 \u0915\u094d\u092f\u093e \u0928\u0939\u0940\u0902 \u092c\u0928\u093e \u0930\u0939\u093e \u0939\u0948 \u0915\u094b\u0908 \u0917\u0941\u091f\u0916\u093e \u0916\u093e \u0930\u0939\u093e \u0939\u0948 \u0915\u094b\u0908 \u0915\u0941\u091b \u0916\u093e \u0930\u0939\u093e \u0939\u0948 \u092f\u0947 \u0915\u0930 \u0930\u0939\u093e \u0939\u0948 \u0910\u0938\u093e \u091a\u0932\u0924\u093e \u0939\u0948",
+            "translated_transcript": "Borrow the goods stay last in the last three hours, wait for the goods to stay in the last three hours. Come Kar Raha Hai Aisa Chalta Hai",
             "tone": "Neutral",
-            "rate_of_speech": "11696.94",
-            "emotion": "neutral",
-            "sentiment_label": "Positive",
+            "rate_of_speech": "124.09",
+            "emotion": "amusement",
+            "sentiment_label": "Neutral",
             "keywords": [
-                "goods"
+                "borrow",
+                "kar raha hai aisa chalta hai"
             ]
         },
         {
             "speaker_label": "spk_1",
             "start_time": "4.813",
             "end_time": "4.9716",
-            "original_transcript": "तो मुझे देखो sir sir मेरी बात सुनिए आपको request है कि मुझे खाली अपने plant का address डाल दीजिए बस",
-            "translated_transcript": "So look at me sir sir listen to me. You request me to enter your plant's address empty. Just",
+            "original_transcript": "\u0924\u094b \u092e\u0941\u091d\u0947 \u0926\u0947\u0916\u094b sir sir \u092e\u0947\u0930\u0940 \u092c\u093e\u0924 \u0938\u0941\u0928\u093f\u090f \u0906\u092a\u0915\u094b request \u0939\u0948 \u0915\u093f \u092e\u0941\u091d\u0947 \u0916\u093e\u0932\u0940 \u0905\u092a\u0928\u0947 plant \u0915\u093e address \u0921\u093e\u0932 \u0926\u0940\u091c\u093f\u090f \u092c\u0938",
+            "translated_transcript": "He looks at Sir Mary Bat Suniye Apko request hai ki muze down upne plant ka address dal dijia bus",
             "tone": "Neutral",
-            "rate_of_speech": "7187.89",
+            "rate_of_speech": "126.05",
             "emotion": "neutral",
             "sentiment_label": "Negative",
             "keywords": [
-                "sir sir",
-                "plant 's address empty"
+                "sir mary bat suniye apko",
+                "request hai ki muze",
+                "upne plant ka address dal dijia bus"
             ]
         },
         {
             "speaker_label": "spk_1",
             "start_time": "4.9931",
             "end_time": "5.0813",
-            "original_transcript": "मैं सुबह की date में दस बजे plant खुलने से पहले मैं और मेरी team पहुंच जाएगी",
-            "translated_transcript": "My team and I will arrive before the plant opens at 10 o'clock in the morning date",
+            "original_transcript": "\u092e\u0948\u0902 \u0938\u0941\u092c\u0939 \u0915\u0940 date \u092e\u0947\u0902 \u0926\u0938 \u092c\u091c\u0947 plant \u0916\u0941\u0932\u0928\u0947 \u0938\u0947 \u092a\u0939\u0932\u0947 \u092e\u0948\u0902 \u0914\u0930 \u092e\u0947\u0930\u0940 team \u092a\u0939\u0941\u0902\u091a \u091c\u093e\u090f\u0917\u0940",
+            "translated_transcript": "Ten thousand plants on my date are open to me and my team in many places",
             "tone": "Neutral",
-            "rate_of_speech": "11564.63",
+            "rate_of_speech": "181.44",
             "emotion": "neutral",
-            "sentiment_label": "Neutral",
+            "sentiment_label": "Positive",
             "keywords": [
-                "morning date"
+                "ten"
             ]
         },
         {
             "speaker_label": "spk_1",
             "start_time": "5.1158",
             "end_time": "5.2583",
-            "original_transcript": "बमपुर में हो में हो में हो भिलाई पावर में हो तुम्हारा में में कहीं भी हो",
-            "translated_transcript": "Bampur Me Ho Me Ho Me Ho Bhilai Power Ho Wherever I am",
+            "original_transcript": "\u092c\u092e\u092a\u0941\u0930 \u092e\u0947\u0902 \u0939\u094b \u092e\u0947\u0902 \u0939\u094b \u092e\u0947\u0902 \u0939\u094b \u092d\u093f\u0932\u093e\u0908 \u092a\u093e\u0935\u0930 \u092e\u0947\u0902 \u0939\u094b \u0924\u0941\u092e\u094d\u0939\u093e\u0930\u093e \u092e\u0947\u0902 \u092e\u0947\u0902 \u0915\u0939\u0940\u0902 \u092d\u0940 \u0939\u094b",
+            "translated_transcript": "Bampur Me Ho Me Ho Ho Bhilai Power Me Ho Tumhara Me Kahi Ho",
             "tone": "Neutral",
-            "rate_of_speech": "5473.68",
+            "rate_of_speech": "98.25",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
             "keywords": [
                 "bampur",
                 "ho",
-                "ho",
-                "ho bhilai power ho wherever"
+                "ho ho bhilai power",
+                "ho tumhara",
+                "kahi ho"
             ]
         },
         {
             "speaker_label": "spk_1",
             "start_time": "5.2713",
             "end_time": "5.3201",
-            "original_transcript": "मैं पहुँच जाऊंगा क्योंकि मैं दिल्ली से आया हुआ हूँ",
-            "translated_transcript": "I will reach because I come from Delhi",
+            "original_transcript": "\u092e\u0948\u0902 \u092a\u0939\u0941\u0901\u091a \u091c\u093e\u090a\u0902\u0917\u093e \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u092e\u0948\u0902 \u0926\u093f\u0932\u094d\u0932\u0940 \u0938\u0947 \u0906\u092f\u093e \u0939\u0941\u0906 \u0939\u0942\u0901",
+            "translated_transcript": "Main Pahunch Jaunga Kyonki Main Delhi Se Aya Hua Hun",
             "tone": "Neutral",
-            "rate_of_speech": "9836.07",
+            "rate_of_speech": "204.78",
             "emotion": "neutral",
-            "sentiment_label": "Neutral",
+            "sentiment_label": "Positive",
             "keywords": [
-                "delhi"
+                "pahunch jaunga kyonki",
+                "delhi se aya hua hun"
             ]
         },
         {
             "speaker_label": "spk_1",
             "start_time": "5.3385",
             "end_time": "5.3995",
-            "original_transcript": "एक ही बेटी मेरी बेटी से बहुत प्यार करता हूँ ढाई साल की है",
-            "translated_transcript": "Only one daughter loves my daughter very much. She is two and a half years old",
+            "original_transcript": "\u090f\u0915 \u0939\u0940 \u092c\u0947\u091f\u0940 \u092e\u0947\u0930\u0940 \u092c\u0947\u091f\u0940 \u0938\u0947 \u092c\u0939\u0941\u0924 \u092a\u094d\u092f\u093e\u0930 \u0915\u0930\u0924\u093e \u0939\u0942\u0901 \u0922\u093e\u0908 \u0938\u093e\u0932 \u0915\u0940 \u0939\u0948",
+            "translated_transcript": "Ek hi Beti Meri Beti Se Most Pyar Karta Hun Dhai Sal Ki Hai",
             "tone": "Neutral",
-            "rate_of_speech": "15737.70",
-            "emotion": "love",
+            "rate_of_speech": "229.45",
+            "emotion": "neutral",
             "sentiment_label": "Positive",
-            "keywords": []
+            "keywords": [
+                "ek",
+                "beti meri beti se",
+                "pyar karta hun dhai sal ki hai"
+            ]
         },
         {
             "speaker_label": "spk_1",
             "start_time": "5.41",
             "end_time": "5.4537",
-            "original_transcript": "शादी के सत्ताईस साल पीछे हुई है मेरी बेटी",
-            "translated_transcript": "My daughter is twenty-seven years behind marriage",
-            "tone": "Sad",
-            "rate_of_speech": "9610.98",
+            "original_transcript": "\u0936\u093e\u0926\u0940 \u0915\u0947 \u0938\u0924\u094d\u0924\u093e\u0908\u0938 \u0938\u093e\u0932 \u092a\u0940\u091b\u0947 \u0939\u0941\u0908 \u0939\u0948 \u092e\u0947\u0930\u0940 \u092c\u0947\u091f\u0940",
+            "translated_transcript": "Shadi Ke Sattais Sal Piche Hui Hai Mary Beti",
+            "tone": "Neutral",
+            "rate_of_speech": "206.11",
             "emotion": "neutral",
-            "sentiment_label": "Negative",
+            "sentiment_label": "Neutral",
             "keywords": [
-                "twenty-seven years"
+                "shadi ke sattais sal piche hui hai mary beti"
             ]
         },
         {
             "speaker_label": "spk_1",
             "start_time": "5.4625",
             "end_time": "5.6498",
-            "original_transcript": "पूरा data दे सकता हूँ पूरा data सत्ताईस साल पीछे हुई है अगर इसको इस से खाने से हुआ है तो मैं उसकी तक जाऊंगा उसको तह तक जाऊंगा क्यों होना चाहिए मेरा",
-            "translated_transcript": "I can provide complete data. All the data is twenty-seven years back. If it happened by eating it, then I will go to the bottom of it. I will get to the bottom of why it should be mine",
+            "original_transcript": "\u092a\u0942\u0930\u093e data \u0926\u0947 \u0938\u0915\u0924\u093e \u0939\u0942\u0901 \u092a\u0942\u0930\u093e data \u0938\u0924\u094d\u0924\u093e\u0908\u0938 \u0938\u093e\u0932 \u092a\u0940\u091b\u0947 \u0939\u0941\u0908 \u0939\u0948 \u0905\u0917\u0930 \u0907\u0938\u0915\u094b \u0907\u0938 \u0938\u0947 \u0916\u093e\u0928\u0947 \u0938\u0947 \u0939\u0941\u0906 \u0939\u0948 \u0924\u094b \u092e\u0948\u0902 \u0909\u0938\u0915\u0940 \u0924\u0915 \u091c\u093e\u090a\u0902\u0917\u093e \u0909\u0938\u0915\u094b \u0924\u0939 \u0924\u0915 \u091c\u093e\u090a\u0902\u0917\u093e \u0915\u094d\u092f\u094b\u0902 \u0939\u094b\u0928\u093e \u091a\u093e\u0939\u093f\u090f \u092e\u0947\u0930\u093e",
+            "translated_transcript": "Pura data de sakta ho pura data sattaais sal ago hui hai ar isco is se khane se hua hai to main uski tak jaunga ta tak jaunga kho ona chahiye mera",
             "tone": "Neutral",
-            "rate_of_speech": "12493.33",
+            "rate_of_speech": "170.83",
             "emotion": "neutral",
             "sentiment_label": "Positive",
             "keywords": [
-                "complete data",
-                "twenty-seven years"
+                "pura",
+                "sakta ho pura data sattaais sal",
+                "hui hai ar isco",
+                "se khane se hua hai",
+                "main uski tak jaunga ta tak jaunga kho ona chahiye mera"
             ]
         },
         {
             "speaker_label": "spk_1",
             "start_time": "5.6597",
             "end_time": "5.7048",
-            "original_transcript": "सब कुछ खत्म हो गया लेकिन जाऊंगा दस में",
-            "translated_transcript": "Everything is over but I will go in ten",
+            "original_transcript": "\u0938\u092c \u0915\u0941\u091b \u0916\u0924\u094d\u092e \u0939\u094b \u0917\u092f\u093e \u0932\u0947\u0915\u093f\u0928 \u091c\u093e\u090a\u0902\u0917\u093e \u0926\u0938 \u092e\u0947\u0902",
+            "translated_transcript": "Sab Kuch Khatma Ho Gaya Lekin Jaunga Das Mein",
             "tone": "Neutral",
-            "rate_of_speech": "11973.39",
-            "emotion": "optimism",
+            "rate_of_speech": "199.19",
+            "emotion": "neutral",
             "sentiment_label": "Neutral",
-            "keywords": []
+            "keywords": [
+                "sab kuch khatma ho gaya lekin jaunga das mein"
+            ]
         },
         {
             "speaker_label": "spk_0",
             "start_time": "5.7472",
             "end_time": "5.8045",
-            "original_transcript": "ठीक है sir आप line पे रहिए मैं आपको कल दो minute hold पे रख सकता हूँ",
-            "translated_transcript": "Okay sir stay on the line I can hold you for two minutes tomorrow",
+            "original_transcript": "\u0920\u0940\u0915 \u0939\u0948 sir \u0906\u092a line \u092a\u0947 \u0930\u0939\u093f\u090f \u092e\u0948\u0902 \u0906\u092a\u0915\u094b \u0915\u0932 \u0926\u094b minute hold \u092a\u0947 \u0930\u0916 \u0938\u0915\u0924\u093e \u0939\u0942\u0901",
+            "translated_transcript": "Ok hai sir up line pe rahiye main apco cal du minute hold pe rakh sakta hoon",
             "tone": "Neutral",
-            "rate_of_speech": "14659.69",
+            "rate_of_speech": "296.51",
             "emotion": "neutral",
             "sentiment_label": "Positive",
             "keywords": [
-                "okay",
-                "sir stay"
+                "ok",
+                "hai sir",
+                "line pe rahiye",
+                "main apco cal du minute hold pe rakh sakta hoon"
             ]
         },
         {
             "speaker_label": "spk_1",
             "start_time": "5.8152",
             "end_time": "5.836",
-            "original_transcript": "हाँ ठीक है कोई issue नहीं",
-            "translated_transcript": "Yes ok no issue",
+            "original_transcript": "\u0939\u093e\u0901 \u0920\u0940\u0915 \u0939\u0948 \u0915\u094b\u0908 issue \u0928\u0939\u0940\u0902",
+            "translated_transcript": "Ha ok hai no issue",
             "tone": "Neutral",
-            "rate_of_speech": "11538.46",
+            "rate_of_speech": "240.00",
             "emotion": "approval",
             "sentiment_label": "Positive",
-            "keywords": []
+            "keywords": [
+                "ha",
+                "ok hai"
+            ]
         },
         {
             "speaker_label": "spk_0",
             "start_time": "5.836",
             "end_time": "5.8408",
-            "original_transcript": "है",
-            "translated_transcript": "jest",
+            "original_transcript": "\u0939\u0948",
+            "translated_transcript": "Hai",
             "tone": "Neutral",
-            "rate_of_speech": "12500.00",
+            "rate_of_speech": "206.90",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
-            "keywords": []
+            "keywords": [
+                "hai"
+            ]
         },
         {
             "speaker_label": "spk_0",
             "start_time": "5.8615",
             "end_time": "5.8738",
-            "original_transcript": "Line पे है",
-            "translated_transcript": "It's on the line",
+            "original_transcript": "Line \u092a\u0947 \u0939\u0948",
+            "translated_transcript": "Line Pay Hai",
             "tone": "Neutral",
-            "rate_of_speech": "19512.20",
+            "rate_of_speech": "243.57",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
-            "keywords": []
+            "keywords": [
+                "pay hai"
+            ]
         },
         {
             "speaker_label": "spk_1",
             "start_time": "5.8928",
             "end_time": "5.9335",
-            "original_transcript": "packet में किसी को नहीं दूंगा packet में रखा हुआ हूँ",
-            "translated_transcript": "I will not give it to anyone in the packet. I am kept in the packet",
-            "tone": "Neutral",
-            "rate_of_speech": "23587.22",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": []
+            "original_transcript": "packet \u092e\u0947\u0902 \u0915\u093f\u0938\u0940 \u0915\u094b \u0928\u0939\u0940\u0902 \u0926\u0942\u0902\u0917\u093e packet \u092e\u0947\u0902 \u0930\u0916\u093e \u0939\u0941\u0906 \u0939\u0942\u0901",
+            "translated_transcript": "What is wrong in the packet? Keep it in the packet",
+            "tone": "Sad",
+            "rate_of_speech": "270.49",
+            "emotion": "curiosity",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "keep"
+            ]
         }
     ],
-    "translated_segments": "Thank you for calling IC This is how can I help you Sir, there is no reason to disconnect the phone. You are disconnecting the phone again and again, do not listen to you, you have disconnected someone's phone. This is a reason why I am saying Kalash Okay Kailash ji I will check, wait sir he will transfer it to the concern agent. Okay So sir, there is no reason to disconnect this phone, it is talked to. Understand any. Understand that there is a complex complex. Understand why are you doing this by disconnecting the phone again and again. Sir I haven't cut it sir I will check the details sir wait a minute Yes okay, no problem will I wait one minute or an hour any issue No Good evening sir thank you for being on the line, you understand that your call was cut off due to network problem and register your complaint, one of our agents will go to our team's house, we will take that packet from you. You will give it back to us so that we can test it and give the new packet to you as our team at the same time. Please take So sir what complaint should I process for this what Our agents will come to bring that packet You give us that packet I will bring the packet myself, there is no issue I will bring the packet myself. Tell me where is the factory where is the plant We don't know about the plant exactly where are you So how can you say that any guy I send me to collect the package will come Will send Can give So the agent will go to fetch the packet and send it back to us in Bangalore. Wherever it arrives, they will collect the packet. We will check what is in it Will do it in the factory Where is Kasundhara in Bangalore or where in Bangalore Exactly it is made in the factory. Let us see first because I saw the batch number No, I have WhatsApp the full batch number of the bar code and I have WhatsApp on both the left side on the right side and the side effect of my son is also WhatsApp. Look at the side effect my son has had. After registering a complaint for that, we will send an agent to your home first, so what will happen to that, we will collect your packet from you we will collect it from you In the lab We will test it and solve the problem and you will be given a new packet as a goodation sir So I will be given a kurkara again. I feed my son again if he has a side effect, then invest money to him. It does not happen sir, we send all our products after doing quality tests many times. If there is a problem in this packet, then we will take it back and check it. You will not find any such problem in the new packet. You can do it comfortably. One such time inside its Manesar, that company with company juice in IMT Manesar is fine Whichever production produces an empty packet of juice worth ten rupees twenty five, thirty of fifty ml of hundred ml of 2.5 hundred ml If you make juice, it's okay, so there was an issue in it, so we went there So if we have done a complete check, then we are asking for drum of mango lychee from somewhere Its sporting, which is the cover of the lid that covers the plastic inside, they were doing sporting themselves. They were doing sporting themselves on the third floor and checking that they are doing sporting themselves. He said that if people do such cover sporting, then the hair is guarded Above the body there is no hair cap or gloves or gloves inside. When any man makes products to eat and drink, then the lab is like this. When you enter inside the factory, then there should not be any dust from where there should be nothing. Complete AC Okay, I went over there and saw that he was very watery Goods are coming from there. Go to the last one and slowly in three hours the goods are arriving at the top. What cartoons are you preparing, what are they not preparing, someone is eating gutkha, someone is eating something. It goes like this So look at me sir sir listen to me. You request me to enter your plant's address empty. Just My team and I will arrive before the plant opens at 10 o'clock in the morning date Bampur Me Ho Me Ho Me Ho Bhilai Power Ho Wherever I am I will reach because I come from Delhi Only one daughter loves my daughter very much. She is two and a half years old My daughter is twenty-seven years behind marriage I can provide complete data. All the data is twenty-seven years back. If it happened by eating it, then I will go to the bottom of it. I will get to the bottom of why it should be mine Everything is over but I will go in ten Okay sir stay on the line I can hold you for two minutes tomorrow Yes ok no issue jest It's on the line I will not give it to anyone in the packet. I am kept in the packet ",
-    "speaker_a_segments": "Thank you for calling IC This is how can I help you Okay Kailash ji I will check, wait sir he will transfer it to the concern agent. Okay Sir I haven't cut it sir I will check the details sir wait a minute No Good evening sir thank you for being on the line, you understand that your call was cut off due to network problem and register your complaint, one of our agents will go to our team's house, we will take that packet from you. You will give it back to us so that we can test it and give the new packet to you as our team at the same time. So sir what complaint should I process for this Our agents will come to bring that packet You give us that packet We don't know about the plant exactly where are you Will send So the agent will go to fetch the packet and send it back to us in Bangalore. Wherever it arrives, they will collect the packet. We will check what is in it Exactly it is made in the factory. Let us see first because I saw the batch number After registering a complaint for that, we will send an agent to your home first, so what will happen to that, we will collect your packet from you we will collect it from you We will test it and solve the problem and you will be given a new packet as a goodation sir It does not happen sir, we send all our products after doing quality tests many times. If there is a problem in this packet, then we will take it back and check it. You will not find any such problem in the new packet. You can do it comfortably. Okay sir stay on the line I can hold you for two minutes tomorrow jest It's on the line ",
-    "speaker_b_segments": "Sir, there is no reason to disconnect the phone. You are disconnecting the phone again and again, do not listen to you, you have disconnected someone's phone. This is a reason why I am saying Kalash So sir, there is no reason to disconnect this phone, it is talked to. Understand any. Understand that there is a complex complex. Understand why are you doing this by disconnecting the phone again and again. Yes okay, no problem will I wait one minute or an hour any issue Please take what I will bring the packet myself, there is no issue I will bring the packet myself. Tell me where is the factory where is the plant So how can you say that any guy I send me to collect the package will come Can give Will do it in the factory Where is Kasundhara in Bangalore or where in Bangalore No, I have WhatsApp the full batch number of the bar code and I have WhatsApp on both the left side on the right side and the side effect of my son is also WhatsApp. Look at the side effect my son has had. In the lab So I will be given a kurkara again. I feed my son again if he has a side effect, then invest money to him. One such time inside its Manesar, that company with company juice in IMT Manesar is fine Whichever production produces an empty packet of juice worth ten rupees twenty five, thirty of fifty ml of hundred ml of 2.5 hundred ml If you make juice, it's okay, so there was an issue in it, so we went there So if we have done a complete check, then we are asking for drum of mango lychee from somewhere Its sporting, which is the cover of the lid that covers the plastic inside, they were doing sporting themselves. They were doing sporting themselves on the third floor and checking that they are doing sporting themselves. He said that if people do such cover sporting, then the hair is guarded Above the body there is no hair cap or gloves or gloves inside. When any man makes products to eat and drink, then the lab is like this. When you enter inside the factory, then there should not be any dust from where there should be nothing. Complete AC Okay, I went over there and saw that he was very watery Goods are coming from there. Go to the last one and slowly in three hours the goods are arriving at the top. What cartoons are you preparing, what are they not preparing, someone is eating gutkha, someone is eating something. It goes like this So look at me sir sir listen to me. You request me to enter your plant's address empty. Just My team and I will arrive before the plant opens at 10 o'clock in the morning date Bampur Me Ho Me Ho Me Ho Bhilai Power Ho Wherever I am I will reach because I come from Delhi Only one daughter loves my daughter very much. She is two and a half years old My daughter is twenty-seven years behind marriage I can provide complete data. All the data is twenty-seven years back. If it happened by eating it, then I will go to the bottom of it. I will get to the bottom of why it should be mine Everything is over but I will go in ten Yes ok no issue I will not give it to anyone in the packet. I am kept in the packet ",
-    "summary": "The customer called IC in regards to frequent disconnections during a call. The customer is concerned as they have a package that they need to send back to the company as their son experienced side effects after consuming the product. The customer is advised to register a complaint, and an agent will visit their home to collect the package. The customer is concerned that the product may not be handled properly and wants to know more about the manufacturing process. They are assured that the product will be tested and a new packet will be provided. The customer then proceeds to describe the unsanitary conditions of the factory and the lack of hygiene of the workers. They also mention that the product appears to be very watery. The customer insists on visiting the factory the next day as their daughter loves the product and they want to ensure its quality. The call ends with the customer waiting to provide additional information.",
-    "speaker_a_summary": "The customer wants to know why a packet of a plant that they purchased kept dying. The customer support agent registers a complaint and assures the customer that an agent will visit their home to collect the packet for further investigation in Bangalore. They explain that the plant goes through quality tests multiple times before being distributed and if there is an issue, they will send a new packet to the customer's home. The customer is advised to stay on the line for two more minutes for the next agent.",
-    "speaker_b_summary": "The caller is upset that their phone keeps getting disconnected during the call. They are discussing an issue with a package and wants to know the address of a plant in Bangalore, as they will collect the package themselves. The caller describes the state of the factory, mentioning poor hygiene and unsafe conditions. They are very adamant about collecting the package themselves as they have a 2-year-old daughter who had an adverse reaction to a product and they want to get to the bottom of it. They will go to any length to find out why their daughter is experiencing issues and is frustrated that the call keeps getting cut. The caller will arrive at the plant by 10 am.",
-    "cohere_points": "- User called IC in regards to frequent disconnections during a call\n- Agent wants the user to provide patience so they can resolve the issue\n- Issue could be due to network problems\n- User wants to register a complaint about a product they purchased. \n- Agent wants to know the address where the product was purchased so they can send someone to collect it for further analysis.",
+    "translated_segments": "Thank you for calling IC This is how I can help you sir ye cut the phone why there was no reason why I cut the bar-bar phone, keep cutting the phone, don't listen to me if I cut the phone, why don't you talk? Kailash ji okay check me wait Kijie sir Wo transfer to concern agent ok He was talking about phone cuts and there was no reason why he was going to the phone. sir main no cut kiya sir main details check sir a minute wait kejia Ha ok hai koi dickat hai a minute or a bell wait a minute or an issue No, Hai Good evening sir line Pe rahne ke lia Thank you for your call cut if you have a network problem that subtracts your complaint by registering your complaint, each team who has an agent at home to send you a packet to return your message to us. Test Kar Sake Aur Apko Jo Hai Usi Time Pe Hamari Team Ke Tour Per New Packet Apco Denge Use Aap Le Legiega please He is involved in the main complaint process. key Hamare agent Aange Wo Packet Lane Ap Wo Packet Dijiega Main packet is the same as the issue of the main packet is the same as the main packet is the same as the factory where the main plant is. plant that you don't know exactly how to do it How can you say that if you have a package lane, how can you say that the package has been taken away from me? Bhejenge De sakte hai The agent is going to go to Bangalore to collect the packet and collect the packet and check it out. Karenge in factory Kidhar Kasundhara in Bangalore or Kidhar Hai in Bangalore Be at exactly the factory and see what batch number is mine No hai main that full batch number apko bar code or batch number ka full whatsapp kia hua hai and main two left side ka right side ka two ka whatsapp kia hua hai and up islands ka bhi jo side effect hua hai wo whatsapp kia hua hai see If you complain to register, you have seen your house per agent that you can collect your package. in the lab Bhej ke test Karenge Uska problem to solve Karenge and Apko a new packet dia giveaway as a goodation ke tour per sir It is me who has two or two side effects and one side effect. No it was sir all product co um quality test most of the time it goes wrong or there is a problem with this packet. Ram Se Aisa hi isa hi ha un bar apne manager ke under wo IMT manager me company juice wali company ok hai Jo bhi production down ten rupees k juice ka packet banati hai twenty rupees ka thirty ka fifty ml ka sa sa ml ka dhai sa ml juice banati hai ok hai to usme issue hua issue hua to hamko borrow He ham full check what he check what he drum how he is manga ha ha ha lichi Uska iska sporting who was wearing a cover that was covered with plastic and an under cover. Pahra Hua Hai In the upper head of the body, no hair cap, no gloves, no underwear, no job, no job, no dust at all, no food, drink, drink, drink, do you want it in the lab. Se bhi kuch no hon chahiye pura AC Ok hai main loan ke dekha usko kanwar pani hua hai Borrow the goods stay last in the last three hours, wait for the goods to stay in the last three hours. Come Kar Raha Hai Aisa Chalta Hai He looks at Sir Mary Bat Suniye Apko request hai ki muze down upne plant ka address dal dijia bus Ten thousand plants on my date are open to me and my team in many places Bampur Me Ho Me Ho Ho Bhilai Power Me Ho Tumhara Me Kahi Ho Main Pahunch Jaunga Kyonki Main Delhi Se Aya Hua Hun Ek hi Beti Meri Beti Se Most Pyar Karta Hun Dhai Sal Ki Hai Shadi Ke Sattais Sal Piche Hui Hai Mary Beti Pura data de sakta ho pura data sattaais sal ago hui hai ar isco is se khane se hua hai to main uski tak jaunga ta tak jaunga kho ona chahiye mera Sab Kuch Khatma Ho Gaya Lekin Jaunga Das Mein Ok hai sir up line pe rahiye main apco cal du minute hold pe rakh sakta hoon Ha ok hai no issue Hai Line Pay Hai What is wrong in the packet? Keep it in the packet ",
+    "speaker_a_segments": "Thank you for calling IC This is how I can help you Kailash ji okay check me wait Kijie sir Wo transfer to concern agent ok sir main no cut kiya sir main details check sir a minute wait kejia No, Hai Good evening sir line Pe rahne ke lia Thank you for your call cut if you have a network problem that subtracts your complaint by registering your complaint, each team who has an agent at home to send you a packet to return your message to us. Test Kar Sake Aur Apko Jo Hai Usi Time Pe Hamari Team Ke Tour Per New Packet Apco Denge Use Aap Le He is involved in the main complaint process. Hamare agent Aange Wo Packet Lane Ap Wo Packet Dijiega plant that you don't know exactly how to do it Bhejenge The agent is going to go to Bangalore to collect the packet and collect the packet and check it out. Be at exactly the factory and see what batch number is mine If you complain to register, you have seen your house per agent that you can collect your package. Bhej ke test Karenge Uska problem to solve Karenge and Apko a new packet dia giveaway as a goodation ke tour per sir No it was sir all product co um quality test most of the time it goes wrong or there is a problem with this packet. Ram Se Ok hai sir up line pe rahiye main apco cal du minute hold pe rakh sakta hoon Hai Line Pay Hai ",
+    "speaker_b_segments": "sir ye cut the phone why there was no reason why I cut the bar-bar phone, keep cutting the phone, don't listen to me if I cut the phone, why don't you talk? He was talking about phone cuts and there was no reason why he was going to the phone. Ha ok hai koi dickat hai a minute or a bell wait a minute or an issue Legiega please key Main packet is the same as the issue of the main packet is the same as the main packet is the same as the factory where the main plant is. How can you say that if you have a package lane, how can you say that the package has been taken away from me? De sakte hai Karenge in factory Kidhar Kasundhara in Bangalore or Kidhar Hai in Bangalore No hai main that full batch number apko bar code or batch number ka full whatsapp kia hua hai and main two left side ka right side ka two ka whatsapp kia hua hai and up islands ka bhi jo side effect hua hai wo whatsapp kia hua hai see in the lab It is me who has two or two side effects and one side effect. Aisa hi isa hi ha un bar apne manager ke under wo IMT manager me company juice wali company ok hai Jo bhi production down ten rupees k juice ka packet banati hai twenty rupees ka thirty ka fifty ml ka sa sa ml ka dhai sa ml juice banati hai ok hai to usme issue hua issue hua to hamko borrow He ham full check what he check what he drum how he is manga ha ha ha lichi Uska iska sporting who was wearing a cover that was covered with plastic and an under cover. Pahra Hua Hai In the upper head of the body, no hair cap, no gloves, no underwear, no job, no job, no dust at all, no food, drink, drink, drink, do you want it in the lab. Se bhi kuch no hon chahiye pura AC Ok hai main loan ke dekha usko kanwar pani hua hai Borrow the goods stay last in the last three hours, wait for the goods to stay in the last three hours. Come Kar Raha Hai Aisa Chalta Hai He looks at Sir Mary Bat Suniye Apko request hai ki muze down upne plant ka address dal dijia bus Ten thousand plants on my date are open to me and my team in many places Bampur Me Ho Me Ho Ho Bhilai Power Me Ho Tumhara Me Kahi Ho Main Pahunch Jaunga Kyonki Main Delhi Se Aya Hua Hun Ek hi Beti Meri Beti Se Most Pyar Karta Hun Dhai Sal Ki Hai Shadi Ke Sattais Sal Piche Hui Hai Mary Beti Pura data de sakta ho pura data sattaais sal ago hui hai ar isco is se khane se hua hai to main uski tak jaunga ta tak jaunga kho ona chahiye mera Sab Kuch Khatma Ho Gaya Lekin Jaunga Das Mein Ha ok hai no issue What is wrong in the packet? Keep it in the packet ",
+    "summary": "The customer wants to know the status of their package. IC Customer Service representative assures the customer that they will look into the issue and get back to them as soon as possible. The customer's package was stuck at the factory in Bangalore and they were provided with the address where it could be located. The customer also mentioned experiencing side effects from using the product and wants to know what they can do to resolve the issue. The customer is informed that a new packet will be sent to them as soon as possible.",
+    "speaker_a_summary": "Kijie wishes to register a complaint about a product and speak to a concerned agent regarding the issue. The customer service representative creates a ticket for the complaint and arranges for a new packet to be sent to Kijie so that the agent can test the product and resolve the issue. The representative informs Kijie that the agent will visit the factory, locate the specific batch number of the product, and then deliver a new packet to Kijie's residence. The agent will also collect the defective product for testing and troubleshooting purposes. Kijie is informed that the agent will solve the problem and provide a new packet as a replacement. The call ends with Kijie confirming that they will remain on hold for a few minutes until the agent arrives.",
+    "speaker_b_summary": "The narrator is having a heated argument with someone over the phone regarding a missing packet of items. The narrator repeatedly asks why the packet was taken away and insists that they have already provided all the necessary information, such as the batch number, bar code, and other details. They mention that there are issues with the main packet and that there are two side effects, one of which they experienced themselves. The narrator also describes the poor hygiene and unsafe conditions at the factory where the packets were manufactured and wonders why the other party is not listening to them. They demand the address of the plant so they can inspect it. The narrator also mentions their love for their daughter and that they will go to any length to help her. Finally, they mention that they have already lost everything but still intend to go to the factory.",
+    "cohere_points": "- Customer wants to know where his package is and why it hasn't been delivered\n- Agent is trying to help the customer but needs more information and asks the customer to send photos of the batch number and bar code\n- Agent wants to send the customer a new packet but needs to investigate where the original packet went \n- There seems to be a discrepancy with the packet being sent to the factory for testing and the agent needs to register the customers complaint \n- Agent is trying to help the customer but needs more information ",
     "opening_comments": "No",
     "closing_comments": "No",
-    "Topic": "1. Phone Disconnecting Issue\n2. Transferring Call to Agent\n3. Network Problem\n4. Complaint Registration Process\n5. Packet Collection Procedure\n6. Batch Number Tracking\n7. Quality Testing Procedures\n8. Side Effects Investigation\n9. Product Return Policy\n10. Quality Control Measures\n11. Manufacturing Location\n12. Packaging Inspection\n13. Factory Visit Arrangements\n14. Product Safety Standards\n15. Customer Service Follow-up",
-    "Resolution": "The customer's issue is not resolved as they are still expressing concerns and requesting further action to address the problem with the product.",
+    "Topic": "1. Phone Cuts\n2. Complaint Registration\n3. Packet Collection\n4. Batch Number\n5. Quality Test\n6. Production Down\n7. Juice Packets\n8. Production Issues\n9. Quality Control\n10. Packaging Process\n11. Factory Location\n12. Test Sample\n13. Problem Solving\n14. Agent Assistance\n15. Packaging Inspection",
+    "Resolution": "The customer issue is not resolved based on this conversation as it involves multiple complaints and queries that have not been fully addressed.",
     "Has the Agent Ask for callers Name": "no",
-    "Has the Agent Ask for callersEmail_id": "no",
+    "Has the Agent Ask for callers Email_id": "no",
     "Has the Agent Ask for callers Address": "no",
-    "Did the caller Displayed Empathy": "Yes.\n\nThe caller displayed empathy when they mentioned understanding the frustration of the customer with the disconnected phone calls and reassured them that the issue will be resolved by sending an agent to collect and test the packet before providing a new one.",
-    "Was there any profanity on the call": "No.",
+    "Did the caller Displayed Empathy": "Yes, the caller displayed empathy. The caller showed empathy when they mentioned understanding the issue the customer was facing with their packet, and expressed willingness to help resolve the problem and provide a new packet as a solution. They also expressed concern for the customer's situation by offering assistance and support effectively throughout the conversation.",
+    "Was there any profanity on the call": "No, there was no profanity on the call.",
     "Interaction": "Query",
     "Discipline": "Service",
-    "Intent": "Other Service Related"
+    "Intent": "Other Service Related",
+    "total_silence_duration": 98.65100000000002,
+    "num_silences": 75
 }

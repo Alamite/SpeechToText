@@ -45,7 +45,7 @@ function WordCloud({jsonData}) {
     chart.colorRange().enabled(true);
 
     // Set the chart title
-    chart.title("Tag Cloud Chart: Synthesis Agent vs Caller");
+    chart.title("Synthesis Agent and Caller");
 
     // Set the container id
     chart.container("container");

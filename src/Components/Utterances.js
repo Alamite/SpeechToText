@@ -33,7 +33,7 @@ function Utterances({jsonData}) {
         profanity_error = true;
 
     if(jsonData['Did the caller Displayed Empathy'].startsWith("No"))
-        email_error = true;
+        empathy_error = true;
 
    
 
