@@ -1,6 +1,5 @@
 {
   "name": "inscribe_3cctpl_co_in",
-  "homepage": "https://inscribe.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
