@@ -9,13 +9,13 @@ app.use(cors());
 
 app.use(express.static(path.join(__dirname, 'build')));
 
-app.use('/api/files', express.static(path.join(__dirname, '../src/Data')));
+app.use('/api/files', express.static(path.join(__dirname, '/src/Data')));
 
 // Endpoint to fetch specific JSON files
 app.get('/api/files/:folder/:file', (req, res) => {
     console.log('GET /api/JsonFile endpoint hit');
     const { folder, file } = req.params;
-    const filePath = path.join(__dirname, '../src/Data', folder, file);
+    const filePath = path.join(__dirname, '/src/Data', folder, file);
     console.log(`Requested file path: ${filePath}`);
 
     // Optionally, perform additional checks or logic before sending the file
@@ -34,7 +34,7 @@ app.get('/api/files/:folder/:file', (req, res) => {
 
 app.get('/api/files', (req, res) => {
     console.log('GET /api/files endpoint hit');
-    const dataPath = path.join(__dirname, '../src/Data');
+    const dataPath = path.join(__dirname, '/src/Data');
     fs.readdir(dataPath, { withFileTypes: true }, (err, folders) => {
         if (err) {
             return res.status(500).json({ error: 'Failed to read directories' });

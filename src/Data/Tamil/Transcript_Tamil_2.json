@@ -1,0 +1,1541 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0442",
+            "end_time": "0.098",
+            "original_transcript": "Good afternoon thank you for calling my name is how can I help you",
+            "translated_transcript": "Good afternoon thank you for calling my name is how can I help you",
+            "tone": "Happy",
+            "rate_of_speech": "260.06",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good afternoon"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.1108",
+            "end_time": "0.1225",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "85.84",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.2027",
+            "end_time": "0.2218",
+            "original_transcript": "தமிழ் தமிழ்",
+            "translated_transcript": "Tamil Tamil",
+            "tone": "Neutral",
+            "rate_of_speech": "104.26",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "tamil tamil"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.2382",
+            "end_time": "0.2757",
+            "original_transcript": "Please be online transfer",
+            "translated_transcript": "Please be online transfer",
+            "tone": "Neutral",
+            "rate_of_speech": "106.62",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "please"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.288",
+            "end_time": "0.3",
+            "original_transcript": "ம்",
+            "translated_transcript": "M",
+            "tone": "Neutral",
+            "rate_of_speech": "83.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.4167",
+            "end_time": "1.4245",
+            "original_transcript": "சரி",
+            "translated_transcript": "tick",
+            "tone": "Neutral",
+            "rate_of_speech": "127.66",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.6873",
+            "end_time": "1.691",
+            "original_transcript": "ம்ம்",
+            "translated_transcript": "Mm",
+            "tone": "Neutral",
+            "rate_of_speech": "272.73",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mm"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.7038",
+            "end_time": "1.7178",
+            "original_transcript": "இதுல",
+            "translated_transcript": "Idula",
+            "tone": "Neutral",
+            "rate_of_speech": "71.51",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "idula"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.1125",
+            "end_time": "2.1172",
+            "original_transcript": "ம்",
+            "translated_transcript": "M",
+            "tone": "Neutral",
+            "rate_of_speech": "215.05",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.2337",
+            "end_time": "2.2767",
+            "original_transcript": "Thank you for calling ரோஹித் இருக்கு சொல்லுங்க Sir",
+            "translated_transcript": "Thank you for calling please tell Rohit Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "186.05",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thank",
+                "rohit sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.293",
+            "end_time": "2.3047",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "85.84",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.3173",
+            "end_time": "2.3403",
+            "original_transcript": "சொல்லுங்க",
+            "translated_transcript": "Tell me.",
+            "tone": "Neutral",
+            "rate_of_speech": "86.96",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.36",
+            "end_time": "2.4287",
+            "original_transcript": "Sir உங்க உங்க Product bingo வாங்கியிருக்கு",
+            "translated_transcript": "Sir have bought your Product bingo",
+            "tone": "Neutral",
+            "rate_of_speech": "87.38",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir",
+                "product"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.444",
+            "end_time": "2.455",
+            "original_transcript": "Okay",
+            "translated_transcript": "Alright",
+            "tone": "Neutral",
+            "rate_of_speech": "90.77",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "alright"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.4662",
+            "end_time": "2.492",
+            "original_transcript": "நான் காலைல வாங்கி சாப்பிட்டேன்",
+            "translated_transcript": "I bought and ate in the morning",
+            "tone": "Neutral",
+            "rate_of_speech": "270.97",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.5006",
+            "end_time": "2.5125",
+            "original_transcript": "Okay",
+            "translated_transcript": "Alright",
+            "tone": "Neutral",
+            "rate_of_speech": "84.39",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "alright"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.524",
+            "end_time": "2.5793",
+            "original_transcript": "அதுலிருந்து ரொம்ப Loose motion போயிட்டு இருக்கு",
+            "translated_transcript": "Since then, Loose motion has been running.",
+            "tone": "Neutral",
+            "rate_of_speech": "126.54",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "loose"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.6122",
+            "end_time": "2.6373",
+            "original_transcript": "எங்க இருந்து வாங்குனீங்க Sir இந்த Product",
+            "translated_transcript": "Where to buy this product",
+            "tone": "Neutral",
+            "rate_of_speech": "198.54",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.6528",
+            "end_time": "2.7302",
+            "original_transcript": "அது அட்டப்பளத்துல இருந்து நம்ம பாலக்காடு ஜில்ல கேரளா",
+            "translated_transcript": "It is from Attapalatula to Namma Palakkad Jilla Kerala",
+            "tone": "Neutral",
+            "rate_of_speech": "116.38",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "attapalatula",
+                "namma palakkad jilla kerala"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.7412",
+            "end_time": "2.7653",
+            "original_transcript": "அங்கிருந்து வாங்கிட்டு",
+            "translated_transcript": "Buy from there",
+            "tone": "Neutral",
+            "rate_of_speech": "124.22",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "buy"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.7732",
+            "end_time": "2.7835",
+            "original_transcript": "மலையாளமா Sir",
+            "translated_transcript": "Malayalam Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "193.55",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "malayalam sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.8005",
+            "end_time": "2.8147",
+            "original_transcript": "ஆமா மலையாளம்",
+            "translated_transcript": "Ama Malayalam",
+            "tone": "Neutral",
+            "rate_of_speech": "141.01",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ama malayalam"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.8247",
+            "end_time": "2.8685",
+            "original_transcript": "மலையாளம் தமிழ்ல Comfortable ஆ இருக்கீங்களா பேசுறதுக்கு",
+            "translated_transcript": "Malayalam Tamil Comfortable to Speak English",
+            "tone": "Neutral",
+            "rate_of_speech": "136.83",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "malayalam tamil",
+                "speak english"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.8811",
+            "end_time": "2.9322",
+            "original_transcript": "நீங்க சொல்லுங்க அதெல்லாம் பரவாயில்ல தமிழ் தெரியும்",
+            "translated_transcript": "You can tell me it's all right, I know English.",
+            "tone": "Neutral",
+            "rate_of_speech": "196.08",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "english"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.9426",
+            "end_time": "3.0035",
+            "original_transcript": "ஓகேய்ங்க எது சார் இதும்",
+            "translated_transcript": "OK, what's up, sir?",
+            "tone": "Neutral",
+            "rate_of_speech": "65.74",
+            "emotion": "curiosity",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.0196",
+            "end_time": "3.0315",
+            "original_transcript": "எப்படிங்க",
+            "translated_transcript": "How",
+            "tone": "Neutral",
+            "rate_of_speech": "84.51",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.0442",
+            "end_time": "3.0978",
+            "original_transcript": "பிங்கல எது சார் இது தேட மேடங்களா Mad angles இருக்கு",
+            "translated_transcript": "What are the best ways to search for Bingala? Mad angles",
+            "tone": "Happy",
+            "rate_of_speech": "204.97",
+            "emotion": "curiosity",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "bingala",
+                "mad"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.1155",
+            "end_time": "3.1285",
+            "original_transcript": "ம்ம்",
+            "translated_transcript": "Mm",
+            "tone": "Neutral",
+            "rate_of_speech": "76.82",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mm"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.1905",
+            "end_time": "3.2208",
+            "original_transcript": "You",
+            "translated_transcript": "Tu",
+            "tone": "Neutral",
+            "rate_of_speech": "32.95",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "tu"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.3037",
+            "end_time": "3.3428",
+            "original_transcript": "Potato cheese எது சார் Salt ங்களா இல்ல என்ன",
+            "translated_transcript": "What is potato cheese and what is not salt",
+            "tone": "Neutral",
+            "rate_of_speech": "229.79",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "potato cheese"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.3681",
+            "end_time": "3.4175",
+            "original_transcript": "மசாலா மசாலா",
+            "translated_transcript": "Masala Masala",
+            "tone": "Neutral",
+            "rate_of_speech": "40.53",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "masala masala"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.4421",
+            "end_time": "3.4562",
+            "original_transcript": "மசாலா",
+            "translated_transcript": "spice",
+            "tone": "Neutral",
+            "rate_of_speech": "71.43",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.4735",
+            "end_time": "3.4972",
+            "original_transcript": "மசாலா தடுக்காங்களா",
+            "translated_transcript": "Masala Tadkamangala",
+            "tone": "Neutral",
+            "rate_of_speech": "84.51",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "masala tadkamangala"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.5243",
+            "end_time": "3.5365",
+            "original_transcript": "எப்படிங்க",
+            "translated_transcript": "How",
+            "tone": "Neutral",
+            "rate_of_speech": "82.19",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.5498",
+            "end_time": "3.5778",
+            "original_transcript": "மசாலா தடுக்காங்களா சார் இதும்",
+            "translated_transcript": "Masala Thadkamangala Sar Idum",
+            "tone": "Neutral",
+            "rate_of_speech": "142.94",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "masala thadkamangala sar idum"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.5875",
+            "end_time": "3.641",
+            "original_transcript": "மேலே போட்ருக்கோம் பாருங்க Sir",
+            "translated_transcript": "Let's take a look at it above, sir.",
+            "tone": "Neutral",
+            "rate_of_speech": "149.53",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.6548",
+            "end_time": "3.7178",
+            "original_transcript": "இல்ல என்ன Hospitalக்கு கொண்டு போறோம் அதான் கேக்குறோம்",
+            "translated_transcript": "We will not ask what we take with us to the hospital",
+            "tone": "Neutral",
+            "rate_of_speech": "190.43",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.7453",
+            "end_time": "3.8227",
+            "original_transcript": "அது சாப்பிட்டு வாட்டியும் நமக்கு இந்த மாதிரி வந்தது Loose மோசம் போயிட்டு இருக்கு",
+            "translated_transcript": "It came to us like this when it was eaten Loose and gone bad",
+            "tone": "Neutral",
+            "rate_of_speech": "181.03",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "loose"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.8347",
+            "end_time": "3.929",
+            "original_transcript": "Okay sir கண்டிப்பா நானு ஒரு Complaint பண்ற Team தெரிவிக்கிறேன் ன்னு சொல்லி கண்டிப்பா",
+            "translated_transcript": "Okay sir I will report a Complaint to the Team and tell you",
+            "tone": "Neutral",
+            "rate_of_speech": "137.81",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay",
+                "complaint",
+                "team"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.9385",
+            "end_time": "3.9635",
+            "original_transcript": "அங்க போய் admit ஆனா",
+            "translated_transcript": "Go there and admit it.",
+            "tone": "Neutral",
+            "rate_of_speech": "200.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.975",
+            "end_time": "3.9872",
+            "original_transcript": "Okay",
+            "translated_transcript": "Alright",
+            "tone": "Neutral",
+            "rate_of_speech": "82.30",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "alright"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.0295",
+            "end_time": "4.0433",
+            "original_transcript": "சொல்லுங்க Sir",
+            "translated_transcript": "Please tell me, sir.",
+            "tone": "Neutral",
+            "rate_of_speech": "289.16",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "please"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.0561",
+            "end_time": "4.153",
+            "original_transcript": "அங்க போய் Admit ஆனா இதெல்லாம் கேக்கும் அப்ப இது Expiry date முடிஞ்சிருக்கு",
+            "translated_transcript": "Go there and admit it, but this is all over the Expiry date",
+            "tone": "Neutral",
+            "rate_of_speech": "134.25",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "expiry"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.1643",
+            "end_time": "4.2263",
+            "original_transcript": "Expiry ஆயிட்டு இருக்கு Expiry date போட்ருக்காங்க சொல்லுங்க Sir Packaging date expiry சொல்லுங்க Sir",
+            "translated_transcript": "Expiry date Expiry date Please tell us Sir Packaging date Expiry date",
+            "tone": "Neutral",
+            "rate_of_speech": "193.55",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "expiry",
+                "expiry",
+                "please",
+                "sir packaging",
+                "expiry"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.243",
+            "end_time": "4.264",
+            "original_transcript": "வேணுனா WhatsAppல அனுப்புறோம் சொல்லுங்க",
+            "translated_transcript": "Please send me a WhatsApp",
+            "tone": "Neutral",
+            "rate_of_speech": "238.28",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "please",
+                "whatsapp"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.2863",
+            "end_time": "4.3283",
+            "original_transcript": "Packaging rate சொல்லுங்க Sir Package முன்னாடி எழுதிருக்கேன் சொல்லுங்க Packaging",
+            "translated_transcript": "Tell me the packaging rate Sir Package Write it first Tell me Packaging",
+            "tone": "Neutral",
+            "rate_of_speech": "309.40",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "sir package",
+                "packaging"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.359",
+            "end_time": "4.3858",
+            "original_transcript": "Expiry date",
+            "translated_transcript": "Expiry date",
+            "tone": "Neutral",
+            "rate_of_speech": "74.58",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "expiry"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.3965",
+            "end_time": "4.426",
+            "original_transcript": "Zero seven",
+            "translated_transcript": "Zero seven",
+            "tone": "Neutral",
+            "rate_of_speech": "67.83",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "zero"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.4446",
+            "end_time": "4.4827",
+            "original_transcript": "Zero seven",
+            "translated_transcript": "Zero seven",
+            "tone": "Neutral",
+            "rate_of_speech": "52.63",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "zero"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.4931",
+            "end_time": "4.5095",
+            "original_transcript": "zero seven",
+            "translated_transcript": "zero seven",
+            "tone": "Neutral",
+            "rate_of_speech": "122.32",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.519",
+            "end_time": "4.5363",
+            "original_transcript": "J P R",
+            "translated_transcript": "JPR",
+            "tone": "Neutral",
+            "rate_of_speech": "57.75",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "jpr"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.551",
+            "end_time": "4.5993",
+            "original_transcript": "Sir அது கேட்டது இல்ல Sir Packaging rate சொல்லுங்க",
+            "translated_transcript": "Sir Do not hear it Sir Packaging rate",
+            "tone": "Neutral",
+            "rate_of_speech": "165.52",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir",
+                "sir packaging"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.6097",
+            "end_time": "4.6228",
+            "original_transcript": "A P R",
+            "translated_transcript": "A P R",
+            "tone": "Neutral",
+            "rate_of_speech": "227.85",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "p r"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.6335",
+            "end_time": "4.712",
+            "original_transcript": "A P R இல்ல Sir A P R Batch code number Manufacture date கேட்டுக்கறேன்",
+            "translated_transcript": "Please ask for a P R No Sir A P R Batch code number Manufacture date",
+            "tone": "Neutral",
+            "rate_of_speech": "203.82",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "please",
+                "p r",
+                "sir",
+                "p r batch",
+                "code number",
+                "manufacture"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.7395",
+            "end_time": "4.7566",
+            "original_transcript": "Over the street",
+            "translated_transcript": "Over the street",
+            "tone": "Neutral",
+            "rate_of_speech": "174.76",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.7726",
+            "end_time": "4.7966",
+            "original_transcript": "மகா சினம்",
+            "translated_transcript": "Maha Cinema",
+            "tone": "Neutral",
+            "rate_of_speech": "83.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "maha cinema"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.8132",
+            "end_time": "4.8225",
+            "original_transcript": "August",
+            "translated_transcript": "Agosto",
+            "tone": "Neutral",
+            "rate_of_speech": "107.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "agosto"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.8225",
+            "end_time": "4.8821",
+            "original_transcript": "Zero four August twenty three",
+            "translated_transcript": "Zero four August twenty three",
+            "tone": "Neutral",
+            "rate_of_speech": "83.82",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "zero",
+                "august"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.8927",
+            "end_time": "4.9262",
+            "original_transcript": "Okay Expiry",
+            "translated_transcript": "Okay Expiry",
+            "tone": "Neutral",
+            "rate_of_speech": "59.67",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay expiry"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.9375",
+            "end_time": "4.9385",
+            "original_transcript": "ஆஹ்",
+            "translated_transcript": "Aah",
+            "tone": "Neutral",
+            "rate_of_speech": "1016.95",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "aah"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.9535",
+            "end_time": "4.969",
+            "original_transcript": "Expiry date",
+            "translated_transcript": "Expiry date",
+            "tone": "Neutral",
+            "rate_of_speech": "128.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "expiry"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.9872",
+            "end_time": "5.0336",
+            "original_transcript": "Zero four",
+            "translated_transcript": "Zero four",
+            "tone": "Neutral",
+            "rate_of_speech": "43.03",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "zero"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.0448",
+            "end_time": "5.076",
+            "original_transcript": "August Twenty Three",
+            "translated_transcript": "August Twenty Three",
+            "tone": "Neutral",
+            "rate_of_speech": "96.31",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "august twenty"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.1077",
+            "end_time": "5.1515",
+            "original_transcript": "Expiry date Zero four ங்களா Zero seven னு சொன்னீங்க",
+            "translated_transcript": "Expiry date Zero four or zero seven",
+            "tone": "Neutral",
+            "rate_of_speech": "159.70",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "expiry",
+                "zero"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.163",
+            "end_time": "5.1923",
+            "original_transcript": "Zero Zero Zero",
+            "translated_transcript": "Zero Zero Zero",
+            "tone": "Neutral",
+            "rate_of_speech": "102.21",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "zero zero zero"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.1923",
+            "end_time": "5.2841",
+            "original_transcript": "four August twenty three இது Expiry date ங்களா Packaging date சொல்லுங்க Packaging manufacture date",
+            "translated_transcript": "four August twenty three This is the Expiry date Packaging date Please specify the date of manufacture",
+            "tone": "Neutral",
+            "rate_of_speech": "185.15",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "august",
+                "expiry",
+                "packaging",
+                "please"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.3015",
+            "end_time": "5.347",
+            "original_transcript": "Manufacturing date",
+            "translated_transcript": "Date de fabrication",
+            "tone": "Neutral",
+            "rate_of_speech": "65.91",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "date"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.3948",
+            "end_time": "5.4211",
+            "original_transcript": "எக்ஸ்பரி டேட் மேலேயே இருக்கும் சார்",
+            "translated_transcript": "XPERY DATE IS ON TOP, SIR",
+            "tone": "Neutral",
+            "rate_of_speech": "227.99",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "xpery date is on top",
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.4351",
+            "end_time": "5.4505",
+            "original_transcript": "மேல இருக்கா",
+            "translated_transcript": "Stay on top",
+            "tone": "Neutral",
+            "rate_of_speech": "195.65",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.4591",
+            "end_time": "5.4875",
+            "original_transcript": "Expiry date சொன்னீங்கல்ல அங்க தான் மேலே",
+            "translated_transcript": "You didn't say the expiration date, it's above.",
+            "tone": "Neutral",
+            "rate_of_speech": "282.19",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "expiration date"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.4875",
+            "end_time": "5.5003",
+            "original_transcript": "இருக்கா ஆமா",
+            "translated_transcript": "Ida Ama",
+            "tone": "Neutral",
+            "rate_of_speech": "156.05",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ida ama"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.5178",
+            "end_time": "5.5392",
+            "original_transcript": "Check",
+            "translated_transcript": "Kontrola",
+            "tone": "Neutral",
+            "rate_of_speech": "46.87",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "kontrola"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.55",
+            "end_time": "5.5648",
+            "original_transcript": "Zero seven",
+            "translated_transcript": "Zero seven",
+            "tone": "Neutral",
+            "rate_of_speech": "134.83",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "zero"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.5753",
+            "end_time": "5.5837",
+            "original_transcript": "Zero K",
+            "translated_transcript": "Zero K",
+            "tone": "Neutral",
+            "rate_of_speech": "240.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "zero k"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.5927",
+            "end_time": "5.6043",
+            "original_transcript": "T R",
+            "translated_transcript": "T R",
+            "tone": "Neutral",
+            "rate_of_speech": "171.18",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "t r"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.62",
+            "end_time": "5.6695",
+            "original_transcript": "சார் அது batch code number சார் நான் packaging கேட்டுன்னு இருக்கேன்",
+            "translated_transcript": "sir it's the batch code number sir i was asking for the packaging",
+            "tone": "Neutral",
+            "rate_of_speech": "262.63",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "batch code number sir i"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.7421",
+            "end_time": "5.7702",
+            "original_transcript": "Package I T எல்லாம் போடல",
+            "translated_transcript": "Package I T Everything",
+            "tone": "Neutral",
+            "rate_of_speech": "142.86",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "package"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.7795",
+            "end_time": "5.7877",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "122.20",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.8135",
+            "end_time": "5.8586",
+            "original_transcript": "Hello இப்ப நீங்க சொல்லிட்டு இருக்கறது Packaging the Zero four",
+            "translated_transcript": "Hello, don't tell me now Packaging the Zero four",
+            "tone": "Neutral",
+            "rate_of_speech": "199.26",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "packaging",
+                "zero"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.9148",
+            "end_time": "5.9495",
+            "original_transcript": "போட்ருக்கு போட்ருக்கு",
+            "translated_transcript": "PODRU PODRU",
+            "tone": "Neutral",
+            "rate_of_speech": "57.69",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "podru podru"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.9585",
+            "end_time": "5.9792",
+            "original_transcript": "M F D ன்னு போட்ருக்கீங்களா",
+            "translated_transcript": "M F D Nnu Botswana",
+            "tone": "Neutral",
+            "rate_of_speech": "241.94",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "m f",
+                "d nnu botswana"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.0171",
+            "end_time": "6.0378",
+            "original_transcript": "Production பண்ண Date போட்ருக்கு",
+            "translated_transcript": "Production Color Date Template",
+            "tone": "Neutral",
+            "rate_of_speech": "193.55",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "production color date template"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.0591",
+            "end_time": "6.076",
+            "original_transcript": "Production date சொல்லுங்க Sir",
+            "translated_transcript": "Tell me the production date, sir.",
+            "tone": "Neutral",
+            "rate_of_speech": "356.44",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "production date"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.0882",
+            "end_time": "6.0938",
+            "original_transcript": "புரியல",
+            "translated_transcript": "Puryalaya",
+            "tone": "Neutral",
+            "rate_of_speech": "176.47",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "puryalaya"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.1038",
+            "end_time": "6.1226",
+            "original_transcript": "Production date சொல்லுங்க Sir",
+            "translated_transcript": "Tell me the production date, sir.",
+            "tone": "Neutral",
+            "rate_of_speech": "318.87",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "production date"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.1312",
+            "end_time": "6.1792",
+            "original_transcript": "Sir Production Production date இல்லையே",
+            "translated_transcript": "Sir Production production date not available",
+            "tone": "Neutral",
+            "rate_of_speech": "124.96",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "sir production",
+                "production date"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.1877",
+            "end_time": "6.278",
+            "original_transcript": "இப்ப சொன்னீங்களே Zero four August twenty three",
+            "translated_transcript": "Say it now Zero four August twenty three",
+            "tone": "Neutral",
+            "rate_of_speech": "88.58",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "say",
+                "zero",
+                "august"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.293",
+            "end_time": "6.3152",
+            "original_transcript": "Zero four",
+            "translated_transcript": "Zero four",
+            "tone": "Neutral",
+            "rate_of_speech": "90.16",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "zero"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.3443",
+            "end_time": "6.391",
+            "original_transcript": "last twenty three மட்டும் போட்ருக்கு",
+            "translated_transcript": "last twenty three only for poker",
+            "tone": "Neutral",
+            "rate_of_speech": "128.62",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.4193",
+            "end_time": "6.4696",
+            "original_transcript": "அதுதான் Sir Manufacture Expiry ஆகல Sir இப்ப இந்த Month ல தான் அது Manufacture ஆயிருக்குது",
+            "translated_transcript": "That's what Sir Manufacture Expiry is now for this Month.",
+            "tone": "Neutral",
+            "rate_of_speech": "198.74",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir manufacture expiry",
+                "month"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.5252",
+            "end_time": "6.5623",
+            "original_transcript": "சரி Okay Expiry date என்ன Rate உங்களோட",
+            "translated_transcript": "Okay Okay Expiry date What Rate Is With You",
+            "tone": "Neutral",
+            "rate_of_speech": "242.26",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay okay expiry",
+                "rate"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.5743",
+            "end_time": "6.604",
+            "original_transcript": "அதுலயே போட்ருக்கோம் Sir before சொல்லி",
+            "translated_transcript": "Let's face it, Sir before.",
+            "tone": "Neutral",
+            "rate_of_speech": "168.54",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.614",
+            "end_time": "6.6326",
+            "original_transcript": "Sir அது போடவே இல்லையே",
+            "translated_transcript": "Sir, I don't want that.",
+            "tone": "Neutral",
+            "rate_of_speech": "267.86",
+            "emotion": "disapproval",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.644",
+            "end_time": "6.6617",
+            "original_transcript": "பாக்கெட்ல இருக்கு சார்",
+            "translated_transcript": "There's a pocket, sir",
+            "tone": "Neutral",
+            "rate_of_speech": "226.42",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.6713",
+            "end_time": "6.6793",
+            "original_transcript": "ஆஹ்",
+            "translated_transcript": "Aah",
+            "tone": "Neutral",
+            "rate_of_speech": "124.74",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "aah"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.6893",
+            "end_time": "6.7468",
+            "original_transcript": "Check பண்றது Best before போக்க போறங்க",
+            "translated_transcript": "Check what works best before you leave.",
+            "tone": "Neutral",
+            "rate_of_speech": "121.74",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.772",
+            "end_time": "6.792",
+            "original_transcript": "இல்ல Sir போடவே இல்லையே",
+            "translated_transcript": "No, don't worry, sir.",
+            "tone": "Neutral",
+            "rate_of_speech": "200.17",
+            "emotion": "caring",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.8162",
+            "end_time": "6.8586",
+            "original_transcript": "மேல பாருங்க இப்ப அந்த இது பாத்தீங்களா",
+            "translated_transcript": "Look at that, now this is what you see.",
+            "tone": "Neutral",
+            "rate_of_speech": "211.85",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.869",
+            "end_time": "6.8695",
+            "original_transcript": "ம்",
+            "translated_transcript": "M",
+            "tone": "Neutral",
+            "rate_of_speech": "2000.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.889",
+            "end_time": "6.9438",
+            "original_transcript": "அந்த Packaging rate code சொன்னிங்களிங்களா அது மேல பாருங்க",
+            "translated_transcript": "Tell us the packaging rate code and check it out",
+            "tone": "Neutral",
+            "rate_of_speech": "182.32",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "rate code"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.9972",
+            "end_time": "7.0",
+            "original_transcript": "ம்ம்",
+            "translated_transcript": "Mm",
+            "tone": "Neutral",
+            "rate_of_speech": "350.88",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mm"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.0567",
+            "end_time": "7.0783",
+            "original_transcript": "என்னது",
+            "translated_transcript": "What is",
+            "tone": "Neutral",
+            "rate_of_speech": "92.24",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.108",
+            "end_time": "7.136",
+            "original_transcript": "Six months ஆ அது",
+            "translated_transcript": "Six months, that's it",
+            "tone": "Neutral",
+            "rate_of_speech": "142.86",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.1448",
+            "end_time": "7.2435",
+            "original_transcript": "என்ன என்ன என்ன எத்தன month six month எத்தன month வருது என்னோட Date",
+            "translated_transcript": "What what what month six months how many months are coming with me Date",
+            "tone": "Neutral",
+            "rate_of_speech": "141.92",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "date"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.2552",
+            "end_time": "7.3032",
+            "original_transcript": "அது இந்த month packing இருக்கு six months க்கு எவ்ளோ",
+            "translated_transcript": "How much is this month packing for six months",
+            "tone": "Neutral",
+            "rate_of_speech": "187.43",
+            "emotion": "curiosity",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.326",
+            "end_time": "7.3597",
+            "original_transcript": "அதுல இதோட எத்தன month வருமா One",
+            "translated_transcript": "Then how many months will I come here?",
+            "tone": "Neutral",
+            "rate_of_speech": "237.62",
+            "emotion": "curiosity",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.4018",
+            "end_time": "7.4167",
+            "original_transcript": "Six months",
+            "translated_transcript": "Six months",
+            "tone": "Neutral",
+            "rate_of_speech": "134.68",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.4283",
+            "end_time": "7.4451",
+            "original_transcript": "Six month தான்",
+            "translated_transcript": "It's six months.",
+            "tone": "Neutral",
+            "rate_of_speech": "178.39",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.458",
+            "end_time": "7.5043",
+            "original_transcript": "சரி Okay",
+            "translated_transcript": "Okay Okay",
+            "tone": "Neutral",
+            "rate_of_speech": "43.17",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.5402",
+            "end_time": "7.5537",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "74.07",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        }
+    ],
+    "translated_segments": "Good afternoon thank you for calling my name is how can I help you Hallo Tamil Tamil Please be online transfer M tick Mm Idula M Thank you for calling please tell Rohit Sir Hallo Tell me. Sir have bought your Product bingo Alright I bought and ate in the morning Alright Since then, Loose motion has been running. Where to buy this product It is from Attapalatula to Namma Palakkad Jilla Kerala Buy from there Malayalam Sir Ama Malayalam Malayalam Tamil Comfortable to Speak English You can tell me it's all right, I know English. OK, what's up, sir? How What are the best ways to search for Bingala? Mad angles Mm Tu What is potato cheese and what is not salt Masala Masala spice Masala Tadkamangala How Masala Thadkamangala Sar Idum Let's take a look at it above, sir. We will not ask what we take with us to the hospital It came to us like this when it was eaten Loose and gone bad Okay sir I will report a Complaint to the Team and tell you Go there and admit it. Alright Please tell me, sir. Go there and admit it, but this is all over the Expiry date Expiry date Expiry date Please tell us Sir Packaging date Expiry date Please send me a WhatsApp Tell me the packaging rate Sir Package Write it first Tell me Packaging Expiry date Zero seven Zero seven zero seven JPR Sir Do not hear it Sir Packaging rate A P R Please ask for a P R No Sir A P R Batch code number Manufacture date Over the street Maha Cinema Agosto Zero four August twenty three Okay Expiry Aah Expiry date Zero four August Twenty Three Expiry date Zero four or zero seven Zero Zero Zero four August twenty three This is the Expiry date Packaging date Please specify the date of manufacture Date de fabrication XPERY DATE IS ON TOP, SIR Stay on top You didn't say the expiration date, it's above. Ida Ama Kontrola Zero seven Zero K T R sir it's the batch code number sir i was asking for the packaging Package I T Everything Hallo Hello, don't tell me now Packaging the Zero four PODRU PODRU M F D Nnu Botswana Production Color Date Template Tell me the production date, sir. Puryalaya Tell me the production date, sir. Sir Production production date not available Say it now Zero four August twenty three Zero four last twenty three only for poker That's what Sir Manufacture Expiry is now for this Month. Okay Okay Expiry date What Rate Is With You Let's face it, Sir before. Sir, I don't want that. There's a pocket, sir Aah Check what works best before you leave. No, don't worry, sir. Look at that, now this is what you see. M Tell us the packaging rate code and check it out Mm What is Six months, that's it What what what month six months how many months are coming with me Date How much is this month packing for six months Then how many months will I come here? Six months It's six months. Okay Okay Hallo ",
+    "speaker_a_segments": "Good afternoon thank you for calling my name is how can I help you Idula M Thank you for calling please tell Rohit Sir Hallo Tell me. Alright Alright Where to buy this product Malayalam Sir Malayalam Tamil Comfortable to Speak English OK, what's up, sir? What are the best ways to search for Bingala? Mad angles What is potato cheese and what is not salt Masala Tadkamangala Masala Thadkamangala Sar Idum Let's take a look at it above, sir. Okay sir I will report a Complaint to the Team and tell you Alright Please tell me, sir. Expiry date Expiry date Please tell us Sir Packaging date Expiry date Tell me the packaging rate Sir Package Write it first Tell me Packaging Zero seven Sir Do not hear it Sir Packaging rate Please ask for a P R No Sir A P R Batch code number Manufacture date Maha Cinema Agosto Okay Expiry Expiry date Expiry date Zero four or zero seven four August twenty three This is the Expiry date Packaging date Please specify the date of manufacture XPERY DATE IS ON TOP, SIR You didn't say the expiration date, it's above. Zero K sir it's the batch code number sir i was asking for the packaging Hallo Hello, don't tell me now Packaging the Zero four M F D Nnu Botswana Tell me the production date, sir. Tell me the production date, sir. Say it now Zero four August twenty three That's what Sir Manufacture Expiry is now for this Month. Let's face it, Sir before. There's a pocket, sir Aah Check what works best before you leave. Look at that, now this is what you see. Tell us the packaging rate code and check it out Six months, that's it How much is this month packing for six months Six months Hallo ",
+    "speaker_b_segments": "Hallo Tamil Tamil Please be online transfer M tick Mm Sir have bought your Product bingo I bought and ate in the morning Since then, Loose motion has been running. It is from Attapalatula to Namma Palakkad Jilla Kerala Buy from there Ama Malayalam You can tell me it's all right, I know English. How Mm Tu Masala Masala spice How We will not ask what we take with us to the hospital It came to us like this when it was eaten Loose and gone bad Go there and admit it. Go there and admit it, but this is all over the Expiry date Please send me a WhatsApp Expiry date Zero seven zero seven JPR A P R Over the street Zero four August twenty three Aah Zero four August Twenty Three Zero Zero Zero Date de fabrication Stay on top Ida Ama Kontrola Zero seven T R Package I T Everything PODRU PODRU Production Color Date Template Puryalaya Sir Production production date not available Zero four last twenty three only for poker Okay Okay Expiry date What Rate Is With You Sir, I don't want that. No, don't worry, sir. M Mm What is What what what month six months how many months are coming with me Date Then how many months will I come here? It's six months. Okay Okay ",
+    "summary": "The customer called regarding a complaint for a product they bought which caused them loose motion. They are unsure of what happened and wants to find out more about the product and where it was sourced. The customer support asks for the expiration date of the product which the customer is unable to locate even with prompting from the support. The conversation gets heated when the support insists on getting the expiration date while the customer is frustrated that the product caused them illness and that the support isn't able to provide any resolution. The call ends without any resolution.",
+    "speaker_a_summary": "Idula M is assisting Rohit Sir, a customer who is asking about a product called Bingala in Malayalam. The product appears to be a spice mix and Rohit Sir wants to know where to buy it, its expiry date, and whether it contains salt. Idula M will report the issue to their team and get back to Rohit Sir. Throughout the conversation, there are several misunderstandings about the production and expiration dates of the product as well as the packaging rate, which Rohit Sir is unable to provide. It also becomes unclear whether the product should contain cheese or is dairy-free.",
+    "speaker_b_summary": "A customer in Kerala, India has contacted the seller of Bingo! pasta to inform them that the product caused them digestive issues and to inquire about the product's expiration date. The seller explains that the product is good for six months and offers the customer a refund. The customer is not satisfied and insists on speaking to a manager.",
+    "cohere_points": "- User 'Rohit' is calling the customer support of a food company regarding issues with a product he bought this morning.\n- It is causing him loose motions and he wants to know what to do.\n- The customer support asks for the expiration date but Rohit is unable to find it.\n- They finally conclude that the product should be expired and Rohit is asked to go to the hospital and admit the situation. \n- The call ends with Rohit asking for a refund which is to be done via WhatsApp. \n- The key phrases are related to the complaint from the user about the product he consumed and the support he is looking for.  enthuse \n- The customer support offers him help but also tries to find out the cause of the issue by asking about the expiration date of the product. \n- It seems like the product might be expired and the user is asked to go to the hospital to admit the situation. \n- The user might get a refund for the product.",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "1. Customer service conversation\n2. Product inquiry and issue\n3. Language preference\n4. Expiry date clarification\n5. Packaging details\n6. Complaint reporting\n7. Batch code number\n8. Manufacturing date\n9. Language translation\n10. Date verification\n11. Product identification\n12. Communication confirmation\n13. Duration inquiry\n14. Customer satisfaction assurance\n15. Product quality concern",
+    "Resolution": "The customer's issue is not resolved as they are still unclear about the packaging date and batch code number of the product they consumed leading to health problems.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "No.",
+    "Was there any profanity on the call": "No",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 393.3470000000001,
+    "num_silences": 108
+}

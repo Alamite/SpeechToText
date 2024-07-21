@@ -1,0 +1,1389 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0578",
+            "end_time": "0.1283",
+            "original_transcript": "Thanks for calling I T C you are speaking to Praveen How may I help you today Hello",
+            "translated_transcript": "Thanks for calling I T C you are speaking to Praveen How may I help you today Hello",
+            "tone": "Neutral",
+            "rate_of_speech": "255.38",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "thanks",
+                "praveen"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.1421",
+            "end_time": "0.1741",
+            "original_transcript": "Yes can you speak Tamil or English",
+            "translated_transcript": "Yes you can speak Tamil or English",
+            "tone": "Neutral",
+            "rate_of_speech": "218.75",
+            "emotion": "approval",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "tamil",
+                "english"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.1925",
+            "end_time": "0.2132",
+            "original_transcript": "tell me how can I help you sir",
+            "translated_transcript": "Tell me how I can help you",
+            "tone": "Neutral",
+            "rate_of_speech": "338.98",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.2366",
+            "end_time": "0.4633",
+            "original_transcript": "I am shopper super market shop name super market I B C noodles pack register I",
+            "translated_transcript": "I am shopper super market shop name super market I B C noodles pack register I",
+            "tone": "Happy",
+            "rate_of_speech": "70.59",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "super market shop name",
+                "super market",
+                "b c noodles pack register"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.464",
+            "end_time": "0.476",
+            "original_transcript": "didn't get you sir",
+            "translated_transcript": "not getting you sir",
+            "tone": "Neutral",
+            "rate_of_speech": "333.80",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.512",
+            "end_time": "0.569",
+            "original_transcript": "I have complaint sir your product noodles",
+            "translated_transcript": "I have a complaint about your product noodles",
+            "tone": "Neutral",
+            "rate_of_speech": "140.35",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "product noodles"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.584",
+            "end_time": "0.6115",
+            "original_transcript": "Okay what is the problem sir",
+            "translated_transcript": "Alright, what's the problem sir",
+            "tone": "Neutral",
+            "rate_of_speech": "181.93",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "alright",
+                "problem sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.638",
+            "end_time": "0.6725",
+            "original_transcript": "pack is damaged goods",
+            "translated_transcript": "a pack is damaged goods",
+            "tone": "Neutral",
+            "rate_of_speech": "144.93",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.6808",
+            "end_time": "0.7435",
+            "original_transcript": "Which is the I mean it is not use of it",
+            "translated_transcript": "Qué es que significa que no se usa",
+            "tone": "Neutral",
+            "rate_of_speech": "127.63",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "qué",
+                "es que significa que",
+                "se usa"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.7728",
+            "end_time": "0.8188",
+            "original_transcript": "Producer",
+            "translated_transcript": "Producent",
+            "tone": "Neutral",
+            "rate_of_speech": "21.73",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "producent"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.8378",
+            "end_time": "0.8648",
+            "original_transcript": "It's broken you are telling",
+            "translated_transcript": "It's broken you're telling",
+            "tone": "Neutral",
+            "rate_of_speech": "148.24",
+            "emotion": "annoyance",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.8733",
+            "end_time": "0.9047",
+            "original_transcript": "Not broken fungus",
+            "translated_transcript": "Not broken fungus",
+            "tone": "Neutral",
+            "rate_of_speech": "95.80",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.9141",
+            "end_time": "0.915",
+            "original_transcript": "Okay",
+            "translated_transcript": "Alright",
+            "tone": "Neutral",
+            "rate_of_speech": "1176.47",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "alright"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.9668",
+            "end_time": "1.0668",
+            "original_transcript": "you are comfortable in Tamil language",
+            "translated_transcript": "you are comfortable in Tamil language",
+            "tone": "Happy",
+            "rate_of_speech": "59.99",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "tamil"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.0767",
+            "end_time": "1.0868",
+            "original_transcript": "ஆமாம்",
+            "translated_transcript": "Yes",
+            "tone": "Neutral",
+            "rate_of_speech": "98.36",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.8035",
+            "end_time": "1.816",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "80.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.8288",
+            "end_time": "1.8366",
+            "original_transcript": "hello",
+            "translated_transcript": "silav",
+            "tone": "Neutral",
+            "rate_of_speech": "127.93",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.8728",
+            "end_time": "1.9155",
+            "original_transcript": "சொல்லுங்க Sir தமிழ் Executive உதவி பண்ணட்டும்",
+            "translated_transcript": "Tell me Sir Tamil Executive to help",
+            "tone": "Neutral",
+            "rate_of_speech": "164.06",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir tamil"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.9283",
+            "end_time": "1.9697",
+            "original_transcript": "ஆமா Sir புதுக்கோட்டை மாவட்டம் ஆலங்கோடியில இருந்து பேசுறேன்",
+            "translated_transcript": "Yes Sir I will speak from Pudukkottai District Alangodila",
+            "tone": "Neutral",
+            "rate_of_speech": "217.65",
+            "emotion": "approval",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir",
+                "pudukkottai",
+                "alangodila"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.979",
+            "end_time": "1.9878",
+            "original_transcript": "Okay",
+            "translated_transcript": "Alright",
+            "tone": "Neutral",
+            "rate_of_speech": "113.21",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "alright"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.0015",
+            "end_time": "2.2815",
+            "original_transcript": "நம்ம கடைல வந்து இப்ப Noodles வந்து Seventy gram noodles customer வாங்கிட்டு போனாங்க வாங்கிட்டு போயிட்டு Return உள்ள Pack வந்து ரெண்டு மூணு Pack வாங்கிட்டு போனாங்க ரெண்டு Pack வந்து மஞ்சளா இருந்திருக்கு ஒரு Pack வந்து உள்ள Fungus ஆகி அந்த Noodles மசாலா எல்லாம் Spread ஆனா எப்படி இருக்கும்",
+            "translated_transcript": "Our last came and now Noodles came and bought Seventy gram noodles customer and went buy and go and come in a Pack in Return, buy a pack of red mussels and go buy a pack of red mussels come and go Red Pack came and were yellow What would it be like if those Noodles became Fungus in a pack and those Noodles Spices Spread",
+            "tone": "Neutral",
+            "rate_of_speech": "235.71",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "noodles",
+                "seventy",
+                "gram noodles customer",
+                "pack",
+                "return",
+                "red mussels",
+                "red mussels",
+                "pack",
+                "noodles",
+                "fungus",
+                "noodles spices spread"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.2955",
+            "end_time": "2.3012",
+            "original_transcript": "சரிங்க",
+            "translated_transcript": "recede",
+            "tone": "Neutral",
+            "rate_of_speech": "175.95",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.3188",
+            "end_time": "2.4038",
+            "original_transcript": "அந்த மாதிரி கொண்டு வந்துருக்காங்க ஒரு Pack இதுக்கு முன்னாடி இந்த மாதிரி Complaint வந்ததுல இந்த தடவை அந்த Complaint வந்திருக்கு",
+            "translated_transcript": "Bring us a Pack of this sample This time there has been a Complaint of this model",
+            "tone": "Neutral",
+            "rate_of_speech": "200.04",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "bring",
+                "pack",
+                "complaint"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.4123",
+            "end_time": "2.4737",
+            "original_transcript": "Sir இப்ப வந்து Family package",
+            "translated_transcript": "Sir is here for Family package",
+            "tone": "Neutral",
+            "rate_of_speech": "97.85",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir",
+                "family package"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.485",
+            "end_time": "2.4903",
+            "original_transcript": "இல்ல",
+            "translated_transcript": "No",
+            "tone": "Neutral",
+            "rate_of_speech": "188.09",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.4903",
+            "end_time": "2.5133",
+            "original_transcript": "சின்ன Pack தான் pack",
+            "translated_transcript": "Small Pack is a pack",
+            "tone": "Neutral",
+            "rate_of_speech": "217.23",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "small pack"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.5203",
+            "end_time": "2.544",
+            "original_transcript": "எவ்ளோ pack வாங்கிட்டு போனாங்க Sir",
+            "translated_transcript": "Buy any pack, sir.",
+            "tone": "Neutral",
+            "rate_of_speech": "169.13",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "buy"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.5538",
+            "end_time": "2.5765",
+            "original_transcript": "மூணு Pack வாங்கிட்டு போனாங்க",
+            "translated_transcript": "Buy a pack of mussels",
+            "tone": "Neutral",
+            "rate_of_speech": "220.59",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "buy"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.5858",
+            "end_time": "2.6138",
+            "original_transcript": "மூணு Packலயும் சேமிச்சுங்களா",
+            "translated_transcript": "Save the Mould",
+            "tone": "Neutral",
+            "rate_of_speech": "107.08",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "save",
+                "mould"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.6232",
+            "end_time": "2.8245",
+            "original_transcript": "ஆமா ரெண்டு Back வந்து ரொம்ப மஞ்சளா இருந்திருக்கு Normal Whit தானே இருக்கும் அந்த மாறி இல்லாம மஞ்சளா இருந்திருக்கு அந்த ரெண்டு Pack Use பண்றேன் இந்த B Use பண்ண முடியாத அளவுக்கு அதுல இருக்கு இதுல உள்ள மசாலா கொட்டிருச்சா என்னன்னு தெரியல",
+            "translated_transcript": "Yes Red Back and it was yellow Normal Whit was the same variable yellow I used the red Pack I couldn't use this B Use the spice I don't know",
+            "tone": "Neutral",
+            "rate_of_speech": "148.99",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "normal whit",
+                "pack",
+                "n't use"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.8358",
+            "end_time": "2.889",
+            "original_transcript": "சரிங்க Sir இப்ப Packet இருக்குங்க மூணு மூணு Packet இருக்குங்களா உங்கிட்ட இப்ப",
+            "translated_transcript": "Please note that there is a packet now if there is a new packet.",
+            "tone": "Neutral",
+            "rate_of_speech": "263.32",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "please",
+                "new packet"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.9065",
+            "end_time": "2.9365",
+            "original_transcript": "இல்ல ஒரு Packet தான் அவங்க Return எடுத்துட்டு வந்துருக்காங்க",
+            "translated_transcript": "No, it's just a packet and they'll come back.",
+            "tone": "Neutral",
+            "rate_of_speech": "299.83",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.965",
+            "end_time": "3.0165",
+            "original_transcript": "அந்த ஒரு Packet Details குடுத்தீங்கன்னா நான் Company பண்ணி தக்கிறேன்",
+            "translated_transcript": "That's a Packet Details and I'm looking for a Company",
+            "tone": "Neutral",
+            "rate_of_speech": "194.11",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "packet details"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.0185",
+            "end_time": "3.0256",
+            "original_transcript": "ஆ",
+            "translated_transcript": "ah",
+            "tone": "Neutral",
+            "rate_of_speech": "139.86",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.0345",
+            "end_time": "3.092",
+            "original_transcript": "இது எது Sir இது P Noodlesல M மசால எதுங்க Sir இது",
+            "translated_transcript": "What is it Sir This is P Noodles M Spice What Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "208.70",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir",
+                "p noodles",
+                "spice",
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.0957",
+            "end_time": "3.1523",
+            "original_transcript": "ஆ Magic Noodles தான் இருக்கு",
+            "translated_transcript": "There's Magic Noodles",
+            "tone": "Happy",
+            "rate_of_speech": "52.96",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "magic noodles"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.1703",
+            "end_time": "3.179",
+            "original_transcript": "அந்த Variant",
+            "translated_transcript": "That variant",
+            "tone": "Neutral",
+            "rate_of_speech": "230.77",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.2023",
+            "end_time": "3.2543",
+            "original_transcript": "Flavour Variant அதுல இல்ல",
+            "translated_transcript": "Flavour Variant not available",
+            "tone": "Neutral",
+            "rate_of_speech": "76.92",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "flavour variant"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.2722",
+            "end_time": "3.349",
+            "original_transcript": "அதுல எப்பயும் மசாலா Noodles தான் அந்த இது அதுல வேற ஒன்னும் இல்ல Magic மசாலா",
+            "translated_transcript": "There is nothing but Spice Noodles, this is nothing but Magic Spices.",
+            "tone": "Happy",
+            "rate_of_speech": "156.18",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "spice noodles",
+                "magic spices"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.3728",
+            "end_time": "3.3907",
+            "original_transcript": "Magic மசாலாங்களா",
+            "translated_transcript": "Magic Spices",
+            "tone": "Happy",
+            "rate_of_speech": "112.04",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "magic spices"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.4073",
+            "end_time": "3.4075",
+            "original_transcript": "ம்",
+            "translated_transcript": "M",
+            "tone": "Neutral",
+            "rate_of_speech": "6666.67",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.4328",
+            "end_time": "3.4783",
+            "original_transcript": "Sir அது என்ன Damage Sir அதுல Packetல",
+            "translated_transcript": "Sir What Is It Damage Sir Or Packet",
+            "tone": "Neutral",
+            "rate_of_speech": "175.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir",
+                "damage sir",
+                "packet"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.4928",
+            "end_time": "3.5935",
+            "original_transcript": "இல்ல Sir damage இல்ல Pack தான் இருக்கு அதே Batch number என்கிட்ட Already store stock இருக்கு அத எடுத்து Cut பண்ணி பாத்தா அது பிரச்சனை இல்ல",
+            "translated_transcript": "No Sir damage No Pack is there is the same Batch number as already in store stock No need to take it Cut it is not a problem",
+            "tone": "Neutral",
+            "rate_of_speech": "278.15",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir",
+                "pack",
+                "batch",
+                "store stock",
+                "cut"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.607",
+            "end_time": "3.6606",
+            "original_transcript": "சரிங்க இது சொல்லுங்க Sir உங்க பேரு",
+            "translated_transcript": "Tell me this, Sir, your name.",
+            "tone": "Neutral",
+            "rate_of_speech": "111.80",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.6698",
+            "end_time": "3.691",
+            "original_transcript": "என் பெயர் முகமது ஃபரூக்",
+            "translated_transcript": "My name is Mohammad Farooq",
+            "tone": "Neutral",
+            "rate_of_speech": "236.22",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mohammad farooq"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.7595",
+            "end_time": "3.827",
+            "original_transcript": "Email I D இருக்கா உங்ககிட்ட சொல்லுங்க",
+            "translated_transcript": "Email I D tell me about you",
+            "tone": "Neutral",
+            "rate_of_speech": "103.73",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "email"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.8413",
+            "end_time": "3.86",
+            "original_transcript": "M F traders",
+            "translated_transcript": "M F traders",
+            "tone": "Neutral",
+            "rate_of_speech": "160.57",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "m f traders"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.874",
+            "end_time": "3.8968",
+            "original_transcript": "M F traders",
+            "translated_transcript": "M F traders",
+            "tone": "Neutral",
+            "rate_of_speech": "131.48",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "m f traders"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.9143",
+            "end_time": "3.9303",
+            "original_transcript": "A L D Y",
+            "translated_transcript": "A L D Y",
+            "tone": "Neutral",
+            "rate_of_speech": "250.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "d y"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.9443",
+            "end_time": "3.9613",
+            "original_transcript": "A L D Y",
+            "translated_transcript": "A L D Y",
+            "tone": "Neutral",
+            "rate_of_speech": "235.53",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "d y"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.9751",
+            "end_time": "3.9912",
+            "original_transcript": "At gmail dot com",
+            "translated_transcript": "At gmail dot com",
+            "tone": "Neutral",
+            "rate_of_speech": "249.74",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "gmail dot com"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.0032",
+            "end_time": "4.0301",
+            "original_transcript": "Address கடை Address சொல்லுங்க Sir",
+            "translated_transcript": "Please tell us the address of the store Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "333.54",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "please",
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.04",
+            "end_time": "4.088",
+            "original_transcript": "Seventy three bar one A",
+            "translated_transcript": "Seventy three bar one A",
+            "tone": "Neutral",
+            "rate_of_speech": "104.17",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "seventy"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.0997",
+            "end_time": "4.1278",
+            "original_transcript": "Seventy three one A",
+            "translated_transcript": "Seventy three one A",
+            "tone": "Neutral",
+            "rate_of_speech": "142.01",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "seventy"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.139",
+            "end_time": "4.1615",
+            "original_transcript": "Supermarket",
+            "translated_transcript": "Supermarked",
+            "tone": "Neutral",
+            "rate_of_speech": "44.41",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "supermarked"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.1803",
+            "end_time": "4.1938",
+            "original_transcript": "Supermarket Sir",
+            "translated_transcript": "Supermarket Cheese",
+            "tone": "Neutral",
+            "rate_of_speech": "148.15",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "supermarket cheese"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.2073",
+            "end_time": "4.24",
+            "original_transcript": "சூரியர் T H U L I R",
+            "translated_transcript": "Sun T H U L I R",
+            "tone": "Neutral",
+            "rate_of_speech": "214.40",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sun t h u"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.2708",
+            "end_time": "4.2768",
+            "original_transcript": "C",
+            "translated_transcript": "C",
+            "tone": "Neutral",
+            "rate_of_speech": "167.13",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.2782",
+            "end_time": "4.2895",
+            "original_transcript": "H U",
+            "translated_transcript": "H U",
+            "tone": "Neutral",
+            "rate_of_speech": "176.73",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "h u"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.3023",
+            "end_time": "4.343",
+            "original_transcript": "T H U L I R",
+            "translated_transcript": "T H U L I R",
+            "tone": "Neutral",
+            "rate_of_speech": "147.60",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "t h u"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.3523",
+            "end_time": "4.3872",
+            "original_transcript": "T H U L I R Okay",
+            "translated_transcript": "T H U L I R Okay",
+            "tone": "Neutral",
+            "rate_of_speech": "200.96",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "t h u",
+                "r okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.3997",
+            "end_time": "4.4155",
+            "original_transcript": "Supermarket",
+            "translated_transcript": "Supermarked",
+            "tone": "Neutral",
+            "rate_of_speech": "63.22",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "supermarked"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.4216",
+            "end_time": "4.435",
+            "original_transcript": "supermarket",
+            "translated_transcript": "superstore",
+            "tone": "Neutral",
+            "rate_of_speech": "74.91",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.447",
+            "end_time": "4.463",
+            "original_transcript": "ஆலங்குடி",
+            "translated_transcript": "Aalangudi",
+            "tone": "Neutral",
+            "rate_of_speech": "62.57",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "aalangudi"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.4726",
+            "end_time": "4.4872",
+            "original_transcript": "பாலங்குடி",
+            "translated_transcript": "Palangudi",
+            "tone": "Neutral",
+            "rate_of_speech": "68.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "palangudi"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.4958",
+            "end_time": "4.5127",
+            "original_transcript": "காமசூர்",
+            "translated_transcript": "Kamasur",
+            "tone": "Neutral",
+            "rate_of_speech": "59.41",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "kamasur"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.5591",
+            "end_time": "4.573",
+            "original_transcript": "PIN code சொல்லுங்க Sir",
+            "translated_transcript": "Give me your PIN, sir.",
+            "tone": "Neutral",
+            "rate_of_speech": "361.01",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pin"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.5885",
+            "end_time": "4.6195",
+            "original_transcript": "Six double two three zero one",
+            "translated_transcript": "Six double two three zero one",
+            "tone": "Neutral",
+            "rate_of_speech": "193.44",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.6392",
+            "end_time": "4.669",
+            "original_transcript": "Six double two three zero one",
+            "translated_transcript": "Six double two three zero one",
+            "tone": "Neutral",
+            "rate_of_speech": "201.12",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.6783",
+            "end_time": "4.6975",
+            "original_transcript": "ஆமா",
+            "translated_transcript": "Ama",
+            "tone": "Neutral",
+            "rate_of_speech": "52.17",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ama"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.7107",
+            "end_time": "4.7323",
+            "original_transcript": "பாலங்குடி இல்லைங்களா",
+            "translated_transcript": "No Palangudi",
+            "tone": "Neutral",
+            "rate_of_speech": "92.31",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "palangudi"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.7433",
+            "end_time": "4.7931",
+            "original_transcript": "ஆலங்குடி ஆலங்குடி A L A N G U D I",
+            "translated_transcript": "Aalangudi Alangudi A L A N G U D I",
+            "tone": "Neutral",
+            "rate_of_speech": "200.74",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "aalangudi alangudi",
+                "n g u d"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.8053",
+            "end_time": "4.8133",
+            "original_transcript": "ஆலங்குடி",
+            "translated_transcript": "Aalangudi",
+            "tone": "Neutral",
+            "rate_of_speech": "125.26",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "aalangudi"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.8307",
+            "end_time": "4.8446",
+            "original_transcript": "ஆலங்குடியா",
+            "translated_transcript": "Alangudia",
+            "tone": "Neutral",
+            "rate_of_speech": "71.43",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "alangudia"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.8598",
+            "end_time": "4.9503",
+            "original_transcript": "இது சொல்லுங்க Sir",
+            "translated_transcript": "Tell me this, sir.",
+            "tone": "Neutral",
+            "rate_of_speech": "44.20",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.9718",
+            "end_time": "5.0122",
+            "original_transcript": "G Q zero one batch number",
+            "translated_transcript": "G Q zero one batch number",
+            "tone": "Neutral",
+            "rate_of_speech": "148.70",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "g q",
+                "batch number"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.031",
+            "end_time": "5.041",
+            "original_transcript": "G Q",
+            "translated_transcript": "GQ",
+            "tone": "Neutral",
+            "rate_of_speech": "100.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "gq"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.0753",
+            "end_time": "5.0755",
+            "original_transcript": "S",
+            "translated_transcript": "S",
+            "tone": "Neutral",
+            "rate_of_speech": "6000.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.115",
+            "end_time": "5.2237",
+            "original_transcript": "D ங்களா ங்களா Sir G for goat G Q",
+            "translated_transcript": "D gangla ganga Sir G for goat G Q",
+            "tone": "Neutral",
+            "rate_of_speech": "82.81",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "gangla ganga",
+                "sir g",
+                "g q"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.2583",
+            "end_time": "5.2816",
+            "original_transcript": "G Q",
+            "translated_transcript": "GQ",
+            "tone": "Neutral",
+            "rate_of_speech": "42.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "gq"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.304",
+            "end_time": "5.3341",
+            "original_transcript": "வங்க வங்கஸ் ஒன்னு இருக்கா சார் இதுல",
+            "translated_transcript": "Vanga Vangas Onnu Ida Sar Idula",
+            "tone": "Neutral",
+            "rate_of_speech": "198.90",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "vanga vangas onnu ida sar idula"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.3476",
+            "end_time": "5.348",
+            "original_transcript": "ஆ",
+            "translated_transcript": "ah",
+            "tone": "Neutral",
+            "rate_of_speech": "2857.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.369",
+            "end_time": "5.3877",
+            "original_transcript": "இதுல Fungus இருக்குங்களா",
+            "translated_transcript": "Is there a fungus?",
+            "tone": "Neutral",
+            "rate_of_speech": "214.29",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.4056",
+            "end_time": "5.4778",
+            "original_transcript": "ஆ இந்த Batch ல Fungus இருக்கு மத்த Batch number என்கிட்ட அதே Batch ல Product இருக்கு அதுல Fungus இல்ல",
+            "translated_transcript": "This Batch contains Fungus and the same Batch Product as the original Batch number is not Fungus",
+            "tone": "Neutral",
+            "rate_of_speech": "235.51",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "batch",
+                "fungus",
+                "batch product",
+                "batch",
+                "fungus"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.4875",
+            "end_time": "5.4995",
+            "original_transcript": "இது வந்து fullஆ பங்கு",
+            "translated_transcript": "It came full time",
+            "tone": "Happy",
+            "rate_of_speech": "333.33",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "full time"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.4995",
+            "end_time": "5.5081",
+            "original_transcript": "காரணமாக இருக்கிறது",
+            "translated_transcript": "There is a reason",
+            "tone": "Neutral",
+            "rate_of_speech": "462.43",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.537",
+            "end_time": "5.558",
+            "original_transcript": "package சொல்லுங்க sir",
+            "translated_transcript": "Tell me about the package, sir.",
+            "tone": "Neutral",
+            "rate_of_speech": "285.71",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.577",
+            "end_time": "5.616",
+            "original_transcript": "T D T June twenty three",
+            "translated_transcript": "T D T June twenty three",
+            "tone": "Neutral",
+            "rate_of_speech": "153.85",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "t d t june"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.662",
+            "end_time": "5.687",
+            "original_transcript": "Price எவ்ளோ இருக்கு sir இதுல",
+            "translated_transcript": "How much is the price?",
+            "tone": "Neutral",
+            "rate_of_speech": "200.00",
+            "emotion": "curiosity",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.6992",
+            "end_time": "5.7232",
+            "original_transcript": "Price fourteen one four",
+            "translated_transcript": "Price fourteen one four",
+            "tone": "Neutral",
+            "rate_of_speech": "166.67",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.7345",
+            "end_time": "5.7433",
+            "original_transcript": "எவ்வளோ Sir",
+            "translated_transcript": "How much Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "339.62",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.7605",
+            "end_time": "5.8063",
+            "original_transcript": "One four fourteen பதினாலு ரூபாய்",
+            "translated_transcript": "One four fourteen fourteen rupees",
+            "tone": "Neutral",
+            "rate_of_speech": "109.09",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.8205",
+            "end_time": "5.8552",
+            "original_transcript": "Sir ஒரு ரெண்டு நிமிஷம் Complaint",
+            "translated_transcript": "Sir One Minute Complaint",
+            "tone": "Neutral",
+            "rate_of_speech": "115.44",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "sir",
+                "minute complaint"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.9331",
+            "end_time": "5.9505",
+            "original_transcript": "Customer detail வேணுமா",
+            "translated_transcript": "Customer detail Venuma",
+            "tone": "Neutral",
+            "rate_of_speech": "173.08",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "customer",
+                "venuma"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.9618",
+            "end_time": "6.0323",
+            "original_transcript": "இல்ல இல்ல வேணாம் Sir",
+            "translated_transcript": "No Home Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "42.54",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.0408",
+            "end_time": "6.0495",
+            "original_transcript": "Okay",
+            "translated_transcript": "Alright",
+            "tone": "Neutral",
+            "rate_of_speech": "115.38",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "alright"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.3505",
+            "end_time": "6.353",
+            "original_transcript": "ஆ",
+            "translated_transcript": "ah",
+            "tone": "Neutral",
+            "rate_of_speech": "400.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.3923",
+            "end_time": "6.3976",
+            "original_transcript": "ஆ",
+            "translated_transcript": "ah",
+            "tone": "Neutral",
+            "rate_of_speech": "188.09",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        }
+    ],
+    "translated_segments": "Thanks for calling I T C you are speaking to Praveen How may I help you today Hello Yes you can speak Tamil or English Tell me how I can help you I am shopper super market shop name super market I B C noodles pack register I not getting you sir I have a complaint about your product noodles Alright, what's the problem sir a pack is damaged goods Qué es que significa que no se usa Producent It's broken you're telling Not broken fungus Alright you are comfortable in Tamil language Yes Hallo silav Tell me Sir Tamil Executive to help Yes Sir I will speak from Pudukkottai District Alangodila Alright Our last came and now Noodles came and bought Seventy gram noodles customer and went buy and go and come in a Pack in Return, buy a pack of red mussels and go buy a pack of red mussels come and go Red Pack came and were yellow What would it be like if those Noodles became Fungus in a pack and those Noodles Spices Spread recede Bring us a Pack of this sample This time there has been a Complaint of this model Sir is here for Family package No Small Pack is a pack Buy any pack, sir. Buy a pack of mussels Save the Mould Yes Red Back and it was yellow Normal Whit was the same variable yellow I used the red Pack I couldn't use this B Use the spice I don't know Please note that there is a packet now if there is a new packet. No, it's just a packet and they'll come back. That's a Packet Details and I'm looking for a Company ah What is it Sir This is P Noodles M Spice What Sir There's Magic Noodles That variant Flavour Variant not available There is nothing but Spice Noodles, this is nothing but Magic Spices. Magic Spices M Sir What Is It Damage Sir Or Packet No Sir damage No Pack is there is the same Batch number as already in store stock No need to take it Cut it is not a problem Tell me this, Sir, your name. My name is Mohammad Farooq Email I D tell me about you M F traders M F traders A L D Y A L D Y At gmail dot com Please tell us the address of the store Sir Seventy three bar one A Seventy three one A Supermarked Supermarket Cheese Sun T H U L I R C H U T H U L I R T H U L I R Okay Supermarked superstore Aalangudi Palangudi Kamasur Give me your PIN, sir. Six double two three zero one Six double two three zero one Ama No Palangudi Aalangudi Alangudi A L A N G U D I Aalangudi Alangudia Tell me this, sir. G Q zero one batch number GQ S D gangla ganga Sir G for goat G Q GQ Vanga Vangas Onnu Ida Sar Idula ah Is there a fungus? This Batch contains Fungus and the same Batch Product as the original Batch number is not Fungus It came full time There is a reason Tell me about the package, sir. T D T June twenty three How much is the price? Price fourteen one four How much Sir One four fourteen fourteen rupees Sir One Minute Complaint Customer detail Venuma No Home Sir Alright ah ah ",
+    "speaker_a_segments": "Thanks for calling I T C you are speaking to Praveen How may I help you today Hello Tell me how I can help you not getting you sir Alright, what's the problem sir It's broken you're telling you are comfortable in Tamil language Hallo Tell me Sir Tamil Executive to help Alright recede Sir is here for Family package No Buy any pack, sir. Save the Mould Please note that there is a packet now if there is a new packet. That's a Packet Details and I'm looking for a Company What is it Sir This is P Noodles M Spice What Sir That variant Magic Spices Sir What Is It Damage Sir Or Packet Tell me this, Sir, your name. Email I D tell me about you M F traders A L D Y Please tell us the address of the store Sir Seventy three one A Supermarket Cheese H U T H U L I R Okay superstore Palangudi Give me your PIN, sir. Six double two three zero one No Palangudi Aalangudi Tell me this, sir. GQ D gangla ganga Sir G for goat G Q Vanga Vangas Onnu Ida Sar Idula Is there a fungus? There is a reason Tell me about the package, sir. How much is the price? How much Sir Sir One Minute Complaint No Home Sir ",
+    "speaker_b_segments": "Yes you can speak Tamil or English I am shopper super market shop name super market I B C noodles pack register I I have a complaint about your product noodles a pack is damaged goods Qué es que significa que no se usa Producent Not broken fungus Alright Yes silav Yes Sir I will speak from Pudukkottai District Alangodila Our last came and now Noodles came and bought Seventy gram noodles customer and went buy and go and come in a Pack in Return, buy a pack of red mussels and go buy a pack of red mussels come and go Red Pack came and were yellow What would it be like if those Noodles became Fungus in a pack and those Noodles Spices Spread Bring us a Pack of this sample This time there has been a Complaint of this model Small Pack is a pack Buy a pack of mussels Yes Red Back and it was yellow Normal Whit was the same variable yellow I used the red Pack I couldn't use this B Use the spice I don't know No, it's just a packet and they'll come back. ah There's Magic Noodles Flavour Variant not available There is nothing but Spice Noodles, this is nothing but Magic Spices. M No Sir damage No Pack is there is the same Batch number as already in store stock No need to take it Cut it is not a problem My name is Mohammad Farooq M F traders A L D Y At gmail dot com Seventy three bar one A Supermarked Sun T H U L I R C T H U L I R Supermarked Aalangudi Kamasur Six double two three zero one Ama Aalangudi Alangudi A L A N G U D I Alangudia G Q zero one batch number S GQ ah This Batch contains Fungus and the same Batch Product as the original Batch number is not Fungus It came full time T D T June twenty three Price fourteen one four One four fourteen fourteen rupees Customer detail Venuma Alright ah ah ",
+    "summary": "Mohammad Farooq from ITC called to report a complaint about a pack of ABC noodles that he bought from his supermarket in Tamil Nadu that appeared to be damaged and which may have fungus. The executive, Praveen, notes down his details, including his name, address, and phone number, as well as details of the product and the complaint. Farooq requests that the company look into the matter and provides his email as a means of contacting him. The call ends with an assurance that the matter will be looked into.",
+    "speaker_a_summary": "Praveen, an ITC customer, is having trouble with a packet of Magic Spices PNoodles that he bought from 73A Supermarket in Palangudi. He is complaining that the packet is broken and there is fungus on it. He wants to know if he can get a refund. He lives in Aalangudi, and his PIN is 62301. He speaks Tamil and can be reached at GQ D gangla ganga.",
+    "speaker_b_summary": "A customer is calling the supermarket 'Supermarked' to complain about the BC noodles they purchased, which was damaged and had fungus. They explain the issue in detail, mentioning that the packet was red and it was supposed to be yellow. They also express that the noodles have fungus and the spices have spread, and request a replacement or a refund. The customer provides their contact details and hopes for a resolution to the issue. The employee at Supermarked offers an apology and assures the customer that they will look into the matter.",
+    "cohere_points": "- ITC executive and shopper Mohammad Farooq discuss a complaint about a damaged packet of ITC noodles purchased from Supermarked supermarket\n- ITC serves Farooq's area and they communicate in Tamil\n- Farooq describes a recurring issue with the product and requests a new packet free of defects. \n- He provides his contact information and outlines specific details of the product and complaint. \n- They conclude the interaction by agreeing to replace the defective packet with a new one.",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "1. Customer complaint about noodles\n2. Noodles pack damaged\n3. Language preference: Tamil or English\n4. Product quality issue\n5. Request for refund\n6. Pack appearance changed\n7. Fungus in noodles\n8. Noodles batch details\n9. Brand name: M Spice\n10. Company contact details\n11. Store address provided\n12. Store location: Aalangudi\n13. Batch number: GQ01\n14. Price of noodles",
+    "Resolution": "The customer's complaint about the damaged packet of noodles is addressed and resolved by Mohammad Farooq of M F Traders, and the necessary details have been collected for further action.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "No\n\nIn the conversation provided, the caller did not display empathy towards the customer's complaint about the damaged noodles. The call seemed more focused on gathering information and details rather than showing understanding or compassion towards the customer's issue.",
+    "Was there any profanity on the call": "No",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 492.01000000000016,
+    "num_silences": 107
+}

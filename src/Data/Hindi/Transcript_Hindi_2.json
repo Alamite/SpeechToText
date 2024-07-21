@@ -1,0 +1,1127 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0062",
+            "end_time": "0.076",
+            "original_transcript": "Thanks for calling ITC you are speaking to Praveen How may I help you today Hello",
+            "translated_transcript": "Thanks for calling ITC you are speaking to Praveen How can I help you today Hello",
+            "tone": "Neutral",
+            "rate_of_speech": "229.17",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "thanks",
+                "itc",
+                "praveen"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.0848",
+            "end_time": "0.0985",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "73.26",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.1043",
+            "end_time": "0.1147",
+            "original_transcript": "जी sir",
+            "translated_transcript": "G cheese",
+            "tone": "Neutral",
+            "rate_of_speech": "193.55",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.1408",
+            "end_time": "0.2262",
+            "original_transcript": "जो अभी दिया था वो whatsapp जो number दिया था वो अभी check तो किसी ने किया नहीं है",
+            "translated_transcript": "Jo abhi dia tha wo whatsapp jo number diya tha wo abhi check he kisne kiya no hai",
+            "tone": "Neutral",
+            "rate_of_speech": "210.94",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "jo",
+                "abhi dia tha wo whatsapp jo number diya tha wo abhi check",
+                "kisne kiya"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.2383",
+            "end_time": "0.273",
+            "original_transcript": "Whatsapp मैं समझ नहीं पाया क्या बता रहे हैं",
+            "translated_transcript": "Whatsapp I don't understand what the base is",
+            "tone": "Sad",
+            "rate_of_speech": "230.99",
+            "emotion": "confusion",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "whatsapp"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.2862",
+            "end_time": "0.3731",
+            "original_transcript": "हमने अभी complaint दिया था आटे की आपके आशीर्वाद आटे की",
+            "translated_transcript": "Hamne Abhi Complaint Dia Tha Ate Ki Apke Aasirwad Ate",
+            "tone": "Neutral",
+            "rate_of_speech": "114.96",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "hamne abhi complaint dia tha ate ki apke aasirwad ate"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.3862",
+            "end_time": "0.4487",
+            "original_transcript": "complaint number था one seven five double zero four five",
+            "translated_transcript": "complaint number one seven five double zero four five",
+            "tone": "Neutral",
+            "rate_of_speech": "144.00",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "complaint number",
+                "double zero"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.4535",
+            "end_time": "0.4975",
+            "original_transcript": "double zero four five आपका शुभ नाम बताइए sir मुझे",
+            "translated_transcript": "double zero four five apka shubh nam bathaiye sir muze",
+            "tone": "Neutral",
+            "rate_of_speech": "227.19",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "double zero",
+                "apka shubh nam bathaiye sir muze"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.5075",
+            "end_time": "0.5216",
+            "original_transcript": "जितेंद्र कुमार",
+            "translated_transcript": "Jitendra Kumar",
+            "tone": "Neutral",
+            "rate_of_speech": "141.34",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "jitendra kumar"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.5302",
+            "end_time": "0.5498",
+            "original_transcript": "जितेंद्र कुमार",
+            "translated_transcript": "Jitendra Kumar",
+            "tone": "Neutral",
+            "rate_of_speech": "101.61",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "jitendra kumar"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.56",
+            "end_time": "0.5712",
+            "original_transcript": "Yes",
+            "translated_transcript": "Ja",
+            "tone": "Neutral",
+            "rate_of_speech": "89.42",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ja"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.5811",
+            "end_time": "0.6128",
+            "original_transcript": "तो आपने इसका photo share किया बता रहे हैं",
+            "translated_transcript": "He apne iska photo share Kiya Bata Hain",
+            "tone": "Neutral",
+            "rate_of_speech": "252.50",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "apne iska photo share",
+                "kiya bata hain"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.6225",
+            "end_time": "0.9025",
+            "original_transcript": "हां photo share किया तो अभी वही मैं पूछ रहा हूँ की अभी इसको मैंने अपने friend से बात किया है वो media इसको कहीं use करे कि ना करे इसकी उधर जहाँ ITC company है हमारे पास ही है ये",
+            "translated_transcript": "ha photo share Kiya to Ahi Wahi Main Pooch Raha Hoon Ki Abhi Isco Mainne Apne Friend Se Baat Kiya Hai Woo Media Isco Kei Ke Ke Ke Kare Ikke Udhar Jahan ITC Company Hai Hamare Pass Hai Yeh",
+            "tone": "Neutral",
+            "rate_of_speech": "139.28",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "photo share",
+                "kiya",
+                "ahi wahi",
+                "pooch raha hoon ki abhi isco mainne apne friend se baat kiya hai woo media isco kei ke ke ke kare ikke udhar jahan itc",
+                "hai hamare pass hai yeh"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.9125",
+            "end_time": "0.9567",
+            "original_transcript": "मैं समझ नहीं पाया मतलब क्या use नहीं करे समझ में नहीं आया sir",
+            "translated_transcript": "I don't understand why I don't understand why I don't understand what I mean, sir.",
+            "tone": "Sad",
+            "rate_of_speech": "339.62",
+            "emotion": "confusion",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.9662",
+            "end_time": "1.0537",
+            "original_transcript": "ये जो कांड हुआ है ये जो निकला है बीच में से मेंढक",
+            "translated_transcript": "Ye Jo Kand Hua Hai Ye Jo Nikla Hai Beach Me Se Mendhak",
+            "tone": "Neutral",
+            "rate_of_speech": "148.57",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ye jo kand hua hai ye jo nikla hai",
+                "se mendhak"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.0678",
+            "end_time": "1.1798",
+            "original_transcript": "ये इधर company है हमारे पास ही पंद्रह किलोमीटर दूर है",
+            "translated_transcript": "Yeh Idhar company Hai Hamare Pass is fifteen kilometers away",
+            "tone": "Neutral",
+            "rate_of_speech": "89.27",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "yeh idhar",
+                "hai hamare pass"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.1963",
+            "end_time": "1.2078",
+            "original_transcript": "हां",
+            "translated_transcript": "Ha",
+            "tone": "Neutral",
+            "rate_of_speech": "86.83",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ha"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.2167",
+            "end_time": "1.2717",
+            "original_transcript": "वो अभी बात कर रहे थे कि वहां जाएं कि ना जाएं",
+            "translated_transcript": "Wo abhi baat kar rahe there ki whaan haen ki na jaen",
+            "tone": "Neutral",
+            "rate_of_speech": "218.18",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "wo",
+                "abhi baat kar rahe",
+                "ki whaan haen ki na jaen"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.2827",
+            "end_time": "1.4205",
+            "original_transcript": "sir आप wait कीजिए already आपका complaint हमने team को forward किया है एक executive आपके visit करके वो आपसे collect भी करेंगे और आपको जो है fresh packet आपको provide करेंगे",
+            "translated_transcript": "sir aap wait kijia already apka complaint humne team co forward kiya hai an executive visit us to collect bhi karenge and apko jo hai fresh packet to provide you with fresh packet",
+            "tone": "Neutral",
+            "rate_of_speech": "239.39",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "sir aap",
+                "apka complaint humne team co",
+                "kiya hai",
+                "executive visit",
+                "bhi karenge",
+                "apko jo hai",
+                "fresh packet",
+                "fresh packet"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.47",
+            "end_time": "1.5553",
+            "original_transcript": "वो बात नहीं है ना fresh packet की बात तो fresh तो दे देंगे पर लेकिन सारी complaint आयी क्यों",
+            "translated_transcript": "Wo bat no hai na fresh packet ki bat it fresh to de dange par but all complaint i how",
+            "tone": "Neutral",
+            "rate_of_speech": "234.37",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "wo",
+                "hai na",
+                "fresh packet ki bat",
+                "dange par",
+                "complaint i"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.5653",
+            "end_time": "1.5957",
+            "original_transcript": "अभी आपकी किसी से बात हो रही थी क्या sir",
+            "translated_transcript": "Abhi Aapki Kisi Se Baat Ho Rahi Thi Kya",
+            "tone": "Neutral",
+            "rate_of_speech": "296.70",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "abhi aapki kisi se baat ho rahi thi kya"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.6228",
+            "end_time": "1.6886",
+            "original_transcript": "किससे वो तो मैं यूनियन वाला किसान यूनियन वालों ऐसी कर रहा था पहले",
+            "translated_transcript": "Kisse Wo To Main Union Wala Kisan Union Walo Aisi Kar Raha Tha Pahle",
+            "tone": "Neutral",
+            "rate_of_speech": "212.71",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "kisse wo",
+                "main union",
+                "wala kisan",
+                "walo aisi kar raha tha pahle"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.6981",
+            "end_time": "1.7278",
+            "original_transcript": "अभी एक एक्जीक्यूटिव ऐसी बात हो रही थी क्या",
+            "translated_transcript": "Abhi Ek Executive Aisi Baat Ho Rahi Thi Kya",
+            "tone": "Neutral",
+            "rate_of_speech": "303.37",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "abhi ek",
+                "aisi baat ho rahi thi kya"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.7462",
+            "end_time": "1.8055",
+            "original_transcript": "वो पहले बात पता नहीं किससे हुई है पहले भी हुई है",
+            "translated_transcript": "Woo Pahle Baat Pata Nahi Kisse Hui Hai Pahle Bhi Hui Hai",
+            "tone": "Neutral",
+            "rate_of_speech": "202.19",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "woo pahle baat pata nahi kisse hui hai pahle bhi hui hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.8055",
+            "end_time": "1.8215",
+            "original_transcript": "line पे बने sir",
+            "translated_transcript": "Line Pay Be Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "250.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pay be sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.7242",
+            "end_time": "2.7685",
+            "original_transcript": "Thank you for calling ITC This is How may I help you",
+            "translated_transcript": "Thank you for calling ITC This is how I can help you",
+            "tone": "Neutral",
+            "rate_of_speech": "270.57",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thank",
+                "itc"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.7867",
+            "end_time": "2.7985",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "84.39",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.802",
+            "end_time": "2.85",
+            "original_transcript": "yes sir मेरी बात जितेंद्र कुमार जी है ना",
+            "translated_transcript": "yes sir mary bat jitendra kumar ji hai na",
+            "tone": "Neutral",
+            "rate_of_speech": "187.43",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "yes sir mary bat jitendra kumar ji hai na"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.85",
+            "end_time": "2.886",
+            "original_transcript": "sir हाँ जी हाँ जी",
+            "translated_transcript": "Sir Han G Han G",
+            "tone": "Neutral",
+            "rate_of_speech": "138.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir han g han g"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.892",
+            "end_time": "2.9035",
+            "original_transcript": "बोलिए sir",
+            "translated_transcript": "Boliye sir",
+            "tone": "Neutral",
+            "rate_of_speech": "173.91",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "boliye"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.9332",
+            "end_time": "2.9388",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "176.47",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.9388",
+            "end_time": "2.9892",
+            "original_transcript": "मैं बोल रहा था Whatsapp जो आपने बोला था Whatsapp तो कर दिया मैंने",
+            "translated_transcript": "Keep talking Whatsapp what you talk about Whatsapp do it",
+            "tone": "Neutral",
+            "rate_of_speech": "198.68",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "keep",
+                "whatsapp",
+                "whatsapp"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.0032",
+            "end_time": "3.0338",
+            "original_transcript": "photo share किया था sir already",
+            "translated_transcript": "photo share Kiya tha sir already",
+            "tone": "Neutral",
+            "rate_of_speech": "195.76",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "photo share",
+                "kiya",
+                "tha sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.0538",
+            "end_time": "3.1085",
+            "original_transcript": "अच्छा आप photo ही जो आपने बोला था खींच के photo भेज दो",
+            "translated_transcript": "Accha ap photo hi jo apne parla tha khinch ke photo bhej do",
+            "tone": "Neutral",
+            "rate_of_speech": "237.80",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "accha",
+                "ap photo hi jo apne parla tha khinch ke photo bhej"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.1258",
+            "end_time": "3.1948",
+            "original_transcript": "और sir आपका शुभ नाम क्या है sir एक बार repeat कीजिये sir",
+            "translated_transcript": "Aur sir Aapka Shubh Nam Kya Hai sir a bar repeat kejiye sir",
+            "tone": "Neutral",
+            "rate_of_speech": "188.41",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "aur",
+                "aapka shubh nam kya hai",
+                "repeat kejiye sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.2085",
+            "end_time": "3.2431",
+            "original_transcript": "जितेंद्र कुमार है हमारा शुभ नाम",
+            "translated_transcript": "Jitendra Kumar Hai Hamara Shubh Nam",
+            "tone": "Neutral",
+            "rate_of_speech": "173.08",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "jitendra kumar hai hamara shubh nam"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.2618",
+            "end_time": "3.3548",
+            "original_transcript": "और sir आपका mobile number यही है ना sir six two eight zero seven zero three four one eight correct sir",
+            "translated_transcript": "Your mobile number is six two eight zero seven zero three four one eight correct sir",
+            "tone": "Neutral",
+            "rate_of_speech": "172.07",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "your",
+                "mobile number"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.3742",
+            "end_time": "3.4415",
+            "original_transcript": "कितना six two eight zero seven zero three four one eight",
+            "translated_transcript": "How much six two eight zero seven zero three four one eight",
+            "tone": "Neutral",
+            "rate_of_speech": "178.17",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.4643",
+            "end_time": "3.4937",
+            "original_transcript": "हाँ जी हाँ जी",
+            "translated_transcript": "Ha G Ha G",
+            "tone": "Neutral",
+            "rate_of_speech": "136.44",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ha g ha g"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.5095",
+            "end_time": "3.5235",
+            "original_transcript": "एक minute sir",
+            "translated_transcript": "One minute sir",
+            "tone": "Neutral",
+            "rate_of_speech": "214.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "minute sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.534",
+            "end_time": "3.6172",
+            "original_transcript": "अभी तक photo नहीं receive किया था sir इसके लिए मैं wait किया था और अ",
+            "translated_transcript": "Abhi tak photo no receive kiya tha sir iske liye main wait kiya tha aur a",
+            "tone": "Neutral",
+            "rate_of_speech": "192.38",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "abhi",
+                "tak photo",
+                "kiya tha sir iske liye",
+                "kiya tha aur"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.6431",
+            "end_time": "3.674",
+            "original_transcript": "एक minute sir आप line पर wait कीजिए",
+            "translated_transcript": "One minute sir wait on the line",
+            "tone": "Neutral",
+            "rate_of_speech": "226.90",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "minute sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.7338",
+            "end_time": "3.782",
+            "original_transcript": "कोठे चबा",
+            "translated_transcript": "Where to chew",
+            "tone": "Neutral",
+            "rate_of_speech": "62.28",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.8082",
+            "end_time": "3.8438",
+            "original_transcript": "Sir आप line पे wait कीजिए मैं check करेगा",
+            "translated_transcript": "Sir Up Line Pay Wait Kijie Main Check",
+            "tone": "Neutral",
+            "rate_of_speech": "224.30",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "sir up",
+                "pay wait kijie"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.8937",
+            "end_time": "3.9048",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "89.55",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.916",
+            "end_time": "3.9743",
+            "original_transcript": "Hello sir कभी आप line पे wait कीजिए ma'am details check करेगा sir",
+            "translated_transcript": "Hello sir kabhi ap line pe wait keyjie ma'am details check sir",
+            "tone": "Neutral",
+            "rate_of_speech": "205.71",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir kabhi ap line pe",
+                "keyjie ma'am details check sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.9842",
+            "end_time": "4.0288",
+            "original_transcript": "हाँ line में wait कर रहा हूँ",
+            "translated_transcript": "Wait in the line, huh?",
+            "tone": "Neutral",
+            "rate_of_speech": "111.98",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "wait"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.0898",
+            "end_time": "4.1843",
+            "original_transcript": "sir ये आपको वो मिला है वो वाला पत्थर जैसा भी मिला है और वो है sir",
+            "translated_transcript": "sir ye apko wo mila hai wo wala stone jaisa bhi mila hai aur wo hai sir",
+            "tone": "Neutral",
+            "rate_of_speech": "179.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "apko wo mila hai wo wala stone jaisa bhi mila hai aur wo hai sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.1985",
+            "end_time": "4.3178",
+            "original_transcript": "वो दोनों दोनों में एक एक उसको पुठा था जैसे था वैसे खींचा एक सीधा करके उसको photo खींचा है",
+            "translated_transcript": "Woo two, two, one in one carton, one by one, one by one, one by one, one by one, one by one, by one by one, by one, by one by one, by one, by one by one, by one, by one by one, by one by one, by one by one, by one by one, by one by one, by one, by one by one, by one by one, by one, by one,",
+            "tone": "Neutral",
+            "rate_of_speech": "620.11",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "woo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.3327",
+            "end_time": "4.342",
+            "original_transcript": "photo खींच",
+            "translated_transcript": "photo Khinch",
+            "tone": "Neutral",
+            "rate_of_speech": "214.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "khinch"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.342",
+            "end_time": "4.413",
+            "original_transcript": "एक तरफ से हाँ जैसे टाँगे दिखाई दे रही है चारो टांगे उसकी",
+            "translated_transcript": "Ek Taraf Se Haan Jase Tange Dikhai Rahi Hai Charo Tange Usaki",
+            "tone": "Neutral",
+            "rate_of_speech": "169.01",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ek taraf se haan jase tange dikhai rahi hai charo tange usaki"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.4237",
+            "end_time": "4.5827",
+            "original_transcript": "Okay एक minute sir एक minute sir मैं check करेगा अभी तक receive नहीं हुआ यही number पे send किया था sir एक minute sir line पर wait कीजिए",
+            "translated_transcript": "Okay a minute sir a minute sir main check abhi tak receive no hua yhi number pay kiya tha sir a minute sir line per wait kejia",
+            "tone": "Neutral",
+            "rate_of_speech": "169.83",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay",
+                "minute sir",
+                "minute sir",
+                "main check abhi tak",
+                "hua yhi number pay kiya tha sir",
+                "minute sir line"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.6493",
+            "end_time": "4.6812",
+            "original_transcript": "हाँ नई job है",
+            "translated_transcript": "Ha nai job hai",
+            "tone": "Neutral",
+            "rate_of_speech": "125.65",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ha",
+                "nai job hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.7098",
+            "end_time": "4.7623",
+            "original_transcript": "the best",
+            "translated_transcript": "il miglior",
+            "tone": "Neutral",
+            "rate_of_speech": "38.10",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "il miglior"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.797",
+            "end_time": "4.8195",
+            "original_transcript": "nineteen nineteen",
+            "translated_transcript": "nineteen nineteen",
+            "tone": "Neutral",
+            "rate_of_speech": "88.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.9183",
+            "end_time": "5.1193",
+            "original_transcript": "Okay sir मैं मेरे तरफ से already complaint raise किया था sir already team को forward किया था sir sir process का है तो हमारे एक executive है ना sir आपका address में visit करेगा sir उस समय में hello जितेंद्र",
+            "translated_transcript": "Okay sir main mere tarf se already raise complaint kiya tha sir already team co forward kiya sir process ka hai he hamare an executive na sir at your address please visit sir ush samay me hello Jitendra",
+            "tone": "Neutral",
+            "rate_of_speech": "189.05",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "okay",
+                "main mere tarf se",
+                "complaint kiya tha sir",
+                "team co",
+                "kiya sir process ka hai",
+                "executive na sir",
+                "visit sir ush samay",
+                "jitendra"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.1193",
+            "end_time": "5.125",
+            "original_transcript": "जी आप",
+            "translated_transcript": "G AAP",
+            "tone": "Neutral",
+            "rate_of_speech": "352.94",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "g aap"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.1753",
+            "end_time": "5.3101",
+            "original_transcript": "sir हमारे executive आपका address में visit करेगा sir उस समय में हमारे आप एक काम कीजिए packet और sample हमारे executive में कृपया handover कीजिये",
+            "translated_transcript": "Sir Hamare executive please visit at your address sir at the same time as a work packet and sample of each executive please handover keys",
+            "tone": "Neutral",
+            "rate_of_speech": "185.41",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir hamare",
+                "address sir",
+                "work packet",
+                "handover keys"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.3152",
+            "end_time": "5.5101",
+            "original_transcript": "ताकि हम lab में send करके check करेंगे sir ऐसा क्यों दिक्कत आया और same time में आप एक fresh packet आपको replacement मिलेगा sir as a company good good gesture आप कभी भी accept कीजिये और feedback share कीजिये sir ठीक है",
+            "translated_transcript": "By sending to Taki Hum Lab, check how to tell us and at the same time we will send a fresh packet to replace you sir as a company good good gesture Aap Kabhi Bhi Bhi accept keys and feedback share keys sir ok hai",
+            "tone": "Neutral",
+            "rate_of_speech": "230.79",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "taki hum lab",
+                "fresh packet",
+                "company good good gesture",
+                "aap kabhi bhi bhi",
+                "feedback share keys sir ok hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.532",
+            "end_time": "5.8216",
+            "original_transcript": "हाँ sir आपको हमारी team आपको address में visit करेगा sir ठीक है team check करके आपको मदद करेगा और sir आप कितनी देर wait करूँ उनकी पहले call आएगा sir आपकी तरफ से पहले call आएगा call",
+            "translated_transcript": "Ha sir apko hamari team visit your address sir ok hai team check your help and sir ap how late to wait will you wait a call aayga sir apki taraf se a call aayga call",
+            "tone": "Happy",
+            "rate_of_speech": "124.29",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ha",
+                "sir apko hamari team visit",
+                "address sir ok hai team check",
+                "sir ap",
+                "call aayga sir apki taraf se",
+                "call aayga"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.8216",
+            "end_time": "5.8895",
+            "original_transcript": "आने के बाद मेरी बात सुनो कितनी देर में हम भी food product में काम करते है जगजीत जी का material बनता है जी",
+            "translated_transcript": "Aane Ke Bad Meri Baat Suno Kitani Der Mein Hum Bhi Food Product Hai Jagjit Jagjit Ka Ka Kanta Hai Jai",
+            "tone": "Sad",
+            "rate_of_speech": "309.58",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "aane ke",
+                "meri baat suno kitani der mein hum bhi",
+                "product hai jagjit jagjit ka ka kanta hai jai"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.9633",
+            "end_time": "5.972",
+            "original_transcript": "जी",
+            "translated_transcript": "G",
+            "tone": "Neutral",
+            "rate_of_speech": "115.16",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.989",
+            "end_time": "6.087",
+            "original_transcript": "Sir आप जल्द से जल्द आपको call आएगा मैं मेरा team को already forward किया था आपको जल्द से जल्द आपको call आएगा",
+            "translated_transcript": "Sir aap fast apko call aayga main my team who already forward kiya thaa apko hastily se fast apko call aayga",
+            "tone": "Happy",
+            "rate_of_speech": "214.25",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "sir",
+                "fast apko",
+                "kiya thaa apko",
+                "fast apko"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.0963",
+            "end_time": "6.1358",
+            "original_transcript": "सा फिर भी कितनी कितनी देर तक wait कर सकता हूँ उनकी",
+            "translated_transcript": "Sa fir bhi kitani der tak wait kar sakta hoo unki",
+            "tone": "Neutral",
+            "rate_of_speech": "278.48",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sa",
+                "fir bhi kitani der tak",
+                "kar sakta hoo unki"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.1495",
+            "end_time": "6.1648",
+            "original_transcript": "क्या sir",
+            "translated_transcript": "Kya sir",
+            "tone": "Neutral",
+            "rate_of_speech": "130.43",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "kya"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.1787",
+            "end_time": "6.2263",
+            "original_transcript": "मैंने कहा wait कितनी देर तक करूँ उनकी",
+            "translated_transcript": "Why wait, how much do you want to do?",
+            "tone": "Neutral",
+            "rate_of_speech": "188.88",
+            "emotion": "curiosity",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.2415",
+            "end_time": "6.4508",
+            "original_transcript": "Sir आपको अभी मैं मेरे तरफ से team को inform करेगा sir उसके बाद आपको directly call आएगा और सारा details हमारी team आपको check करके बताएगा sir आपको कब आएगा time आपका convenient time में हमारा team आपको visit करेगा sir",
+            "translated_transcript": "Sir Apko Abhi Main Mere Tarf se team to inform Sir Uske Bad Apko directly call Aaiga and all the details Hamari team Apko check Karake Bataega sir Apko Kab Aaiga time Apka Kab Aaiga time Apka team Apko visit sir",
+            "tone": "Neutral",
+            "rate_of_speech": "195.86",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "sir apko abhi",
+                "mere tarf",
+                "se team",
+                "sir uske",
+                "apko",
+                "aaiga",
+                "hamari",
+                "apko",
+                "karake bataega",
+                "apko kab aaiga",
+                "apka kab aaiga",
+                "apka",
+                "apko",
+                "visit sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.4622",
+            "end_time": "6.4975",
+            "original_transcript": "चलो मैं एक घंटा wait करता हूँ",
+            "translated_transcript": "Let's wait for an hour.",
+            "tone": "Neutral",
+            "rate_of_speech": "141.51",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.5098",
+            "end_time": "6.5193",
+            "original_transcript": "कैसा",
+            "translated_transcript": "Kaisa",
+            "tone": "Neutral",
+            "rate_of_speech": "105.08",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "kaisa"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.5357",
+            "end_time": "6.5633",
+            "original_transcript": "एक घंटा wait करूँगा पहले",
+            "translated_transcript": "I waited an hour and watched.",
+            "tone": "Neutral",
+            "rate_of_speech": "217.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.5772",
+            "end_time": "6.6997",
+            "original_transcript": "Sir आपको call आएगा sir आप wait कीजिए उसका time limit का details हमारे पास नहीं है आप wait कीजिए आपको call आएगा sir",
+            "translated_transcript": "Sir apko call aaya sir ap wait kejia uska time limit ka details hamare pass no hai ap wait kejia apko call aayga sir",
+            "tone": "Neutral",
+            "rate_of_speech": "195.92",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir",
+                "aaya sir ap",
+                "kejia uska time limit ka details hamare pass",
+                "hai ap",
+                "kejia apko",
+                "aayga sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.7165",
+            "end_time": "6.803",
+            "original_transcript": "चलो फिर हमने भी अपनी पानी देखते हैं कितनी देर एक दो घंटा कर लेंगे",
+            "translated_transcript": "Let's go ahead and see how much time it takes a couple of hours",
+            "tone": "Neutral",
+            "rate_of_speech": "161.85",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.8178",
+            "end_time": "6.9397",
+            "original_transcript": "आपको call आएगा आप wait कीजिये आपकी तरफ से call आएगा उस time का details हमारे पास नहीं है आपको जल्द से जल्द call",
+            "translated_transcript": "Apko call aayga ap wait kjiye apki taraf se call aayga us time ka details everyone passes no hai apko quick se fast call",
+            "tone": "Happy",
+            "rate_of_speech": "196.99",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "apko",
+                "aayga ap",
+                "kjiye apki taraf se",
+                "time ka details",
+                "hai apko",
+                "quick se",
+                "fast call"
+            ]
+        }
+    ],
+    "translated_segments": "Thanks for calling ITC you are speaking to Praveen How can I help you today Hello Hallo G cheese Jo abhi dia tha wo whatsapp jo number diya tha wo abhi check he kisne kiya no hai Whatsapp I don't understand what the base is Hamne Abhi Complaint Dia Tha Ate Ki Apke Aasirwad Ate complaint number one seven five double zero four five double zero four five apka shubh nam bathaiye sir muze Jitendra Kumar Jitendra Kumar Ja He apne iska photo share Kiya Bata Hain ha photo share Kiya to Ahi Wahi Main Pooch Raha Hoon Ki Abhi Isco Mainne Apne Friend Se Baat Kiya Hai Woo Media Isco Kei Ke Ke Ke Kare Ikke Udhar Jahan ITC Company Hai Hamare Pass Hai Yeh I don't understand why I don't understand why I don't understand what I mean, sir. Ye Jo Kand Hua Hai Ye Jo Nikla Hai Beach Me Se Mendhak Yeh Idhar company Hai Hamare Pass is fifteen kilometers away Ha Wo abhi baat kar rahe there ki whaan haen ki na jaen sir aap wait kijia already apka complaint humne team co forward kiya hai an executive visit us to collect bhi karenge and apko jo hai fresh packet to provide you with fresh packet Wo bat no hai na fresh packet ki bat it fresh to de dange par but all complaint i how Abhi Aapki Kisi Se Baat Ho Rahi Thi Kya Kisse Wo To Main Union Wala Kisan Union Walo Aisi Kar Raha Tha Pahle Abhi Ek Executive Aisi Baat Ho Rahi Thi Kya Woo Pahle Baat Pata Nahi Kisse Hui Hai Pahle Bhi Hui Hai Line Pay Be Sir Thank you for calling ITC This is how I can help you Hallo yes sir mary bat jitendra kumar ji hai na Sir Han G Han G Boliye sir Hallo Keep talking Whatsapp what you talk about Whatsapp do it photo share Kiya tha sir already Accha ap photo hi jo apne parla tha khinch ke photo bhej do Aur sir Aapka Shubh Nam Kya Hai sir a bar repeat kejiye sir Jitendra Kumar Hai Hamara Shubh Nam Your mobile number is six two eight zero seven zero three four one eight correct sir How much six two eight zero seven zero three four one eight Ha G Ha G One minute sir Abhi tak photo no receive kiya tha sir iske liye main wait kiya tha aur a One minute sir wait on the line Where to chew Sir Up Line Pay Wait Kijie Main Check Hallo Hello sir kabhi ap line pe wait keyjie ma'am details check sir Wait in the line, huh? sir ye apko wo mila hai wo wala stone jaisa bhi mila hai aur wo hai sir Woo two, two, one in one carton, one by one, one by one, one by one, one by one, one by one, by one by one, by one, by one by one, by one, by one by one, by one, by one by one, by one by one, by one by one, by one by one, by one by one, by one, by one by one, by one by one, by one, by one, photo Khinch Ek Taraf Se Haan Jase Tange Dikhai Rahi Hai Charo Tange Usaki Okay a minute sir a minute sir main check abhi tak receive no hua yhi number pay kiya tha sir a minute sir line per wait kejia Ha nai job hai il miglior nineteen nineteen Okay sir main mere tarf se already raise complaint kiya tha sir already team co forward kiya sir process ka hai he hamare an executive na sir at your address please visit sir ush samay me hello Jitendra G AAP Sir Hamare executive please visit at your address sir at the same time as a work packet and sample of each executive please handover keys By sending to Taki Hum Lab, check how to tell us and at the same time we will send a fresh packet to replace you sir as a company good good gesture Aap Kabhi Bhi Bhi accept keys and feedback share keys sir ok hai Ha sir apko hamari team visit your address sir ok hai team check your help and sir ap how late to wait will you wait a call aayga sir apki taraf se a call aayga call Aane Ke Bad Meri Baat Suno Kitani Der Mein Hum Bhi Food Product Hai Jagjit Jagjit Ka Ka Kanta Hai Jai G Sir aap fast apko call aayga main my team who already forward kiya thaa apko hastily se fast apko call aayga Sa fir bhi kitani der tak wait kar sakta hoo unki Kya sir Why wait, how much do you want to do? Sir Apko Abhi Main Mere Tarf se team to inform Sir Uske Bad Apko directly call Aaiga and all the details Hamari team Apko check Karake Bataega sir Apko Kab Aaiga time Apka Kab Aaiga time Apka team Apko visit sir Let's wait for an hour. Kaisa I waited an hour and watched. Sir apko call aaya sir ap wait kejia uska time limit ka details hamare pass no hai ap wait kejia apko call aayga sir Let's go ahead and see how much time it takes a couple of hours Apko call aayga ap wait kjiye apki taraf se call aayga us time ka details everyone passes no hai apko quick se fast call ",
+    "speaker_a_segments": "Thanks for calling ITC you are speaking to Praveen How can I help you today Hello G cheese Whatsapp I don't understand what the base is double zero four five apka shubh nam bathaiye sir muze Jitendra Kumar Ja He apne iska photo share Kiya Bata Hain I don't understand why I don't understand why I don't understand what I mean, sir. sir aap wait kijia already apka complaint humne team co forward kiya hai an executive visit us to collect bhi karenge and apko jo hai fresh packet to provide you with fresh packet Abhi Aapki Kisi Se Baat Ho Rahi Thi Kya Abhi Ek Executive Aisi Baat Ho Rahi Thi Kya Line Pay Be Sir Thank you for calling ITC This is how I can help you yes sir mary bat jitendra kumar ji hai na Boliye sir Hallo photo share Kiya tha sir already Aur sir Aapka Shubh Nam Kya Hai sir a bar repeat kejiye sir Your mobile number is six two eight zero seven zero three four one eight correct sir How much six two eight zero seven zero three four one eight One minute sir Abhi tak photo no receive kiya tha sir iske liye main wait kiya tha aur a One minute sir wait on the line Where to chew Sir Up Line Pay Wait Kijie Main Check Hallo Hello sir kabhi ap line pe wait keyjie ma'am details check sir sir ye apko wo mila hai wo wala stone jaisa bhi mila hai aur wo hai sir photo Khinch Okay a minute sir a minute sir main check abhi tak receive no hua yhi number pay kiya tha sir a minute sir line per wait kejia Ha nai job hai il miglior nineteen nineteen Okay sir main mere tarf se already raise complaint kiya tha sir already team co forward kiya sir process ka hai he hamare an executive na sir at your address please visit sir ush samay me hello Jitendra Sir Hamare executive please visit at your address sir at the same time as a work packet and sample of each executive please handover keys By sending to Taki Hum Lab, check how to tell us and at the same time we will send a fresh packet to replace you sir as a company good good gesture Aap Kabhi Bhi Bhi accept keys and feedback share keys sir ok hai Ha sir apko hamari team visit your address sir ok hai team check your help and sir ap how late to wait will you wait a call aayga sir apki taraf se a call aayga call G Sir aap fast apko call aayga main my team who already forward kiya thaa apko hastily se fast apko call aayga Kya sir Sir Apko Abhi Main Mere Tarf se team to inform Sir Uske Bad Apko directly call Aaiga and all the details Hamari team Apko check Karake Bataega sir Apko Kab Aaiga time Apka Kab Aaiga time Apka team Apko visit sir Kaisa Sir apko call aaya sir ap wait kejia uska time limit ka details hamare pass no hai ap wait kejia apko call aayga sir Apko call aayga ap wait kjiye apki taraf se call aayga us time ka details everyone passes no hai apko quick se fast call ",
+    "speaker_b_segments": "Hallo Jo abhi dia tha wo whatsapp jo number diya tha wo abhi check he kisne kiya no hai Hamne Abhi Complaint Dia Tha Ate Ki Apke Aasirwad Ate complaint number one seven five double zero four five Jitendra Kumar ha photo share Kiya to Ahi Wahi Main Pooch Raha Hoon Ki Abhi Isco Mainne Apne Friend Se Baat Kiya Hai Woo Media Isco Kei Ke Ke Ke Kare Ikke Udhar Jahan ITC Company Hai Hamare Pass Hai Yeh Ye Jo Kand Hua Hai Ye Jo Nikla Hai Beach Me Se Mendhak Yeh Idhar company Hai Hamare Pass is fifteen kilometers away Ha Wo abhi baat kar rahe there ki whaan haen ki na jaen Wo bat no hai na fresh packet ki bat it fresh to de dange par but all complaint i how Kisse Wo To Main Union Wala Kisan Union Walo Aisi Kar Raha Tha Pahle Woo Pahle Baat Pata Nahi Kisse Hui Hai Pahle Bhi Hui Hai Hallo Sir Han G Han G Keep talking Whatsapp what you talk about Whatsapp do it Accha ap photo hi jo apne parla tha khinch ke photo bhej do Jitendra Kumar Hai Hamara Shubh Nam Ha G Ha G Wait in the line, huh? Woo two, two, one in one carton, one by one, one by one, one by one, one by one, one by one, by one by one, by one, by one by one, by one, by one by one, by one, by one by one, by one by one, by one by one, by one by one, by one by one, by one, by one by one, by one by one, by one, by one, Ek Taraf Se Haan Jase Tange Dikhai Rahi Hai Charo Tange Usaki G AAP Aane Ke Bad Meri Baat Suno Kitani Der Mein Hum Bhi Food Product Hai Jagjit Jagjit Ka Ka Kanta Hai Jai Sa fir bhi kitani der tak wait kar sakta hoo unki Why wait, how much do you want to do? Let's wait for an hour. I waited an hour and watched. Let's go ahead and see how much time it takes a couple of hours ",
+    "summary": "Praveen from ITC assisted Jitendra Kumar in filing a complaint regarding a defective WhatsApp-branded product he purchased. Despite raising the issue, the product continued to be sold to customers. To resolve the issue, Praveen arranged for an executive to visit Kumar's address to collect the faulty product and provide a fresh one. They also discussed the need for proper quality control measures. The conversation was interrupted several times due to network issues. Both parties agreed to wait for a call back from the respective teams. The call ended with the assurance that Kumar would be contacted regarding the replacement.",
+    "speaker_a_summary": "Jitendra Kumar called ITC regarding a complaint for a fresh packet of product. The customer support explained that they would send an executive to collect the product and provide a fresh one. The customer was then asked to share a photo of the product but the customer support couldn't receive it due to network issues. The support assured the customer that they would call them back directly with the visit details of the executive, and they thanked the customer for calling ITC. The customer then repeated their number, and the support confirmed it as 6280-730-418, and then ended the call.",
+    "speaker_b_summary": "Jo number diya tha wo abhi check kisne kiya hai. Abhi Complaint Dia Tha Ate Ki Apke Aasirwad Ate complaint number one seven five double zero four five. Jitendra Kumar ha photo share kiya. Main Pooch Raha hun Ki Abhi Isco Mainne Apne Friend Se Baat Kiya Hai. ITC company hai hamare pass is fifteen kilometers away. Wo abhi baat kar rahe there ki whaan haen ki na jaen. Wo bat nahi hai na fresh packet ki bat it fresh to de dange par.",
+    "cohere_points": "- Customer is frustrated with their product not being replaced within the promised time frame\n- Customer is waiting for a call back from an executive to resolve the issue\n- Customer is growing impatient and would like a call back ASAP. \n- Customer is confused by the lack of help and is asking for a superior to contact them \n- Customer is asking to speak with someone who can help them right away.",
+    "opening_comments": "Yes",
+    "closing_comments": "No",
+    "Topic": "1. Customer service query\n2. Complaint registration process\n3. Photo sharing query\n4. Fresh packet delivery\n5. Executive visit arrangement\n6. Union association discussion\n7. Mobile number verification\n8. Stone-like item receipt\n9. Carton contents clarification\n10. Leg position in photo\n11. Issue resolution process\n12. Feedback sharing arrangement\n13. Team information update\n14. Visit appointment confirmation\n15. Call waiting timeframe",
+    "Resolution": "The customer's issue is not yet resolved as the team has been informed and a visit is scheduled to address the complaint and provide a fresh packet, but they are still waiting for a call back.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "No, the caller did not display empathy in the conversation.",
+    "Was there any profanity on the call": "No.",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 110.14000000000016,
+    "num_silences": 90
+}

@@ -28,33 +28,6 @@ app.get('/api/files/:folder/:file', (req, res) => {
     });
 });
 
-// app.get('/api/files', (req, res) => {
-//     console.log('GET /api/files endpoint hit');
-//     const dataPath = path.join(__dirname, '../src/Data');
-//     fs.readdir(dataPath, { withFileTypes: true }, (err, folders) => {
-//         if (err) {
-//             return res.status(500).json({ error: 'Failed to read directories' });
-//         }
-
-//         const folderPromises = folders
-//             .filter(dirent => dirent.isDirectory())
-//             .map(folder => {
-//                 const folderPath = path.join(dataPath, folder.name);
-//                 return new Promise((resolve, reject) => {
-//                     fs.readdir(folderPath, (err, files) => {
-//                         if (err) {
-//                             return reject(err);
-//                         }
-//                         resolve({ folder: folder.name, files });
-//                     });
-//                 });
-//             });
-
-//         Promise.all(folderPromises)
-//             .then(results => res.json(results))
-//             .catch(err => res.status(500).json({ error: 'Failed to read files' }));
-//     });
-// });
 
 
 app.get('/api/files', (req, res) => {
