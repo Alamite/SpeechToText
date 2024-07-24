@@ -1,0 +1,775 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0096",
+            "end_time": "0.0532",
+            "original_transcript": "Thank you for calling IC This is How may I help you",
+            "translated_transcript": "Thank you for calling IC This is how I can help you",
+            "tone": "Neutral",
+            "rate_of_speech": "275.76",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thank",
+                "ic"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.0625",
+            "end_time": "0.216",
+            "original_transcript": "sir ये phone काटने का कोई reason नहीं होता है आप बार-बार phone काट दे रहे हो बात नहीं सुनते हो किसी की phone काट दिया आपने ये कोई reason है कलाश बोल रहा हूँ बोलो",
+            "translated_transcript": "sir ye cut the phone why there was no reason why I cut the bar-bar phone, keep cutting the phone, don't listen to me if I cut the phone, why don't you talk?",
+            "tone": "Sad",
+            "rate_of_speech": "214.98",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "bar-bar phone"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.2323",
+            "end_time": "0.3173",
+            "original_transcript": "कैलाश जी okay मैं check करेगा wait कीजिए sir वो concern agent में transfer करेगा ठीक है",
+            "translated_transcript": "Kailash ji okay check me wait Kijie sir Wo transfer to concern agent ok",
+            "tone": "Neutral",
+            "rate_of_speech": "164.67",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "kailash",
+                "ji okay check",
+                "kijie",
+                "wo",
+                "concern agent ok"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.3263",
+            "end_time": "0.5475",
+            "original_transcript": "तो sir ये phone काटने का कोई reason नहीं होता है से बात किया जाता है कोई भी समझो एक complex होता है complex complex समझो ना आपको क्यों बार बार phone काट के ऐसे कर रहे हो",
+            "translated_transcript": "He was talking about phone cuts and there was no reason why he was going to the phone.",
+            "tone": "Neutral",
+            "rate_of_speech": "81.39",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "phone cuts"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.5516",
+            "end_time": "0.614",
+            "original_transcript": "sir मैंने नहीं cut किया sir मैं details check करेगा sir एक minute wait कीजिए",
+            "translated_transcript": "sir main no cut kiya sir main details check sir a minute wait kejia",
+            "tone": "Neutral",
+            "rate_of_speech": "224.54",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "cut kiya sir",
+                "main details check sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.6288",
+            "end_time": "0.6842",
+            "original_transcript": "हाँ ठीक है कोई दिक्कत नहीं है एक minute क्या एक घंटा wait करूँगा कोई issue",
+            "translated_transcript": "Ha ok hai koi dickat hai a minute or a bell wait a minute or an issue",
+            "tone": "Neutral",
+            "rate_of_speech": "307.23",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ha",
+                "ok hai koi dickat hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.6842",
+            "end_time": "0.6913",
+            "original_transcript": "नहीं है",
+            "translated_transcript": "No, Hai",
+            "tone": "Neutral",
+            "rate_of_speech": "279.07",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.046",
+            "end_time": "1.4055",
+            "original_transcript": "Good evening sir line पे रहने के लिए धन्यवाद समझ जाते है आपका call cut गया था network problem की वजह से आपका complaint register करके हमारे team को हमारे एक agent घर पे जाएंगे वो packet आपसे हम ले लेंगे वापस आप हमें दे दीजियेगा ताकि हम उसका test कर सके और आपको जो है उसी time पे हमारी team के तौर पर नया packet आपको देंगे उसे आप ले",
+            "translated_transcript": "Good evening sir line Pe rahne ke lia Thank you for your call cut if you have a network problem that subtracts your complaint by registering your complaint, each team who has an agent at home to send you a packet to return your message to us. Test Kar Sake Aur Apko Jo Hai Usi Time Pe Hamari Team Ke Tour Per New Packet Apco Denge Use Aap Le",
+            "tone": "Neutral",
+            "rate_of_speech": "191.92",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good evening sir line",
+                "pe",
+                "rahne ke lia",
+                "thank",
+                "network problem",
+                "test kar sake aur apko jo hai usi",
+                "pe hamari team ke tour per",
+                "packet apco denge",
+                "aap"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.4055",
+            "end_time": "1.4143",
+            "original_transcript": "लीजिएगा please",
+            "translated_transcript": "Legiega please",
+            "tone": "Neutral",
+            "rate_of_speech": "226.42",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "legiega"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.424",
+            "end_time": "1.4767",
+            "original_transcript": "तो इसके लिए sir मैं क्या complaint process कर दूँ आपका",
+            "translated_transcript": "He is involved in the main complaint process.",
+            "tone": "Neutral",
+            "rate_of_speech": "151.95",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "main complaint process"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.4978",
+            "end_time": "1.509",
+            "original_transcript": "क्या",
+            "translated_transcript": "key",
+            "tone": "Neutral",
+            "rate_of_speech": "89.55",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.5181",
+            "end_time": "1.55",
+            "original_transcript": "हमारे agent आएंगे वो packet लाने",
+            "translated_transcript": "Hamare agent Aange Wo Packet Lane",
+            "tone": "Neutral",
+            "rate_of_speech": "188.38",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hamare",
+                "aange wo packet"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.5643",
+            "end_time": "1.5878",
+            "original_transcript": "आप वो packet दीजिएगा हमें",
+            "translated_transcript": "Ap Wo Packet Dijiega",
+            "tone": "Neutral",
+            "rate_of_speech": "170.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ap wo packet dijiega"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.6327",
+            "end_time": "1.7387",
+            "original_transcript": "मैं packet खुद लेके आ जाऊंगा कोई issue नहीं है मैं खुद packet लेके आ जाऊंगा मुझे बताइए factory किधर है मैं plant किधर है",
+            "translated_transcript": "Main packet is the same as the issue of the main packet is the same as the main packet is the same as the factory where the main plant is.",
+            "tone": "Neutral",
+            "rate_of_speech": "283.02",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "main packet",
+                "main packet",
+                "main packet",
+                "main plant"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.7507",
+            "end_time": "1.7983",
+            "original_transcript": "plant की जानकारी हमें नहीं है exactly कहाँ पर है आपका",
+            "translated_transcript": "plant that you don't know exactly how to do it",
+            "tone": "Neutral",
+            "rate_of_speech": "209.79",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.8108",
+            "end_time": "1.8988",
+            "original_transcript": "तो आप package लेने के लिए ऐसे कैसे बोल सकते हो कि package लेने के लिए कोई भी बंदा मैं भेज देता हूँ लेके आयेगा",
+            "translated_transcript": "How can you say that if you have a package lane, how can you say that the package has been taken away from me?",
+            "tone": "Neutral",
+            "rate_of_speech": "272.73",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "package lane"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.908",
+            "end_time": "1.9147",
+            "original_transcript": "भेजेंगे",
+            "translated_transcript": "Bhejenge",
+            "tone": "Neutral",
+            "rate_of_speech": "150.38",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bhejenge"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.9235",
+            "end_time": "1.9315",
+            "original_transcript": "दे सकते हैं",
+            "translated_transcript": "De sakte hai",
+            "tone": "Neutral",
+            "rate_of_speech": "375.78",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "de",
+                "sakte hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.9495",
+            "end_time": "2.1037",
+            "original_transcript": "तो agent जायेंगे वो packet लाने के लिए लेके आपसे वापस हमारे पास भेजेंगे बैंगलोर में जहां पर आएगा वो packet collect करेंगे हम check करेंगे उसमें क्या है",
+            "translated_transcript": "The agent is going to go to Bangalore to collect the packet and collect the packet and check it out.",
+            "tone": "Neutral",
+            "rate_of_speech": "129.73",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bangalore"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.1328",
+            "end_time": "2.1532",
+            "original_transcript": "factory में करेंगे",
+            "translated_transcript": "Karenge in factory",
+            "tone": "Neutral",
+            "rate_of_speech": "147.54",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "karenge"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.1617",
+            "end_time": "2.2282",
+            "original_transcript": "बैंगलोर में किधर कसुंधरा या किधर है बैंगलोर में",
+            "translated_transcript": "Kidhar Kasundhara in Bangalore or Kidhar Hai in Bangalore",
+            "tone": "Neutral",
+            "rate_of_speech": "135.30",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "kidhar kasundhara",
+                "bangalore",
+                "kidhar hai",
+                "bangalore"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.2578",
+            "end_time": "2.3505",
+            "original_transcript": "exactly ये factory में बना है वो पहले हमें देखना क्योंकि batch number मैंने देखा",
+            "translated_transcript": "Be at exactly the factory and see what batch number is mine",
+            "tone": "Neutral",
+            "rate_of_speech": "129.52",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "be",
+                "batch number"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.3505",
+            "end_time": "2.6203",
+            "original_transcript": "नहीं है मैंने तो पूरा batch number आपको bar code का batch number का पूरा whatsapp किया हुआ है और मैंने दोनों left side का right side का दोनों का whatsapp किया हुआ है और अपने बेटे का भी जो side effect हुआ है वो whatsapp किया हुआ है देखो",
+            "translated_transcript": "No hai main that full batch number apko bar code or batch number ka full whatsapp kia hua hai and main two left side ka right side ka two ka whatsapp kia hua hai and up islands ka bhi jo side effect hua hai wo whatsapp kia hua hai see",
+            "tone": "Neutral",
+            "rate_of_speech": "185.29",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "full batch number apko",
+                "batch number ka",
+                "full whatsapp kia hua hai",
+                "side ka",
+                "side ka",
+                "ka whatsapp kia hua hai",
+                "islands ka bhi jo side effect hua hai wo whatsapp kia hua hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.6251",
+            "end_time": "2.82",
+            "original_transcript": "उसके लिए complain register करके हम पहले आपके घर पर agent भेजेंगे तो उससे क्या होगा ना आपका जो packet है हम वो आपसे collect करेंगे उसको हम",
+            "translated_transcript": "If you complain to register, you have seen your house per agent that you can collect your package.",
+            "tone": "Neutral",
+            "rate_of_speech": "92.39",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.82",
+            "end_time": "2.8272",
+            "original_transcript": "lab में",
+            "translated_transcript": "in the lab",
+            "tone": "Neutral",
+            "rate_of_speech": "417.63",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.8272",
+            "end_time": "2.9488",
+            "original_transcript": "भेज के test करेंगे उसका problem को solve करेंगे और आपको एक नया packet दिया जाएगा as a goodation के तौर पर sir",
+            "translated_transcript": "Bhej ke test Karenge Uska problem to solve Karenge and Apko a new packet dia giveaway as a goodation ke tour per sir",
+            "tone": "Neutral",
+            "rate_of_speech": "189.07",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "bhej",
+                "ke test",
+                "karenge uska",
+                "karenge",
+                "apko",
+                "new packet dia giveaway",
+                "goodation ke tour"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.96",
+            "end_time": "3.062",
+            "original_transcript": "तो मेरे को दोबारा कुरकरा दिया जाएगा दोबारा बेटे को खिलाऊं दोबारा उसकी side effect हो फिर उसको पैसा लगाओ ऐसा",
+            "translated_transcript": "It is me who has two or two side effects and one side effect.",
+            "tone": "Neutral",
+            "rate_of_speech": "137.25",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "side effect"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.062",
+            "end_time": "3.2687",
+            "original_transcript": "नहीं होता है sir हमारा सारा product को हम quality test बहुत बार करने के बाद भेजते हैं अगर इस packet में problem आया है तो इसको हम वापस लेकर check कर लेंगे आपको नया packet में ऐसा कोई दिक्कत नहीं आएगा आप उसे आराम से",
+            "translated_transcript": "No it was sir all product co um quality test most of the time it goes wrong or there is a problem with this packet. Ram Se",
+            "tone": "Neutral",
+            "rate_of_speech": "130.66",
+            "emotion": "disapproval",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "product co um quality test",
+                "ram se"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.2833",
+            "end_time": "3.4163",
+            "original_transcript": "ऐसा ही ऐसा ही एक बार अपने मानेसर के अंदर वो IMT मानेसर में company juice वाली company ठीक है",
+            "translated_transcript": "Aisa hi isa hi ha un bar apne manager ke under wo IMT manager me company juice wali company ok hai",
+            "tone": "Neutral",
+            "rate_of_speech": "157.91",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "aisa",
+                "hi isa hi",
+                "apne manager ke",
+                "imt",
+                "company juice wali company ok hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.4212",
+            "end_time": "3.5253",
+            "original_transcript": "जो भी production खाली दस रुपए के juice का packet बनाती है बीस रुपए का पच्चीस का तीस का पचास ML का सौ ml का ढाई सौ ml का",
+            "translated_transcript": "Jo bhi production down ten rupees k juice ka packet banati hai twenty rupees ka thirty ka fifty ml ka sa sa ml ka dhai sa ml",
+            "tone": "Neutral",
+            "rate_of_speech": "259.20",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "jo",
+                "bhi production",
+                "rupees k juice ka packet banati hai",
+                "rupees ka",
+                "ml ka sa sa ml ka dhai sa ml"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.5421",
+            "end_time": "3.6381",
+            "original_transcript": "juice बनाती है ठीक है तो उसमें issue हुआ issue हुआ तो हमको उधर गए",
+            "translated_transcript": "juice banati hai ok hai to usme issue hua issue hua to hamko borrow",
+            "tone": "Neutral",
+            "rate_of_speech": "145.83",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "juice banati hai ok hai",
+                "usme issue hua issue hua",
+                "hamko borrow"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.6483",
+            "end_time": "3.7783",
+            "original_transcript": "तो हम पूरा check किया तो check किया तो drum कहीं से मंगा रहे हैं आम का लीची का",
+            "translated_transcript": "He ham full check what he check what he drum how he is manga ha ha ha lichi",
+            "tone": "Happy",
+            "rate_of_speech": "138.46",
+            "emotion": "amusement",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "full check"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.7958",
+            "end_time": "4.0796",
+            "original_transcript": "उसका इसका sporting जो ढक्कन का जो cover होता है जो plastic के अंदर cover लगाते हैं sporting वो खुद कर रहे थे तीसरा floor पे उधर जाके check किया sporting खुद कर रहे हैं बोला ऐसा cover sporting करते हैं तो लोग क्या कर रहे हैं ना तो hair का पहरा हुआ है",
+            "translated_transcript": "Uska iska sporting who was wearing a cover that was covered with plastic and an under cover. Pahra Hua Hai",
+            "tone": "Neutral",
+            "rate_of_speech": "70.47",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "uska",
+                "pahra hua hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.113",
+            "end_time": "4.4223",
+            "original_transcript": "शरीर में ऊपर सिर में ना hair cap है ना gloves है ना अंदर जो अगर जब कोई भी आदमी products बनाता है खाने पीने का तो उसमें lab ऐसा होता है अंदर जब factory के अंदर entry करोगे तो पूरा dust बिल्कुल नहीं होना चाहिए किधर से भी कुछ नहीं होना चाहिए पूरा AC",
+            "translated_transcript": "In the upper head of the body, no hair cap, no gloves, no underwear, no job, no job, no dust at all, no food, drink, drink, drink, do you want it in the lab. Se bhi kuch no hon chahiye pura AC",
+            "tone": "Neutral",
+            "rate_of_speech": "135.78",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "upper head",
+                "hair cap",
+                "se",
+                "bhi kuch",
+                "hon chahiye pura",
+                "ac"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.4552",
+            "end_time": "4.5182",
+            "original_transcript": "ठीक है मैंने उधर जा के देखा उसको कनवर पानी हुआ है",
+            "translated_transcript": "Ok hai main loan ke dekha usko kanwar pani hua hai",
+            "tone": "Neutral",
+            "rate_of_speech": "174.60",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok",
+                "main loan ke dekha usko kanwar pani hua hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.5273",
+            "end_time": "4.753",
+            "original_transcript": "उधर से माल आ रहा है last में जाके धीरे धीरे धीरे धीरे तीन घंटे में जाकर के ऊपर माल पहुँच रहा है कोई कार्टून क्या बना रहा है कोई क्या नहीं बना रहा है कोई गुटखा खा रहा है कोई कुछ खा रहा है ये कर रहा है ऐसा चलता है",
+            "translated_transcript": "Borrow the goods stay last in the last three hours, wait for the goods to stay in the last three hours. Come Kar Raha Hai Aisa Chalta Hai",
+            "tone": "Neutral",
+            "rate_of_speech": "124.09",
+            "emotion": "amusement",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "borrow",
+                "kar raha hai aisa chalta hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.813",
+            "end_time": "4.9716",
+            "original_transcript": "तो मुझे देखो sir sir मेरी बात सुनिए आपको request है कि मुझे खाली अपने plant का address डाल दीजिए बस",
+            "translated_transcript": "He looks at Sir Mary Bat Suniye Apko request hai ki muze down upne plant ka address dal dijia bus",
+            "tone": "Neutral",
+            "rate_of_speech": "126.05",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "sir mary bat suniye apko",
+                "request hai ki muze",
+                "upne plant ka address dal dijia bus"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.9931",
+            "end_time": "5.0813",
+            "original_transcript": "मैं सुबह की date में दस बजे plant खुलने से पहले मैं और मेरी team पहुंच जाएगी",
+            "translated_transcript": "Ten thousand plants on my date are open to me and my team in many places",
+            "tone": "Neutral",
+            "rate_of_speech": "181.44",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ten"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.1158",
+            "end_time": "5.2583",
+            "original_transcript": "बमपुर में हो में हो में हो भिलाई पावर में हो तुम्हारा में में कहीं भी हो",
+            "translated_transcript": "Bampur Me Ho Me Ho Ho Bhilai Power Me Ho Tumhara Me Kahi Ho",
+            "tone": "Neutral",
+            "rate_of_speech": "98.25",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bampur",
+                "ho",
+                "ho ho bhilai power",
+                "ho tumhara",
+                "kahi ho"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.2713",
+            "end_time": "5.3201",
+            "original_transcript": "मैं पहुँच जाऊंगा क्योंकि मैं दिल्ली से आया हुआ हूँ",
+            "translated_transcript": "Main Pahunch Jaunga Kyonki Main Delhi Se Aya Hua Hun",
+            "tone": "Neutral",
+            "rate_of_speech": "204.78",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "pahunch jaunga kyonki",
+                "delhi se aya hua hun"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.3385",
+            "end_time": "5.3995",
+            "original_transcript": "एक ही बेटी मेरी बेटी से बहुत प्यार करता हूँ ढाई साल की है",
+            "translated_transcript": "Ek hi Beti Meri Beti Se Most Pyar Karta Hun Dhai Sal Ki Hai",
+            "tone": "Neutral",
+            "rate_of_speech": "229.45",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ek",
+                "beti meri beti se",
+                "pyar karta hun dhai sal ki hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.41",
+            "end_time": "5.4537",
+            "original_transcript": "शादी के सत्ताईस साल पीछे हुई है मेरी बेटी",
+            "translated_transcript": "Shadi Ke Sattais Sal Piche Hui Hai Mary Beti",
+            "tone": "Neutral",
+            "rate_of_speech": "206.11",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "shadi ke sattais sal piche hui hai mary beti"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.4625",
+            "end_time": "5.6498",
+            "original_transcript": "पूरा data दे सकता हूँ पूरा data सत्ताईस साल पीछे हुई है अगर इसको इस से खाने से हुआ है तो मैं उसकी तक जाऊंगा उसको तह तक जाऊंगा क्यों होना चाहिए मेरा",
+            "translated_transcript": "Pura data de sakta ho pura data sattaais sal ago hui hai ar isco is se khane se hua hai to main uski tak jaunga ta tak jaunga kho ona chahiye mera",
+            "tone": "Neutral",
+            "rate_of_speech": "170.83",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "pura",
+                "sakta ho pura data sattaais sal",
+                "hui hai ar isco",
+                "se khane se hua hai",
+                "main uski tak jaunga ta tak jaunga kho ona chahiye mera"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.6597",
+            "end_time": "5.7048",
+            "original_transcript": "सब कुछ खत्म हो गया लेकिन जाऊंगा दस में",
+            "translated_transcript": "Sab Kuch Khatma Ho Gaya Lekin Jaunga Das Mein",
+            "tone": "Neutral",
+            "rate_of_speech": "199.19",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sab kuch khatma ho gaya lekin jaunga das mein"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.7472",
+            "end_time": "5.8045",
+            "original_transcript": "ठीक है sir आप line पे रहिए मैं आपको कल दो minute hold पे रख सकता हूँ",
+            "translated_transcript": "Ok hai sir up line pe rahiye main apco cal du minute hold pe rakh sakta hoon",
+            "tone": "Neutral",
+            "rate_of_speech": "296.51",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok",
+                "hai sir",
+                "line pe rahiye",
+                "main apco cal du minute hold pe rakh sakta hoon"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.8152",
+            "end_time": "5.836",
+            "original_transcript": "हाँ ठीक है कोई issue नहीं",
+            "translated_transcript": "Ha ok hai no issue",
+            "tone": "Neutral",
+            "rate_of_speech": "240.00",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ha",
+                "ok hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.836",
+            "end_time": "5.8408",
+            "original_transcript": "है",
+            "translated_transcript": "Hai",
+            "tone": "Neutral",
+            "rate_of_speech": "206.90",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.8615",
+            "end_time": "5.8738",
+            "original_transcript": "Line पे है",
+            "translated_transcript": "Line Pay Hai",
+            "tone": "Neutral",
+            "rate_of_speech": "243.57",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pay hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.8928",
+            "end_time": "5.9335",
+            "original_transcript": "packet में किसी को नहीं दूंगा packet में रखा हुआ हूँ",
+            "translated_transcript": "What is wrong in the packet? Keep it in the packet",
+            "tone": "Sad",
+            "rate_of_speech": "270.49",
+            "emotion": "curiosity",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "keep"
+            ]
+        }
+    ],
+    "translated_segments": "Thank you for calling IC This is how I can help you sir ye cut the phone why there was no reason why I cut the bar-bar phone, keep cutting the phone, don't listen to me if I cut the phone, why don't you talk? Kailash ji okay check me wait Kijie sir Wo transfer to concern agent ok He was talking about phone cuts and there was no reason why he was going to the phone. sir main no cut kiya sir main details check sir a minute wait kejia Ha ok hai koi dickat hai a minute or a bell wait a minute or an issue No, Hai Good evening sir line Pe rahne ke lia Thank you for your call cut if you have a network problem that subtracts your complaint by registering your complaint, each team who has an agent at home to send you a packet to return your message to us. Test Kar Sake Aur Apko Jo Hai Usi Time Pe Hamari Team Ke Tour Per New Packet Apco Denge Use Aap Le Legiega please He is involved in the main complaint process. key Hamare agent Aange Wo Packet Lane Ap Wo Packet Dijiega Main packet is the same as the issue of the main packet is the same as the main packet is the same as the factory where the main plant is. plant that you don't know exactly how to do it How can you say that if you have a package lane, how can you say that the package has been taken away from me? Bhejenge De sakte hai The agent is going to go to Bangalore to collect the packet and collect the packet and check it out. Karenge in factory Kidhar Kasundhara in Bangalore or Kidhar Hai in Bangalore Be at exactly the factory and see what batch number is mine No hai main that full batch number apko bar code or batch number ka full whatsapp kia hua hai and main two left side ka right side ka two ka whatsapp kia hua hai and up islands ka bhi jo side effect hua hai wo whatsapp kia hua hai see If you complain to register, you have seen your house per agent that you can collect your package. in the lab Bhej ke test Karenge Uska problem to solve Karenge and Apko a new packet dia giveaway as a goodation ke tour per sir It is me who has two or two side effects and one side effect. No it was sir all product co um quality test most of the time it goes wrong or there is a problem with this packet. Ram Se Aisa hi isa hi ha un bar apne manager ke under wo IMT manager me company juice wali company ok hai Jo bhi production down ten rupees k juice ka packet banati hai twenty rupees ka thirty ka fifty ml ka sa sa ml ka dhai sa ml juice banati hai ok hai to usme issue hua issue hua to hamko borrow He ham full check what he check what he drum how he is manga ha ha ha lichi Uska iska sporting who was wearing a cover that was covered with plastic and an under cover. Pahra Hua Hai In the upper head of the body, no hair cap, no gloves, no underwear, no job, no job, no dust at all, no food, drink, drink, drink, do you want it in the lab. Se bhi kuch no hon chahiye pura AC Ok hai main loan ke dekha usko kanwar pani hua hai Borrow the goods stay last in the last three hours, wait for the goods to stay in the last three hours. Come Kar Raha Hai Aisa Chalta Hai He looks at Sir Mary Bat Suniye Apko request hai ki muze down upne plant ka address dal dijia bus Ten thousand plants on my date are open to me and my team in many places Bampur Me Ho Me Ho Ho Bhilai Power Me Ho Tumhara Me Kahi Ho Main Pahunch Jaunga Kyonki Main Delhi Se Aya Hua Hun Ek hi Beti Meri Beti Se Most Pyar Karta Hun Dhai Sal Ki Hai Shadi Ke Sattais Sal Piche Hui Hai Mary Beti Pura data de sakta ho pura data sattaais sal ago hui hai ar isco is se khane se hua hai to main uski tak jaunga ta tak jaunga kho ona chahiye mera Sab Kuch Khatma Ho Gaya Lekin Jaunga Das Mein Ok hai sir up line pe rahiye main apco cal du minute hold pe rakh sakta hoon Ha ok hai no issue Hai Line Pay Hai What is wrong in the packet? Keep it in the packet ",
+    "speaker_a_segments": "Thank you for calling IC This is how I can help you Kailash ji okay check me wait Kijie sir Wo transfer to concern agent ok sir main no cut kiya sir main details check sir a minute wait kejia No, Hai Good evening sir line Pe rahne ke lia Thank you for your call cut if you have a network problem that subtracts your complaint by registering your complaint, each team who has an agent at home to send you a packet to return your message to us. Test Kar Sake Aur Apko Jo Hai Usi Time Pe Hamari Team Ke Tour Per New Packet Apco Denge Use Aap Le He is involved in the main complaint process. Hamare agent Aange Wo Packet Lane Ap Wo Packet Dijiega plant that you don't know exactly how to do it Bhejenge The agent is going to go to Bangalore to collect the packet and collect the packet and check it out. Be at exactly the factory and see what batch number is mine If you complain to register, you have seen your house per agent that you can collect your package. Bhej ke test Karenge Uska problem to solve Karenge and Apko a new packet dia giveaway as a goodation ke tour per sir No it was sir all product co um quality test most of the time it goes wrong or there is a problem with this packet. Ram Se Ok hai sir up line pe rahiye main apco cal du minute hold pe rakh sakta hoon Hai Line Pay Hai ",
+    "speaker_b_segments": "sir ye cut the phone why there was no reason why I cut the bar-bar phone, keep cutting the phone, don't listen to me if I cut the phone, why don't you talk? He was talking about phone cuts and there was no reason why he was going to the phone. Ha ok hai koi dickat hai a minute or a bell wait a minute or an issue Legiega please key Main packet is the same as the issue of the main packet is the same as the main packet is the same as the factory where the main plant is. How can you say that if you have a package lane, how can you say that the package has been taken away from me? De sakte hai Karenge in factory Kidhar Kasundhara in Bangalore or Kidhar Hai in Bangalore No hai main that full batch number apko bar code or batch number ka full whatsapp kia hua hai and main two left side ka right side ka two ka whatsapp kia hua hai and up islands ka bhi jo side effect hua hai wo whatsapp kia hua hai see in the lab It is me who has two or two side effects and one side effect. Aisa hi isa hi ha un bar apne manager ke under wo IMT manager me company juice wali company ok hai Jo bhi production down ten rupees k juice ka packet banati hai twenty rupees ka thirty ka fifty ml ka sa sa ml ka dhai sa ml juice banati hai ok hai to usme issue hua issue hua to hamko borrow He ham full check what he check what he drum how he is manga ha ha ha lichi Uska iska sporting who was wearing a cover that was covered with plastic and an under cover. Pahra Hua Hai In the upper head of the body, no hair cap, no gloves, no underwear, no job, no job, no dust at all, no food, drink, drink, drink, do you want it in the lab. Se bhi kuch no hon chahiye pura AC Ok hai main loan ke dekha usko kanwar pani hua hai Borrow the goods stay last in the last three hours, wait for the goods to stay in the last three hours. Come Kar Raha Hai Aisa Chalta Hai He looks at Sir Mary Bat Suniye Apko request hai ki muze down upne plant ka address dal dijia bus Ten thousand plants on my date are open to me and my team in many places Bampur Me Ho Me Ho Ho Bhilai Power Me Ho Tumhara Me Kahi Ho Main Pahunch Jaunga Kyonki Main Delhi Se Aya Hua Hun Ek hi Beti Meri Beti Se Most Pyar Karta Hun Dhai Sal Ki Hai Shadi Ke Sattais Sal Piche Hui Hai Mary Beti Pura data de sakta ho pura data sattaais sal ago hui hai ar isco is se khane se hua hai to main uski tak jaunga ta tak jaunga kho ona chahiye mera Sab Kuch Khatma Ho Gaya Lekin Jaunga Das Mein Ha ok hai no issue What is wrong in the packet? Keep it in the packet ",
+    "summary": "The customer wants to know the status of their package which they claim has been wrongly delivered to them and wants to know when the issue will be resolved. The agent tries to help the customer by requesting the customer's details, however, the customer becomes agitated and starts shouting. The agent then tries to explain the complaint process and that they will send an agent to collect the package from the customer and investigate the issue. The agent also informs the customer that the package will be tested in a lab and that they might receive a new package. The customer is frustrated and wants a more expedient solution and is also upset that the agent is not able to provide more details on the package's location. The agent tries to be as helpful as possible and suggests that the customer register their complaint, and that they will send an agent to their house to collect the package. The customer is not satisfied with this and demands a more immediate solution.",
+    "speaker_a_summary": "Kijie calls IC to address an issue with a product he received. He is informed that a new packet will be sent to him and that an agent will come to collect the old one. Kijie wants to know if the agent can inspect the product at the factory, and is told that the agent can collect the packet and send it to Bangalore for inspection and that he will receive a new packet thereafter. Kijie objects that the products are not of good quality and that the issue is not resolved. The call ends with Kijie being told to hold.",
+    "speaker_b_summary": "The narrator is having a dispute with a manager regarding a packet that went missing in a factory in Bangalore. The narrator is very frustrated and raises his voice many times throughout the conversation. He keeps repeating some phrases, like \"main packet\", \"batch number\", and \"whatsapp\", indicating that he wants to find a solution and get the issue resolved. He also mentions some irregularities in the factory, such as the lack of personal protection equipment (PPE) for the workers and the presence of a \"company juice\" which is sold for various prices in the same factory. At the end of the recording, it is not clear if the issue was resolved or not.",
+    "cohere_points": "- Customer wants to know where his package is and why it was taken away\n- Agent will investigate and update the customer soon\n- Customer wants the package to be checked in the factory in kasundhara, bangalore\n- Agent will transfer the customer to the concern agent\n- Customer is told to wait as the agent is transferring the call",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "1. Phone cuts issue\n2. Transferring to agent\n3. Checking details\n4. Network problem complaint\n5. Returning message packet\n6. Agent involvement\n7. Complaint process\n8. Problem resolution\n9. Batch number inquiry\n10. Quality testing\n11. Production issue\n12. Factory location\n13. Product quality\n14. Complaint registration\n15. Address inquiry",
+    "Resolution": "The customer's issue is not resolved as they are still facing problems with the quality of the product and are seeking assistance to address the concerns.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "No\n\nExplanation: There are no clear instances where the caller displayed empathy towards the person they were speaking with in the conversation provided. The conversation primarily revolves around discussing issues with a product and logistical details, lacking expressions of genuine empathy or understanding towards the other person.",
+    "Was there any profanity on the call": "No",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 98.65100000000002,
+    "num_silences": 75
+}

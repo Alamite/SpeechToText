@@ -1,0 +1,858 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0",
+            "end_time": "0.0098",
+            "original_transcript": "ಹಾ",
+            "translated_transcript": "Ha",
+            "tone": "Neutral",
+            "rate_of_speech": "101.87",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ha"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0355",
+            "end_time": "0.0978",
+            "original_transcript": "Hello thank you for calling ITC my name is vikram how may I help you today",
+            "translated_transcript": "Hello thank you for calling ITC my name is vikram how can I help you today",
+            "tone": "Neutral",
+            "rate_of_speech": "256.75",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "itc"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.1075",
+            "end_time": "0.118",
+            "original_transcript": "okay sir ನಮಸ್ತೆ",
+            "translated_transcript": "okay sir Namaste",
+            "tone": "Neutral",
+            "rate_of_speech": "285.71",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay sir",
+                "namaste"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.1295",
+            "end_time": "0.1342",
+            "original_transcript": "ನಮಸ್ತೆ",
+            "translated_transcript": "Namaste",
+            "tone": "Neutral",
+            "rate_of_speech": "213.52",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "namaste"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.1868",
+            "end_time": "0.2118",
+            "original_transcript": "ಕನ್ನಡ language",
+            "translated_transcript": "Kannada language",
+            "tone": "Neutral",
+            "rate_of_speech": "80.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "kannada"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.2203",
+            "end_time": "0.283",
+            "original_transcript": "Hindi is comfortable and ಕನ್ನಡ English also so which language are you comfortable",
+            "translated_transcript": "Hindi is comfortable and Kannada English also so which language are you comfortable",
+            "tone": "Happy",
+            "rate_of_speech": "207.50",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "hindi",
+                "kannada english"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.2917",
+            "end_time": "0.2996",
+            "original_transcript": "ಕನ್ನಡ",
+            "translated_transcript": "Kannada",
+            "tone": "Neutral",
+            "rate_of_speech": "125.26",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "kannada"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.3157",
+            "end_time": "0.3242",
+            "original_transcript": "okay",
+            "translated_transcript": "ok",
+            "tone": "Neutral",
+            "rate_of_speech": "117.65",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.3363",
+            "end_time": "0.6686",
+            "original_transcript": "okay sir ನನಗಿಲ್ಲಿ ನರಸಿಂಹರಾಜ ಶ್ರೀ ಸ್ವಾಮಿ ನಮ್ಮ outlet ಹೇಳಿ ನನಗೆ ನಿಮ್ಮ ITC ಅವರದು ಬಾಳೆನದು supply ಬರ್ತಾ ಇದೆ ಅವರದು ಪ್ರತಿ ಸಲಾನೂ ಅಷ್ಟೇ ಬಿಂಗ ದೊಡ್ಡದು ಕೇಳಿದ್ರೆ ಅವರು ನಾಲ್ಕು ಸಲ ಕೇಳಿದ್ರೆ ಒಂದು ಸಲ ಕೊಡ್ತಾರೆ ಅದು ನನಗೆ bill ಅಲ್ಲಿ ಬರಲ್ಲ bill ಅಲ್ಲಿ ಕೊಡೋದೇ ಇಲ್ಲ ಅವರು ಅದು bill ಅಂದ್ರೆ ಅದು ಬರೆದುಬಿಟ್ಟು ಕಳ್ಸ್ತಾರೆ pencil",
+            "translated_transcript": "okay sir i have narasimharaja shri swami our outlet tell me your ITC is banana supply berta is theirs every salon is just as big as big hear they have four hands listen to one shla kodstar it doesn't come to me bill there There is no code they are bill andre it is written by the scribe pencil",
+            "tone": "Neutral",
+            "rate_of_speech": "177.54",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay sir i",
+                "narasimharaja shri swami",
+                "itc",
+                "shla kodstar",
+                "bill andre",
+                "scribe pencil"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.6775",
+            "end_time": "1.0187",
+            "original_transcript": "ಅದಲ್ದೆ ಇವತ್ತು ಏನಾಗಿದೆ ಅಂದ್ರೆ ನನಗೆ bingo ನಾನು chilli ಒಂದು box ತಗೊಂಡಿದ್ದೆ ನನಗೆ ಪ್ರತಿಯೊಂದು ಅರ್ಧಕ್ಕರ್ಧ items ನನಗೆ ಬರಿ piece piece ಆಗಿರುವಂತ ತುಣು ಟುಣು items ನೇ ಕೊಟ್ಟಿದ್ದಾರೆ ನಾನು ಅದಕ್ಕೆ ನಾನು ಅದಿಕ್ಕೆ ಅವರಿಗೆ phone ಮಾಡಿ ಹೇಳ್ದೆ sir ನನಗೆ ತುಣುಣ ಕೆಲಸ ನನಗೆ use ಇಲ್ಲ sir ಅಂತ ಹೇಳಿದ್ದಕ್ಕೆ ತುಂಬಾ ತುಂಬಾ ಮಾತು ಗೊತ್ತಾಯ್ತು ನೀವು ನನಗೆ ಅಂಗಡಿ ವಾಪಾಸ್ ಕೊಡ್ರಿ ಹಾಗೆ ಹೀಗೆ ಅಂತ ತುಂಬಾ rad ಆಗಿ ಅಂದ್ರೆ ಸ್ವಲ್ಪ rash ಆಗಿ ಎಲ್ಲ ಮಾತಾಡಿದ್ರು",
+            "translated_transcript": "So what was this Andre gave me bingo i had a box of chilli i gave me half of the items each half of the items which is a bare piece to me i told him to call him for it sir i don't use it sir You know too much talk for what was said you like me shop vapas kodri so the ending is very rad as Andre a little rash all the talk",
+            "tone": "Neutral",
+            "rate_of_speech": "222.78",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "andre",
+                "bingo i",
+                "chilli i",
+                "bare piece",
+                "sir i",
+                "n't use",
+                "shop vapas kodri",
+                "andre"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.0438",
+            "end_time": "1.503",
+            "original_transcript": "ಮತ್ತೆ ಪ್ರತಿ ಸಲ ಅವರಿಗೆ items ಕೇಳಿದಾಗ ಅರ್ಧ ಕರ್ದ items ಇರೋದಿಲ್ಲ ಇಲ್ಲರಿ company ಇಂದ ಬಂದಿಲ್ಲರಿ ನಾವೇನ್ರಿ ಮಾಡೋದು ಅಂತ ಬಹಳ rude ಆಗೇ ಮಾತಾಡ್ತಿದಾರೆ ನಾನು ಅದಕ್ಕೆ ಅವರಿಗೆ ಅದನ್ನೇ ಹೇಳ್ದೆ ನಾನು customer ಗೆ ನನ್ನ ನಂದು shop ನ ಅಂಗಡಿಗೆ ಬಂದಿರೋ customer ಗೆ ನಾನು ಒಂದ್ಸಲ ಎರಡು ಸಲ ಇಲ್ಲಾ ಅಂದ್ರೆ ಮೂರನೇ ಸಲ ಅವರು customer ಬರಲ್ಲ ಅಂತ ಹೇಳಿದ್ರೆ ಅವ್ರು ನಮಗ್ ಗೊತ್ತಿಲ್ಲ ರೀ company ಅಂದ್ರೆ ತುಂಬಾ ಇದಾಗ ಮಾತಾಡಿದ್ರು plus ನನಿಗೆ ಇವತ್ತು ಕಳಿಸಿರಂತ items ಗಳಲ್ಲಿ ಅದ ಹೇಳಿದ್ನಲ್ಲ ಎಲ್ಲವೂ ತುಂಡು ತುಂಡು items ಗಳೇ ನಾನು ಅದಕ್ಕೆ ಅದು ಬೇಡ ಅಂತ ಹೇಳಿದ್ದಕ್ಕೆ ಇಲ್ಲ ನಿಮಗೆ ನಾವು ಮಾಲೆ ಹಾಕಲ್ಲ ಇನ್ನು ನೀವು items ಎಲ್ಲ ವಾಪಾಸ್ ಕೊಡ್ರಿ ಯಾವ್ದು ಮಾಲೆ ಹಾಕಲ್ಲ ಹಾಗೆ ಹೀಗೆ ಅಂತೆಲ್ಲ ತುಂಬಾ ಜೋರಾಗಿ ಮಾತಾಡಿದ್ರು",
+            "translated_transcript": "Every time they were asked for items, half the items were not there, they came from this company and the end was very rude. I told them the same thing I told them if I came to the store of the shop on my own. Third time they do not come to the end of the customer, I do not know the rest of the company Andre too much, but I did not say anything in the items that I sent here. You have not entered all the items in the Vapas Kodi So talk so loudly.",
+            "tone": "Neutral",
+            "rate_of_speech": "211.25",
+            "emotion": "annoyance",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "andre",
+                "vapas kodi"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.5308",
+            "end_time": "1.5415",
+            "original_transcript": "ಹೌದು",
+            "translated_transcript": "Yes",
+            "tone": "Neutral",
+            "rate_of_speech": "93.75",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.551",
+            "end_time": "1.9555",
+            "original_transcript": "ಅದಲ್ದೆ ನನಗೆ ನೋಡಿ ಅವರು ಪ್ರತಿ ಸಲನು ಅಷ್ಟೇ ನಾನು ಯಾವಾಗ ದೊಡ್ಡದು bingo ಕೇಳಿದ್ರೆ bingo ಅವರದು ಯಾವಾಗ್ಲೂ stock ಇಲ್ಲ so ಅವ್ರು ಕಳಿಸಿದಾಗ ನನಗೆ bill ಅಲ್ಲಿ ಕೊಡೋದೇ ಇಲ್ಲ ಬರಿ ಇದ್ರಲ್ಲೇ without bill ಅಲ್ಲೇ ಕೊಡೋದು ಅವ್ರು bingo ಗಳನ್ನ ಮತ್ತೆ ಆಶೀರ್ವಾದ almost ಎಲ್ಲದು ಅಷ್ಟೇ ನಂದು ಈಗ ನಾನು ಅದಕ್ಕೆ ಹೇಳ್ದೆ ನಂದು outlet ಗೆ ಬಂದಾಗ bill ಅಲ್ಲಿ ಇರುವಂತದ್ದು ಬರಿ ಒಂದು ಸಾವಿರ ಎರಡು ಸಾವಿರ ಮೂರು ಸಾವಿರ ತನಗೆ ಅಷ್ಟೇ ಇರೋದು ನಂದು ಪ್ರತಿ ಸಲ cigarette ಎಲ್ಲ ಸೇರಿ ಹೆಚ್ಚು ಕಮ್ಮಿ ಹತ್ತು ಸಾವಿರ ಹದಿನೈದು ಸಾವಿರ bill ಆಗುತ್ತೆ ಅವರದು bill legal bill ಇರೋದು ಬರಿ ಒಂದು ಸಾವಿರ ಎರಡು ಸಾವಿರ bill ಇರೋದು",
+            "translated_transcript": "So look at me they are every councillor that's when I hear big bingo their bingo is always no stock so when they send me a bill there is no bill there is no bare without bill There is a blessing again of avru bingo galan almost everything And now I told him that when he came to the outlet, the bill there would be a thousand two thousand three thousand three thousand for him that's the same for him every single cigarette added to all of them would be more than ten thousand fifteen thousand bill their bill legal bill Irodu bare one thousand two Thousand billion euros",
+            "tone": "Neutral",
+            "rate_of_speech": "269.46",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "big bingo",
+                "avru bingo galan",
+                "legal bill",
+                "irodu",
+                "thousand"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.9747",
+            "end_time": "1.9843",
+            "original_transcript": "okay",
+            "translated_transcript": "ok",
+            "tone": "Neutral",
+            "rate_of_speech": "103.63",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.994",
+            "end_time": "2.0948",
+            "original_transcript": "ಮತ್ತೆ dark metal ಅಷ್ಟೇ dark metal ಅಷ್ಟೇ certificate ಅಲ್ಲಿ ಕೇಳಿದಾಗ ನಾಲ್ಕು set ಕೇಳಿದ್ರೆ ಎರಡು set ಮಾತ್ರ bill ಅಲ್ಲಿ ಇರುತ್ತೆ ಎರಡು set pencil ಅಲ್ಲಿ ಇರುತ್ತೆ",
+            "translated_transcript": "Again dark metal same dark metal same certificate when asked there four set hear two set only bill will be there Two set pencil will be there",
+            "tone": "Neutral",
+            "rate_of_speech": "267.72",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "dark metal",
+                "dark metal"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.118",
+            "end_time": "2.299",
+            "original_transcript": "ಆ ಒಂದ್ ಕೆಲ್ಸ ಮಾಡೋಣ sir ನಿಮ್ ಒಂದ್ complaint raise ಮಾಡ್ತೀನಿ ನಮ್ consultant inform ಮಾಡ್ತೀನಿ okay problem ಇದೆ distributer ಹತ್ರ so ಇನ್ ಕೆಲಸ ಮಾಡೋಣ ಆ ನಿಮ್ details ಕೊಡಿ ನಿಮ್ ಹೆಸರು sir",
+            "translated_transcript": "Let's do that one call sir nim un complaint raise modtini num consultant inform modtini okay problem there is a distributer hatra so in let's work on that nimme details Give me name sir",
+            "tone": "Neutral",
+            "rate_of_speech": "187.85",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "sir nim un complaint",
+                "modtini num consultant",
+                "modtini okay problem",
+                "distributer hatra",
+                "'s work",
+                "nimme details",
+                "name sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.3088",
+            "end_time": "2.3348",
+            "original_transcript": "ಅನಿಲ್ ಕುಮಾರ್ ಅನಿಲ್ ಶೆಟ್ಟಿ ಅನಿಲ್ ಕುಮಾರ್",
+            "translated_transcript": "Anil Kumar Anil Shetty Anil Kumar",
+            "tone": "Neutral",
+            "rate_of_speech": "230.77",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "anil kumar anil shetty anil kumar"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.3585",
+            "end_time": "2.3863",
+            "original_transcript": "email ID use ಮಾಡ್ತೀರಾ",
+            "translated_transcript": "email ID use Modthira",
+            "tone": "Neutral",
+            "rate_of_speech": "143.71",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "id",
+                "modthira"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.4",
+            "end_time": "2.4473",
+            "original_transcript": "Anilty double nine double zero at gmail dot com",
+            "translated_transcript": "Anilty double nine double zero at gmail dot com",
+            "tone": "Neutral",
+            "rate_of_speech": "190.21",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "anilty",
+                "double zero",
+                "gmail dot com"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.4598",
+            "end_time": "2.4828",
+            "original_transcript": "ಅನಿಲ್ ಶೆಟ್ಟಿ",
+            "translated_transcript": "Anil Shetty",
+            "tone": "Neutral",
+            "rate_of_speech": "86.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "anil shetty"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.517",
+            "end_time": "2.5577",
+            "original_transcript": "double nine double double nine double zero",
+            "translated_transcript": "double nine double nine double zero",
+            "tone": "Neutral",
+            "rate_of_speech": "147.54",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "double zero"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.5577",
+            "end_time": "2.5665",
+            "original_transcript": "okay",
+            "translated_transcript": "ok",
+            "tone": "Neutral",
+            "rate_of_speech": "113.21",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.5756",
+            "end_time": "2.597",
+            "original_transcript": "at the rate gmail dot com",
+            "translated_transcript": "at the rate gmail dot com",
+            "tone": "Neutral",
+            "rate_of_speech": "281.03",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "rate gmail dot com"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.6272",
+            "end_time": "2.6495",
+            "original_transcript": "ಹೌದು ನಿಮ್ ಅಂಗಡಿ ಹೆಸರು sir",
+            "translated_transcript": "Yes Nim Store Name sir",
+            "tone": "Neutral",
+            "rate_of_speech": "223.88",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "nim store name"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.6606",
+            "end_time": "2.6838",
+            "original_transcript": "ಶ್ರೀ ಸ್ವಾಮಿ provision store",
+            "translated_transcript": "Sri Swami provision store",
+            "tone": "Neutral",
+            "rate_of_speech": "172.66",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sri swami",
+                "provision store"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.778",
+            "end_time": "2.7897",
+            "original_transcript": "address sir",
+            "translated_transcript": "adress sir",
+            "tone": "Neutral",
+            "rate_of_speech": "171.18",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "adress sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.8045",
+            "end_time": "2.8823",
+            "original_transcript": "ಬಿಎಚ್ ಕೈಮರ ಕೈಮರ main road NR ಪುರ",
+            "translated_transcript": "BH Kaimara Kaimara main road NR Pura",
+            "tone": "Neutral",
+            "rate_of_speech": "89.94",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "bh kaimara kaimara",
+                "main road",
+                "nr pura"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.953",
+            "end_time": "2.961",
+            "original_transcript": "pin code sir",
+            "translated_transcript": "pin code cheese",
+            "tone": "Neutral",
+            "rate_of_speech": "374.22",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pin code cheese"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.9753",
+            "end_time": "3.0073",
+            "original_transcript": "pin code five double seven one three four",
+            "translated_transcript": "pin code five double seven one three four",
+            "tone": "Neutral",
+            "rate_of_speech": "250.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pin code"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.046",
+            "end_time": "3.082",
+            "original_transcript": "three four Bangalore",
+            "translated_transcript": "three four Bangalore",
+            "tone": "Neutral",
+            "rate_of_speech": "83.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bangalore"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.0953",
+            "end_time": "3.1258",
+            "original_transcript": "ಅಲ್ಲಲ್ಲ five double seven one three four",
+            "translated_transcript": "not five double seven one three four",
+            "tone": "Neutral",
+            "rate_of_speech": "229.51",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.1525",
+            "end_time": "3.169",
+            "original_transcript": "city name sir",
+            "translated_transcript": "city name sir",
+            "tone": "Neutral",
+            "rate_of_speech": "181.82",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "city name sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.179",
+            "end_time": "3.2088",
+            "original_transcript": "yes sir city name",
+            "translated_transcript": "yes sir city name",
+            "tone": "Neutral",
+            "rate_of_speech": "134.15",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "yes sir city name"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.2205",
+            "end_time": "3.241",
+            "original_transcript": "village ತಾಲೂಕು",
+            "translated_transcript": "village Taluku",
+            "tone": "Neutral",
+            "rate_of_speech": "97.48",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "taluku"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.2523",
+            "end_time": "3.2992",
+            "original_transcript": "ತಾಲೂಕು ನರಸಿಂಹರಾಜಪುರ ಪುರ ನರಸಿಂಹರಾಜಪುರ",
+            "translated_transcript": "Taluk Narasimharajpur Narasimharajpur",
+            "tone": "Neutral",
+            "rate_of_speech": "64.06",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "taluk narasimharajpur narasimharajpur"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.3312",
+            "end_time": "3.3925",
+            "original_transcript": "distributor ಇದ್ಯಲ್ಲ ಅವ್ನು agency name ಏನು ಅಂತ ಗೊತ್ತಾ sir ನಿಮ್ಗೆ",
+            "translated_transcript": "There is no distributor, no agency name, do you know what the end is Sir Nim",
+            "tone": "Neutral",
+            "rate_of_speech": "260.80",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "agency name",
+                "sir nim"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.4037",
+            "end_time": "3.4131",
+            "original_transcript": "distributor",
+            "translated_transcript": "distribuïdor",
+            "tone": "Neutral",
+            "rate_of_speech": "105.45",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.4492",
+            "end_time": "3.6285",
+            "original_transcript": "distributor enterprises enterprises ಅನ್ನಪೂರ್ಣ ನಿಲಯ ಕೊಪ್ಪ main road ಬಾಳೆಹೊನ್ನೂರು five double seven one",
+            "translated_transcript": "distributor enterprises enterprises Annapurna Nilaya Koppa main road Balehonuru five double seven one",
+            "tone": "Neutral",
+            "rate_of_speech": "72.48",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "distributor enterprises enterprises",
+                "annapurna nilaya koppa",
+                "main road",
+                "balehonuru"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.6418",
+            "end_time": "3.648",
+            "original_transcript": "one two",
+            "translated_transcript": "one two",
+            "tone": "Neutral",
+            "rate_of_speech": "323.45",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.66",
+            "end_time": "3.7378",
+            "original_transcript": "ಇವತ್ತು ಬಂದಿದೆ",
+            "translated_transcript": "It's here",
+            "tone": "Neutral",
+            "rate_of_speech": "25.70",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.746",
+            "end_time": "3.8946",
+            "original_transcript": "ಅದನ್ನೇ ಹೇಳಿದ್ನಲ್ಲ ಮತ್ತೆ ನನಗೆ ಅವ್ರು stand ಕೊಟ್ಟಿದಾರೆ stand ಕೊಟ್ಟು ಈಗ already three years ಆಯ್ತು so ಇವತ್ತು ನಿಮ್ದು stand ಎಲ್ಲ ವಾಪಾಸ್ ಕೊಡಿ ಹಾಗೆ ಹೀಗೆ ಅಂದ್ರು ನನಗೆ bingo items ಗಳನ್ನ ಕೊಡ್ತಾನೆ ಇಲ್ಲ ಅವ್ರು",
+            "translated_transcript": "I didn't say the same thing again they gave me a stand and now it's been three years so there was a stand all the way back so that Andrau gave me no gift of bingo items.",
+            "tone": "Neutral",
+            "rate_of_speech": "248.88",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "andrau",
+                "bingo items"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.9083",
+            "end_time": "3.9323",
+            "original_transcript": "ಹೊಡೆತನ",
+            "translated_transcript": "Punch",
+            "tone": "Neutral",
+            "rate_of_speech": "41.67",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "punch"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.9323",
+            "end_time": "4.1303",
+            "original_transcript": "ಇಲ್ಲ ಅಂದ್ರೆ ಅದೇ ಹೇಳಿದ್ನಲ್ಲ sir ಒಂದು ಎರಡು ಸಲ ದೊಡ್ಡದು box ಹೇಳಿದ್ರೆ ಬರಿ ಹತ್ತು piece ಕಳಿಸುತ್ತಾರೆ ಅದು without bill ಕೇಳ್ದೆ ಯಾಕೆ ನೀವು without bill ಕಳಿಸ without bill ಕಳ್ಸೋಕೆ ಆಗೋದು with bill ಕಳ್ಸೋಕೆ ಆಗಲ್ಲ ಅದು ಅಂತಾರೆ so ಅದನ್ನ ಅದೇನು ಅಂತಾನೆ ಅರ್ಥ ಆಗ್ತಾ",
+            "translated_transcript": "No Andre didn't say the same sir one two times the big box he spends ten pieces naked that without bill I asked why you can steal without bill without bill with bill is not cheating with bill it's not so much so that's what that means Agta",
+            "tone": "Neutral",
+            "rate_of_speech": "242.42",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "andre",
+                "big box",
+                "agta"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.1303",
+            "end_time": "4.1353",
+            "original_transcript": "ಇಲ್ಲ",
+            "translated_transcript": "No",
+            "tone": "Neutral",
+            "rate_of_speech": "200.67",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.1603",
+            "end_time": "4.3548",
+            "original_transcript": "ಸರಿ sir ನಮ್ team ಗೆ inform ಮಾಡ್ತಿನಲ್ಲ so ನಮ್ team check ಮಾಡ್ಕೊಂಡ್ ನಿಮ್ಗೆ call ಮಾಡ್ತಾರೆ direct so ಮಾತಾಡಿ ಆ nine four eight zero zero three nine three one four",
+            "translated_transcript": "Okay sir we didn't inform the team so we team check modcond would call you direct so talk that nine four eight zero zero three nine three one four",
+            "tone": "Neutral",
+            "rate_of_speech": "149.09",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay",
+                "team check modcond",
+                "zero zero"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.3728",
+            "end_time": "4.3757",
+            "original_transcript": "sir correct",
+            "translated_transcript": "sir correct",
+            "tone": "Neutral",
+            "rate_of_speech": "701.75",
+            "emotion": "approval",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.387",
+            "end_time": "4.4208",
+            "original_transcript": "okay so",
+            "translated_transcript": "okay so",
+            "tone": "Neutral",
+            "rate_of_speech": "59.11",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.4315",
+            "end_time": "4.6145",
+            "original_transcript": "ಧನ್ಯವಾದ sir ನೀವು ಮಾಡಿದ್ರೆ ಈ complaint number ಕೊಡ್ತೀನಿ",
+            "translated_transcript": "Thank you sir you have made this complaint number Kodthini",
+            "tone": "Neutral",
+            "rate_of_speech": "54.65",
+            "emotion": "gratitude",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "thank",
+                "complaint number",
+                "kodthini"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.6235",
+            "end_time": "4.6405",
+            "original_transcript": "ಒಂದು ನಿಮಿಷ ಸರ್",
+            "translated_transcript": "One minute, sir.",
+            "tone": "Neutral",
+            "rate_of_speech": "176.64",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.6608",
+            "end_time": "4.6732",
+            "original_transcript": "ಹಾ ಹೇಳಿ",
+            "translated_transcript": "Say yes",
+            "tone": "Neutral",
+            "rate_of_speech": "161.94",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "say"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.6848",
+            "end_time": "4.7012",
+            "original_transcript": "one seven six",
+            "translated_transcript": "one seven six",
+            "tone": "Neutral",
+            "rate_of_speech": "183.49",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.711",
+            "end_time": "4.7267",
+            "original_transcript": "one seven six",
+            "translated_transcript": "one seven six",
+            "tone": "Neutral",
+            "rate_of_speech": "191.49",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.7335",
+            "end_time": "4.7473",
+            "original_transcript": "zero zero",
+            "translated_transcript": "zero zero",
+            "tone": "Neutral",
+            "rate_of_speech": "144.75",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "zero zero"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.7555",
+            "end_time": "4.7673",
+            "original_transcript": "zero",
+            "translated_transcript": "Null",
+            "tone": "Neutral",
+            "rate_of_speech": "84.39",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "null"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.7675",
+            "end_time": "4.7843",
+            "original_transcript": "zero four one",
+            "translated_transcript": "zero four one",
+            "tone": "Neutral",
+            "rate_of_speech": "178.22",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.8017",
+            "end_time": "4.8203",
+            "original_transcript": "okay sir",
+            "translated_transcript": "okay cheese",
+            "tone": "Neutral",
+            "rate_of_speech": "107.14",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay cheese"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.833",
+            "end_time": "4.841",
+            "original_transcript": "okay",
+            "translated_transcript": "ok",
+            "tone": "Neutral",
+            "rate_of_speech": "125.26",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.8488",
+            "end_time": "4.8503",
+            "original_transcript": "thank",
+            "translated_transcript": "takk",
+            "tone": "Neutral",
+            "rate_of_speech": "666.67",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.8503",
+            "end_time": "4.9368",
+            "original_transcript": "you ಧನ್ಯವಾದ sir welcome",
+            "translated_transcript": "thank you sir welcome",
+            "tone": "Happy",
+            "rate_of_speech": "46.24",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": []
+        }
+    ],
+    "translated_segments": "Ha Hello thank you for calling ITC my name is vikram how can I help you today okay sir Namaste Namaste Kannada language Hindi is comfortable and Kannada English also so which language are you comfortable Kannada ok okay sir i have narasimharaja shri swami our outlet tell me your ITC is banana supply berta is theirs every salon is just as big as big hear they have four hands listen to one shla kodstar it doesn't come to me bill there There is no code they are bill andre it is written by the scribe pencil So what was this Andre gave me bingo i had a box of chilli i gave me half of the items each half of the items which is a bare piece to me i told him to call him for it sir i don't use it sir You know too much talk for what was said you like me shop vapas kodri so the ending is very rad as Andre a little rash all the talk Every time they were asked for items, half the items were not there, they came from this company and the end was very rude. I told them the same thing I told them if I came to the store of the shop on my own. Third time they do not come to the end of the customer, I do not know the rest of the company Andre too much, but I did not say anything in the items that I sent here. You have not entered all the items in the Vapas Kodi So talk so loudly. Yes So look at me they are every councillor that's when I hear big bingo their bingo is always no stock so when they send me a bill there is no bill there is no bare without bill There is a blessing again of avru bingo galan almost everything And now I told him that when he came to the outlet, the bill there would be a thousand two thousand three thousand three thousand for him that's the same for him every single cigarette added to all of them would be more than ten thousand fifteen thousand bill their bill legal bill Irodu bare one thousand two Thousand billion euros ok Again dark metal same dark metal same certificate when asked there four set hear two set only bill will be there Two set pencil will be there Let's do that one call sir nim un complaint raise modtini num consultant inform modtini okay problem there is a distributer hatra so in let's work on that nimme details Give me name sir Anil Kumar Anil Shetty Anil Kumar email ID use Modthira Anilty double nine double zero at gmail dot com Anil Shetty double nine double nine double zero ok at the rate gmail dot com Yes Nim Store Name sir Sri Swami provision store adress sir BH Kaimara Kaimara main road NR Pura pin code cheese pin code five double seven one three four three four Bangalore not five double seven one three four city name sir yes sir city name village Taluku Taluk Narasimharajpur Narasimharajpur There is no distributor, no agency name, do you know what the end is Sir Nim distribuïdor distributor enterprises enterprises Annapurna Nilaya Koppa main road Balehonuru five double seven one one two It's here I didn't say the same thing again they gave me a stand and now it's been three years so there was a stand all the way back so that Andrau gave me no gift of bingo items. Punch No Andre didn't say the same sir one two times the big box he spends ten pieces naked that without bill I asked why you can steal without bill without bill with bill is not cheating with bill it's not so much so that's what that means Agta No Okay sir we didn't inform the team so we team check modcond would call you direct so talk that nine four eight zero zero three nine three one four sir correct okay so Thank you sir you have made this complaint number Kodthini One minute, sir. Say yes one seven six one seven six zero zero Null zero four one okay cheese ok takk thank you sir welcome ",
+    "speaker_a_segments": "Ha Hello thank you for calling ITC my name is vikram how can I help you today Namaste Hindi is comfortable and Kannada English also so which language are you comfortable ok Yes ok Let's do that one call sir nim un complaint raise modtini num consultant inform modtini okay problem there is a distributer hatra so in let's work on that nimme details Give me name sir email ID use Modthira Anil Shetty ok Yes Nim Store Name sir adress sir pin code cheese three four Bangalore city name sir yes sir city name village Taluku There is no distributor, no agency name, do you know what the end is Sir Nim distribuïdor one two It's here Punch No Okay sir we didn't inform the team so we team check modcond would call you direct so talk that nine four eight zero zero three nine three one four okay so Thank you sir you have made this complaint number Kodthini one seven six zero zero zero four one ok thank you sir welcome ",
+    "speaker_b_segments": "okay sir Namaste Kannada language Kannada okay sir i have narasimharaja shri swami our outlet tell me your ITC is banana supply berta is theirs every salon is just as big as big hear they have four hands listen to one shla kodstar it doesn't come to me bill there There is no code they are bill andre it is written by the scribe pencil So what was this Andre gave me bingo i had a box of chilli i gave me half of the items each half of the items which is a bare piece to me i told him to call him for it sir i don't use it sir You know too much talk for what was said you like me shop vapas kodri so the ending is very rad as Andre a little rash all the talk Every time they were asked for items, half the items were not there, they came from this company and the end was very rude. I told them the same thing I told them if I came to the store of the shop on my own. Third time they do not come to the end of the customer, I do not know the rest of the company Andre too much, but I did not say anything in the items that I sent here. You have not entered all the items in the Vapas Kodi So talk so loudly. So look at me they are every councillor that's when I hear big bingo their bingo is always no stock so when they send me a bill there is no bill there is no bare without bill There is a blessing again of avru bingo galan almost everything And now I told him that when he came to the outlet, the bill there would be a thousand two thousand three thousand three thousand for him that's the same for him every single cigarette added to all of them would be more than ten thousand fifteen thousand bill their bill legal bill Irodu bare one thousand two Thousand billion euros Again dark metal same dark metal same certificate when asked there four set hear two set only bill will be there Two set pencil will be there Anil Kumar Anil Shetty Anil Kumar Anilty double nine double zero at gmail dot com double nine double nine double zero at the rate gmail dot com Sri Swami provision store BH Kaimara Kaimara main road NR Pura pin code five double seven one three four not five double seven one three four Taluk Narasimharajpur Narasimharajpur distributor enterprises enterprises Annapurna Nilaya Koppa main road Balehonuru five double seven one I didn't say the same thing again they gave me a stand and now it's been three years so there was a stand all the way back so that Andrau gave me no gift of bingo items. No Andre didn't say the same sir one two times the big box he spends ten pieces naked that without bill I asked why you can steal without bill without bill with bill is not cheating with bill it's not so much so that's what that means Agta sir correct One minute, sir. Say yes one seven six Null okay cheese takk ",
+    "summary": "The caller is unhappy with the service they have received from an employee of ITC named Andre. The caller was sold items that were not properly billed, and when they asked questions, the employee was rude and dismissive. The caller wants to make a complaint and seeks help in having the issue resolved. They are given a complaint number and informed that a team will call them directly.",
+    "speaker_a_summary": "The caller, Nim, wants to file a complaint regarding a lack of distributor coverage in their area. Nim is informed that the appropriate team will call them back directly to assist, and provides contact information. The call ends with a confirmation of the complaint number, and a welcome from the representative, Vikram.",
+    "speaker_b_summary": "The narrator is upset with the behavior of the staff of the provision store owned by Narasimharaja Swami, especially a person named Andre, as during the last two times the narrator visited the store, half the items were not there and Andre was very rude to the narrator. The narrator warns Swami that if the service does not improve, the narrator will take the complain to the higher authorities of the company that supplies the goods to the store. The narrator also gives Swami their contact information.",
+    "cohere_points": "- Customer is unhappy with the service they are receiving from an employee at an ITC banana supply store.\n- Customer is filing a complaint, and is giving background information about the situation.\n- Employee is not billing properly and is rude, and the customer wants this to be rectified.\n- Customer is awaiting a call from the MODCON team to take further action.",
+    "opening_comments": "Yes",
+    "closing_comments": "No",
+    "Topic": "1. Language preference: Kannada, Hindi, English\n2. Customer service: Outlet experience, rude behavior\n3. Billing issue: Missing items, no bill\n4. Complaint registration: Distributor details\n5. Contact information: Name, email, store address\n6. Distributor details: Enterprises, Annapurna Nilaya\n7. Store location: Bangalore, village, taluk\n8. Stand gift: No billing, missing items\n9. Repeated complaints: Billing",
+    "Resolution": "Based on the conversation provided, it appears that the customer's issue has not been resolved as they have raised a complaint regarding billing discrepancies and the lack of items supplied by the distributor.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "Yes. The caller displayed empathy by actively listening to the customer's concerns, acknowledging their frustration, and offering to address the issue by informing the team to check and call the customer directly.",
+    "Was there any profanity on the call": "No",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 88.04199999999993,
+    "num_silences": 81
+}

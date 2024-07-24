@@ -1,0 +1,741 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0758",
+            "end_time": "0.0888",
+            "original_transcript": "ഹലോ",
+            "translated_transcript": "Hello.",
+            "tone": "Neutral",
+            "rate_of_speech": "77.02",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.1366",
+            "end_time": "0.1945",
+            "original_transcript": "ഗുഡ് മോർണിങ് വെൽക്കം ഐ ടി സി മേന",
+            "translated_transcript": "Good Morning Welcome ITC Mena",
+            "tone": "Happy",
+            "rate_of_speech": "86.43",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "morning welcome itc mena"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.2088",
+            "end_time": "0.3118",
+            "original_transcript": "അലോ നമ്മളെയും ആകെ വടിക്കുന്നതിനാണ് സമ്മാനം കിട്ടും മലയാളം",
+            "translated_transcript": "Alas, we will be rewarded for making us whole, Malayalam",
+            "tone": "Sad",
+            "rate_of_speech": "97.09",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "alas",
+                "malayalam"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.3332",
+            "end_time": "0.3447",
+            "original_transcript": "മലയാളം",
+            "translated_transcript": "Malayalam",
+            "tone": "Neutral",
+            "rate_of_speech": "86.83",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "malayalam"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.3823",
+            "end_time": "0.3992",
+            "original_transcript": "അൽപം മലയാളാണ്",
+            "translated_transcript": "He is a bit of a sailor.",
+            "tone": "Neutral",
+            "rate_of_speech": "415.84",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.5073",
+            "end_time": "0.5373",
+            "original_transcript": "മലയാളമാണ് ഞാൻ പറഞ്ഞത്",
+            "translated_transcript": "Malayalam is what I said.",
+            "tone": "Neutral",
+            "rate_of_speech": "166.67",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "malayalam"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.0352",
+            "end_time": "1.1275",
+            "original_transcript": "നമസ്കാരം സർജൻ ഐ ടി സി കമ്പാങ്ക്യു ഫോർ ഗോളിംഗ് ഐടി സി ദിസ് ഇൻസ് സൌ മെൽ",
+            "translated_transcript": "Namaskaram Surgeon ITC Compendium For Goaling IT C Dis In Sau Mel",
+            "tone": "Neutral",
+            "rate_of_speech": "129.96",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "namaskaram surgeon itc compendium",
+                "goaling it",
+                "dis",
+                "sau mel"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.138",
+            "end_time": "1.2123",
+            "original_transcript": "നമ്മളെയും ആന്റിവൈഡും തന്നെ യു സമ്മാനം ഉണ്ടെന്ന് ഉറയുന്നതള്ള തന്നെ",
+            "translated_transcript": "As if we were dreaming that we and the antivirus itself had a U gift",
+            "tone": "Neutral",
+            "rate_of_speech": "201.79",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.2253",
+            "end_time": "1.294",
+            "original_transcript": "എനിക്ക് മനസ്സിലായില മാകി നമ്മുടെ പ്രൊഡക്ടല്ല ഏതാണ് പ്രൊഡക്ടെന്ന് ചെക്കതിട്ട് പറയാവോ",
+            "translated_transcript": "I understand that Maki is not our product. Can you check which product is not our product?",
+            "tone": "Neutral",
+            "rate_of_speech": "247.57",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "maki"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.309",
+            "end_time": "1.343",
+            "original_transcript": "ഈ നിപ്പി",
+            "translated_transcript": "This nippy",
+            "tone": "Neutral",
+            "rate_of_speech": "58.82",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.343",
+            "end_time": "1.3477",
+            "original_transcript": "നൂഡി",
+            "translated_transcript": "Nooddy",
+            "tone": "Neutral",
+            "rate_of_speech": "214.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "nooddy"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.3477",
+            "end_time": "1.375",
+            "original_transcript": "റോസ് കവർ ആ",
+            "translated_transcript": "Rose Cover",
+            "tone": "Happy",
+            "rate_of_speech": "73.17",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "rose"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.385",
+            "end_time": "1.4303",
+            "original_transcript": "ഒക്കെ ഇത് എന്താണ് പാക്കറ്റിൽ എന്താണ് എഴുതിയേക്കുന്നത് വായിക്കാവോ",
+            "translated_transcript": "What is this? What is it? What is written in the package?",
+            "tone": "Neutral",
+            "rate_of_speech": "264.71",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.4683",
+            "end_time": "1.5937",
+            "original_transcript": "പാക്കേജിൽ മൂന്നാല് ഇതാകെ കാണിച്ച എസ്സെറ്റ് മൊബൈലാക്ക കാണിച്ചേയ്ക്കും",
+            "translated_transcript": "ESSET MOBILACA WILL SHOW THREE OF THE FOLLOWING IN THE PACKAGE",
+            "tone": "Neutral",
+            "rate_of_speech": "87.75",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "esset mobilaca will show three of the following in the package"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.5937",
+            "end_time": "1.6442",
+            "original_transcript": "ഹെഡ്സെറ്റ് മൊബൈലോ കാണിച്ചാണ് തങ്ങളുടെ മുഴുവൻ പേരെന്ന് പറയാവോ",
+            "translated_transcript": "Can they show the headset or mobile and say their full name",
+            "tone": "Happy",
+            "rate_of_speech": "237.62",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "full name"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.6543",
+            "end_time": "1.6863",
+            "original_transcript": "മുരുവംപേര് ഫാത്തിമ ഷമീർ",
+            "translated_transcript": "MURUAMNAME FATHIMA SHAMIR",
+            "tone": "Neutral",
+            "rate_of_speech": "93.75",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "muruamname fathima shamir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.6937",
+            "end_time": "1.7145",
+            "original_transcript": "ഫാത്തിമ ഷമീർ",
+            "translated_transcript": "FATHIMA SHAMIR",
+            "tone": "Neutral",
+            "rate_of_speech": "96.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "fathima shamir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.7242",
+            "end_time": "1.7457",
+            "original_transcript": "എടനാണ് വിളിക്കുന്നത്",
+            "translated_transcript": "When to call",
+            "tone": "Neutral",
+            "rate_of_speech": "139.53",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.7595",
+            "end_time": "1.8486",
+            "original_transcript": "അമ്മള വിളിക്കുന്നത് ഇരുപത്തി എട്ട് അമ്മള അമ്പേൽ സ്കൂളിന്റെ ഇടത്തെത്ത",
+            "translated_transcript": "The mother is called twenty-eight, the left of Amla Ambel School.",
+            "tone": "Neutral",
+            "rate_of_speech": "123.36",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "amla ambel"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.8486",
+            "end_time": "1.8648",
+            "original_transcript": "ഏത് ജില്ലയാണ്",
+            "translated_transcript": "What district",
+            "tone": "Neutral",
+            "rate_of_speech": "123.71",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.88",
+            "end_time": "1.929",
+            "original_transcript": "ഇടത്തി പാരിപ്പള്ളിയിലില്ല",
+            "translated_transcript": "There is no left of Paripally.",
+            "tone": "Neutral",
+            "rate_of_speech": "122.49",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "paripally"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.9408",
+            "end_time": "1.9675",
+            "original_transcript": "അല്ല ട്രവാഡ്രോണോ",
+            "translated_transcript": "Not Travadrono",
+            "tone": "Neutral",
+            "rate_of_speech": "74.95",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "travadrono"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.9675",
+            "end_time": "2.0",
+            "original_transcript": "തിരുവനന്തപുരമോണോ",
+            "translated_transcript": "Thiruvananthapuramono",
+            "tone": "Neutral",
+            "rate_of_speech": "30.77",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thiruvananthapuramono"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.0097",
+            "end_time": "2.0145",
+            "original_transcript": "എ",
+            "translated_transcript": "A",
+            "tone": "Neutral",
+            "rate_of_speech": "206.90",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.0275",
+            "end_time": "2.0543",
+            "original_transcript": "ഏത് പാക്കറ്റ് ഇപ്പം കൈയിലുണ്ടോ",
+            "translated_transcript": "What package do you have on hand?",
+            "tone": "Neutral",
+            "rate_of_speech": "260.87",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.0678",
+            "end_time": "2.101",
+            "original_transcript": "അമ്മളയിലുണ്ട് കവർ കൈയിലുണ്ട്",
+            "translated_transcript": "I have the cover in my hand.",
+            "tone": "Neutral",
+            "rate_of_speech": "211.06",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.1098",
+            "end_time": "2.2155",
+            "original_transcript": "അപ്പ കവറിന്റെ ഫണ്ടിൽ നിന്ന് എഴുതിയേക്കുന്നത് എന്ന് എഴുതിയേക്കുന്നത് ബി അങ്ങനെ എഴുതിയിട്ടുണ്ടോ",
+            "translated_transcript": "Is B written so that it is written from the fund of the appa cover",
+            "tone": "Neutral",
+            "rate_of_speech": "141.96",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.2578",
+            "end_time": "2.284",
+            "original_transcript": "നോക്കത്തെ",
+            "translated_transcript": "Look at him",
+            "tone": "Neutral",
+            "rate_of_speech": "114.72",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.3097",
+            "end_time": "2.3137",
+            "original_transcript": "എ",
+            "translated_transcript": "A",
+            "tone": "Neutral",
+            "rate_of_speech": "250.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.3523",
+            "end_time": "2.3902",
+            "original_transcript": "ആ അഴുതിയിട്ടുണ്ട് എസ്",
+            "translated_transcript": "It was written by S",
+            "tone": "Neutral",
+            "rate_of_speech": "132.10",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.3998",
+            "end_time": "2.4408",
+            "original_transcript": "ടിഎൽ എ ആർ",
+            "translated_transcript": "TL AR",
+            "tone": "Neutral",
+            "rate_of_speech": "48.80",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "tl ar"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.4505",
+            "end_time": "2.5298",
+            "original_transcript": "എസ് ടി ആറോ ബി എസ് ടി ആറങ്ങളാണ് അടിവക്കുന്നത് എത്തറുടെ പൈക്കറ്റാണത്",
+            "translated_transcript": "The most important thing to do is to beat the S.T.R.O., B.S.T., sixes.",
+            "tone": "Happy",
+            "rate_of_speech": "163.87",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "important thing",
+                "s.t.r.o.",
+                "b.s.t."
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.5405",
+            "end_time": "2.5817",
+            "original_transcript": "ഇത് പതിനാല് റോഡ്",
+            "translated_transcript": "This is the 14th road.",
+            "tone": "Neutral",
+            "rate_of_speech": "121.46",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.5892",
+            "end_time": "2.858",
+            "original_transcript": "പതിനാല് റോഡ് അന്ന് പറഞ്ഞാല് അതിനാത്ത ഒരു ബി എ സ്റ്റാർ പ്രമന്ന് പറയുന്നത് അതൊപ്പം താങ്കളന്ന് ഒരു നമുക്ക് വീഡിയോസ് നമ്മൾ എടുക്കുന്ന നൂഡിൽസിന്റെ വീഡിയോ നമ്മൾ എടുക്കുന്നത് എടുത്ത് അതിനാത്ത ഒരു സ്കാനർ ഉണ്ടല്ലോ ക്യൂ ആർ കോഡ് കണ്ടോഡ് പാക്കറ്റിന്റെ ഫ്രണ്ടിൽ ഒരു ക്യൂ ആർ കോഡ് കണ്ടോ",
+            "translated_transcript": "A BA STAR PRAMAN SAYS FOURTEEN ROAD THEN THERE'S A BA STAR PRAMAN AND YOU HAVE A VIDEO VIDEO OF THE NOODLES WE TAKE AND THERE'S A SCANNER THAT ISN'T IT A QUEUE IN THE FRONT OF THE QR CODE CONDO PACKET Have you seen the R code",
+            "tone": "Neutral",
+            "rate_of_speech": "178.56",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ba star praman says fourteen road then there",
+                "ba star praman and you have",
+                "video video of the noodles we take and there",
+                "scanner that is n't it",
+                "queue in the front of the qr code condo packet have"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.8783",
+            "end_time": "2.9063",
+            "original_transcript": "കർത്താൻ ചെയ്യുന്ന",
+            "translated_transcript": "The one who does the job",
+            "tone": "Neutral",
+            "rate_of_speech": "214.16",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.9328",
+            "end_time": "3.3237",
+            "original_transcript": "അത് സ്കാൻ ചെയ്യുമ്പൻ താങ്കൾക്ക് ഒരു വാട്സ്ആപ്പിൽ ഒരു ലിങ്ക് വരും വാട്സ്ആപ്പിൽ ലിങ്ക് വരുമ്പോൾ താങ്കൾ അതിന്റെ ഒരു വീഡിയോ എന്തോ ഒരു നീള ഉണ്ട് നൂഡിൾസിന്റെ താങ്കൾ ഇങ്ങനെ നൂഡിസ് കഴിക്കുന്നതു കാണിക്കു എന്തോ ഒരു നീള ഉണ്ട് നൂഡിൾസിന് എന്നുള്ള വീഡിയോ എടുത്ത് വാട്സ്ആപ്പിൽ അയയ്ക്കുക ചെക്ക് ചെയ്തിട്ട് വീടപ്പിൽ എടുത്ത് കഴിയു അപെ ഫോളോ ഇൻസ്ട്രക്ഷൻസ് ഫോളോയ്യുക അ നമ്മൾ ടീം ചെക്ക് ചെയ്തിട്ട് എലിജിബിളാണെങ്കി തങ്ങൾക്ക് ഇത് ലഭിക്കുന്നതാണ്",
+            "translated_transcript": "When you scan it you will get a link in a whatsapp when you link in whatsapp you have a video of it something has a length of noodles so show you eating noodles something has a length Take the video for noodles and whatsass Send it in, check it out and take it home and follow the instructions. If we check the team and they are eligible, they will get it",
+            "tone": "Neutral",
+            "rate_of_speech": "184.23",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.3358",
+            "end_time": "3.3983",
+            "original_transcript": "അത് നമ്മൾ കാ ചകിട്ട് ഇത് വരമ്പത്തേക്ക് വും പൈസയല്ലാവോ",
+            "translated_transcript": "Is it not enough for us to cut it to the ceiling?",
+            "tone": "Neutral",
+            "rate_of_speech": "192.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.4143",
+            "end_time": "3.5093",
+            "original_transcript": "അല്ലല്ല അങ്ങനല്ല ഇതെ താങ്കള വാട്സാപ്പിനാത്ത താങ്കള ഈ സ്കാൻ ചെയ്യുമ്പോൾ താങ്കളുള്ള വാട്സ്ആപ്പിലോട്ട് ര്തി വരും",
+            "translated_transcript": "No, this is not your WhatsApp, you will come back to your WhatsApp when you do this scan",
+            "tone": "Neutral",
+            "rate_of_speech": "189.51",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "whatsapp",
+                "whatsapp"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.5131",
+            "end_time": "3.9225",
+            "original_transcript": "ലിങ്ക് വരും ആ ലിങ്കിൽ ക്ലിക്ക് ചെയ്തു കഴിയുന്ന താങ്കൾക്ക് ഒരു വീഡിയോ ഓൾറടി എടുത്തു വയ്ക്കുക താങ്കൾ ഏതാണ് എത്ര നൂഡിൽസ് എന്തോരം ഇപ്പ നൂഡിസ് കഴിക്കുന്നതി നൂഡിൾസ് എന്തോ ലെങ്ങ് ഉണ്ടെന്ന് കാണിക്കുന്ന ഒരു വീഡിയോ കഴിക്കുന്നവ കാണിച്ച ലെംഗിൽ വയ്ക്കുക അപ്പ താങ്കൾക്ക് അത് ലഭ്യമാകൂ ആ വീഡിയോ താങ്കൾ അപ്ലോഡ് ചെയ്യുക എന്നത് നമ്മുടെ ടീം അത് ചെക്കുകയും എലിജിബിളാണെങ്കിൽ നമ്മൾക്ക് ഗിഫ്റ്റ് അറിയിച്ച് പുറകെ എല്ലാ ഡീറ്റെസും വരുന്നതാണ് ഇക് മസാല പായ്ക്കാണ്",
+            "translated_transcript": "The link will come to that link you can click on that link and place a video of what you eat how many noodles what kind of Ipa noodles you eat Noodles something leng Put in the leng shown what you eat Appa will make it available to you Please upload that video. Our team will check it and tell us the gift if it is eligible. All the dietes will come back and tell us the gift.",
+            "tone": "Neutral",
+            "rate_of_speech": "190.55",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ipa",
+                "noodles",
+                "appa",
+                "please"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.9337",
+            "end_time": "3.9767",
+            "original_transcript": "ഓക് മസാലല്ല പതിനാല് ഗഡ്",
+            "translated_transcript": "Oak Masalala Patinal Gad",
+            "tone": "Neutral",
+            "rate_of_speech": "93.02",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "masalala patinal gad"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.9855",
+            "end_time": "4.1285",
+            "original_transcript": "അതൊരു പ്രോമോയാണ് കൂൾ ഡീറ്റെഡ്സ് അറിയണമെന്നുണ്ടെങ്കിൽ അവർക്ക് ഡബ്ല്യുഡബ്ല്യു ഡോട്ട് ഇം എന്നുള്ള വെബ്സൈറ്റ് വിസിറ്റ് ചെയ്ത് കൂൾ ഡീറ്റെഡ്സ് അറിയാവുന്നതാണ്",
+            "translated_transcript": "If they want to know that it is a promo Cool Deeds they can get to know Cool Deeds by visiting the website WW dot im",
+            "tone": "Happy",
+            "rate_of_speech": "181.82",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "cool deeds",
+                "cool deeds",
+                "ww",
+                "dot im"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.1385",
+            "end_time": "4.1556",
+            "original_transcript": "ഓവ",
+            "translated_transcript": "Ova",
+            "tone": "Neutral",
+            "rate_of_speech": "58.25",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ova"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.1653",
+            "end_time": "4.2173",
+            "original_transcript": "വിടുവെടുത്ത് അതാണ് ട്രുവാണ്ടം",
+            "translated_transcript": "Let go, that's Truvantum.",
+            "tone": "Neutral",
+            "rate_of_speech": "76.92",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "truvantum"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.2173",
+            "end_time": "4.2207",
+            "original_transcript": "കേരള",
+            "translated_transcript": "Kerala",
+            "tone": "Neutral",
+            "rate_of_speech": "298.51",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "kerala"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.2542",
+            "end_time": "4.2551",
+            "original_transcript": "വിളിക്കും",
+            "translated_transcript": "will call",
+            "tone": "Neutral",
+            "rate_of_speech": "2033.90",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.2733",
+            "end_time": "4.3008",
+            "original_transcript": "മറ്റുള്ള ഡീറ്റൽ സേനേണ്ടോ",
+            "translated_transcript": "Other Retail Senendo",
+            "tone": "Neutral",
+            "rate_of_speech": "109.09",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "senendo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.3152",
+            "end_time": "4.3565",
+            "original_transcript": "മറ്റെന്ത് കനഡിറ്റൽസ് വ്യക്തമായില്ല പറഞ്ഞത്",
+            "translated_transcript": "What else the Canaditals said wasn't clear",
+            "tone": "Neutral",
+            "rate_of_speech": "169.35",
+            "emotion": "confusion",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "canaditals"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.3565",
+            "end_time": "4.3785",
+            "original_transcript": "വ്യക്തമല്ലത്തെ",
+            "translated_transcript": "not clear",
+            "tone": "Neutral",
+            "rate_of_speech": "90.98",
+            "emotion": "confusion",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.3985",
+            "end_time": "4.4233",
+            "original_transcript": "മറ്റെന്ത് കനെഡിറ്ററസ് അങ്ങേണ്ട ഉണ്ടോ",
+            "translated_transcript": "What other conductors do you need?",
+            "tone": "Neutral",
+            "rate_of_speech": "241.77",
+            "emotion": "curiosity",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.4328",
+            "end_time": "4.5422",
+            "original_transcript": "ഐ സിലയ്ക്ക് വിളിച്ചേ നന്ദി ശുഭദിനം താങ്ക്",
+            "translated_transcript": "Please call me, thank you and have a good day.",
+            "tone": "Happy",
+            "rate_of_speech": "91.48",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "please",
+                "good day"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.6133",
+            "end_time": "4.6445",
+            "original_transcript": "തങ്ങളുടെ പത്തുന്ന കോൾ ഡിസ്കണക്ട് ചെയ്തവോ",
+            "translated_transcript": "Has your tenth call been disconnected?",
+            "tone": "Neutral",
+            "rate_of_speech": "192.41",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.6645",
+            "end_time": "4.7115",
+            "original_transcript": "താങ്കളുടെ പൌത്ത് കോൾ ഡിസ്കണക്റ്റ് ചെയ്തുള്ളൂ",
+            "translated_transcript": "Your mail call has been disconnected",
+            "tone": "Neutral",
+            "rate_of_speech": "127.61",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "your"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.7205",
+            "end_time": "4.75",
+            "original_transcript": "വോ വോ",
+            "translated_transcript": "Woo Woo",
+            "tone": "Neutral",
+            "rate_of_speech": "67.80",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "woo woo"
+            ]
+        }
+    ],
+    "translated_segments": "Hello. Good Morning Welcome ITC Mena Alas, we will be rewarded for making us whole, Malayalam Malayalam He is a bit of a sailor. Malayalam is what I said. Namaskaram Surgeon ITC Compendium For Goaling IT C Dis In Sau Mel As if we were dreaming that we and the antivirus itself had a U gift I understand that Maki is not our product. Can you check which product is not our product? This nippy Nooddy Rose Cover What is this? What is it? What is written in the package? ESSET MOBILACA WILL SHOW THREE OF THE FOLLOWING IN THE PACKAGE Can they show the headset or mobile and say their full name MURUAMNAME FATHIMA SHAMIR FATHIMA SHAMIR When to call The mother is called twenty-eight, the left of Amla Ambel School. What district There is no left of Paripally. Not Travadrono Thiruvananthapuramono A What package do you have on hand? I have the cover in my hand. Is B written so that it is written from the fund of the appa cover Look at him A It was written by S TL AR The most important thing to do is to beat the S.T.R.O., B.S.T., sixes. This is the 14th road. A BA STAR PRAMAN SAYS FOURTEEN ROAD THEN THERE'S A BA STAR PRAMAN AND YOU HAVE A VIDEO VIDEO OF THE NOODLES WE TAKE AND THERE'S A SCANNER THAT ISN'T IT A QUEUE IN THE FRONT OF THE QR CODE CONDO PACKET Have you seen the R code The one who does the job When you scan it you will get a link in a whatsapp when you link in whatsapp you have a video of it something has a length of noodles so show you eating noodles something has a length Take the video for noodles and whatsass Send it in, check it out and take it home and follow the instructions. If we check the team and they are eligible, they will get it Is it not enough for us to cut it to the ceiling? No, this is not your WhatsApp, you will come back to your WhatsApp when you do this scan The link will come to that link you can click on that link and place a video of what you eat how many noodles what kind of Ipa noodles you eat Noodles something leng Put in the leng shown what you eat Appa will make it available to you Please upload that video. Our team will check it and tell us the gift if it is eligible. All the dietes will come back and tell us the gift. Oak Masalala Patinal Gad If they want to know that it is a promo Cool Deeds they can get to know Cool Deeds by visiting the website WW dot im Ova Let go, that's Truvantum. Kerala will call Other Retail Senendo What else the Canaditals said wasn't clear not clear What other conductors do you need? Please call me, thank you and have a good day. Has your tenth call been disconnected? Your mail call has been disconnected Woo Woo ",
+    "speaker_a_segments": "Hello. Alas, we will be rewarded for making us whole, Malayalam Malayalam Malayalam is what I said. As if we were dreaming that we and the antivirus itself had a U gift This nippy Rose Cover ESSET MOBILACA WILL SHOW THREE OF THE FOLLOWING IN THE PACKAGE MURUAMNAME FATHIMA SHAMIR The mother is called twenty-eight, the left of Amla Ambel School. There is no left of Paripally. Thiruvananthapuramono I have the cover in my hand. Look at him A It was written by S TL AR This is the 14th road. The one who does the job Is it not enough for us to cut it to the ceiling? Ova Kerala not clear Woo Woo ",
+    "speaker_b_segments": "Good Morning Welcome ITC Mena He is a bit of a sailor. Namaskaram Surgeon ITC Compendium For Goaling IT C Dis In Sau Mel I understand that Maki is not our product. Can you check which product is not our product? Nooddy What is this? What is it? What is written in the package? Can they show the headset or mobile and say their full name FATHIMA SHAMIR When to call What district Not Travadrono A What package do you have on hand? Is B written so that it is written from the fund of the appa cover The most important thing to do is to beat the S.T.R.O., B.S.T., sixes. A BA STAR PRAMAN SAYS FOURTEEN ROAD THEN THERE'S A BA STAR PRAMAN AND YOU HAVE A VIDEO VIDEO OF THE NOODLES WE TAKE AND THERE'S A SCANNER THAT ISN'T IT A QUEUE IN THE FRONT OF THE QR CODE CONDO PACKET Have you seen the R code When you scan it you will get a link in a whatsapp when you link in whatsapp you have a video of it something has a length of noodles so show you eating noodles something has a length Take the video for noodles and whatsass Send it in, check it out and take it home and follow the instructions. If we check the team and they are eligible, they will get it No, this is not your WhatsApp, you will come back to your WhatsApp when you do this scan The link will come to that link you can click on that link and place a video of what you eat how many noodles what kind of Ipa noodles you eat Noodles something leng Put in the leng shown what you eat Appa will make it available to you Please upload that video. Our team will check it and tell us the gift if it is eligible. All the dietes will come back and tell us the gift. Oak Masalala Patinal Gad If they want to know that it is a promo Cool Deeds they can get to know Cool Deeds by visiting the website WW dot im Let go, that's Truvantum. will call Other Retail Senendo What else the Canaditals said wasn't clear What other conductors do you need? Please call me, thank you and have a good day. Has your tenth call been disconnected? Your mail call has been disconnected ",
+    "summary": "ITC Mena Alas is calling regarding a promotion they are running for ESET Mobile Security. The customer, Fathima Shamir, has a Nippy Nooddy Rose Cover package and is instructed to follow the instructions in the package to be eligible for a gift. The package needs to be scanned for a link to be sent to a WhatsApp account, where a video of eating noodles needs to be uploaded for verification. The most important details are to beat the S.T.R.O., B.S.T., and sixes, and to include the video in the WhatsApp message. The customer should be patient as the gift will be granted if they qualify, and they can also check the website ww.imova.cool for more information. The call disconnects abruptly at the end.",
+    "speaker_a_summary": "The audio message seems to be in a South Indian language and talks about an antivirus software they received as a gift, which apparently is called ESET MOBILACA.  The message mentions the cover, the model and the mother of the software, and seems to indicate confusion and concern about not knowing what to do with the software.  Finally, they mention a person called S TL AR who apparently works with the software, but they are not sure if they are supposed to contact them.  The message ends with some unclear remarks about the software not being clear.  The language and the message content suggest a person with limited experience and understanding of computers and software.  It is possible that this is a case of a person receiving a promotional gift or package of antivirus software, and reaching out for clarification on what to do next.  However, without further context it is difficult to ascertain the exact situation.",
+    "speaker_b_summary": "A customer called ITC Mena and is interested in a promotion they are running. They want to know which product is not theirs. The caller is then directed to perform various steps involving scanning a QR code, recording a video of themselves eating the noodles, and uploading the video to WhatsApp. The caller is also advised to visit the IM website for more information about the promotion. The call is disconnected afterwards.",
+    "cohere_points": "- The text is a call between two people, one of which is experiencing technical issues and the other is trying to assist with a problem with one of their products.\n- The product in question is most likely a noodle product from ITC. \n- There are some issues with the call and the person who cut the call reappears again. \n- The person who is attending the call needs to scan a code to get a link in WhatsApp to be able to participate in a contest or get a gift. \n- The other person needs to call again to finish the assistance.",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "Here are 15 topics extracted from the text:\n\n1. Greetings and Welcome\n2. Malayalam Language\n3. Sailor Mentioned\n4. Product Identification\n5. Esset Mobilaca\n6. Package Contents\n7. Person Named Shamir\n8. District location discussion\n9. Cover in Hand\n10. Writing on the Cover\n11. S.T.R.O. and B.S.T.\n12. Road Identification\n13. Video Content\n14. QR Code Scan",
+    "Resolution": "The customer issue is not resolved as the query was related to identifying a product that is not theirs, but it was not addressed in the conversation.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "Yes, the caller displayed empathy in the conversation. One sentence where empathy was displayed is when the caller said, \"Please call me, thank you and have a good day.\"",
+    "Was there any profanity on the call": "No",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 65.91100000000003,
+    "num_silences": 60
+}

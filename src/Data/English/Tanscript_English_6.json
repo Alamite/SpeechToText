@@ -1,0 +1,1115 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0153",
+            "end_time": "0.3645",
+            "original_transcript": "Thank you for calling How may I help you Hello Uh ma'am I was uh just recently I was having a call with one of your executives and it was just disconnected I was just talking with the male executive at present Please be on the line ma'am I'll just check for the details Can I place your call on hold ma'am OK ma'am Your name ma'am",
+            "translated_transcript": "Thank you for calling How may I help you Hello Uh ma'am I was uh just recently I was having a call with one of your executives and it was just disconnected I was just talking to the male executive and present Please be on the line ma'am I'll just check for the details Can I place your call on hold ma'am OK ma'am Your name ma'am",
+            "tone": "Neutral",
+            "rate_of_speech": "191.89",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "thank",
+                "hello uh",
+                "male executive",
+                "please",
+                "line ma'am",
+                "ok ma'am",
+                "your",
+                "name ma'am"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.3742",
+            "end_time": "0.3918",
+            "original_transcript": "A taco",
+            "translated_transcript": "The taco",
+            "tone": "Neutral",
+            "rate_of_speech": "113.21",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.4005",
+            "end_time": "0.414",
+            "original_transcript": "is one",
+            "translated_transcript": "is one",
+            "tone": "Neutral",
+            "rate_of_speech": "148.15",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.0198",
+            "end_time": "1.0652",
+            "original_transcript": "I'll transfer your call to the company",
+            "translated_transcript": "I will transfer your call to the company",
+            "tone": "Neutral",
+            "rate_of_speech": "176.47",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.0738",
+            "end_time": "1.1",
+            "original_transcript": "OK",
+            "translated_transcript": "OK",
+            "tone": "Neutral",
+            "rate_of_speech": "38.22",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.1611",
+            "end_time": "1.1682",
+            "original_transcript": "Yeah",
+            "translated_transcript": "Ja",
+            "tone": "Neutral",
+            "rate_of_speech": "142.86",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ja"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.2843",
+            "end_time": "1.3198",
+            "original_transcript": "No",
+            "translated_transcript": "Ne",
+            "tone": "Neutral",
+            "rate_of_speech": "28.16",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ne"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.3355",
+            "end_time": "1.5642",
+            "original_transcript": "Hello Um just recently I think I was talking with you now Ok uh I was just saying you just add one another number as you have already entered my number Now just add one more number huh",
+            "translated_transcript": "Hello Um just recently I think I was talking to you now Ok uh I was just saying you just add one another number as you have already entered my number Now just add one more number huh",
+            "tone": "Neutral",
+            "rate_of_speech": "166.18",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "hello um",
+                "ok",
+                "number huh"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.5795",
+            "end_time": "1.6032",
+            "original_transcript": "89",
+            "translated_transcript": "89",
+            "tone": "Neutral",
+            "rate_of_speech": "42.22",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.6135",
+            "end_time": "1.6261",
+            "original_transcript": "89",
+            "translated_transcript": "89",
+            "tone": "Neutral",
+            "rate_of_speech": "78.95",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.6385",
+            "end_time": "1.6613",
+            "original_transcript": "681",
+            "translated_transcript": "681",
+            "tone": "Neutral",
+            "rate_of_speech": "43.76",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.6671",
+            "end_time": "1.685",
+            "original_transcript": "681",
+            "translated_transcript": "681",
+            "tone": "Neutral",
+            "rate_of_speech": "56.07",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.694",
+            "end_time": "1.7125",
+            "original_transcript": "75",
+            "translated_transcript": "75",
+            "tone": "Neutral",
+            "rate_of_speech": "54.01",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.7167",
+            "end_time": "1.7367",
+            "original_transcript": "75",
+            "translated_transcript": "75",
+            "tone": "Neutral",
+            "rate_of_speech": "50.04",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.7462",
+            "end_time": "1.7667",
+            "original_transcript": "052",
+            "translated_transcript": "052",
+            "tone": "Neutral",
+            "rate_of_speech": "48.74",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.771",
+            "end_time": "1.7983",
+            "original_transcript": "052",
+            "translated_transcript": "052",
+            "tone": "Neutral",
+            "rate_of_speech": "36.59",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.8095",
+            "end_time": "1.8167",
+            "original_transcript": "Yes",
+            "translated_transcript": "Ja",
+            "tone": "Neutral",
+            "rate_of_speech": "139.21",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ja"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.8275",
+            "end_time": "1.873",
+            "original_transcript": "OK so you don't have the package details right",
+            "translated_transcript": "Alright, so you don't have the package details right",
+            "tone": "Happy",
+            "rate_of_speech": "197.87",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "alright",
+                "package details"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.8818",
+            "end_time": "2.034",
+            "original_transcript": "No um at present you're not having packet details with us because when we are shipping a packet and tumblers and all that we just have to remove or for that now",
+            "translated_transcript": "Não é presente que você não tem detalhes do pacote com os porque, quando son enviamos um pacote e tumblers e todo que você habe a remover ou para que ahora",
+            "tone": "Neutral",
+            "rate_of_speech": "203.72",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "não",
+                "é presente que você não tem detalhes",
+                "pacote com os porque",
+                "quando son enviamos um pacote e tumblers e todo que você habe",
+                "remover ou para que ahora"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.0537",
+            "end_time": "2.0828",
+            "original_transcript": "Ok so it's five KG or 10 KG",
+            "translated_transcript": "Ok so it's five KG or 10 KG",
+            "tone": "Neutral",
+            "rate_of_speech": "274.29",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok",
+                "kg",
+                "kg"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.0972",
+            "end_time": "2.2113",
+            "original_transcript": "It was a 10 KG of packet that we have used And now at present only I think four or five KG is left",
+            "translated_transcript": "Het is een 10 KG pakket dat we hebben gebruikt en nu is alleen ik ik vier of fives KG vervangen",
+            "tone": "Neutral",
+            "rate_of_speech": "183.97",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "het",
+                "kg",
+                "pakket dat",
+                "hebben gebruikt",
+                "alleen ik ik vier",
+                "kg"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.2293",
+            "end_time": "2.3275",
+            "original_transcript": "Ok And also that do you Do you remember how What is the MRP of that",
+            "translated_transcript": "Ok And also that you will remember how what is the MRP of that",
+            "tone": "Neutral",
+            "rate_of_speech": "142.61",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok",
+                "mrp"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.3433",
+            "end_time": "2.404",
+            "original_transcript": "Uh Ok wait a minute Uh can you type it I guess",
+            "translated_transcript": "Uh Ok wait a minute Uh can you type it I guess",
+            "tone": "Neutral",
+            "rate_of_speech": "197.80",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "uh ok",
+                "uh"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.5897",
+            "end_time": "2.7872",
+            "original_transcript": "38 300 some 380 or something like that Or uh but wait a minute I'm just at the shop I'm just going to confirm it Ok wait a minute",
+            "translated_transcript": "38 300 A 380 ou algo como que, o uh, mais un minuto, Je suis pas de un minuto, Je suis pas de la vente de la vente.",
+            "tone": "Neutral",
+            "rate_of_speech": "141.78",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ou algo como que",
+                "o uh",
+                "mais un minuto",
+                "je",
+                "suis pas",
+                "un minuto",
+                "je",
+                "suis pas"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.81",
+            "end_time": "2.8152",
+            "original_transcript": "Yeah",
+            "translated_transcript": "Ja",
+            "tone": "Neutral",
+            "rate_of_speech": "193.55",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ja"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.8708",
+            "end_time": "2.971",
+            "original_transcript": "Uh uh She was in a dust water The cheap price TV 390",
+            "translated_transcript": "Uh uh She was in a dusty water The cheap price TV 390",
+            "tone": "Neutral",
+            "rate_of_speech": "129.81",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "uh",
+                "dusty water",
+                "cheap price tv"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.9843",
+            "end_time": "2.9895",
+            "original_transcript": "Yeah",
+            "translated_transcript": "Ja",
+            "tone": "Neutral",
+            "rate_of_speech": "193.55",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ja"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.0142",
+            "end_time": "3.0393",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "39.74",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.0527",
+            "end_time": "3.072",
+            "original_transcript": "Uh it's 390",
+            "translated_transcript": "Uh, it's 390",
+            "tone": "Neutral",
+            "rate_of_speech": "155.17",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "uh"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.0825",
+            "end_time": "3.1578",
+            "original_transcript": "390 OK so I am raising a request for complaint regarding your concern",
+            "translated_transcript": "390 Okay, so I'm raising a request for a complaint regarding your concern",
+            "tone": "Neutral",
+            "rate_of_speech": "172.53",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay",
+                "'m raising"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.165",
+            "end_time": "3.1835",
+            "original_transcript": "So we",
+            "translated_transcript": "So we",
+            "tone": "Neutral",
+            "rate_of_speech": "108.11",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.1873",
+            "end_time": "3.323",
+            "original_transcript": "register so normally what we what What is the procedure is you have to say that the packet details and also now it Now you don't have so",
+            "translated_transcript": "register so normally what we what What is the procedure is you have to say that the packet details and also now it Now you don't have so",
+            "tone": "Happy",
+            "rate_of_speech": "206.39",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "packet details"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.3232",
+            "end_time": "3.3352",
+            "original_transcript": "I'm informing",
+            "translated_transcript": "Jeg er informasjon",
+            "tone": "Neutral",
+            "rate_of_speech": "249.65",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "jeg",
+                "er informasjon"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.3353",
+            "end_time": "3.472",
+            "original_transcript": "the team and the reply will be with and that one of our executive will visit your location So that time you are taking like 4 to 5 K you have so",
+            "translated_transcript": "a la équipe et la resposta a ser con el que un de nuestro executivo a visite a tu lugar, como el tiempo que se de 4 a 5 K",
+            "tone": "Neutral",
+            "rate_of_speech": "219.49",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "con el que un",
+                "nuestro executivo",
+                "tu lugar",
+                "como el tiempo que se"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.4767",
+            "end_time": "3.4902",
+            "original_transcript": "please",
+            "translated_transcript": "por favor",
+            "tone": "Neutral",
+            "rate_of_speech": "148.15",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "por favor"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.5061",
+            "end_time": "3.5207",
+            "original_transcript": "Ok",
+            "translated_transcript": "Ok",
+            "tone": "Neutral",
+            "rate_of_speech": "68.89",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.5292",
+            "end_time": "3.6142",
+            "original_transcript": "well at the same time they will give you four or 555 page the",
+            "translated_transcript": "en la même temps, le vous quatre ou 555 páxina",
+            "tone": "Neutral",
+            "rate_of_speech": "117.65",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "même temps",
+                "vous quatre ou"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.624",
+            "end_time": "3.6262",
+            "original_transcript": "same time",
+            "translated_transcript": "samme tid",
+            "tone": "Neutral",
+            "rate_of_speech": "923.08",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "samme tid"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.639",
+            "end_time": "3.6561",
+            "original_transcript": "Ok ok",
+            "translated_transcript": "Ok ok",
+            "tone": "Neutral",
+            "rate_of_speech": "116.50",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.663",
+            "end_time": "3.7392",
+            "original_transcript": "Ok so I'm registering the complaint and uh and one more thing if you are",
+            "translated_transcript": "Alright, so I'm registering the complaint and uh and one more thing if you are",
+            "tone": "Neutral",
+            "rate_of_speech": "196.89",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "alright"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.7597",
+            "end_time": "3.831",
+            "original_transcript": "if there is any chance to get that all the wrapper so kindly please uh please send me",
+            "translated_transcript": "if there is any chance to get that all the wrapper so kindly please uh please send me",
+            "tone": "Happy",
+            "rate_of_speech": "252.34",
+            "emotion": "caring",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.8595",
+            "end_time": "3.8687",
+            "original_transcript": "OK",
+            "translated_transcript": "OK",
+            "tone": "Neutral",
+            "rate_of_speech": "109.29",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.8852",
+            "end_time": "3.9243",
+            "original_transcript": "And uh please note down the complaint number",
+            "translated_transcript": "And uh, please note down the complaint number",
+            "tone": "Neutral",
+            "rate_of_speech": "204.26",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "complaint number"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.9388",
+            "end_time": "3.965",
+            "original_transcript": "Uh wait a minute",
+            "translated_transcript": "Uh, wait a minute",
+            "tone": "Neutral",
+            "rate_of_speech": "152.96",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "uh"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.0277",
+            "end_time": "4.0528",
+            "original_transcript": "Yes What's the number",
+            "translated_transcript": "Sí que es el número",
+            "tone": "Neutral",
+            "rate_of_speech": "198.81",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sí",
+                "que es el número"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.0613",
+            "end_time": "4.1018",
+            "original_transcript": "Complaint number is 1753",
+            "translated_transcript": "Complaint number is 1753",
+            "tone": "Neutral",
+            "rate_of_speech": "98.72",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "complaint"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.1113",
+            "end_time": "4.1532",
+            "original_transcript": "1753",
+            "translated_transcript": "1753",
+            "tone": "Neutral",
+            "rate_of_speech": "23.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.1968",
+            "end_time": "4.2065",
+            "original_transcript": "five",
+            "translated_transcript": "fiv",
+            "tone": "Neutral",
+            "rate_of_speech": "103.45",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.2068",
+            "end_time": "4.286",
+            "original_transcript": "21753521",
+            "translated_transcript": "21753521",
+            "tone": "Neutral",
+            "rate_of_speech": "12.63",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.293",
+            "end_time": "4.3618",
+            "original_transcript": "753521 This is the complaint number and please note down the WhatsApp number",
+            "translated_transcript": "753521 This is the complaint number and please note down the WhatsApp number",
+            "tone": "Neutral",
+            "rate_of_speech": "188.86",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "complaint number",
+                "whatsapp"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.3765",
+            "end_time": "4.3987",
+            "original_transcript": "Ok wait a minute",
+            "translated_transcript": "Okay, wait a minute",
+            "tone": "Neutral",
+            "rate_of_speech": "180.32",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.5473",
+            "end_time": "4.5745",
+            "original_transcript": "Yes What's the WhatsApp number",
+            "translated_transcript": "Ja što je WhatsApp-nummer",
+            "tone": "Neutral",
+            "rate_of_speech": "147.15",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ja",
+                "što je",
+                "whatsapp-nummer"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.5828",
+            "end_time": "4.602",
+            "original_transcript": "2606",
+            "translated_transcript": "2606",
+            "tone": "Neutral",
+            "rate_of_speech": "52.22",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.6196",
+            "end_time": "4.6548",
+            "original_transcript": "606",
+            "translated_transcript": "606",
+            "tone": "Neutral",
+            "rate_of_speech": "28.42",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.658",
+            "end_time": "4.6895",
+            "original_transcript": "No 9606",
+            "translated_transcript": "No 9606",
+            "tone": "Neutral",
+            "rate_of_speech": "63.53",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.699",
+            "end_time": "4.717",
+            "original_transcript": "4906",
+            "translated_transcript": "4906",
+            "tone": "Neutral",
+            "rate_of_speech": "55.61",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.7243",
+            "end_time": "4.8133",
+            "original_transcript": "No no I will repeat one Starting 9606",
+            "translated_transcript": "No no, I will repeat one Starting 9606",
+            "tone": "Neutral",
+            "rate_of_speech": "89.89",
+            "emotion": "disapproval",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.8221",
+            "end_time": "4.8723",
+            "original_transcript": "9606",
+            "translated_transcript": "9606",
+            "tone": "Neutral",
+            "rate_of_speech": "19.93",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.9037",
+            "end_time": "4.9258",
+            "original_transcript": "Double 96",
+            "translated_transcript": "Doble 96",
+            "tone": "Neutral",
+            "rate_of_speech": "90.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "doble"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.9398",
+            "end_time": "4.9696",
+            "original_transcript": "Double 96",
+            "translated_transcript": "Doble 96",
+            "tone": "Neutral",
+            "rate_of_speech": "67.08",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "doble"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.9833",
+            "end_time": "5.002",
+            "original_transcript": "Double 90",
+            "translated_transcript": "Doble 90",
+            "tone": "Neutral",
+            "rate_of_speech": "107.24",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "doble"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.0183",
+            "end_time": "5.1333",
+            "original_transcript": "Double 90 I'm just repeating the number just to check it 9606",
+            "translated_transcript": "Doble 90 Je suis pas réplicant le nombre pour vous 9606",
+            "tone": "Neutral",
+            "rate_of_speech": "95.65",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "doble",
+                "je",
+                "suis pas réplicant"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.1471",
+            "end_time": "5.2101",
+            "original_transcript": "Double 96 Double 90",
+            "translated_transcript": "Doble 96 Doble 90",
+            "tone": "Neutral",
+            "rate_of_speech": "63.49",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "doble",
+                "doble"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.2235",
+            "end_time": "5.2382",
+            "original_transcript": "OK",
+            "translated_transcript": "OK",
+            "tone": "Neutral",
+            "rate_of_speech": "68.18",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.258",
+            "end_time": "5.3201",
+            "original_transcript": "so can you please share that tile for of that pieces or small pieces of tile",
+            "translated_transcript": "so that you can share that tile for those pieces or small pieces of tile",
+            "tone": "Neutral",
+            "rate_of_speech": "241.35",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "small pieces"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.325",
+            "end_time": "5.3402",
+            "original_transcript": "So please share",
+            "translated_transcript": "So please share",
+            "tone": "Neutral",
+            "rate_of_speech": "197.80",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.3872",
+            "end_time": "5.4258",
+            "original_transcript": "your balance Is that also be Please share that Ok",
+            "translated_transcript": "il tuo balanza è anche essere Por condividere che Ok",
+            "tone": "Neutral",
+            "rate_of_speech": "258.73",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "il tuo balanza è anche essere",
+                "por",
+                "condividere che",
+                "ok"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.4375",
+            "end_time": "5.4867",
+            "original_transcript": "Ok ok I'm just going to share with you that that uh",
+            "translated_transcript": "Alright, I'm just going to share with you that uh",
+            "tone": "Neutral",
+            "rate_of_speech": "203.39",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "alright"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.4933",
+            "end_time": "5.5412",
+            "original_transcript": "yeah and also from there your purchases",
+            "translated_transcript": "yeah and also from there your purchases",
+            "tone": "Neutral",
+            "rate_of_speech": "146.34",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.5583",
+            "end_time": "5.7642",
+            "original_transcript": "OK We are purchasing this sir from our local market It's a para departmental store Uh it's in the bomia Only the cargo departmental store",
+            "translated_transcript": "OK We are purchasing this cheese from our local market It's a for departmental store Uh it's in the bomb Only the cargo departmental store",
+            "tone": "Neutral",
+            "rate_of_speech": "121.46",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "local market",
+                "departmental store",
+                "uh",
+                "cargo departmental store"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.7767",
+            "end_time": "5.794",
+            "original_transcript": "Departmental store",
+            "translated_transcript": "Departmental store",
+            "tone": "Neutral",
+            "rate_of_speech": "115.38",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "departmental"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.806",
+            "end_time": "5.8152",
+            "original_transcript": "Yes",
+            "translated_transcript": "Ja",
+            "tone": "Neutral",
+            "rate_of_speech": "108.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ja"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.8252",
+            "end_time": "5.8292",
+            "original_transcript": "Yeah",
+            "translated_transcript": "Ja",
+            "tone": "Neutral",
+            "rate_of_speech": "250.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ja"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.8595",
+            "end_time": "5.8796",
+            "original_transcript": "OK fine Thank you",
+            "translated_transcript": "OK fine Thank you",
+            "tone": "Neutral",
+            "rate_of_speech": "198.51",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "thank"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.891",
+            "end_time": "5.906",
+            "original_transcript": "Ok",
+            "translated_transcript": "Ok",
+            "tone": "Neutral",
+            "rate_of_speech": "66.67",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.9222",
+            "end_time": "5.9535",
+            "original_transcript": "so thank you for calling a TC Have a great day",
+            "translated_transcript": "so thank you for calling a TC Have a great day",
+            "tone": "Happy",
+            "rate_of_speech": "351.06",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "tc have",
+                "great day"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.9628",
+            "end_time": "5.9777",
+            "original_transcript": "Thank you",
+            "translated_transcript": "Spas dikim",
+            "tone": "Neutral",
+            "rate_of_speech": "134.68",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "spas"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.9973",
+            "end_time": "6.0045",
+            "original_transcript": "Ok",
+            "translated_transcript": "Ok",
+            "tone": "Neutral",
+            "rate_of_speech": "139.53",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok"
+            ]
+        }
+    ],
+    "translated_segments": "Thank you for calling How may I help you Hello Uh ma'am I was uh just recently I was having a call with one of your executives and it was just disconnected I was just talking to the male executive and present Please be on the line ma'am I'll just check for the details Can I place your call on hold ma'am OK ma'am Your name ma'am The taco is one I will transfer your call to the company OK Ja Ne Hello Um just recently I think I was talking to you now Ok uh I was just saying you just add one another number as you have already entered my number Now just add one more number huh 89 89 681 681 75 75 052 052 Ja Alright, so you don't have the package details right Não é presente que você não tem detalhes do pacote com os porque, quando son enviamos um pacote e tumblers e todo que você habe a remover ou para que ahora Ok so it's five KG or 10 KG Het is een 10 KG pakket dat we hebben gebruikt en nu is alleen ik ik vier of fives KG vervangen Ok And also that you will remember how what is the MRP of that Uh Ok wait a minute Uh can you type it I guess 38 300 A 380 ou algo como que, o uh, mais un minuto, Je suis pas de un minuto, Je suis pas de la vente de la vente. Ja Uh uh She was in a dusty water The cheap price TV 390 Ja Hallo Uh, it's 390 390 Okay, so I'm raising a request for a complaint regarding your concern So we register so normally what we what What is the procedure is you have to say that the packet details and also now it Now you don't have so Jeg er informasjon a la équipe et la resposta a ser con el que un de nuestro executivo a visite a tu lugar, como el tiempo que se de 4 a 5 K por favor Ok en la même temps, le vous quatre ou 555 páxina samme tid Ok ok Alright, so I'm registering the complaint and uh and one more thing if you are if there is any chance to get that all the wrapper so kindly please uh please send me OK And uh, please note down the complaint number Uh, wait a minute Sí que es el número Complaint number is 1753 1753 fiv 21753521 753521 This is the complaint number and please note down the WhatsApp number Okay, wait a minute Ja što je WhatsApp-nummer 2606 606 No 9606 4906 No no, I will repeat one Starting 9606 9606 Doble 96 Doble 96 Doble 90 Doble 90 Je suis pas réplicant le nombre pour vous 9606 Doble 96 Doble 90 OK so that you can share that tile for those pieces or small pieces of tile So please share il tuo balanza è anche essere Por condividere che Ok Alright, I'm just going to share with you that uh yeah and also from there your purchases OK We are purchasing this cheese from our local market It's a for departmental store Uh it's in the bomb Only the cargo departmental store Departmental store Ja Ja OK fine Thank you Ok so thank you for calling a TC Have a great day Spas dikim Ok ",
+    "speaker_a_segments": "Thank you for calling How may I help you Hello Uh ma'am I was uh just recently I was having a call with one of your executives and it was just disconnected I was just talking to the male executive and present Please be on the line ma'am I'll just check for the details Can I place your call on hold ma'am OK ma'am Your name ma'am The taco is one I will transfer your call to the company OK Hello Um just recently I think I was talking to you now Ok uh I was just saying you just add one another number as you have already entered my number Now just add one more number huh 89 681 75 052 Ja Não é presente que você não tem detalhes do pacote com os porque, quando son enviamos um pacote e tumblers e todo que você habe a remover ou para que ahora Het is een 10 KG pakket dat we hebben gebruikt en nu is alleen ik ik vier of fives KG vervangen Uh Ok wait a minute Uh can you type it I guess 38 300 A 380 ou algo como que, o uh, mais un minuto, Je suis pas de un minuto, Je suis pas de la vente de la vente. Ja Uh uh She was in a dusty water The cheap price TV 390 Ja Hallo Uh, it's 390 So we Jeg er informasjon por favor Ok samme tid Ok ok OK Uh, wait a minute Sí que es el número 1753 21753521 Okay, wait a minute Ja što je WhatsApp-nummer 606 4906 9606 Doble 96 Doble 90 Je suis pas réplicant le nombre pour vous 9606 Doble 96 Doble 90 OK So please share Alright, I'm just going to share with you that uh OK We are purchasing this cheese from our local market It's a for departmental store Uh it's in the bomb Only the cargo departmental store Ja Ok Spas dikim Ok ",
+    "speaker_b_segments": "Ja Ne 89 681 75 052 Alright, so you don't have the package details right Ok so it's five KG or 10 KG Ok And also that you will remember how what is the MRP of that 390 Okay, so I'm raising a request for a complaint regarding your concern register so normally what we what What is the procedure is you have to say that the packet details and also now it Now you don't have so a la équipe et la resposta a ser con el que un de nuestro executivo a visite a tu lugar, como el tiempo que se de 4 a 5 K en la même temps, le vous quatre ou 555 páxina Alright, so I'm registering the complaint and uh and one more thing if you are if there is any chance to get that all the wrapper so kindly please uh please send me And uh, please note down the complaint number Complaint number is 1753 fiv 753521 This is the complaint number and please note down the WhatsApp number 2606 No 9606 No no, I will repeat one Starting 9606 Doble 96 Doble 90 so that you can share that tile for those pieces or small pieces of tile il tuo balanza è anche essere Por condividere che Ok yeah and also from there your purchases Departmental store Ja OK fine Thank you so thank you for calling a TC Have a great day ",
+    "summary": "The customer was disconnected from a previous call and wants to continue the discussion with a company executive about a package detail that was not properly provided to them. The executive helps the customer register a complaint and also forwards their query to the package details department. The customer also requests to get the wrapper sent to them and receives a complaint number (1753) and a WhatsApp number (9606 9606) from the executive before ending the call.",
+    "speaker_a_summary": "An individual gets transferred to a new executive as the previous one disconnected. The new executive is trying to help the individual with an issue they were having, however the executive is having trouble as they only have a partial package on hand and they need more details from the individual in order to proceed. The individual is trying to help the executive as best they can, but they are also having some difficulty. The issue is eventually resolved and the call ends.",
+    "speaker_b_summary": "The customer is calling to register a complaint. They are missing one or more items from a package they received which weighed 5kg or 10kg and had an MRP of 390. They are also missing the packaging and are prompted to provide their complaint number (1753 fiv 753521), and their WhatsApp number (2606 9606). The customer is advised that a member of the executive team will visit their location within 4-5 days and that they will need to provide the package details.",
+    "cohere_points": "- User calls a company regarding an issue with a package\n- Executive was disconnected so user is now re-explaining issue\n- Issue is resolved and user is given a complaint number\n- User shares phone number for WhatsApp\n- Call ends with user thanking the company and wishing them a good day",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "1. Customer service call\n2. Disconnected call\n3. Male executive\n4. Transfer call\n5. Hold the line\n6. Package details\n7. Call on hold\n8. Complaint registration\n9. Complaint number\n10. WhatsApp number\n11. Local market purchase\n12. Departmental store\n13. Great day wishes\n14. Thank you\n15. Have a great day",
+    "Resolution": "The customer issue is not resolved as there appears to have been a disconnected call with an executive, confusion regarding package details, and the need for a complaint registration and follow-up.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "Yes, the caller displayed empathy. Sentences where empathy was displayed include \"Alright, so I'm registering the complaint...\" and \"OK so thank you for calling, have a great day.\"",
+    "Was there any profanity on the call": "No",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 123.80900000000051,
+    "num_silences": 150
+}

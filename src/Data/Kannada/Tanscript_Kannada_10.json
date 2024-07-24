@@ -1,0 +1,517 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0558",
+            "end_time": "0.113",
+            "original_transcript": "very good evening thank you for calling ITC my name is how may I help you",
+            "translated_transcript": "very good evening thank you for calling ITC my name is how I can help you",
+            "tone": "Happy",
+            "rate_of_speech": "279.80",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good evening",
+                "itc"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.143",
+            "end_time": "0.1553",
+            "original_transcript": "ಹಲವು",
+            "translated_transcript": "many",
+            "tone": "Neutral",
+            "rate_of_speech": "81.08",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.1678",
+            "end_time": "0.2185",
+            "original_transcript": "hello yes mam tell me how may I help you",
+            "translated_transcript": "hello yes mom tell me how I can help you",
+            "tone": "Neutral",
+            "rate_of_speech": "197.37",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hello yes mom"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.3875",
+            "end_time": "0.4103",
+            "original_transcript": "ಸರ್ ಚೋಟಾವಲ",
+            "translated_transcript": "Sir Chotavala",
+            "tone": "Neutral",
+            "rate_of_speech": "87.59",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir chotavala"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.4292",
+            "end_time": "0.5785",
+            "original_transcript": "ma'am voice break background voice ಇರೋದಿಕ್ಕೆ noodles taste okay",
+            "translated_transcript": "ma'am voice break background voice noodles taste okay for Iran",
+            "tone": "Neutral",
+            "rate_of_speech": "66.97",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ma'am voice",
+                "background voice noodles taste okay",
+                "iran"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.6018",
+            "end_time": "0.7437",
+            "original_transcript": "hello sir product",
+            "translated_transcript": "hello sir product",
+            "tone": "Neutral",
+            "rate_of_speech": "21.15",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hello sir product"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.7582",
+            "end_time": "0.7686",
+            "original_transcript": "hello",
+            "translated_transcript": "silav",
+            "tone": "Neutral",
+            "rate_of_speech": "95.39",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.874",
+            "end_time": "1.1361",
+            "original_transcript": "twelve rupees fourteen twelth fourteen",
+            "translated_transcript": "twelve rupees fourteen twelve fourteen",
+            "tone": "Neutral",
+            "rate_of_speech": "19.07",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.2042",
+            "end_time": "1.221",
+            "original_transcript": "sir",
+            "translated_transcript": "cheese",
+            "tone": "Neutral",
+            "rate_of_speech": "59.41",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.2337",
+            "end_time": "1.6622",
+            "original_transcript": "product",
+            "translated_transcript": "prodotto",
+            "tone": "Neutral",
+            "rate_of_speech": "2.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.6695",
+            "end_time": "1.8448",
+            "original_transcript": "okay service details complaint product ದುಮ್",
+            "translated_transcript": "okay service details complaint product dum",
+            "tone": "Neutral",
+            "rate_of_speech": "34.22",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay service details complaint product dum"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.8643",
+            "end_time": "1.9415",
+            "original_transcript": "ಚೋಟ ದು ಹೆಸರು",
+            "translated_transcript": "Chota Du Name",
+            "tone": "Neutral",
+            "rate_of_speech": "38.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "chota",
+                "name"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.9522",
+            "end_time": "1.9777",
+            "original_transcript": "ಬೀದರ್ sir",
+            "translated_transcript": "Beeder sir",
+            "tone": "Neutral",
+            "rate_of_speech": "78.38",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "beeder"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.992",
+            "end_time": "2.0991",
+            "original_transcript": "ಬೀದರ್",
+            "translated_transcript": "Beeder",
+            "tone": "Neutral",
+            "rate_of_speech": "9.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "beeder"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.1118",
+            "end_time": "2.346",
+            "original_transcript": "company amount collect",
+            "translated_transcript": "company amount collect",
+            "tone": "Neutral",
+            "rate_of_speech": "12.81",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.3548",
+            "end_time": "2.429",
+            "original_transcript": "details complaint register",
+            "translated_transcript": "details complaint register",
+            "tone": "Neutral",
+            "rate_of_speech": "40.44",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "details complaint register"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.5778",
+            "end_time": "2.5783",
+            "original_transcript": "complaint",
+            "translated_transcript": "complaint",
+            "tone": "Neutral",
+            "rate_of_speech": "2000.00",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.6455",
+            "end_time": "2.6522",
+            "original_transcript": "okay",
+            "translated_transcript": "ok",
+            "tone": "Neutral",
+            "rate_of_speech": "149.63",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.7372",
+            "end_time": "2.7381",
+            "original_transcript": "complaint",
+            "translated_transcript": "complaint",
+            "tone": "Neutral",
+            "rate_of_speech": "1000.00",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.745",
+            "end_time": "3.0117",
+            "original_transcript": "complaint team inform team investigate complaint disclose",
+            "translated_transcript": "complaint team inform team investigate complaint",
+            "tone": "Neutral",
+            "rate_of_speech": "22.50",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "complaint team"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.0202",
+            "end_time": "3.075",
+            "original_transcript": "ಜ್ಯೋತಿ ಸರ್",
+            "translated_transcript": "Jyoti Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "36.47",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "jyoti sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.0853",
+            "end_time": "3.2251",
+            "original_transcript": "okay ಆ ಜೊತೆಗೆ mobile number t noodles magic ಮಸಾಲಾ",
+            "translated_transcript": "okay plus mobile number t noodles magic masala",
+            "tone": "Happy",
+            "rate_of_speech": "57.21",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "mobile number t noodles",
+                "magic masala"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.2443",
+            "end_time": "3.2907",
+            "original_transcript": "ಹಾ sir",
+            "translated_transcript": "ha sir",
+            "tone": "Neutral",
+            "rate_of_speech": "43.17",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.3032",
+            "end_time": "3.346",
+            "original_transcript": "okay",
+            "translated_transcript": "ok",
+            "tone": "Neutral",
+            "rate_of_speech": "23.36",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.5575",
+            "end_time": "3.7563",
+            "original_transcript": "ನೂರ್ ನೂರ್ ಮಜೀದ್ ಬಾ ಬಾಲ್ಕಿ ಬೀದರ್ district ಬಾಲ್ಕಿ ತಾಲೂಕು",
+            "translated_transcript": "Noor Noor Majeed Ba Balki Bidar district Balki Taluk",
+            "tone": "Neutral",
+            "rate_of_speech": "45.26",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "noor noor majeed ba balki bidar",
+                "balki taluk"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.7707",
+            "end_time": "3.8045",
+            "original_transcript": "ಹಾ",
+            "translated_transcript": "Ha",
+            "tone": "Neutral",
+            "rate_of_speech": "29.56",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ha"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.8155",
+            "end_time": "4.1543",
+            "original_transcript": "ಬಾಲ್ಕಿ ಬೀದರ್ ಬಾಲ್ಕಿ ಬೀದರ್ ಕರ್ನಾಟಕ sir pin code pin code five eight five three two eight",
+            "translated_transcript": "Balki Beeder Balki Beeder Karnataka sir pin code pin code five eight five three two eight",
+            "tone": "Neutral",
+            "rate_of_speech": "47.22",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "balki beeder balki beeder karnataka",
+                "sir pin code pin code"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.1703",
+            "end_time": "4.3457",
+            "original_transcript": "ಮೊಹಮ್ಮದ್ ಜಾನ್",
+            "translated_transcript": "Mohammad Jan",
+            "tone": "Neutral",
+            "rate_of_speech": "11.41",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mohammad jan"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.3591",
+            "end_time": "4.6175",
+            "original_transcript": "okay ಬೆಂಗ್ಳೂರ್ head office local store",
+            "translated_transcript": "okay bengalore head office local store",
+            "tone": "Neutral",
+            "rate_of_speech": "23.23",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay bengalore head office local store"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.7562",
+            "end_time": "4.871",
+            "original_transcript": "okay pack five rupees pack",
+            "translated_transcript": "okay pack five rupees pack",
+            "tone": "Neutral",
+            "rate_of_speech": "43.54",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay pack",
+                "rupees pack"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.881",
+            "end_time": "5.0465",
+            "original_transcript": "five rupees MRP five rupees sir ಇನ್ನ ರೂಪಾಯಿ ಹತ್ತು ರೂಪಾಯಿ ಸಾತ್ ರೂಪಾಯಿ ಇದೆ",
+            "translated_transcript": "five rupees MRP five rupees sir in is worth ten rupees",
+            "tone": "Neutral",
+            "rate_of_speech": "66.46",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "mrp",
+                "rupees sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.1475",
+            "end_time": "5.275",
+            "original_transcript": "definitely madam complaint",
+            "translated_transcript": "definitely madam complaint",
+            "tone": "Neutral",
+            "rate_of_speech": "23.53",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "madam complaint"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.599",
+            "end_time": "5.7108",
+            "original_transcript": "okay okay",
+            "translated_transcript": "ok ok",
+            "tone": "Neutral",
+            "rate_of_speech": "17.89",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok ok"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.7768",
+            "end_time": "6.045",
+            "original_transcript": "one five okay sir thank you sir",
+            "translated_transcript": "one five okay sir thank you sir",
+            "tone": "Neutral",
+            "rate_of_speech": "26.10",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.055",
+            "end_time": "6.0972",
+            "original_transcript": "ಧನ್ಯವಾದ company call ದಿನ ಶುಭ",
+            "translated_transcript": "Thank you company call Happy day",
+            "tone": "Happy",
+            "rate_of_speech": "142.29",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "thank",
+                "happy"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.107",
+            "end_time": "6.1196",
+            "original_transcript": "okay sir",
+            "translated_transcript": "okay cheese",
+            "tone": "Neutral",
+            "rate_of_speech": "158.10",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay cheese"
+            ]
+        }
+    ],
+    "translated_segments": "very good evening thank you for calling ITC my name is how I can help you many hello yes mom tell me how I can help you Sir Chotavala ma'am voice break background voice noodles taste okay for Iran hello sir product silav twelve rupees fourteen twelve fourteen cheese prodotto okay service details complaint product dum Chota Du Name Beeder sir Beeder company amount collect details complaint register complaint ok complaint complaint team inform team investigate complaint Jyoti Sir okay plus mobile number t noodles magic masala ha sir ok Noor Noor Majeed Ba Balki Bidar district Balki Taluk Ha Balki Beeder Balki Beeder Karnataka sir pin code pin code five eight five three two eight Mohammad Jan okay bengalore head office local store okay pack five rupees pack five rupees MRP five rupees sir in is worth ten rupees definitely madam complaint ok ok one five okay sir thank you sir Thank you company call Happy day okay cheese ",
+    "speaker_a_segments": "very good evening thank you for calling ITC my name is how I can help you many hello yes mom tell me how I can help you ma'am voice break background voice noodles taste okay for Iran twelve rupees fourteen twelve fourteen okay service details complaint product dum Beeder company amount collect details complaint register ok complaint team inform team investigate complaint okay plus mobile number t noodles magic masala ok Balki Beeder Balki Beeder Karnataka sir pin code pin code five eight five three two eight okay bengalore head office local store okay pack five rupees pack definitely madam complaint ok ok Thank you company call Happy day ",
+    "speaker_b_segments": "Sir Chotavala hello sir product silav cheese prodotto Chota Du Name Beeder sir complaint complaint Jyoti Sir ha sir Noor Noor Majeed Ba Balki Bidar district Balki Taluk Ha Mohammad Jan five rupees MRP five rupees sir in is worth ten rupees one five okay sir thank you sir okay cheese ",
+    "summary": "ITC has a new product called Chotavala noodles. The flavours taste good. Mom is calling to inform them that the product was overpriced at the local store. The difference between the displayed price and the MRP was 5 rupees, whereas the actual MRP was  10 rupees. The complaint is registered and the team will investigate. Mom provided her contact details to the representative named Jyoti.",
+    "speaker_a_summary": "A customer is following up on an issue with the taste of the noodles they purchased from ITC. They are complaining that the taste has changed and has been adjusted to a newer, worse version. They want to inform the company that several other customers have also noticed this change in taste. The company is collecting the complaint and will investigate it, and will reach out to the customer through their provided mobile number.",
+    "speaker_b_summary": "Chotavala informs Noor that he will replace the cheese product he purchased, Chota Du, with a more expensive one because it is only worth half the price he paid for it. Noor acknowledges the issue and thanks Chotavala for his understanding.",
+    "cohere_points": "- ITC had a call regarding noodles tasted bad\n- Customer wants to file a complaint, and wants to know where to address it.\n- Agent asks for details, and will forward the complaint to the investigation team.\n- Agent finishes by thanking the customer, and hopefully satisfiedly ends the call.",
+    "opening_comments": "Yes",
+    "closing_comments": "No",
+    "Topic": "1. Customer service complaint\n2. Product details inquiry\n3. Background noise issue\n4. Voice recognition problem\n5. Noodles taste feedback\n6. Product pricing concern\n7. Service register complaint\n8. Complaint investigation process\n9. Mobile number verification\n10. Local store location\n11. Packaging price query\n12. Company call feedback\n13. Head office address\n14. District and taluk details\n15. Happy customer feedback",
+    "Resolution": "It appears that the customer's issue is not resolved, as there are several mentions of complaints and registering complaints in the text.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "No, the caller did not display empathy in this conversation.",
+    "Was there any profanity on the call": "No.",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 59.71399999999999,
+    "num_silences": 74
+}

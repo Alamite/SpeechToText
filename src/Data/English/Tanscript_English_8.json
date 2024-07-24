@@ -1,0 +1,804 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0533",
+            "end_time": "0.1125",
+            "original_transcript": "very good afternoon Thank you for calling a TC My name is Kendra How may I help you",
+            "translated_transcript": "very good afternoon Thank you for calling a TC My name is Kendra How can I help you",
+            "tone": "Happy",
+            "rate_of_speech": "304.23",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good afternoon",
+                "thank",
+                "tc",
+                "kendra"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.1225",
+            "end_time": "0.167",
+            "original_transcript": "Uh my reference number is 173",
+            "translated_transcript": "Uh, my reference number is 173",
+            "tone": "Neutral",
+            "rate_of_speech": "134.78",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "uh",
+                "reference number"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.173",
+            "end_time": "0.1917",
+            "original_transcript": "173 OK",
+            "translated_transcript": "173 OK",
+            "tone": "Neutral",
+            "rate_of_speech": "107.14",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.2031",
+            "end_time": "0.2243",
+            "original_transcript": "69 Double five",
+            "translated_transcript": "69 Double five",
+            "tone": "Neutral",
+            "rate_of_speech": "141.62",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.2322",
+            "end_time": "0.3043",
+            "original_transcript": "69 Double five Ok Yes ma'am Tell me how may I assist you",
+            "translated_transcript": "69 Double five Ok Yes ma'am Tell me how I can help you",
+            "tone": "Neutral",
+            "rate_of_speech": "180.14",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.3173",
+            "end_time": "0.6083",
+            "original_transcript": "Yeah I'm Shilpa Patel from corporation We received the credit note mail from the ITC to uh till now Uh no Last the last month we were receiving the mail And B we are able to open it",
+            "translated_transcript": "Ja sam Shilpa Patel från corporationen Vi författet till ITC till nu Uh ne laatste månader vi var författning av mail och B vi kan öppna det",
+            "tone": "Neutral",
+            "rate_of_speech": "92.78",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ja",
+                "shilpa patel",
+                "från corporationen",
+                "vi",
+                "författet till",
+                "itc",
+                "till nu",
+                "uh",
+                "ne laatste månader vi var",
+                "och b vi kan öppna det"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.6143",
+            "end_time": "0.6262",
+            "original_transcript": "but uh",
+            "translated_transcript": "but uh",
+            "tone": "Neutral",
+            "rate_of_speech": "169.25",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.6593",
+            "end_time": "0.8207",
+            "original_transcript": "yes ma'am Ma'am uh one of our agents had tried to call you today but uh you have not been answered Agent call ma'am So have you received an email regarding the same",
+            "translated_transcript": "ja ma'am Ma'am uh one of our agents had tried to call you today but uh you haven't been answered Agent call ma'am So have you received an email regarding the same",
+            "tone": "Neutral",
+            "rate_of_speech": "198.35",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ja ma'am",
+                "ma'am",
+                "agent"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.8363",
+            "end_time": "0.8763",
+            "original_transcript": "Yeah I already and",
+            "translated_transcript": "Yeah, I already and",
+            "tone": "Neutral",
+            "rate_of_speech": "100.00",
+            "emotion": "approval",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "yeah"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.885",
+            "end_time": "1.0435",
+            "original_transcript": "we do have OK Ma Can I place your call on hold for two minutes Let me take a look If he's available I'll transfer the call to him We can talk",
+            "translated_transcript": "We will have OK I can place your call on hold for two minutes Let me take a look If it is available I will transfer the call to him We can talk",
+            "tone": "Neutral",
+            "rate_of_speech": "208.18",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.0697",
+            "end_time": "1.0705",
+            "original_transcript": "OK",
+            "translated_transcript": "OK",
+            "tone": "Neutral",
+            "rate_of_speech": "1200.00",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.0765",
+            "end_time": "1.095",
+            "original_transcript": "Thank you so much ma'am",
+            "translated_transcript": "Thank you so much ma'am",
+            "tone": "Neutral",
+            "rate_of_speech": "270.27",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "thank"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.3395",
+            "end_time": "2.3968",
+            "original_transcript": "No I'm transferring the call to alert Now Please be on hold Thank",
+            "translated_transcript": "I'm not transferring the call to alert Now Please be on hold Thank you",
+            "tone": "Neutral",
+            "rate_of_speech": "244.19",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "please",
+                "thank"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.397",
+            "end_time": "2.3998",
+            "original_transcript": "you",
+            "translated_transcript": "you",
+            "tone": "Neutral",
+            "rate_of_speech": "352.94",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.4208",
+            "end_time": "2.4333",
+            "original_transcript": "Ok",
+            "translated_transcript": "Ok",
+            "tone": "Neutral",
+            "rate_of_speech": "80.00",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.6735",
+            "end_time": "2.6835",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "100.17",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.7075",
+            "end_time": "2.7095",
+            "original_transcript": "Uh",
+            "translated_transcript": "Ugh",
+            "tone": "Neutral",
+            "rate_of_speech": "495.87",
+            "emotion": "disgust",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ugh"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.7195",
+            "end_time": "2.7775",
+            "original_transcript": "ma'am a transfer me ma",
+            "translated_transcript": "Ma'am to transfer me today",
+            "tone": "Neutral",
+            "rate_of_speech": "86.21",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ma'am"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.7955",
+            "end_time": "2.8638",
+            "original_transcript": "uh I corporation",
+            "translated_transcript": "uh I corporation",
+            "tone": "Neutral",
+            "rate_of_speech": "43.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.8673",
+            "end_time": "2.8698",
+            "original_transcript": "Yeah",
+            "translated_transcript": "Ja",
+            "tone": "Neutral",
+            "rate_of_speech": "397.35",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ja"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.8715",
+            "end_time": "2.9",
+            "original_transcript": "You want the reference number",
+            "translated_transcript": "You want the reference number",
+            "tone": "Neutral",
+            "rate_of_speech": "175.34",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "reference number"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.905",
+            "end_time": "2.9778",
+            "original_transcript": "Yes ma'am Ma'am Your reference number is already like 17369 Double five ma'am",
+            "translated_transcript": "Yes ma'am Ma'am Your reference number is already like 17369 Double five ma'am",
+            "tone": "Neutral",
+            "rate_of_speech": "178.53",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ma'am your",
+                "reference number"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.985",
+            "end_time": "3.0012",
+            "original_transcript": "So uh I just",
+            "translated_transcript": "So uh I just",
+            "tone": "Neutral",
+            "rate_of_speech": "247.42",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.0013",
+            "end_time": "3.1042",
+            "original_transcript": "wanted to know about uh your uh concern ma'am That's why I was trying to call you Uh can you",
+            "translated_transcript": "desidera saber sobre uh su uh concerto ma'am That's why I was trying to call you Uh can you",
+            "tone": "Neutral",
+            "rate_of_speech": "184.76",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "desidera saber sobre uh su uh concerto ma'am",
+                "uh"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.1102",
+            "end_time": "3.2315",
+            "original_transcript": "actually I thought it's uh something C call centre call So I didn't understand I",
+            "translated_transcript": "I actually thought it's uh something C call center so I didn't understand",
+            "tone": "Neutral",
+            "rate_of_speech": "107.16",
+            "emotion": "confusion",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "'s uh"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.2348",
+            "end_time": "3.3142",
+            "original_transcript": "Then I uh I got the mail that I'm not uh actually I was",
+            "translated_transcript": "Then I got the mail that I'm not uh actually I was",
+            "tone": "Neutral",
+            "rate_of_speech": "151.23",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.317",
+            "end_time": "3.3777",
+            "original_transcript": "trying from last 3 to 4 days ma'am Continuously So finally",
+            "translated_transcript": "trying from last 3 to 4 days continuously So finally",
+            "tone": "Neutral",
+            "rate_of_speech": "164.84",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.3813",
+            "end_time": "3.4297",
+            "original_transcript": "I I thought uh I thought",
+            "translated_transcript": "I thought uh I thought",
+            "tone": "Neutral",
+            "rate_of_speech": "103.48",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.4623",
+            "end_time": "3.5935",
+            "original_transcript": "it's OK ma'am It's OK It's OK No problem Ma'am in the mail you mentioned we are not able to open my uh of your PDF file",
+            "translated_transcript": "It's OK ma'am It's OK No problem Ma'am in the mail you mentioned we are not able to open my uh of your PDF file",
+            "tone": "Happy",
+            "rate_of_speech": "190.60",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok ma'am",
+                "ma'am",
+                "pdf"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.5936",
+            "end_time": "3.5973",
+            "original_transcript": "you have at",
+            "translated_transcript": "you have at",
+            "tone": "Neutral",
+            "rate_of_speech": "818.18",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.6038",
+            "end_time": "3.6818",
+            "original_transcript": "your file Your reference error is coming like supported attached file is damaged",
+            "translated_transcript": "il tuo file Il tuo errore di referenza è compreso come che il file associato supportato è damaggiato",
+            "tone": "Neutral",
+            "rate_of_speech": "230.72",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "il tuo file",
+                "il",
+                "tuo errore di referenza è compreso",
+                "che il file associato supportato è damaggiato"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.6855",
+            "end_time": "3.8245",
+            "original_transcript": "because you please uh send your uh device attachment in pro proper PDF format Since I didn't get you ma'am like which kind of PDF you find from our end",
+            "translated_transcript": "because you please uh send your uh device attachment in a proper PDF format Since I don't get you like which kind of PDF you find from our end",
+            "tone": "Neutral",
+            "rate_of_speech": "208.63",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "uh device attachment",
+                "pdf",
+                "pdf"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.8348",
+            "end_time": "3.9917",
+            "original_transcript": "See uh it's a we are a paper dealer and uh we are receiving the credit note mail from that admin at ITC.IN",
+            "translated_transcript": "Se uh et vi er en papier dealer og uh vi er ontvangen de creditnote mail från dat admin på ITC.IN",
+            "tone": "Neutral",
+            "rate_of_speech": "133.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "se",
+                "vi er",
+                "papier dealer og uh vi er ontvangen",
+                "från dat admin på",
+                "itc.in"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.004",
+            "end_time": "4.0046",
+            "original_transcript": "So",
+            "translated_transcript": "Salt",
+            "tone": "Neutral",
+            "rate_of_speech": "1538.46",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.0061",
+            "end_time": "4.1202",
+            "original_transcript": "what happened is uh uh before one minute we were able to open your PDF and we were getting our credit note but",
+            "translated_transcript": "que se ha a uh uh antes de un minuto, a ser possível aprire la PDF y a ser conta la nostra nota de krediyê, mas",
+            "tone": "Neutral",
+            "rate_of_speech": "228.04",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "que se",
+                "uh uh antes",
+                "un minuto",
+                "ser possível aprire",
+                "pdf",
+                "ser conta",
+                "nostra nota"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.1203",
+            "end_time": "4.2868",
+            "original_transcript": "from last month Now what The mail we are receiving from this ID So we are not able to open your previous when when it is not opening and it is showing some errors it will not open",
+            "translated_transcript": "Az",
+            "tone": "Neutral",
+            "rate_of_speech": "6.01",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "az"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.293",
+            "end_time": "4.4058",
+            "original_transcript": "from which mail Uh can you Can you please confirm me the mail ID from which mail You're uh receiving that attachment or the mail",
+            "translated_transcript": "from which mail Uh can you please confirm me the mail ID from which mail You're receiving that attachment or the mail",
+            "tone": "Neutral",
+            "rate_of_speech": "194.95",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "uh",
+                "id"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.4148",
+            "end_time": "4.4818",
+            "original_transcript": "Uh we are receiving from sap admin at the itc.in",
+            "translated_transcript": "We are receiving from sap admin at the itc.in",
+            "tone": "Neutral",
+            "rate_of_speech": "134.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sap admin"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.5023",
+            "end_time": "4.5177",
+            "original_transcript": "tab admin",
+            "translated_transcript": "admin tab",
+            "tone": "Neutral",
+            "rate_of_speech": "130.58",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "admin tab"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.5263",
+            "end_time": "4.5268",
+            "original_transcript": "at",
+            "translated_transcript": "at",
+            "tone": "Neutral",
+            "rate_of_speech": "2000.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.5348",
+            "end_time": "4.5492",
+            "original_transcript": "the ITC admin",
+            "translated_transcript": "the ITC admin",
+            "tone": "Neutral",
+            "rate_of_speech": "209.06",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "itc"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.5705",
+            "end_time": "4.6173",
+            "original_transcript": "And the subject name is claim approval Mail",
+            "translated_transcript": "And the subject name is claim approval Mail",
+            "tone": "Neutral",
+            "rate_of_speech": "170.82",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "subject name",
+                "claim approval mail"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.6287",
+            "end_time": "4.7562",
+            "original_transcript": "Yes ma'am It's there You mentioned in the mail So once again I would like to confirm uh like uh it's related to uh",
+            "translated_transcript": "Ja ma'am Er det er mentiert i postet så så nytt jeg liker å forbedre uh som det er relateret til uh",
+            "tone": "Neutral",
+            "rate_of_speech": "172.57",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ja",
+                "er",
+                "det er mentiert i postet så så nytt jeg liker å forbedre uh som det er relateret til uh"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.771",
+            "end_time": "4.7815",
+            "original_transcript": "very related",
+            "translated_transcript": "very related",
+            "tone": "Neutral",
+            "rate_of_speech": "190.48",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.7862",
+            "end_time": "4.9245",
+            "original_transcript": "to our discounts Yes Whatever the discounts we are not receiving from you to you we are We are dealer",
+            "translated_transcript": "to our discounts Yes Whatever the discounts we are not receiving from you to you we are a dealer",
+            "tone": "Neutral",
+            "rate_of_speech": "137.35",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.9415",
+            "end_time": "4.9962",
+            "original_transcript": "OK OK ma'am",
+            "translated_transcript": "OK OK ma'am",
+            "tone": "Neutral",
+            "rate_of_speech": "54.88",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok ok ma'am"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.0053",
+            "end_time": "5.0133",
+            "original_transcript": "Sure",
+            "translated_transcript": "Surest",
+            "tone": "Neutral",
+            "rate_of_speech": "125.26",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "surest"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.0196",
+            "end_time": "5.4127",
+            "original_transcript": "What do we do now Uh what we do we generate from our side debit note whatever discount we not don't receive from the ITC because it we first raise the debit note Then in your system they launch ITC uh staff lodge our claim and I think the same You are a senior as well Issue the credit note so that mail we are receiving from this ID But it is not opening",
+            "translated_transcript": "What do we do now Uh what do we generate from our side debit note whatever discount we don't receive from the ITC because it first raises the debit note Then in your system they launch ITC uh staff lodge our claim and I think the same You are a senior as well Issue the credit note so that we are receiving from this ID But it is not opening",
+            "tone": "Neutral",
+            "rate_of_speech": "178.11",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "uh",
+                "side debit note",
+                "itc",
+                "debit note",
+                "itc",
+                "uh staff lodge",
+                "credit note",
+                "id"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.4206",
+            "end_time": "5.5052",
+            "original_transcript": "So what happens We are in Uh we are not getting the proper credit note",
+            "translated_transcript": "So what happens We are in Uh we are not getting the proper credit note",
+            "tone": "Neutral",
+            "rate_of_speech": "177.51",
+            "emotion": "disappointment",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "uh",
+                "proper credit note"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.5148",
+            "end_time": "5.5903",
+            "original_transcript": "OK OK got it ma'am So the the same attachment you uh attached here in the mail right",
+            "translated_transcript": "OK Okay, so I got it so the same attachment you attached here in the mail right",
+            "tone": "Neutral",
+            "rate_of_speech": "225.17",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.5987",
+            "end_time": "5.663",
+            "original_transcript": "Yes So you all um facing the same address",
+            "translated_transcript": "Ja, Så du alle samme adressen",
+            "tone": "Neutral",
+            "rate_of_speech": "93.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ja",
+                "så",
+                "du alle samme adressen"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.6735",
+            "end_time": "5.7972",
+            "original_transcript": "Ok OK got it ma'am Got it ma'am So I'll inform your team Uh and definitely our team will get back to you or they will be with you in the mail ma'am",
+            "translated_transcript": "Ok OK got it ma'am Got it ma'am So I'll inform your team Uh and definitely our team will get back to you or they will be with you in the mail ma'am",
+            "tone": "Neutral",
+            "rate_of_speech": "266.88",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok",
+                "got",
+                "uh"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.8118",
+            "end_time": "5.8178",
+            "original_transcript": "Ok",
+            "translated_transcript": "Ok",
+            "tone": "Neutral",
+            "rate_of_speech": "166.20",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.8335",
+            "end_time": "5.8935",
+            "original_transcript": "Ok ma'am Thank you so much ma'am for your time Have a good day ma'am Thank you",
+            "translated_transcript": "Ok ma'am Thank you so much ma'am for your time Have a good day ma'am Thank you",
+            "tone": "Neutral",
+            "rate_of_speech": "283.41",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok",
+                "thank",
+                "have",
+                "good day ma'am",
+                "thank"
+            ]
+        }
+    ],
+    "translated_segments": "very good afternoon Thank you for calling a TC My name is Kendra How can I help you Uh, my reference number is 173 173 OK 69 Double five 69 Double five Ok Yes ma'am Tell me how I can help you Ja sam Shilpa Patel från corporationen Vi författet till ITC till nu Uh ne laatste månader vi var författning av mail och B vi kan öppna det but uh ja ma'am Ma'am uh one of our agents had tried to call you today but uh you haven't been answered Agent call ma'am So have you received an email regarding the same Yeah, I already and We will have OK I can place your call on hold for two minutes Let me take a look If it is available I will transfer the call to him We can talk OK Thank you so much ma'am I'm not transferring the call to alert Now Please be on hold Thank you you Ok Hallo Ugh Ma'am to transfer me today uh I corporation Ja You want the reference number Yes ma'am Ma'am Your reference number is already like 17369 Double five ma'am So uh I just desidera saber sobre uh su uh concerto ma'am That's why I was trying to call you Uh can you I actually thought it's uh something C call center so I didn't understand Then I got the mail that I'm not uh actually I was trying from last 3 to 4 days continuously So finally I thought uh I thought It's OK ma'am It's OK No problem Ma'am in the mail you mentioned we are not able to open my uh of your PDF file you have at il tuo file Il tuo errore di referenza è compreso come che il file associato supportato è damaggiato because you please uh send your uh device attachment in a proper PDF format Since I don't get you like which kind of PDF you find from our end Se uh et vi er en papier dealer og uh vi er ontvangen de creditnote mail från dat admin på ITC.IN Salt que se ha a uh uh antes de un minuto, a ser possível aprire la PDF y a ser conta la nostra nota de krediyê, mas Az from which mail Uh can you please confirm me the mail ID from which mail You're receiving that attachment or the mail We are receiving from sap admin at the itc.in admin tab at the ITC admin And the subject name is claim approval Mail Ja ma'am Er det er mentiert i postet så så nytt jeg liker å forbedre uh som det er relateret til uh very related to our discounts Yes Whatever the discounts we are not receiving from you to you we are a dealer OK OK ma'am Surest What do we do now Uh what do we generate from our side debit note whatever discount we don't receive from the ITC because it first raises the debit note Then in your system they launch ITC uh staff lodge our claim and I think the same You are a senior as well Issue the credit note so that we are receiving from this ID But it is not opening So what happens We are in Uh we are not getting the proper credit note OK Okay, so I got it so the same attachment you attached here in the mail right Ja, Så du alle samme adressen Ok OK got it ma'am Got it ma'am So I'll inform your team Uh and definitely our team will get back to you or they will be with you in the mail ma'am Ok Ok ma'am Thank you so much ma'am for your time Have a good day ma'am Thank you ",
+    "speaker_a_segments": "very good afternoon Thank you for calling a TC My name is Kendra How can I help you 173 OK 69 Double five Ok Yes ma'am Tell me how I can help you but uh ja ma'am Ma'am uh one of our agents had tried to call you today but uh you haven't been answered Agent call ma'am So have you received an email regarding the same We will have OK I can place your call on hold for two minutes Let me take a look If it is available I will transfer the call to him We can talk Thank you so much ma'am I'm not transferring the call to alert Now Please be on hold Thank you Hallo Ma'am to transfer me today Ja Yes ma'am Ma'am Your reference number is already like 17369 Double five ma'am desidera saber sobre uh su uh concerto ma'am That's why I was trying to call you Uh can you trying from last 3 to 4 days continuously So finally It's OK ma'am It's OK No problem Ma'am in the mail you mentioned we are not able to open my uh of your PDF file il tuo file Il tuo errore di referenza è compreso come che il file associato supportato è damaggiato because you please uh send your uh device attachment in a proper PDF format Since I don't get you like which kind of PDF you find from our end Salt from which mail Uh can you please confirm me the mail ID from which mail You're receiving that attachment or the mail admin tab the ITC admin Ja ma'am Er det er mentiert i postet så så nytt jeg liker å forbedre uh som det er relateret til uh very related OK OK ma'am Surest OK Okay, so I got it so the same attachment you attached here in the mail right Ok OK got it ma'am Got it ma'am So I'll inform your team Uh and definitely our team will get back to you or they will be with you in the mail ma'am Ok ma'am Thank you so much ma'am for your time Have a good day ma'am Thank you ",
+    "speaker_b_segments": "Uh, my reference number is 173 69 Double five Ja sam Shilpa Patel från corporationen Vi författet till ITC till nu Uh ne laatste månader vi var författning av mail och B vi kan öppna det Yeah, I already and OK you Ok Ugh uh I corporation You want the reference number So uh I just I actually thought it's uh something C call center so I didn't understand Then I got the mail that I'm not uh actually I was I thought uh I thought you have at Se uh et vi er en papier dealer og uh vi er ontvangen de creditnote mail från dat admin på ITC.IN que se ha a uh uh antes de un minuto, a ser possível aprire la PDF y a ser conta la nostra nota de krediyê, mas Az We are receiving from sap admin at the itc.in at And the subject name is claim approval Mail to our discounts Yes Whatever the discounts we are not receiving from you to you we are a dealer What do we do now Uh what do we generate from our side debit note whatever discount we don't receive from the ITC because it first raises the debit note Then in your system they launch ITC uh staff lodge our claim and I think the same You are a senior as well Issue the credit note so that we are receiving from this ID But it is not opening So what happens We are in Uh we are not getting the proper credit note Ja, Så du alle samme adressen Ok ",
+    "summary": "Shilpa Patel calls the TC corporation regarding an issue with a PDF file she has received regarding a claim approval mail. The operator, Kendra, puts her on hold to check the status of the issue with the mail. Kendra then transfers the call to a colleague who is trying to call her regarding the same issue, but was not able to get through. The caller and the agent discuss the issue with the mail not being properly formatted and the agent informs her that the issue will be handled and the problem solved via mail. The call ends with both parties thanking each other for the call and the help.",
+    "speaker_a_summary": "The customer, whose name is Kendra, calls the TC company to follow up on an issue she has been having with a damaged file. The customer support agent checks if she has received an email from them regarding the issue, which she confirms. The agent then puts her on hold to check with another agent who has been trying to reach the customer, but has been unsuccessful. The customer confirms that she has received an email about the issue and that the problem is with a damaged file, and provides the reference number. The agent takes the information and will inform the team to get back to the customer via email.",
+    "speaker_b_summary": "Shilpa Patel from the corporation is confused about the process of getting a credit note from the ITC. They received an email from the admin at ITC.IN, but they cannot open the PDF and view the credit note. They mention that they are a paper dealer and that they should receive discounts from the ITC, but they do not know how to proceed or what to generate from their side. The credit note cannot be opened from their end. They are frustrated and seeking guidance on what to do next.",
+    "cohere_points": "- Agent calls customer to follow up on an issue the customer has been having with a PDF file\n- Customer and agent struggle to understand each other, but eventually get the customer's issue resolved\n- Agent informs their team of the issue and promises to follow up with the customer\n- The customer is satisfied and thanks the agent for their help. \n- The call ends with each party wishing the other a good day.",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "1. Reference number inquiry\n2. Email communication issue\n3. Call transfer request\n4. Difficulty opening PDF\n5. Credit note problem\n6. Claim approval process\n7. Debit note generation\n8. Discount communication error\n9. Mail attachment issue\n10. Claim resolution procedure\n11. Admin mail identification\n12. Subject name verification\n13. PDF format clarification\n14. Credit note retrieval\n15. Team follow-up confirmation",
+    "Resolution": "The customer's issue is not resolved yet, as they are still experiencing difficulties opening the PDF file containing the credit note.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "Yes\n\nThe caller displayed empathy when they said \"It's OK ma'am, It's OK No problem\" and \"Thank you so much ma'am for your time Have a good day ma'am\".",
+    "Was there any profanity on the call": "No",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 46.48299999999975,
+    "num_silences": 47
+}

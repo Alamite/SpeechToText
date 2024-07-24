@@ -1,0 +1,1806 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0",
+            "end_time": "0.0082",
+            "original_transcript": "ಬಚ್ಚೆ",
+            "translated_transcript": "BACHET",
+            "tone": "Neutral",
+            "rate_of_speech": "122.45",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bachet"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.023",
+            "end_time": "0.0328",
+            "original_transcript": "ಗಿಲ ಮೇಡಂ ಆಗ್ಬೇಡ",
+            "translated_transcript": "Gila Madame Agbeda",
+            "tone": "Neutral",
+            "rate_of_speech": "304.57",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "gila madame agbeda"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.0472",
+            "end_time": "0.1303",
+            "original_transcript": "ನಮಸ್ತೆ ಸರ್",
+            "translated_transcript": "Namaste sir",
+            "tone": "Neutral",
+            "rate_of_speech": "24.04",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "namaste"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.1548",
+            "end_time": "0.2253",
+            "original_transcript": "hello good evening welcome to",
+            "translated_transcript": "hello good evening welcome to",
+            "tone": "Happy",
+            "rate_of_speech": "70.91",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "hello good evening"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.2388",
+            "end_time": "0.4417",
+            "original_transcript": "yes please",
+            "translated_transcript": "ja, por favor",
+            "tone": "Neutral",
+            "rate_of_speech": "14.79",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "por favor"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.3773",
+            "end_time": "1.4073",
+            "original_transcript": "ಹಲೋ ನಮಸ್ತೆ sir",
+            "translated_transcript": "Hello Namaste sir",
+            "tone": "Neutral",
+            "rate_of_speech": "99.94",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hello namaste"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.4708",
+            "end_time": "1.5013",
+            "original_transcript": "ನಿಮ್ದು ಏನ್ special match box ಉಂಟಲ್ಲ ಸರ್",
+            "translated_transcript": "There is no special match box, sir.",
+            "tone": "Sad",
+            "rate_of_speech": "229.51",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.5197",
+            "end_time": "1.544",
+            "original_transcript": "AH is buff okay",
+            "translated_transcript": "AH is buff okay",
+            "tone": "Neutral",
+            "rate_of_speech": "164.50",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ah",
+                "buff okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.5585",
+            "end_time": "1.829",
+            "original_transcript": "ಹೌದು ಅದು ಒಂದು ಕಡ್ಡಿ ಎಷ್ಟೇ ಆಗ್ತ ಬಾರಿ ಕಡಿಮೆ ಉಂಟಲ್ಲ ಮಾರ್ ನಾವ್ ಒಂದ್ ತಗೊಂಡಿದ್ರು ಅದು date of manufactured twelve ಇದು ಎರಡು ಸಾವಿರದ ಇಪ್ಪತ್ತೆರಡು ಹನ್ನೆರಡು ಎರಡು ಸಾವಿರದ ಇಪ್ಪತ್ತೆರಡು ಅದ್ರಲ್ಲಿ ನಾಲ್ಕ್ marks ಅಲ್ಲಿ ಹದಿನೈದು ಹದಿನೈದು ಕಡಿ ಉಂಟಲ್ಲ ಸರ್",
+            "translated_transcript": "Yes it is a stick not so many times lower than Mar Nav un tagondidru that is the date of manufactured twelve It is two thousand twenty-two twelve two thousand twenty two thousand twenty two thousand other four marks where fifteen fifteen five feet does not exist sir",
+            "tone": "Neutral",
+            "rate_of_speech": "177.46",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "mar nav",
+                "un tagondidru"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.8765",
+            "end_time": "1.8872",
+            "original_transcript": "sticks ಕಡಿಮೆ",
+            "translated_transcript": "Sticks reduced",
+            "tone": "Neutral",
+            "rate_of_speech": "187.21",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sticks"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.8872",
+            "end_time": "1.9593",
+            "original_transcript": "ಬಂದಿದೆ ನೀವ್ ಎಷ್ಟ್ ಹಾಕ್ತೀರಿ content",
+            "translated_transcript": "Coming up with new content",
+            "tone": "Neutral",
+            "rate_of_speech": "69.30",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "coming",
+                "new content"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.9727",
+            "end_time": "2.0497",
+            "original_transcript": "ಅಲ್ಲಿ back side ಎಷ್ಟ್ mention ಆಗಿದೆ ಎಷ್ಟು ಎಷ್ಟು ಅದು one rupee match box ಅದು",
+            "translated_transcript": "where the back side eth mention is how much it is one rupee match box",
+            "tone": "Neutral",
+            "rate_of_speech": "194.81",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "back side eth"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.061",
+            "end_time": "2.146",
+            "original_transcript": "one rupees zero point zero four ಅಂದ್ರೆ ಉಂಟಪ್ಪ stick",
+            "translated_transcript": "one rupees zero point zero four andre untappa stick",
+            "tone": "Neutral",
+            "rate_of_speech": "105.90",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "rupees zero point zero",
+                "andre untappa"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.1606",
+            "end_time": "2.1928",
+            "original_transcript": "MRC ಒಂದು ರೂಪಾಯಿ ಅಂದ್ರೆ ಉಂಟು ಸರ್",
+            "translated_transcript": "MRC ONE RUPEE ANDRE UNTU SIR",
+            "tone": "Neutral",
+            "rate_of_speech": "186.43",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mrc one rupee andre untu sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.2033",
+            "end_time": "2.2167",
+            "original_transcript": "ಏ ಅಲ್ಲ",
+            "translated_transcript": "Ae is not",
+            "tone": "Neutral",
+            "rate_of_speech": "224.72",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ae"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.2296",
+            "end_time": "2.232",
+            "original_transcript": "twenty",
+            "translated_transcript": "dång",
+            "tone": "Neutral",
+            "rate_of_speech": "428.57",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.2783",
+            "end_time": "2.3835",
+            "original_transcript": "five ಇದ್ರಲ್ಲಿ ನಾವು ಒಂದು ತೊಟ್ಟು ತಗೊಂಡಿದೀವಿ ದೊಡ್ಡದು ನೂರಾ ಎಂಬತ್ತು ರೂಪಾಯಿ ಕೊಟ್ಟೀವಿ ಅದ್ರಲ್ಲಿ ಎರಡರಲ್ಲಿ ಹದಿನ ಹದಿನೈದು ಉಂಟ ಸರ್",
+            "translated_transcript": "five in Idrli we had a lump and a big one was a hundred rupees in two.",
+            "tone": "Neutral",
+            "rate_of_speech": "161.65",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "idrli"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.4001",
+            "end_time": "2.4442",
+            "original_transcript": "ಇಲ್ಲ ನಿಮ್ packet ಹೇಳ್ತಾರಾ sticks ಹೇಳ್ತಿರ ನೀವು",
+            "translated_transcript": "No Nim Packet Tentara Sticks Testir You",
+            "tone": "Neutral",
+            "rate_of_speech": "159.09",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "nim packet tentara sticks testir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.4628",
+            "end_time": "2.602",
+            "original_transcript": "ನಾವು packet ಹೇಳ್ತಿಲ್ಲ sir stick ಹೇಳ್ತಿದೀವಿ ಅದರ ಒಳಗಡೆ stick ಉಂಟಲ್ಲ ಕೆಲವಲ್ಲಿ ಇಪ್ಪತೈದು ಉಂಟು ಕೆಲವು ಇಪ್ಪತ್ತಾರು ಉಂಟು ಈ ಎರಡು ಬಿದ್ರು ಅದ್ರಲ್ಲಿ ಹದಿನೈದು ಉಂಟು sir",
+            "translated_transcript": "We didn't tell the packet sir stick the inside of it didn't have a stick inside of it some twenty five cause some twenty six cause this two bamboo adrilli fifteen cause sir",
+            "tone": "Neutral",
+            "rate_of_speech": "237.15",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "packet sir",
+                "bamboo adrilli"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.6135",
+            "end_time": "2.8032",
+            "original_transcript": "ಆ watch matches box ಒಳಗಡೆ one rupee matches box ಒಳಗಡೆ sticks ಇರ್ತಾರಲ್ಲ so ಆ one rupee match box ಅಲ್ಲಿ ಇಪ್ಪತ್ತೈದು sticks ಇರ್ಬೇಕು",
+            "translated_transcript": "There must be twenty-five sticks inside that watch matches box inside one rupee matches box so there should be twenty-five sticks inside that one rupee match box",
+            "tone": "Neutral",
+            "rate_of_speech": "142.34",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "twenty-five sticks",
+                "matches box",
+                "rupee matches box",
+                "twenty-five sticks"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.8131",
+            "end_time": "2.8865",
+            "original_transcript": "ಇದ್ರಲ್ಲಿ ನಾವ್ ಎರಡ್ರಲ್ಲೂ ಉಂಟು",
+            "translated_transcript": "Idralli Nav Dadralloo Untu",
+            "tone": "Neutral",
+            "rate_of_speech": "54.53",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "idralli nav dadralloo untu"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.9061",
+            "end_time": "3.2112",
+            "original_transcript": "ಹದಿನೈದು okay so sorry sir ನಿಮ್ ನಿಮ್ಗೆ ಈ ತರ experience ಸಿಗುತ್ತೆ ನಮ್ದು ITC matches box ಅಲ್ಲಿ so ನಮ್ದ್ actually ಏನ್ ಸರ್ ನಮ್ದು ಎಲ್ಲಾ products ಅಲ್ಲ matches box ಅಂತ ಬೇರೆ products ಇರ್ಬೋದು so ಎಲ್ಲಾ products delivering to market ಮುಂಚೆನೇ quality check manufacturing ಎಲ್ಲಾ check ಹಾಕೊಂಡು delivery ಆಗುತ್ತೆ",
+            "translated_transcript": "Fifteen okay so sorry sir Nim you get this star experience Namedu ITC matches box where so namd actually ain't sir namdu all products not matches box end other products are available so all products delivering to market first quality check manufacturing will be checked and delivered",
+            "tone": "Neutral",
+            "rate_of_speech": "154.10",
+            "emotion": "remorse",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "sorry sir",
+                "nim",
+                "star experience",
+                "namedu itc",
+                "matches box",
+                "ai n't sir namdu",
+                "matches box end",
+                "quality check"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.2918",
+            "end_time": "3.3062",
+            "original_transcript": "market ಗೆ delivery ಇದ್ರಲ್ಲೂ ಉಂಟು",
+            "translated_transcript": "Delivery to market is still available",
+            "tone": "Neutral",
+            "rate_of_speech": "418.60",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "delivery"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.3098",
+            "end_time": "3.3195",
+            "original_transcript": "so",
+            "translated_transcript": "salt",
+            "tone": "Neutral",
+            "rate_of_speech": "103.45",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.3785",
+            "end_time": "3.527",
+            "original_transcript": "ನೀವ್ ನೀವ್ ಏನಿಕ್ಕೆ ತಗೊಂಡಿದೀರಾ personal use ಗೆ ಏನಂತ sale ಮಾಡಕ್ಕೆ ತಗೊಂಡಿದಾರೆ ನಿಮ್ದು retail shop ಅಂಗ್ಡಿ ಹಿಂಗೆ ಇದೆ ಅಂತ personal use ಗೆ ತಗೊಂಡಿದ್ದೆ okay so ಕೆಲ್ಸ",
+            "translated_transcript": "What you need to do is to sell something for personal use and retail shop is located behind the shop and the end is for personal use okay so Kelsa",
+            "tone": "Neutral",
+            "rate_of_speech": "202.04",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "personal use",
+                "retail shop",
+                "personal use okay",
+                "kelsa"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.527",
+            "end_time": "3.5465",
+            "original_transcript": "ಮಾಡೋಣ",
+            "translated_transcript": "Let's do",
+            "tone": "Neutral",
+            "rate_of_speech": "102.56",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.5525",
+            "end_time": "3.7263",
+            "original_transcript": "so ಅದು matches box ನಿಮ್ ಕಡೆ ಇಟ್ಟಿ ನಮ್ಗೆ ಸ್ವಲ್ಪ details ಬೇಕು so ನ register ಮಾಡ್ತೀನಿ ಒಂದ್ complaint ನಿಮ್ ಕಡೆ so ನಮ್ team ಗೆ complaint ಅದು forward ಮಾಡಾದ್ಮೇಲೆ ನಮ್ team ಗೆ ನಿಮ್ಗೊಂದ್ call ಬರ್ತಾರೆ",
+            "translated_transcript": "so that's matches box we need some details so we need some details so register a complaint on my side so we have a complaint to the team that forwards the call to the team",
+            "tone": "Neutral",
+            "rate_of_speech": "201.32",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "'s matches box"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.7296",
+            "end_time": "3.9998",
+            "original_transcript": "ಅವ್ನು ನಿಮ್ಗೆ ಕೇಳ್ತಾರ ನಿಮ್ time ಬಗ್ಗೆ ಅಥವಾ ನೀವ್ ಹೇಳಿ ಯಾವ್ team comfortable so ಆ time ಪ್ರಕಾರ ನೀವು ಬರ್ತಾರ ನಿಮ್ ನಿಮ್ ಕಡೆ ಅದು match box pick ಮಾಡಿ ನಮ್ team ಗೆ ಕಳ್ತಾರ sampling ಗೆ so ಅದೇ time ಅಲ್ಲಿ",
+            "translated_transcript": "He asked him about him nimm time or niew tell ya team comfortable so according to that time you bertara nim nim side it pick match box make num team to poor sampling to so same time there",
+            "tone": "Neutral",
+            "rate_of_speech": "140.65",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "nimm time",
+                "ya team",
+                "bertara nim nim side",
+                "num team"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.0046",
+            "end_time": "4.3586",
+            "original_transcript": "so ನಮ್ process ನ ಹೇಳ್ತೀನಿ ನೀವು ನೀವು legal rights ಅದು ನಿಮ್ ಕಡೆ ಅದು so ನೀವ್ ಏನ್ ಮಾಡೋತರ ಅದು ನಿಮ್ ಕಷ್ಟ ಅದು so ನಮ್ಗೇನ್ ಮಾಡಕ್ ಹೇಳ್ತಾನ ನಮ್ team ಅಲ್ಲಿ executive call ಮಾಡ್ತಾರೆ ನಿಮ್ place sample collect ಮಾಡೋಕೆ ನಮ್ team ಗೆ ಕಳುಸ್ತಾರೆ ಅವ್ರು match box ಮತ್ತೆ ನಿಮ್ಗೆ ಅದೇ time ಅಲ್ಲಿ ನಿಮ್ಗೆ ಹೊಸ match box replacement card ಕೊಡ್ತೀನಿ company",
+            "translated_transcript": "so we know the process that you have legal rights that on the part of me it will not do so new what it is that it is difficult that so we can make an executive call to the team where we have to make an executive call where we have a place sample collect a sample to our team. box replacement card Kodini company",
+            "tone": "Sad",
+            "rate_of_speech": "183.62",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "legal rights",
+                "place sample",
+                "box replacement card",
+                "kodini"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.3902",
+            "end_time": "4.636",
+            "original_transcript": "consumer ಗೆ call ಮಾಡ್ತೆ complaint ಮಾಡ್ಬೇಕು ಅಂತಿದ್ದೀವಿ ಸರಿಯಾಗಿ ಹದಿನೈದು ಬರುತ್ತೆ ಅದು ಮತ್ತೆ ನೀವು ಇದ್ ಮಾಡ್ಬೇಕು sir ಅದು ಮೊದಲನೇ ಬರುತ್ತಲ್ಲ ಹಿಂದ್ಗಡೆ ಹೊಡೆದಿರ್ಬೇಕು",
+            "translated_transcript": "You have to make a complaint to the consumer and then fifteen comes right it again you have to do it sir it doesn't come first you have to hit the door",
+            "tone": "Neutral",
+            "rate_of_speech": "130.17",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.6563",
+            "end_time": "4.786",
+            "original_transcript": "ಅದು ನೀವು purchase ಮಾಡಿದ್ರೆ bundle ಅಲ್ಲ ಅದು ಏನು tamper ಇಲ್ಲಲ್ಲ ಅದು ಅಂಗಡಿ ಎಲ್ಲಿ ತಗೊಂಡಿದೀರಾ ಅದು",
+            "translated_transcript": "That's not the bundle you purchased it's not tamper what it's where the store got it",
+            "tone": "Neutral",
+            "rate_of_speech": "123.39",
+            "emotion": "disapproval",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.8005",
+            "end_time": "4.8191",
+            "original_transcript": "online offline",
+            "translated_transcript": "online offline",
+            "tone": "Neutral",
+            "rate_of_speech": "107.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "online offline"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.8387",
+            "end_time": "4.9732",
+            "original_transcript": "online purchase offline store ಅಲ್ಲಿ ಯಾವ್ store store name",
+            "translated_transcript": "online purchase offline store Where is the store store name",
+            "tone": "Neutral",
+            "rate_of_speech": "74.35",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "online purchase offline store",
+                "store store name"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.9817",
+            "end_time": "5.0213",
+            "original_transcript": "ಅದು ಸಣ್ಣ ತಗೋಳೋದು",
+            "translated_transcript": "That's a small thing.",
+            "tone": "Neutral",
+            "rate_of_speech": "100.84",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "small thing"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.0305",
+            "end_time": "5.193",
+            "original_transcript": "ಕಿರಾಣಿ okay ಸರಿ ಸರ್ ಸರಿ ಸರ್ ಅದ್ರ details ನೀವ್ ಹೇಳಿ ಸರ್ ನಾನು note ಮಾಡ್ತೀನಿ ಇವತ್ತು",
+            "translated_transcript": "Grocery okay okay sir ok sir adra details Neve tell me sir i had a note",
+            "tone": "Neutral",
+            "rate_of_speech": "98.46",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "grocery okay okay sir ok sir adra details",
+                "neve",
+                "sir i"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.2163",
+            "end_time": "5.3307",
+            "original_transcript": "ಹೌದು ಆ address ನಿಮ್ದ್ ಹೆಸರು address ಮತ್ತೆ email ID ಹೇಳಿ ಸಾಕು",
+            "translated_transcript": "Yes that address NIMD name address again email ID is enough",
+            "tone": "Neutral",
+            "rate_of_speech": "96.22",
+            "emotion": "approval",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "nimd",
+                "name address",
+                "id"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.3475",
+            "end_time": "5.3683",
+            "original_transcript": "sir",
+            "translated_transcript": "cheese",
+            "tone": "Neutral",
+            "rate_of_speech": "48.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.3895",
+            "end_time": "5.534",
+            "original_transcript": "email ID use ಮಾಡ್ತಾ ಇಲ್ಲ ಅಂತ problem ಏನಿಲ್ಲಾ number ಇದೆಯಲ್ಲ so number name ಹೇಳಿ sir ನಿಮ್ದು",
+            "translated_transcript": "email ID used no end problem No number is missing so number name tell sir",
+            "tone": "Neutral",
+            "rate_of_speech": "103.79",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "id",
+                "end problem",
+                "number name"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.5466",
+            "end_time": "5.5846",
+            "original_transcript": "name ಪೌರುಷ P U R U S H",
+            "translated_transcript": "name Citizen P U R U S H",
+            "tone": "Neutral",
+            "rate_of_speech": "210.53",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "citizen p u r u"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.6513",
+            "end_time": "5.6722",
+            "original_transcript": "address sir ನಿಮ್ ಮನೆ address",
+            "translated_transcript": "address sir Nim home address",
+            "tone": "Neutral",
+            "rate_of_speech": "240.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "address sir",
+                "nim",
+                "home address"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.696",
+            "end_time": "5.7265",
+            "original_transcript": "ನ ಮನೆ address ಕುಪ್ಪನ ಮನೆ",
+            "translated_transcript": "Home address Buppa House",
+            "tone": "Neutral",
+            "rate_of_speech": "131.22",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "buppa"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.74",
+            "end_time": "5.7566",
+            "original_transcript": "ಉಪ್ಪು ಮನೆ",
+            "translated_transcript": "Salt House",
+            "tone": "Neutral",
+            "rate_of_speech": "120.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "salt house"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.7993",
+            "end_time": "5.81",
+            "original_transcript": "post",
+            "translated_transcript": "post",
+            "tone": "Neutral",
+            "rate_of_speech": "93.60",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.8233",
+            "end_time": "5.8383",
+            "original_transcript": "ಹಬ್ಬ ಹಬ್ಬ",
+            "translated_transcript": "Festival Festival",
+            "tone": "Neutral",
+            "rate_of_speech": "133.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "festival festival"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.8485",
+            "end_time": "5.8662",
+            "original_transcript": "ಅಬ್ಳೆ okay",
+            "translated_transcript": "Able okay",
+            "tone": "Happy",
+            "rate_of_speech": "113.21",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "able"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.8752",
+            "end_time": "5.9122",
+            "original_transcript": "ತಾಲೂಕು",
+            "translated_transcript": "Taluku",
+            "tone": "Neutral",
+            "rate_of_speech": "27.03",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "taluku"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.9247",
+            "end_time": "5.9347",
+            "original_transcript": "ಭಟ್ಕಲ್",
+            "translated_transcript": "Bhatkal",
+            "tone": "Neutral",
+            "rate_of_speech": "100.17",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bhatkal"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.942",
+            "end_time": "5.9577",
+            "original_transcript": "ಭಟ್ಕಲ್ okay",
+            "translated_transcript": "Bhatkal okay",
+            "tone": "Neutral",
+            "rate_of_speech": "127.66",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "bhatkal"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.9667",
+            "end_time": "5.9875",
+            "original_transcript": "pin code sir",
+            "translated_transcript": "pin code cheese",
+            "tone": "Neutral",
+            "rate_of_speech": "144.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pin code cheese"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.0078",
+            "end_time": "6.0173",
+            "original_transcript": "ಆ",
+            "translated_transcript": "that",
+            "tone": "Neutral",
+            "rate_of_speech": "105.26",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.0275",
+            "end_time": "6.0522",
+            "original_transcript": "pin code ಭಟ್ಕಲ್ pin code",
+            "translated_transcript": "pin code Bhatkal pin code",
+            "tone": "Neutral",
+            "rate_of_speech": "202.57",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pin code",
+                "bhatkal",
+                "pin code"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.0675",
+            "end_time": "6.0913",
+            "original_transcript": "pin code five eight one three two zero",
+            "translated_transcript": "pin code five eight one three two zero",
+            "tone": "Neutral",
+            "rate_of_speech": "335.43",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pin code"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.1223",
+            "end_time": "6.1225",
+            "original_transcript": "two",
+            "translated_transcript": "two",
+            "tone": "Neutral",
+            "rate_of_speech": "5454.55",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.1328",
+            "end_time": "6.1733",
+            "original_transcript": "five eight five eight one three two zero",
+            "translated_transcript": "five eight five eight one three two zero",
+            "tone": "Neutral",
+            "rate_of_speech": "197.61",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.1973",
+            "end_time": "6.2216",
+            "original_transcript": "three two zero okay",
+            "translated_transcript": "three two zero okay",
+            "tone": "Neutral",
+            "rate_of_speech": "164.38",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "zero okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.2365",
+            "end_time": "6.2838",
+            "original_transcript": "ಇದು ನಿಮ್ matches box ಇದೆಯಲ್ಲ ನಿಮ್ ಕಡೆ ಅದು",
+            "translated_transcript": "It's not a Nim matches box Nim side it's",
+            "tone": "Neutral",
+            "rate_of_speech": "190.21",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "nim",
+                "matches box",
+                "nim"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.2838",
+            "end_time": "6.2865",
+            "original_transcript": "ಎಷ್ಟು",
+            "translated_transcript": "How much",
+            "tone": "Neutral",
+            "rate_of_speech": "745.34",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.3081",
+            "end_time": "6.362",
+            "original_transcript": "ಬಂದಿದೆ matches box",
+            "translated_transcript": "Here is the matches box",
+            "tone": "Neutral",
+            "rate_of_speech": "92.85",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "matches box"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.3815",
+            "end_time": "6.6956",
+            "original_transcript": "ಆ ಹದಿನೈದು stick ಉಂಟು ಅದು ಹಾಗೆ ಹಾಗೆ ಇಟ್ಟಿದ್ದೀನಿ ಹದಿನೈದರಲ್ಲಿ ನಾನು ಈಗ ಅಂದ್ರೆ ಒಂದ್ರಲ್ಲಿ ಎರಡು use ಮಾಡ್ದೆ ಈಗ ದೇವರ ದೀಪ ಇತ್ತು ಹೊರಗೊಂದು ಹೊರಗೊಂದು ಒಳಗಡೆ ಒಂದು ಎರಡು stick use ಮಾಡಿದ್ದೀನಿ ಒಂದ್ರಲ್ಲಿ ಹದಿಮೂರು ಉಂಟು ಎರಡರಲ್ಲಿ ಹದಿನೈದು ಇತ್ತು ಮತ್ತೊಂದು ಹಾಗೆ ತಟ್ಟಿದೀನಿ ಈಗ recent ಆಗಿ ಹದಿಮೂರು ಉಂಟು",
+            "translated_transcript": "I used two of those fifteen sticks out of fifteen now I used two in one of them now there was a lamp of God on the outside and one on the inside I used two sticks in one of thirteen and fifteen out of two there was another like a plate Dini has just recently turned thirteen",
+            "tone": "Neutral",
+            "rate_of_speech": "184.63",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "god",
+                "dini"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.7123",
+            "end_time": "6.9157",
+            "original_transcript": "okay ಹದ್ಮೂರು ಹದಿನೆಂಟು ಏನ್ problem ಇಲ್ಲ ನೀವ್ ಹಂಗೆ ಇಟ್ಬಿಡಿ ಇವತ್ತು ಆ ಅದು back side ಅಲ್ಲಿ ಒಂದ್ ಇದೆ ಹೇಳ್ತೀರಾ",
+            "translated_transcript": "okay ahadthru eighteen what a problem there was no problem niew that was there that it is on the back side there is a one",
+            "tone": "Neutral",
+            "rate_of_speech": "122.94",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay ahadthru",
+                "problem niew",
+                "back side"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.953",
+            "end_time": "7.0175",
+            "original_transcript": "ಅದು side front side ಉಂಟು ಅದು ಹನ್ನೆರಡು ಎರಡ್ ಸಾವಿರದ ಇಪ್ಪತ್ತೆರಡೂ ಉಂಟು",
+            "translated_transcript": "That caused the side front side that caused the twenty-two of the twelve erad thousand",
+            "tone": "Neutral",
+            "rate_of_speech": "232.56",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "side front side"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.0385",
+            "end_time": "7.0505",
+            "original_transcript": "ಹನ್ನೆರಡು",
+            "translated_transcript": "Twelve",
+            "tone": "Neutral",
+            "rate_of_speech": "83.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.0658",
+            "end_time": "7.0858",
+            "original_transcript": "ಎರಡು ಸಾವಿರದ ಇಪ್ಪತ್ತೆರಡು",
+            "translated_transcript": "Two thousand twenty-two",
+            "tone": "Neutral",
+            "rate_of_speech": "150.13",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.107",
+            "end_time": "7.2178",
+            "original_transcript": "okay ಆ ಇದು ಅದು manufactured by ನೋಡಿ sir ಏನಿದೆ ಅದು",
+            "translated_transcript": "okay that is this it manufactured by see sir what is it",
+            "tone": "Neutral",
+            "rate_of_speech": "108.27",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.2302",
+            "end_time": "7.282",
+            "original_transcript": "manufactured by bilal match works ಶಿವಕಾಶಿ",
+            "translated_transcript": "manufactured by bilal match works Shivakashi",
+            "tone": "Neutral",
+            "rate_of_speech": "115.72",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "shivakashi"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.3238",
+            "end_time": "7.3387",
+            "original_transcript": "ಫಿಲಾಲ್",
+            "translated_transcript": "FILAL",
+            "tone": "Neutral",
+            "rate_of_speech": "67.34",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "filal"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.3586",
+            "end_time": "7.3998",
+            "original_transcript": "ಬಿಲಾಲ್ match works",
+            "translated_transcript": "Bilal match works",
+            "tone": "Neutral",
+            "rate_of_speech": "72.87",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bilal"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.4148",
+            "end_time": "7.435",
+            "original_transcript": "ಶಿವಕಾಶಿ ಅಂತ ಉಂಟು",
+            "translated_transcript": "Shivakashi Ending",
+            "tone": "Neutral",
+            "rate_of_speech": "99.17",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "shivakashi ending"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.4493",
+            "end_time": "7.47",
+            "original_transcript": "ಯವಕಾಶಿ okay",
+            "translated_transcript": "Yavakashi okay",
+            "tone": "Neutral",
+            "rate_of_speech": "96.70",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "yavakashi"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.48",
+            "end_time": "7.5253",
+            "original_transcript": "ಮತ್ತೆ marketed by ITC limited",
+            "translated_transcript": "Re-marketed by ITC limited",
+            "tone": "Neutral",
+            "rate_of_speech": "88.24",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "re-marketed",
+                "itc"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.5343",
+            "end_time": "7.5458",
+            "original_transcript": "okay",
+            "translated_transcript": "ok",
+            "tone": "Neutral",
+            "rate_of_speech": "86.83",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.5552",
+            "end_time": "7.7035",
+            "original_transcript": "ಸರಿ ನಿಮ್ ಕಡೆ ಎರಡ್ match box ಇದೆ ಇವತ್ತು so ನಮ್ team",
+            "translated_transcript": "Well, there was an Erad match box on my side so no team",
+            "tone": "Neutral",
+            "rate_of_speech": "87.64",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "well",
+                "erad"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.71",
+            "end_time": "8.0928",
+            "original_transcript": "sir ಏನ್ problem ಇಲ್ಲ so ಅದು ಹಂಗೆ ಇಟ್ಟಿ so ನಮ್ team executive ಬರೋ time ಅಲ್ಲಿ ಒಂದ್ ನಿಮ್ಗೆ ಹತ್ತು ರೂಪಾಯಿ ಒಂದ್ pack ಬರ್ತಾರೆ ಒಂದ್ one rupees ಒಂದ್ ten pack ten matches box ಒಂದ್ ಬರ್ತಾರಲ್ಲ ಅದು ತಗೊಂಡ್ ಬಂದು ನಿಮ್ಗೆ ಕೊಡ್ತಾರೆ ಅದೇ company but ಆ time ಅಲ್ಲಿ ಅದು ಏಳ್ matches box ನಮ್ team ಗೆ ಕಳ್ಸ್ತಾರೆ checking ಮಾಡಕ್ಕೆ so ಏನಂತ ಏನಿಕ್ಕೆ ಈ ತರ ಬಂದಿದೆ so ಮುಂಚೆನೆ ನಲ್ಲಾ quality check ಮಾಡ್ಕೊಂಡ್ ಬರ್ತಾರೆ market ಗೆ so",
+            "translated_transcript": "sir ain't no problem so it's like that so um team executive borough time where one nim to ten rupees one pack bertare one rupees one ten pack ten matches box one bertara that comes to tagond and gives you the same company but that time there is no match box for us team So there's nothing this guy has come for to check, so first of all quality check the modcond berthare market",
+            "tone": "Neutral",
+            "rate_of_speech": "193.30",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "sir ai n't",
+                "um team executive borough time",
+                "pack bertare",
+                "matches box",
+                "match box",
+                "quality check",
+                "modcond berthare market"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.1055",
+            "end_time": "8.3405",
+            "original_transcript": "ಸರಿ ಅದ್ actually ನಮ್ team ಗೆ inform ಮಾಡ್ತಿನಿ so ಅದು so ಇನ್ನೊಂದ್ sir ಅದು ನಮ್ಮ whatsapp number ಹೇಳ್ತಿನಿ",
+            "translated_transcript": "Well it actually informed us team so that's so another sir that's our whatsapp number",
+            "tone": "Neutral",
+            "rate_of_speech": "63.83",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "well",
+                "whatsapp number"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.3522",
+            "end_time": "8.3537",
+            "original_transcript": "so note",
+            "translated_transcript": "so note",
+            "tone": "Neutral",
+            "rate_of_speech": "1333.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.4442",
+            "end_time": "8.5203",
+            "original_transcript": "number number one second one second",
+            "translated_transcript": "numero uno seconda un seconda seconda",
+            "tone": "Neutral",
+            "rate_of_speech": "78.76",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "numero uno seconda un seconda seconda"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.6335",
+            "end_time": "8.6867",
+            "original_transcript": "ನಿಮ್ ಹೆಸ್ರು spelling P U R S H",
+            "translated_transcript": "Nim Name Spelling P U R S H",
+            "tone": "Neutral",
+            "rate_of_speech": "150.47",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "nim name spelling p u r"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.6957",
+            "end_time": "8.8262",
+            "original_transcript": "ಅಷ್ಟೇ ನಿಮ್ whatsapp number ಹೇಳಿ",
+            "translated_transcript": "Just tell me your whatsapp number",
+            "tone": "Neutral",
+            "rate_of_speech": "45.97",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "whatsapp number"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.8388",
+            "end_time": "8.8682",
+            "original_transcript": "ಟ",
+            "translated_transcript": "T",
+            "tone": "Neutral",
+            "rate_of_speech": "34.09",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.8841",
+            "end_time": "8.8948",
+            "original_transcript": "u",
+            "translated_transcript": "in",
+            "tone": "Neutral",
+            "rate_of_speech": "93.60",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.9188",
+            "end_time": "8.9295",
+            "original_transcript": "okay",
+            "translated_transcript": "ok",
+            "tone": "Neutral",
+            "rate_of_speech": "93.75",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.9392",
+            "end_time": "8.9587",
+            "original_transcript": "U S",
+            "translated_transcript": "U S",
+            "tone": "Neutral",
+            "rate_of_speech": "102.48",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.9901",
+            "end_time": "9.0206",
+            "original_transcript": "ಪಿ ಯು ಆರ್ ಎಸ್ ಎಚ್",
+            "translated_transcript": "P U R S H",
+            "tone": "Neutral",
+            "rate_of_speech": "163.93",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "p u r"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "9.0397",
+            "end_time": "9.072",
+            "original_transcript": "ಪಿ ಯು ಆರ್ ಎಚ್",
+            "translated_transcript": "P U R H",
+            "tone": "Neutral",
+            "rate_of_speech": "123.71",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "p u r h"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "9.1058",
+            "end_time": "9.1413",
+            "original_transcript": "ಡಬಲ್ ಅದು ಪಿ ಆದ್ಮೇಲೆ",
+            "translated_transcript": "Double that P is also",
+            "tone": "Neutral",
+            "rate_of_speech": "140.85",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "9.1528",
+            "end_time": "9.1968",
+            "original_transcript": "P U S",
+            "translated_transcript": "P TO S",
+            "tone": "Neutral",
+            "rate_of_speech": "68.18",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "p to"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "9.2125",
+            "end_time": "9.258",
+            "original_transcript": "P P U R U S",
+            "translated_transcript": "P P U R U S",
+            "tone": "Neutral",
+            "rate_of_speech": "131.92",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "p p u r u"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "9.2683",
+            "end_time": "9.3163",
+            "original_transcript": "nine six zero six",
+            "translated_transcript": "nine six zero six",
+            "tone": "Neutral",
+            "rate_of_speech": "83.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "9.3363",
+            "end_time": "9.37",
+            "original_transcript": "nine six zero six",
+            "translated_transcript": "nine six zero six",
+            "tone": "Neutral",
+            "rate_of_speech": "118.75",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "9.3776",
+            "end_time": "9.3942",
+            "original_transcript": "double nine",
+            "translated_transcript": "double nine",
+            "tone": "Neutral",
+            "rate_of_speech": "121.09",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "9.4103",
+            "end_time": "9.4243",
+            "original_transcript": "double nine six",
+            "translated_transcript": "double nine six",
+            "tone": "Neutral",
+            "rate_of_speech": "214.03",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "9.4377",
+            "end_time": "9.4537",
+            "original_transcript": "double nine",
+            "translated_transcript": "double nine",
+            "tone": "Neutral",
+            "rate_of_speech": "125.13",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "9.4725",
+            "end_time": "9.6345",
+            "original_transcript": "ಹಾ ಅದು matches box front and back side ಒಂದು photo clear ತಗೊಂಡಿ ಅದು photo ಕಳ್ಸಿ sir ಅದು ನಿಮ್ team check ಮಾಡಕ್ಕೆ",
+            "translated_transcript": "ha that matches box front and back side take a photo clear that's a photo sir it's for me to check the team",
+            "tone": "Neutral",
+            "rate_of_speech": "141.96",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "matches box front",
+                "photo sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "9.6345",
+            "end_time": "9.6385",
+            "original_transcript": "easy",
+            "translated_transcript": "easy",
+            "tone": "Happy",
+            "rate_of_speech": "251.05",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "9.6385",
+            "end_time": "9.651",
+            "original_transcript": "ಆಗುತ್ತೆ okay",
+            "translated_transcript": "It will be okay",
+            "tone": "Neutral",
+            "rate_of_speech": "320.00",
+            "emotion": "caring",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "9.6668",
+            "end_time": "9.7551",
+            "original_transcript": "check ಮಾಡಿ ನಿಮ್ ಕಡೆ ಅಂತ ಇಲ್ಲ ಅದೊಂದು ಹತ್ರ net box ಮಾತ್ರ ಕೊಡು ಮತ್ತೆ replacement ಅಂತ ಇಲ್ಲ",
+            "translated_transcript": "check there is no end on the nimm side only net box only give again no end of replacement",
+            "tone": "Neutral",
+            "rate_of_speech": "215.13",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "nimm side",
+                "net box"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "9.772",
+            "end_time": "9.7797",
+            "original_transcript": "ಏನು",
+            "translated_transcript": "What",
+            "tone": "Neutral",
+            "rate_of_speech": "130.43",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "9.7978",
+            "end_time": "9.7982",
+            "original_transcript": "ಹೌದು",
+            "translated_transcript": "Yes",
+            "tone": "Neutral",
+            "rate_of_speech": "2857.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "9.8425",
+            "end_time": "9.9998",
+            "original_transcript": "ಹೌದು ನೀವು ಇವತ್ತು ಎರಡು matching box ಇದೆ ಅದು ಎರಡ್ matching box front and back side photo ಕಳ್ಸಿ so ನ check ಮಾಡೋಕೆ easy ಆಗುತ್ತೆ ನಮ್ team ಗೆ so ಎಲ್ಲಿ ಅದು",
+            "translated_transcript": "Yes you already have two matching box that is Erad matching box front and back side photo so check it's easy for num team so where is it",
+            "tone": "Neutral",
+            "rate_of_speech": "177.97",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "erad",
+                "box front",
+                "side photo",
+                "num team"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "9.9998",
+            "end_time": "10.0165",
+            "original_transcript": "manufacture ಆಗಿದೆ",
+            "translated_transcript": "manufacture is",
+            "tone": "Neutral",
+            "rate_of_speech": "120.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "10.0218",
+            "end_time": "10.0912",
+            "original_transcript": "so ಆದ್ಮೇಲೆ ನಿಮ್ಗೆ executive call ಮಾಡ್ಕೊಂಡ್ ಬರ್ತಾರೆ ನಿಮ್ place ಗೆ so ನೀವ್ ಅದು handover",
+            "translated_transcript": "so however you have an executive call modcond bertare nim place to so nive it handover",
+            "tone": "Neutral",
+            "rate_of_speech": "230.77",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "modcond bertare nim place"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "10.0912",
+            "end_time": "10.0972",
+            "original_transcript": "ಮಾಡ್ಬಿಡಿ",
+            "translated_transcript": "Modbidi",
+            "tone": "Neutral",
+            "rate_of_speech": "166.20",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "modbidi"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "10.0972",
+            "end_time": "10.2782",
+            "original_transcript": "ಅದು matching box ಆ ಸರಿ ಅದೇ time ಅಲ್ಲಿ ನಿಮ್ಗೆ ಅದೇ company matching box ಕೊಡ್ತೀನಿ so ಇವತ್ತು so ನಮ್ team ಗೆ ಅದ್ ಕಳ್ಸ್ತೀನಿ ಏನಂತಾ ಇದೆ sir ಇವ್ನು",
+            "translated_transcript": "That's matching box that's ok the same time where you have the same company matching box kodtiani so there was so num team to ad kwastini what's like sir this",
+            "tone": "Neutral",
+            "rate_of_speech": "165.75",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "'s ok",
+                "box kodtiani",
+                "num team"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "10.3008",
+            "end_time": "10.313",
+            "original_transcript": "ಹಾ",
+            "translated_transcript": "Ha",
+            "tone": "Neutral",
+            "rate_of_speech": "82.08",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ha"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "10.3268",
+            "end_time": "10.348",
+            "original_transcript": "ಇದು ಏನಂತ ಹೇಳ್ಬೇಕು ಸರ್",
+            "translated_transcript": "Something to say, sir.",
+            "tone": "Neutral",
+            "rate_of_speech": "188.83",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "10.3748",
+            "end_time": "10.386",
+            "original_transcript": "ಯಾವ್ದು",
+            "translated_transcript": "What is",
+            "tone": "Neutral",
+            "rate_of_speech": "179.10",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "10.3978",
+            "end_time": "10.4303",
+            "original_transcript": "ಇಲ್ಲ ಆಯ್ತಲ್ಲ ಸರ್ ಏನಂತ ಹೇಳ್ಬೇಕು",
+            "translated_transcript": "No choice sir what to say",
+            "tone": "Neutral",
+            "rate_of_speech": "184.52",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "choice sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "10.4482",
+            "end_time": "10.5882",
+            "original_transcript": "sir ಅದು actually ನೋಡಿ ಅದು ನಮ್ದು stop ಮಾಡಲ್ಲ so ಅದು ನಿಮ್ದು",
+            "translated_transcript": "sir it's actually look it doesn't stop us so it's yours",
+            "tone": "Neutral",
+            "rate_of_speech": "78.58",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "'s yours"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "10.5882",
+            "end_time": "10.5962",
+            "original_transcript": "legal rights",
+            "translated_transcript": "Rechte legale",
+            "tone": "Neutral",
+            "rate_of_speech": "249.48",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "rechte"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "10.6075",
+            "end_time": "10.6662",
+            "original_transcript": "so ನೀವು ಏನೆಂತ ಮಾಡ್ಬೇಕು ಅಂತ ನೀವು ಕಷ್ಟ ಅದು so ನೀವ್ ನೋಡ್ಬೇಡಿ",
+            "translated_transcript": "so what do you have to do is end you hard it so dont nod",
+            "tone": "Sad",
+            "rate_of_speech": "255.75",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "dont nod"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "10.6788",
+            "end_time": "10.7605",
+            "original_transcript": "ನಮ್ ಏನ್ ಹೇಳಲ್ಲ ನಿಮ್ಗೆ ಇಷ್ಟ ಹೋಗಲ್ಲ ಹಂಗ ಅಂತ ಅದು ನಿಮ್ದು legal rights ಅದಲ್ಲ",
+            "translated_transcript": "We didn't say what you said you didn't like the end of it. It's not legal rights",
+            "tone": "Neutral",
+            "rate_of_speech": "208.12",
+            "emotion": "disapproval",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "legal rights"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "10.7795",
+            "end_time": "10.7801",
+            "original_transcript": "ಎಷ್ಟೋ",
+            "translated_transcript": "How much",
+            "tone": "Neutral",
+            "rate_of_speech": "3076.92",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "10.8148",
+            "end_time": "10.8855",
+            "original_transcript": "ಜನಕ್ಕೆ ಹಾನಿ ಮಾಡ್ತೀರಿ ಯಾರಿಗ್ ಗೊತ್ತು ನಿಮ್ ಹಿಂದ್ಗಡೆ ಒಂದ್ plaster ಎಲ್ಲ ಹಾಕೊಂಡ್ ಬಂದ್ಬಿಟ್ರೆ ಇ",
+            "translated_transcript": "Hurt people yarig know nim hindgade un plaster all hawond bandbitre e",
+            "tone": "Neutral",
+            "rate_of_speech": "169.81",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "people yarig",
+                "nim hindgade un plaster",
+                "hawond bandbitre e"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "10.8978",
+            "end_time": "11.2571",
+            "original_transcript": "ಅದು actually ನೀವ್ ತಗೊಂಡಿ time ಅಲ್ಲಿ ಏನ್ ಏನ್ tamper ಇಲ್ಲಲ್ಲ packet bundle ಅದು ನೀವ್ bundle ತಗೊಂಡಿದಿರಲ್ಲ ಅದು packet ನೀವ್ ಅಂಗಡಿ ಹತ್ರ ತಗೊಂಡಿದ್ time ಅಲ್ಲಿ ಏನ್ damage ಇಲ್ಲಲ್ಲ correct packing ಎಲ್ಲಾ ಇದ್ಯಲ್ಲ ಏನ್ damage ಹೂಮ್ so packet bundle correct ಸರಿ ನಾ check ಮಾಡೋಕೆ ಹೇಳ್ತಿನಿ ನಮ್ team ಗೆ ನೋಡೋಣ",
+            "translated_transcript": "That's actually the nev takondhi time there ain't no tamper packet bundle that the nev bundle isn't stuck it's packet nev store only tagondid time there ain no damage no correct packing all ain't no damage hum so packet bundle correct ok check out the team",
+            "tone": "Happy",
+            "rate_of_speech": "128.01",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "nev takondhi time",
+                "ai n't",
+                "tamper packet bundle",
+                "nev bundle",
+                "'s packet nev store",
+                "tagondid time",
+                "ai n't",
+                "damage hum",
+                "packet bundle",
+                "ok check"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "11.2775",
+            "end_time": "11.2881",
+            "original_transcript": "ಹಮ್",
+            "translated_transcript": "Hum",
+            "tone": "Neutral",
+            "rate_of_speech": "93.90",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hum"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "11.3015",
+            "end_time": "11.4812",
+            "original_transcript": "whatsapp complaint ಮಾಡ್ಬೋದು ತೊಂದ್ರೆ ಇಲ್ಲ",
+            "translated_transcript": "whatsapp complaint mode no problem",
+            "tone": "Neutral",
+            "rate_of_speech": "27.83",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "whatsapp complaint mode"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "11.492",
+            "end_time": "11.5823",
+            "original_transcript": "sir ಅದು ಅದೇ sir ನಾ ಹೇಳಿದ್ರೆ ಅದು ನಮ್ಗೆ ಗೊತ್ತಿಲ್ಲ ನೀವು ಅದು ನಿಮ್ದು legal rights ನೀವು ಬೇಕು ಅಂತ ನೀವು ನೋಡಿ",
+            "translated_transcript": "sir that's the same sir na thidre it we don't know you it's legal rights you need end you see",
+            "tone": "Neutral",
+            "rate_of_speech": "221.40",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "sir na thidre",
+                "legal rights"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "11.607",
+            "end_time": "11.7987",
+            "original_transcript": "ಮಾಡ್ಬೇಕು ಮಾರ ಬರಿ ಏನ್ ಮಾಡ್ತಿದ್ರೆ ಕಟ್ಟಿ ನಮಗೇನ್ ತೊಂದ್ರೆ ಇಲ್ಲ ಮಾರ ಆದ್ರೆ ನಮ್ಕಿಂತ poor ಅಷ್ಟ ಇರ್ತಾರಲ್ಲ ಅವ್ರ್ಗೆಲ್ಲ problem ಅಲ್ಲ ನೀವು ಮೊದ್ಲೇ ನೂರ್ ಕಡಿ ಹಾಕ್ತೀರಿ ಮಾರ ಈಗ twenty five ನೂ ಹಾಕೋದಿಲ್ಲ",
+            "translated_transcript": "I don't have any trouble at all, but I don't have any trouble, but I don't think we are worse than we are.",
+            "tone": "Neutral",
+            "rate_of_speech": "120.00",
+            "emotion": "approval",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "11.8077",
+            "end_time": "11.9057",
+            "original_transcript": "ಇಲ್ಲ ಆ ತರ ಬರಕ್ chance ಇಲ್ಲಾ ಬಂದ್ ಬಂದಿದ್ದೇ ಅಂತ check ಮಾಡಕ್ಕೆ ಅದು collect ಮಾಡ್ತಾ ಇರೋದು sample so ಅದಕ್ಕೋಸ್ಕರ",
+            "translated_transcript": "There is no such thing as a chance to check whether the band has come to the end of it and collect the sample so",
+            "tone": "Neutral",
+            "rate_of_speech": "255.10",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "such thing"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "11.9057",
+            "end_time": "11.9083",
+            "original_transcript": "ನಮ್",
+            "translated_transcript": "Num",
+            "tone": "Neutral",
+            "rate_of_speech": "375.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "num"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "11.9857",
+            "end_time": "12.1615",
+            "original_transcript": "ಆ ತರ ಏನಿಲ್ಲ sir ನಮ್ ಅದಿಕ್ಕೆ ಹೇಳಿದಾರೆ process ಅಲ್ಲಿ ಏನ್ ಏನ್ process ಇದೆ ಅದೆಲ್ಲ follow ಮಾಡ್ಕೊಂಡ್ ನಿಮ್ ಕಡೆ patches box collect ಮಾಡ್ಕೊಂಡ್ ನಿಮ್ team ಗೆ",
+            "translated_transcript": "That star is nothing sir we said to it process where what is the process that is there follow modcond nim side patches box collect modcond nim team",
+            "tone": "Neutral",
+            "rate_of_speech": "159.24",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "modcond nim side patches box",
+                "modcond nim team"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "12.1675",
+            "end_time": "12.1705",
+            "original_transcript": "ಆ",
+            "translated_transcript": "that",
+            "tone": "Neutral",
+            "rate_of_speech": "333.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "12.1705",
+            "end_time": "12.2715",
+            "original_transcript": "ನಿಮ್ complaint raise ಆದ್ಮೇಲೆ ಅವ್ನ್ ಯಾವ್ call ಮಾಡ್ಬಿಡ್ತಾರೆ ನಿಮ್ಗೆ call ಮಾಡ್ಕೊಂಡು ನಿಮ್ಗೆ appointment ತಗೊಂತಾರೆ ಅವ್ರು so ನೀವ್ ಯಾವ್",
+            "translated_transcript": "If you raise a complaint, they will call you and make an appointment for you.",
+            "tone": "Neutral",
+            "rate_of_speech": "148.51",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "12.2715",
+            "end_time": "12.2763",
+            "original_transcript": "appointment",
+            "translated_transcript": "Appointment",
+            "tone": "Neutral",
+            "rate_of_speech": "206.19",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "12.3855",
+            "end_time": "12.4798",
+            "original_transcript": "ಇಲ್ಲ ಅವ್ನ್ ನಿಮ್ಗೆ ನೀವ್ ಹೇಳ್ಬಿಡಿ ಅವ್ನ್ಗೆ ಯಾವ್ time ನೀವ್ comfortable ಇರ್ತಾರಲ್ಲ executive ಗೆ so ಅದೇ time ಪ್ರಕಾರ ಅವ್ನು",
+            "translated_transcript": "No avn nim nev say av time nev comfortable irtarala executive to so same time according to avnu",
+            "tone": "Neutral",
+            "rate_of_speech": "190.85",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "avn nim nev",
+                "av time nev",
+                "comfortable irtarala executive"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "12.4892",
+            "end_time": "12.5025",
+            "original_transcript": "ಅಡಿ",
+            "translated_transcript": "feet",
+            "tone": "Neutral",
+            "rate_of_speech": "74.91",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "12.5128",
+            "end_time": "12.5135",
+            "original_transcript": "ಸರಿ",
+            "translated_transcript": "OK",
+            "tone": "Neutral",
+            "rate_of_speech": "1538.46",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "12.5623",
+            "end_time": "12.5965",
+            "original_transcript": "ಸರಿ ಸರಿ sir thank you for calling",
+            "translated_transcript": "All right sir thank you for calling",
+            "tone": "Happy",
+            "rate_of_speech": "204.88",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "right sir"
+            ]
+        }
+    ],
+    "translated_segments": "BACHET Gila Madame Agbeda Namaste sir hello good evening welcome to ja, por favor Hello Namaste sir There is no special match box, sir. AH is buff okay Yes it is a stick not so many times lower than Mar Nav un tagondidru that is the date of manufactured twelve It is two thousand twenty-two twelve two thousand twenty two thousand twenty two thousand other four marks where fifteen fifteen five feet does not exist sir Sticks reduced Coming up with new content where the back side eth mention is how much it is one rupee match box one rupees zero point zero four andre untappa stick MRC ONE RUPEE ANDRE UNTU SIR Ae is not dång five in Idrli we had a lump and a big one was a hundred rupees in two. No Nim Packet Tentara Sticks Testir You We didn't tell the packet sir stick the inside of it didn't have a stick inside of it some twenty five cause some twenty six cause this two bamboo adrilli fifteen cause sir There must be twenty-five sticks inside that watch matches box inside one rupee matches box so there should be twenty-five sticks inside that one rupee match box Idralli Nav Dadralloo Untu Fifteen okay so sorry sir Nim you get this star experience Namedu ITC matches box where so namd actually ain't sir namdu all products not matches box end other products are available so all products delivering to market first quality check manufacturing will be checked and delivered Delivery to market is still available salt What you need to do is to sell something for personal use and retail shop is located behind the shop and the end is for personal use okay so Kelsa Let's do so that's matches box we need some details so we need some details so register a complaint on my side so we have a complaint to the team that forwards the call to the team He asked him about him nimm time or niew tell ya team comfortable so according to that time you bertara nim nim side it pick match box make num team to poor sampling to so same time there so we know the process that you have legal rights that on the part of me it will not do so new what it is that it is difficult that so we can make an executive call to the team where we have to make an executive call where we have a place sample collect a sample to our team. box replacement card Kodini company You have to make a complaint to the consumer and then fifteen comes right it again you have to do it sir it doesn't come first you have to hit the door That's not the bundle you purchased it's not tamper what it's where the store got it online offline online purchase offline store Where is the store store name That's a small thing. Grocery okay okay sir ok sir adra details Neve tell me sir i had a note Yes that address NIMD name address again email ID is enough cheese email ID used no end problem No number is missing so number name tell sir name Citizen P U R U S H address sir Nim home address Home address Buppa House Salt House post Festival Festival Able okay Taluku Bhatkal Bhatkal okay pin code cheese that pin code Bhatkal pin code pin code five eight one three two zero two five eight five eight one three two zero three two zero okay It's not a Nim matches box Nim side it's How much Here is the matches box I used two of those fifteen sticks out of fifteen now I used two in one of them now there was a lamp of God on the outside and one on the inside I used two sticks in one of thirteen and fifteen out of two there was another like a plate Dini has just recently turned thirteen okay ahadthru eighteen what a problem there was no problem niew that was there that it is on the back side there is a one That caused the side front side that caused the twenty-two of the twelve erad thousand Twelve Two thousand twenty-two okay that is this it manufactured by see sir what is it manufactured by bilal match works Shivakashi FILAL Bilal match works Shivakashi Ending Yavakashi okay Re-marketed by ITC limited ok Well, there was an Erad match box on my side so no team sir ain't no problem so it's like that so um team executive borough time where one nim to ten rupees one pack bertare one rupees one ten pack ten matches box one bertara that comes to tagond and gives you the same company but that time there is no match box for us team So there's nothing this guy has come for to check, so first of all quality check the modcond berthare market Well it actually informed us team so that's so another sir that's our whatsapp number so note numero uno seconda un seconda seconda Nim Name Spelling P U R S H Just tell me your whatsapp number T in ok U S P U R S H P U R H Double that P is also P TO S P P U R U S nine six zero six nine six zero six double nine double nine six double nine ha that matches box front and back side take a photo clear that's a photo sir it's for me to check the team easy It will be okay check there is no end on the nimm side only net box only give again no end of replacement What Yes Yes you already have two matching box that is Erad matching box front and back side photo so check it's easy for num team so where is it manufacture is so however you have an executive call modcond bertare nim place to so nive it handover Modbidi That's matching box that's ok the same time where you have the same company matching box kodtiani so there was so num team to ad kwastini what's like sir this Ha Something to say, sir. What is No choice sir what to say sir it's actually look it doesn't stop us so it's yours Rechte legale so what do you have to do is end you hard it so dont nod We didn't say what you said you didn't like the end of it. It's not legal rights How much Hurt people yarig know nim hindgade un plaster all hawond bandbitre e That's actually the nev takondhi time there ain't no tamper packet bundle that the nev bundle isn't stuck it's packet nev store only tagondid time there ain no damage no correct packing all ain't no damage hum so packet bundle correct ok check out the team Hum whatsapp complaint mode no problem sir that's the same sir na thidre it we don't know you it's legal rights you need end you see I don't have any trouble at all, but I don't have any trouble, but I don't think we are worse than we are. There is no such thing as a chance to check whether the band has come to the end of it and collect the sample so Num That star is nothing sir we said to it process where what is the process that is there follow modcond nim side patches box collect modcond nim team that If you raise a complaint, they will call you and make an appointment for you. Appointment No avn nim nev say av time nev comfortable irtarala executive to so same time according to avnu feet OK All right sir thank you for calling ",
+    "speaker_a_segments": "BACHET Hello Namaste sir AH is buff okay Sticks reduced where the back side eth mention is how much it is one rupee match box Ae is not dång No Nim Packet Tentara Sticks Testir You There must be twenty-five sticks inside that watch matches box inside one rupee matches box so there should be twenty-five sticks inside that one rupee match box Fifteen okay so sorry sir Nim you get this star experience Namedu ITC matches box where so namd actually ain't sir namdu all products not matches box end other products are available so all products delivering to market first quality check manufacturing will be checked and delivered What you need to do is to sell something for personal use and retail shop is located behind the shop and the end is for personal use okay so Kelsa so that's matches box we need some details so we need some details so register a complaint on my side so we have a complaint to the team that forwards the call to the team He asked him about him nimm time or niew tell ya team comfortable so according to that time you bertara nim nim side it pick match box make num team to poor sampling to so same time there so we know the process that you have legal rights that on the part of me it will not do so new what it is that it is difficult that so we can make an executive call to the team where we have to make an executive call where we have a place sample collect a sample to our team. box replacement card Kodini company That's not the bundle you purchased it's not tamper what it's where the store got it online purchase offline store Where is the store store name Grocery okay okay sir ok sir adra details Neve tell me sir i had a note Yes that address NIMD name address again email ID is enough email ID used no end problem No number is missing so number name tell sir address sir Nim home address Salt House post Able okay Bhatkal okay pin code cheese pin code Bhatkal pin code two three two zero okay It's not a Nim matches box Nim side it's Here is the matches box okay ahadthru eighteen what a problem there was no problem niew that was there that it is on the back side there is a one Twelve okay that is this it manufactured by see sir what is it FILAL Yavakashi okay ok Well, there was an Erad match box on my side so no team sir ain't no problem so it's like that so um team executive borough time where one nim to ten rupees one pack bertare one rupees one ten pack ten matches box one bertara that comes to tagond and gives you the same company but that time there is no match box for us team So there's nothing this guy has come for to check, so first of all quality check the modcond berthare market Well it actually informed us team so that's so another sir that's our whatsapp number so note Nim Name Spelling P U R S H ok P U R S H Double that P is also P P U R U S nine six zero six double nine double nine ha that matches box front and back side take a photo clear that's a photo sir it's for me to check the team It will be okay What Yes you already have two matching box that is Erad matching box front and back side photo so check it's easy for num team so where is it so however you have an executive call modcond bertare nim place to so nive it handover That's matching box that's ok the same time where you have the same company matching box kodtiani so there was so num team to ad kwastini what's like sir this Something to say, sir. No choice sir what to say sir it's actually look it doesn't stop us so it's yours so what do you have to do is end you hard it so dont nod We didn't say what you said you didn't like the end of it. It's not legal rights How much That's actually the nev takondhi time there ain't no tamper packet bundle that the nev bundle isn't stuck it's packet nev store only tagondid time there ain no damage no correct packing all ain't no damage hum so packet bundle correct ok check out the team sir that's the same sir na thidre it we don't know you it's legal rights you need end you see There is no such thing as a chance to check whether the band has come to the end of it and collect the sample so That star is nothing sir we said to it process where what is the process that is there follow modcond nim side patches box collect modcond nim team If you raise a complaint, they will call you and make an appointment for you. No avn nim nev say av time nev comfortable irtarala executive to so same time according to avnu All right sir thank you for calling ",
+    "speaker_b_segments": "Gila Madame Agbeda Namaste sir hello good evening welcome to ja, por favor There is no special match box, sir. Yes it is a stick not so many times lower than Mar Nav un tagondidru that is the date of manufactured twelve It is two thousand twenty-two twelve two thousand twenty two thousand twenty two thousand other four marks where fifteen fifteen five feet does not exist sir Coming up with new content one rupees zero point zero four andre untappa stick MRC ONE RUPEE ANDRE UNTU SIR five in Idrli we had a lump and a big one was a hundred rupees in two. We didn't tell the packet sir stick the inside of it didn't have a stick inside of it some twenty five cause some twenty six cause this two bamboo adrilli fifteen cause sir Idralli Nav Dadralloo Untu Delivery to market is still available salt Let's do You have to make a complaint to the consumer and then fifteen comes right it again you have to do it sir it doesn't come first you have to hit the door online offline That's a small thing. cheese name Citizen P U R U S H Home address Buppa House Festival Festival Taluku Bhatkal that pin code five eight one three two zero five eight five eight one three two zero How much I used two of those fifteen sticks out of fifteen now I used two in one of them now there was a lamp of God on the outside and one on the inside I used two sticks in one of thirteen and fifteen out of two there was another like a plate Dini has just recently turned thirteen That caused the side front side that caused the twenty-two of the twelve erad thousand Two thousand twenty-two manufactured by bilal match works Shivakashi Bilal match works Shivakashi Ending Re-marketed by ITC limited numero uno seconda un seconda seconda Just tell me your whatsapp number T in U S P U R H P TO S nine six zero six double nine six easy check there is no end on the nimm side only net box only give again no end of replacement Yes manufacture is Modbidi Ha What is Rechte legale Hurt people yarig know nim hindgade un plaster all hawond bandbitre e Hum whatsapp complaint mode no problem I don't have any trouble at all, but I don't have any trouble, but I don't think we are worse than we are. Num that Appointment feet OK ",
+    "summary": "The customer is inquiring about a one rupee match box they bought which they think is of bad quality as there are only 15 sticks inside instead of the expected 25. The conversation with the customer service proceeds with the agent asking for details like the name and address of the customer, the manufactured date, the retailer and the details of the product. The customer is then informed that they need to register a complaint and then they will be contacted by the quality check team who will then schedule an appointment and provide a replacement. The agent also informs the customer that they will need to provide a photo of the front and back sides of the matchbox.",
+    "speaker_a_summary": "The customer is calling regarding a problem with the number of sticks in a 1 rupee matchbox of the brand Nim. The company's representative explains that there should be 25 sticks in the box and offers the customer a replacement. The customer is asked to provide a sample of the product and will be contacted by an executive for the further process of replacement. The company's representative tries to be as clear as possible and explains the procedure that the customer needs to follow in order to get the replacement.",
+    "speaker_b_summary": "The customer is frustrated that the match sticks they purchased do not have the expected number of sticks in the package, and they are not sure how to get a refund or replacement. The chat representative suggests that they can make a complaint to the consumer and provides their address and WhatsApp number to do so. The customer also complains about the quality of the matches, mentioning that they used two sticks for one-time use and that the matches do not light properly. The representative suggests that they should file a complaint for a better resolution.",
+    "cohere_points": "- Customer is frustrated with their experience with a matchbox and calls the help center for assistance.\n- The help center is trying to be helpful but the customer is not satisfied and keeps on insisting on their frustration. \n- The employee tries to offer solutions but the customer is not receptive. \n- The employee tries to de-escalate the situation by remaining professional and following the company procedures. \n- The call ends without a resolution but the employee tries to offer options for further assistance.",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "1. Match box details\n2. Complaint registration process\n3. Quality check procedure\n4. Manufacturer information\n5. Replacement card issuance\n6. Address and contact details\n7. Product tampering concern\n8. Legal rights explanation\n9. Damage assessment\n10. Customer service contact\n11. Executive call scheduling\n12. Sample collection process\n13. WhatsApp complaint submission\n14. Product authenticity verification\n15. Appointment scheduling process",
+    "Resolution": "The customer's issue appears to be unresolved, as they have raised a complaint regarding the matchbox they purchased and have requested further actions to be taken.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "Yes\n\nThe caller displayed empathy by listening attentively to the customer's concerns, assuring them that their complaint would be addressed promptly and guiding them through the process with patience and understanding.",
+    "Was there any profanity on the call": "No",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 16.555,
+    "num_silences": 18
+}

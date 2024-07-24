@@ -1,0 +1,711 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0447",
+            "end_time": "0.0932",
+            "original_transcript": "വെൽക്കം ഐ ടി സി മലോക് ബൈക് സഹായത കസക്തവും",
+            "translated_transcript": "Welkom ITC Malok Bike Aid Kit",
+            "tone": "Neutral",
+            "rate_of_speech": "123.71",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "welkom itc malok bike",
+                "kit"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.1123",
+            "end_time": "0.3242",
+            "original_transcript": "ഐ പി നൂഡിൽസ് ബോട്ട് ഒക്കെക്കെറ്റ്സ് ഫ്രീ ക്രാഫ്റ്റ് വൺ ക്രാഫ്റ്റ് റൂപ്പീസ് മുപ്പത്തി വൺ പൈ ക്രാഫ്റ്റ് ഇത് ഇൻസൈഡ് ദിസ് പാക്കറ്റ്",
+            "translated_transcript": "IP Noodles Boat Oquettes Free Craft One Craft Rupees Thirty One Pie Craft It Inside Dis Packet",
+            "tone": "Happy",
+            "rate_of_speech": "80.25",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ip noodles boat oquettes free craft",
+                "craft rupees thirty",
+                "pie craft",
+                "dis packet"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.339",
+            "end_time": "0.3835",
+            "original_transcript": "ദി ക്രാഫ്റ്റ് മിൻസ് ഡിഡിൻ ഗേറ്റ് യു വിച്ച് ലൈംഗസറി കോംഫർട്ടബിൾ",
+            "translated_transcript": "THE CRAFT MINS DIDIN GATE U WITCH LINGERIE COMFORTABLE",
+            "tone": "Happy",
+            "rate_of_speech": "202.25",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "the craft mins didin gate u witch lingerie comfortable"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.3932",
+            "end_time": "0.4063",
+            "original_transcript": "മലയാളം",
+            "translated_transcript": "Malayalam",
+            "tone": "Neutral",
+            "rate_of_speech": "76.05",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "malayalam"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.4151",
+            "end_time": "0.4523",
+            "original_transcript": "ഒക്കെ ഐൽ ട്രാൻസ്ഫർ കോൾ ഫോം മലയാളം ഏജന്റ് ഒക്കെ",
+            "translated_transcript": "OK Island Transfer Call Form Malayalam Agent OK",
+            "tone": "Neutral",
+            "rate_of_speech": "215.25",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok island",
+                "transfer call form malayalam agent"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.4643",
+            "end_time": "0.497",
+            "original_transcript": "താങ്ക് ലൈൻ",
+            "translated_transcript": "Thank Line",
+            "tone": "Neutral",
+            "rate_of_speech": "61.26",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thank"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.9783",
+            "end_time": "2.083",
+            "original_transcript": "നമസ്കാരം നമസ്കാരം എന്റെ പേര് പ്രഭീണ ആണ് ഞാൻ ഐടി സിനാണ് കോൾ ചെയ്യുന്നത് പറനോളി സന്താണ് ആറേണ്ടത്",
+            "translated_transcript": "Namaskaram Namaskaram My name is Prabheena I am calling IT Sina Paranoli Santini Aram",
+            "tone": "Neutral",
+            "rate_of_speech": "133.74",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "namaskaram namaskaram",
+                "prabheena",
+                "it sina paranoli santini aram"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.083",
+            "end_time": "2.2077",
+            "original_transcript": "അതല്ല യെപ്പി നൂഡിൽസിലെ യെപ്പി നൂഡിൾസിന് ഫ്രീ വൺ പഞ്ച് ക്രാഫ്റ്റ് നേടി",
+            "translated_transcript": "No Yepi Noodles in Yepi Noodles won Free One Punch Craft",
+            "tone": "Happy",
+            "rate_of_speech": "88.24",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "yepi noodles",
+                "yepi noodles",
+                "free",
+                "punch craft"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.2255",
+            "end_time": "2.2668",
+            "original_transcript": "ക്രാഫ്റ്റ് ഓഫ്",
+            "translated_transcript": "Craft Off",
+            "tone": "Neutral",
+            "rate_of_speech": "48.39",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "craft off"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.2822",
+            "end_time": "2.2982",
+            "original_transcript": "ഫൈ ക്രാഫ്റ്റ്",
+            "translated_transcript": "Phi Craft",
+            "tone": "Neutral",
+            "rate_of_speech": "125.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "phi craft"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.3213",
+            "end_time": "2.3218",
+            "original_transcript": "ഒക്കെ",
+            "translated_transcript": "OKKE",
+            "tone": "Neutral",
+            "rate_of_speech": "2000.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "okke"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.3328",
+            "end_time": "2.3768",
+            "original_transcript": "അപ്പ അത് ഈ പാക്കറ്റിന്റെ ഉള്ളിലാണുള്ളത്",
+            "translated_transcript": "Appa, that's inside this package.",
+            "tone": "Neutral",
+            "rate_of_speech": "113.64",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "appa"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.4082",
+            "end_time": "2.4393",
+            "original_transcript": "നങ്ങൾ റീട്ടെലറാണ് വർത്താനം ഭടണത്",
+            "translated_transcript": "Varthanam Bhadanath is a Nana Retailer",
+            "tone": "Neutral",
+            "rate_of_speech": "192.51",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "varthanam bhadanath",
+                "nana retailer"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.4495",
+            "end_time": "2.4585",
+            "original_transcript": "അതേത്",
+            "translated_transcript": "that is",
+            "tone": "Neutral",
+            "rate_of_speech": "222.63",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.498",
+            "end_time": "2.5387",
+            "original_transcript": "അറ്റ് പാക്കറ്റിന്റെ മൾ എന്നതാണ് ഇതിക്കണം തിരിച്ചെന്ന് പരാമറ്റ",
+            "translated_transcript": "Not to mention that it should be returned as the mall of the packet.",
+            "tone": "Neutral",
+            "rate_of_speech": "344.26",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.5555",
+            "end_time": "2.6665",
+            "original_transcript": "ഗെറ്റ് ക്രാഫ്റ്റ് വിത്ത് എ പി ഫ്രീ വൺ പിഐ ക്രാഫ്റ്റ്",
+            "translated_transcript": "GET CRAFT WITH AP FREE ONE PI CRAFT",
+            "tone": "Happy",
+            "rate_of_speech": "72.07",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "get craft with",
+                "free one pi craft"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.6782",
+            "end_time": "2.6953",
+            "original_transcript": "വൺ പി",
+            "translated_transcript": "One P",
+            "tone": "Neutral",
+            "rate_of_speech": "116.50",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.7028",
+            "end_time": "2.7245",
+            "original_transcript": "പി ഐവൈ",
+            "translated_transcript": "P IY",
+            "tone": "Neutral",
+            "rate_of_speech": "92.24",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "p iy"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.7463",
+            "end_time": "2.7755",
+            "original_transcript": "റാഫ്റ്റ്",
+            "translated_transcript": "Raft",
+            "tone": "Neutral",
+            "rate_of_speech": "34.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "raft"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.7912",
+            "end_time": "2.8628",
+            "original_transcript": "ഇത് റീട്ടെ ഡിസ്ട്രിബ്യൂട്ടർ ചോവിച്ചപ്പ പറഞ്ഞത്",
+            "translated_transcript": "This was told by retail distributor Chovichappa",
+            "tone": "Neutral",
+            "rate_of_speech": "97.67",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "retail distributor",
+                "chovichappa"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.9385",
+            "end_time": "2.9947",
+            "original_transcript": "അത് അവര് പറഞ്ഞ നൂളിലുണ്ടെന്ന് പ്രഷ കസ്റ്റമഴ്സ് വാനിച്ചേണ്ട വിട്ട് പറയുന്നതി നൂളിൽ സംഭവം",
+            "translated_transcript": "Prasha told customers that it was in the thread they said, and the incident happened in the thread",
+            "tone": "Neutral",
+            "rate_of_speech": "320.47",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "prasha"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.0163",
+            "end_time": "3.0598",
+            "original_transcript": "എപ്പി നൂഡിൽസിന്റെ അകത്തില്ല കവർണകത്തില്ല",
+            "translated_transcript": "Not the inside of the Epi Noodles is not a spoiler",
+            "tone": "Neutral",
+            "rate_of_speech": "252.87",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "epi noodles"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.0693",
+            "end_time": "3.1056",
+            "original_transcript": "ഞാന് ചെക്ക് ഇതോ ചെക്ക്",
+            "translated_transcript": "I'll check this or check.",
+            "tone": "Neutral",
+            "rate_of_speech": "137.68",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "'ll check"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.1056",
+            "end_time": "3.2025",
+            "original_transcript": "ഇത ത നമുക്ക് ഇത് കൂടുതൽ ബൾക്കയക്ക് കിട്ടാൻ വേണ്ടിയിട്ട് എന്തെങ്കിലും നമ്പറോ തൃശൂരുത ഏജൻസിയോ അങ്ങനെങ്കുണ്ടോ",
+            "translated_transcript": "Is there a number or some sort of agency for us to get it more bulk?",
+            "tone": "Neutral",
+            "rate_of_speech": "165.23",
+            "emotion": "curiosity",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.2093",
+            "end_time": "3.3105",
+            "original_transcript": "അങ്ങനെ ഒന്നും ഉണ്ടാവില്ല പക്ഷെ ഞാൻ ഇത് പറയാൻ പറ്റും താങ്കളെ ഡിസ്ട്രിബ്യൂട്ടർ ഭാഗായിട്ടുള്ളതും മടിക്കുന്നത്",
+            "translated_transcript": "So there will be nothing but I can tell you this and I hesitate to be a distributor",
+            "tone": "Neutral",
+            "rate_of_speech": "177.89",
+            "emotion": "disapproval",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.319",
+            "end_time": "3.332",
+            "original_transcript": "അതേ അതേ",
+            "translated_transcript": "Same same",
+            "tone": "Neutral",
+            "rate_of_speech": "153.85",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.3503",
+            "end_time": "3.3548",
+            "original_transcript": "അവർ",
+            "translated_transcript": "They",
+            "tone": "Neutral",
+            "rate_of_speech": "223.05",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.3548",
+            "end_time": "3.3703",
+            "original_transcript": "ഡിസ്ട്രിബ്യൂട്ടർ",
+            "translated_transcript": "DISTRIBUTOR",
+            "tone": "Neutral",
+            "rate_of_speech": "64.45",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "distributor"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.3763",
+            "end_time": "3.4425",
+            "original_transcript": "താങ്കൾ ഇത്ര ക്വാണ്ടിറ്റി അവരെ പ്രൊവൈഡ് ചെയ്ത്",
+            "translated_transcript": "You have provided them in such quantity",
+            "tone": "Neutral",
+            "rate_of_speech": "105.79",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "such quantity"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.5018",
+            "end_time": "3.5936",
+            "original_transcript": "ഒരു ഐടി ഒരു പേഴ്സൺ വന്ന് നമ്മുടെ കൊറെ ഓർഡർ കെടുത്തിട്ടു പോയി പ്രഷീദ് വരവിടെ വന്നില്ല",
+            "translated_transcript": "An IT person came and extinguished our order and Prasheed did not come",
+            "tone": "Neutral",
+            "rate_of_speech": "141.59",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "it",
+                "prasheed"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.6027",
+            "end_time": "3.6275",
+            "original_transcript": "എപ്ലാന ഓടെടുത്തു പോയത്",
+            "translated_transcript": "Eplana ran away.",
+            "tone": "Neutral",
+            "rate_of_speech": "120.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "eplana"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.636",
+            "end_time": "3.6563",
+            "original_transcript": "ഒരാഴ്ചയായി",
+            "translated_transcript": "for a week",
+            "tone": "Neutral",
+            "rate_of_speech": "147.54",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.6777",
+            "end_time": "3.7643",
+            "original_transcript": "മഴയ്ഗുണ നെല്ലിൽ ടാങ്ക് രണ്ട് ഐറ്റ സപ്ലൈ ചെക്കും പ്രോപ്പർ ചെതം ചെക്ക താങ്ക്",
+            "translated_transcript": "Rain Paddy Tank Two Aita Supply Check And Propper Chetam Cheka Tank",
+            "tone": "Neutral",
+            "rate_of_speech": "138.46",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "rain paddy tank",
+                "aita",
+                "propper chetam cheka tank"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.7643",
+            "end_time": "3.7888",
+            "original_transcript": "മണ്ണുത്തി എന്ന ഭരണ സ്ഥലം",
+            "translated_transcript": "Mannuthi Governorate",
+            "tone": "Neutral",
+            "rate_of_speech": "81.63",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mannuthi governorate"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.7998",
+            "end_time": "3.8445",
+            "original_transcript": "ഞാൻ തെക്ക് ചെയ്യട്ടെ",
+            "translated_transcript": "Let me go south.",
+            "tone": "Neutral",
+            "rate_of_speech": "89.59",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.8445",
+            "end_time": "3.9818",
+            "original_transcript": "അങ്ങനെ ഒരാളുണ്ടോ ഐടി സി റീജിയണൽ മാനേജർ രാജേഷ് അങ്ങനെ ഒരാളുണ്ടോ എന്നെ കളിപ്പിച്ചതാണോ ഒരു ഡൌട്ട് ഉണ്ട് എനിക്ക്",
+            "translated_transcript": "So is there someone or ITC regional manager Rajesh so is someone who played me there is a dout I have",
+            "tone": "Neutral",
+            "rate_of_speech": "152.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "itc",
+                "regional manager",
+                "rajesh"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.9818",
+            "end_time": "3.9995",
+            "original_transcript": "പേമെന്റ് നീങ്ങും അടിച്ചിട്ടുണ്ടോ ഒരു",
+            "translated_transcript": "Has the payment been moved or struck",
+            "tone": "Neutral",
+            "rate_of_speech": "396.23",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.0178",
+            "end_time": "4.0957",
+            "original_transcript": "പേയ്മെന്റ് വഞ്ചിലെ പക്ഷേ എന്നെക്കൊണ്ട് ഒരു ട്വൽ തൌസന്റിന്റെ ജൻസ് മിട്ടായി എടുപ്പിച്ചു",
+            "translated_transcript": "Payment cheated but took a twill taut's jance with me",
+            "tone": "Neutral",
+            "rate_of_speech": "128.48",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "payment",
+                "twill taut 's jance"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.1092",
+            "end_time": "4.136",
+            "original_transcript": "ഒക്കെ",
+            "translated_transcript": "OKKE",
+            "tone": "Neutral",
+            "rate_of_speech": "37.27",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "okke"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.1493",
+            "end_time": "4.3078",
+            "original_transcript": "അത് ഫ്രോഡാണ് അവര് അവര് പിറ്റ ദിവസം തന്നെ ഞങ്ങൾക്ക് ഇത്ര ഓഫറ താരങ്ങൾക്ക് പട്ടാണെന്ന് അത്ര ഐറ്റംസ് എടുതന്നെ എന്നെക്കൊണ്ട് ഇപ്പിച്ചത് ഈ പേര് രാജേഷണോ",
+            "translated_transcript": "That was Freud and they told me that the next day they took so many items that we had so many offers for the stars. Is this the name Rajesh?",
+            "tone": "Neutral",
+            "rate_of_speech": "189.27",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "freud",
+                "rajesh"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.3368",
+            "end_time": "4.4363",
+            "original_transcript": "അതേ അടി അന്വേണ്ടർ കംപ്ലയിന്റ് എടുത്തിട്ടുണ്ട് റീജ്യണൽ മാനേജർ പറ രില",
+            "translated_transcript": "The same feet have taken the Envander Compliant Regional Manager Para Rila",
+            "tone": "Neutral",
+            "rate_of_speech": "120.60",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "envander compliant",
+                "regional manager",
+                "para rila"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.4466",
+            "end_time": "4.455",
+            "original_transcript": "അതത്",
+            "translated_transcript": "respective",
+            "tone": "Neutral",
+            "rate_of_speech": "120.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.4693",
+            "end_time": "4.526",
+            "original_transcript": "ചെക്ക് ചെയ്ത ചെക്ക് ഇതിട്ട് താക്ക് പറയാം തങ്കുടെ ഈ ഡീറ്റൽസ്",
+            "translated_transcript": "Checked check here can tell you these details",
+            "tone": "Neutral",
+            "rate_of_speech": "141.22",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "checked"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.526",
+            "end_time": "4.5798",
+            "original_transcript": "ചെങ്ങുടെ വേറെ തിങ്ങ നമ്പറുണ്ടോ കസ്റ്റമർ കെയർ നമ്പർ അല്ലാതെ",
+            "translated_transcript": "CHENG HAS A DIFFERENT PIN NUMBER OTHER THAN CUSTOMER CARE NUMBER",
+            "tone": "Neutral",
+            "rate_of_speech": "204.27",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "cheng has",
+                "different pin number other than customer care number"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.5846",
+            "end_time": "4.803",
+            "original_transcript": "ഇല്ല നമ്പർ തന്നെയുള്ള നമ്മുടെ കസ്റ്റമർ നമ്പർ ഒന്നോ രണ്ടോ മിനിറ്റിനോ ഹോളിൽ വയ്ക്കാണ് ലൈനിൽ ലൈനിൽ നിന്ന് കോൾ ഡിസ്കണക്ട് ചെയ്യരുത്",
+            "translated_transcript": "No. Do not disconnect the call from the line on the line until our customer number is in the hole for one or two minutes",
+            "tone": "Neutral",
+            "rate_of_speech": "114.50",
+            "emotion": "disapproval",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "customer number"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.8183",
+            "end_time": "4.8357",
+            "original_transcript": "വശമ",
+            "translated_transcript": "Vashama",
+            "tone": "Neutral",
+            "rate_of_speech": "57.69",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "vashama"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.9155",
+            "end_time": "4.9372",
+            "original_transcript": "നൂറ്റ ഏഴ് കൊണ്ട്",
+            "translated_transcript": "Spun with seven.",
+            "tone": "Neutral",
+            "rate_of_speech": "138.36",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "spun"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.9532",
+            "end_time": "5.0593",
+            "original_transcript": "ഇത് ഉച്ച റോഡ് നൂറ്റഴുപത് കിലോ അരമതിയ",
+            "translated_transcript": "This is Ucha Road One Hundred Kilos and a Half",
+            "tone": "Neutral",
+            "rate_of_speech": "94.21",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "ucha",
+                "hundred kilos"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.0935",
+            "end_time": "5.1115",
+            "original_transcript": "പരമ്പര",
+            "translated_transcript": "series",
+            "tone": "Neutral",
+            "rate_of_speech": "55.50",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        }
+    ],
+    "translated_segments": "Welkom ITC Malok Bike Aid Kit IP Noodles Boat Oquettes Free Craft One Craft Rupees Thirty One Pie Craft It Inside Dis Packet THE CRAFT MINS DIDIN GATE U WITCH LINGERIE COMFORTABLE Malayalam OK Island Transfer Call Form Malayalam Agent OK Thank Line Namaskaram Namaskaram My name is Prabheena I am calling IT Sina Paranoli Santini Aram No Yepi Noodles in Yepi Noodles won Free One Punch Craft Craft Off Phi Craft OKKE Appa, that's inside this package. Varthanam Bhadanath is a Nana Retailer that is Not to mention that it should be returned as the mall of the packet. GET CRAFT WITH AP FREE ONE PI CRAFT One P P IY Raft This was told by retail distributor Chovichappa Prasha told customers that it was in the thread they said, and the incident happened in the thread Not the inside of the Epi Noodles is not a spoiler I'll check this or check. Is there a number or some sort of agency for us to get it more bulk? So there will be nothing but I can tell you this and I hesitate to be a distributor Same same They DISTRIBUTOR You have provided them in such quantity An IT person came and extinguished our order and Prasheed did not come Eplana ran away. for a week Rain Paddy Tank Two Aita Supply Check And Propper Chetam Cheka Tank Mannuthi Governorate Let me go south. So is there someone or ITC regional manager Rajesh so is someone who played me there is a dout I have Has the payment been moved or struck Payment cheated but took a twill taut's jance with me OKKE That was Freud and they told me that the next day they took so many items that we had so many offers for the stars. Is this the name Rajesh? The same feet have taken the Envander Compliant Regional Manager Para Rila respective Checked check here can tell you these details CHENG HAS A DIFFERENT PIN NUMBER OTHER THAN CUSTOMER CARE NUMBER No. Do not disconnect the call from the line on the line until our customer number is in the hole for one or two minutes Vashama Spun with seven. This is Ucha Road One Hundred Kilos and a Half series ",
+    "speaker_a_segments": "Welkom ITC Malok Bike Aid Kit THE CRAFT MINS DIDIN GATE U WITCH LINGERIE COMFORTABLE OK Island Transfer Call Form Malayalam Agent OK Thank Line Namaskaram Namaskaram My name is Prabheena I am calling IT Sina Paranoli Santini Aram Craft Off OKKE Varthanam Bhadanath is a Nana Retailer Not to mention that it should be returned as the mall of the packet. One P Raft This was told by retail distributor Chovichappa I'll check this or check. So there will be nothing but I can tell you this and I hesitate to be a distributor They You have provided them in such quantity Eplana ran away. Rain Paddy Tank Two Aita Supply Check And Propper Chetam Cheka Tank Let me go south. Has the payment been moved or struck OKKE The same feet have taken the Envander Compliant Regional Manager Para Rila Checked check here can tell you these details No. Do not disconnect the call from the line on the line until our customer number is in the hole for one or two minutes ",
+    "speaker_b_segments": "IP Noodles Boat Oquettes Free Craft One Craft Rupees Thirty One Pie Craft It Inside Dis Packet Malayalam No Yepi Noodles in Yepi Noodles won Free One Punch Craft Phi Craft Appa, that's inside this package. that is GET CRAFT WITH AP FREE ONE PI CRAFT P IY Prasha told customers that it was in the thread they said, and the incident happened in the thread Not the inside of the Epi Noodles is not a spoiler Is there a number or some sort of agency for us to get it more bulk? Same same DISTRIBUTOR An IT person came and extinguished our order and Prasheed did not come for a week Mannuthi Governorate So is there someone or ITC regional manager Rajesh so is someone who played me there is a dout I have Payment cheated but took a twill taut's jance with me That was Freud and they told me that the next day they took so many items that we had so many offers for the stars. Is this the name Rajesh? respective CHENG HAS A DIFFERENT PIN NUMBER OTHER THAN CUSTOMER CARE NUMBER Vashama Spun with seven. This is Ucha Road One Hundred Kilos and a Half series ",
+    "summary": "ITC Malok Bike Aid Kit was found to not have the items described inside the package upon delivery to the retailer, Nana Retailer. The distributor, Chovichappa Prasha, refuses to take accountability and rectify the situation. They claim the package's contents were not mishandled, despite the discrepancy. The retailer is owed a refund and the packet needs to be returned to the mall. There seems to be a discrepancy with the payments and deliveries from ITC, with ITC also having taken deliveries that were not ordered. The retailer is looking to reach out to ITC to clear the confusion and the pending payments.",
+    "speaker_a_summary": "Prabheena, an ITC Malok Bike retailer in Kerala, calls the Sina Paranoli Santini Aram Craft office to discuss an issue with a returned package. They mention that the packet should be returned to the mall, and that there is a complaint against the retail distributor Chovichappa. The distributor provided a large quantity of Eplana, which disappeared. The payment status for the items needs to be checked. The call ends with a promise from the regional manager, Para Rila, to look into the matter.",
+    "speaker_b_summary": "A customer named Prasha wrote to IT about a missing item from their order and that the distributor, Rajesh, was not helpful. The customer was concerned they were cheated out of payment and the missing item was Noodles Yepi. They request assistance from IT in setting things right.",
+    "cohere_points": "- A woman named Prabheena calls ITC regarding a missing item in a package she received and to confirm the status of an order.\n- She is not satisfied with the information she is getting and wants a different contact to escalate the issue.\n- There seems to be an issue with the payment and product delivery from the retailer and she wants to file a complaint. \n- She wants a different contact number to reach the ITC regional manager Rajesh. \n- The call ends with a promise to not disconnect the line until the customer's number is dialed and a callback number.",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "1. ITC Malok Bike Aid Kit\n2. IP Noodles Boat Oquettes\n3. Free Craft One Craft\n4. Rupees Thirty One Pie\n5. Craft It Inside\n6. THE CRAFT MINS\n7. WITCH LINGERIE COMFORTABLE\n8. Island Transfer Call\n9. Malayalam Agent OK\n10. Namaskaram My Name\n11. Paranoli Santini Aram\n12. Yepi Noodles Won\n13",
+    "Resolution": "The customer's issue regarding the missing Craft items and potential payment discrepancies is still unresolved. Further investigation and follow-up with the regional manager and distributor Rajesh are required to address the situation effectively.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "Yes, the caller displayed empathy when they mentioned \"The same feet have taken the Envander Compliant Regional Manager Para Rila respective Checked check here can tell you these details.\" This shows that the caller is understanding and considerate of the situation and is willing to provide further information to help resolve any issues.",
+    "Was there any profanity on the call": "No.",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 61.994999999999976,
+    "num_silences": 55
+}

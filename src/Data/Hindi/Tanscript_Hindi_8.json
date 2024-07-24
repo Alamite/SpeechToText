@@ -1,0 +1,1945 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.021",
+            "end_time": "0.079",
+            "original_transcript": "Good evening welcome to ITC मैं नम आलोक के बताइए क्या सहायता कर सकता हूँ",
+            "translated_transcript": "Good evening welcome to ITC Main Nam Alok Ke Bataiye Kya Aaitha Ka Sakta Hun",
+            "tone": "Happy",
+            "rate_of_speech": "258.62",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good evening",
+                "itc",
+                "nam alok ke bataiye kya aaitha ka sakta hun"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.1197",
+            "end_time": "0.1253",
+            "original_transcript": "हेलो",
+            "translated_transcript": "Hello",
+            "tone": "Neutral",
+            "rate_of_speech": "176.47",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.1423",
+            "end_time": "0.1957",
+            "original_transcript": "ये कह रहा हूँ मैंने अभी देर पहले किया है और उन्होंने काट दिया",
+            "translated_transcript": "Yeh Kah Raha Hoon Mainne Abhi Der Pahle Kiya Hai Aur Ur Sunho Diya",
+            "tone": "Neutral",
+            "rate_of_speech": "262.50",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "yeh kah raha hoon mainne abhi der pahle kiya hai aur ur sunho diya"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.2077",
+            "end_time": "0.241",
+            "original_transcript": "किसने कट कर दिया सर मैं चेक कर लेता हूँ",
+            "translated_transcript": "Kiss Cut Kar Dia Sir Main Check Kar Leta Hoon",
+            "tone": "Neutral",
+            "rate_of_speech": "300.00",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "kiss cut kar dia sir",
+                "kar leta hoon"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.245",
+            "end_time": "0.2723",
+            "original_transcript": "तनवीर नाम बताया उन्होंने तनवीर",
+            "translated_transcript": "Tanvir Naam Bataya Unhone Tanvir",
+            "tone": "Neutral",
+            "rate_of_speech": "182.82",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "tanvir naam bataya unhone tanvir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.2723",
+            "end_time": "0.2925",
+            "original_transcript": "तनवीर जी ने",
+            "translated_transcript": "Tanvir Ji Ne",
+            "tone": "Neutral",
+            "rate_of_speech": "148.88",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "tanvir ji ne"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.3045",
+            "end_time": "0.3132",
+            "original_transcript": "हाँ",
+            "translated_transcript": "Ha",
+            "tone": "Neutral",
+            "rate_of_speech": "115.38",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ha"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.3212",
+            "end_time": "0.3943",
+            "original_transcript": "ठीक है sir मैं call को transfer कर देता हूँ उनके लिए बात कर लीजिएगा मैं आपकी call को hold पे रख सकता हूँ",
+            "translated_transcript": "All right sir main call co transfer tax due to hoon unke liae bat kar lejiega main apki call co hold pay rakh sakta hoon",
+            "tone": "Neutral",
+            "rate_of_speech": "341.76",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "right sir",
+                "hoon unke liae bat kar lejiega",
+                "main apki",
+                "co hold pay rakh sakta hoon"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.409",
+            "end_time": "0.4157",
+            "original_transcript": "आपका",
+            "translated_transcript": "Apka",
+            "tone": "Neutral",
+            "rate_of_speech": "150.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "apka"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.417",
+            "end_time": "0.4203",
+            "original_transcript": "नाम",
+            "translated_transcript": "Name",
+            "tone": "Neutral",
+            "rate_of_speech": "301.51",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "name"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.4203",
+            "end_time": "0.4485",
+            "original_transcript": "मैं जान सकता हूँ मेरी किनसे बात हो रही है",
+            "translated_transcript": "Main Jan Sakta Hoon Mary Kinse Baat Ho Rahi Hai",
+            "tone": "Neutral",
+            "rate_of_speech": "355.03",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "jan sakta hoon mary kinse baat ho rahi hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.4602",
+            "end_time": "0.4792",
+            "original_transcript": "मेरा नाम आलोक है",
+            "translated_transcript": "Mera Naam Alok Hai",
+            "tone": "Neutral",
+            "rate_of_speech": "210.53",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mera naam alok hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.4888",
+            "end_time": "0.527",
+            "original_transcript": "आलोक नाम है आपका ठीक है sir line पे बने रहिये",
+            "translated_transcript": "Alok nam hai apka ok hai sir line pe pae rahiye",
+            "tone": "Neutral",
+            "rate_of_speech": "288.08",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "alok",
+                "nam hai apka ok hai sir line pe pae rahiye"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.826",
+            "end_time": "0.8477",
+            "original_transcript": "जाती कर",
+            "translated_transcript": "Caste tax",
+            "tone": "Neutral",
+            "rate_of_speech": "92.31",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "caste"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.913",
+            "end_time": "0.9141",
+            "original_transcript": "line",
+            "translated_transcript": "linea",
+            "tone": "Neutral",
+            "rate_of_speech": "857.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.963",
+            "end_time": "0.9962",
+            "original_transcript": "line पे रहने के लिए धन्यवाद sir",
+            "translated_transcript": "line pe rahne ke lei thank you sir",
+            "tone": "Neutral",
+            "rate_of_speech": "241.08",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "line pe rahne ke lei"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.017",
+            "end_time": "1.0281",
+            "original_transcript": "हाँ हाँ",
+            "translated_transcript": "Ha Ha",
+            "tone": "Neutral",
+            "rate_of_speech": "179.37",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ha ha"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.037",
+            "end_time": "1.1018",
+            "original_transcript": "sorry mister आलोक call disconnect हो गया था sir server issue की वजह से हुआ",
+            "translated_transcript": "sorry mister alok call disconnect yes gaaya tha sir server issue key waj se hua",
+            "tone": "Sad",
+            "rate_of_speech": "231.36",
+            "emotion": "remorse",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "sorry mister alok",
+                "disconnect yes gaaya tha sir server issue key waj se hua"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.1135",
+            "end_time": "1.1555",
+            "original_transcript": "अरे आप कौन बात कर रहे हो अर बात कर रहे हो",
+            "translated_transcript": "Oh Aap Kaun Baat Kar Rahe Ha Ar Baat Kar Rahe",
+            "tone": "Neutral",
+            "rate_of_speech": "261.80",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "oh aap kaun baat kar rahe ha ar baat kar rahe"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.1608",
+            "end_time": "1.1918",
+            "original_transcript": "हाँ जी सर मुझसे ही बात हो रही थी आपकी अच्छा",
+            "translated_transcript": "Ha ji sir mujse hi baat ho rahi thi apki achha",
+            "tone": "Neutral",
+            "rate_of_speech": "354.84",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ha",
+                "ji sir mujse hi baat ho rahi thi apki achha"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.2002",
+            "end_time": "1.2308",
+            "original_transcript": "अच्छा तो आपने phone काट क्यों दिया",
+            "translated_transcript": "How can you cut your phone?",
+            "tone": "Neutral",
+            "rate_of_speech": "195.76",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.2757",
+            "end_time": "1.3701",
+            "original_transcript": "सर आपका वो जो server है नेटवर्क issue की वजह से आवाज नहीं आ रही थी तो मैंने दोबारा कॉल किया तब तक आप दोबारा कॉल कर चुके थे बिजी आ रहे",
+            "translated_transcript": "Sir apka wo jo server hai network issue that the weight of the voice is not a sound that he wants to call two men or two calls or two calls make the mistake of the big one",
+            "tone": "Neutral",
+            "rate_of_speech": "402.19",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir",
+                "apka wo jo server hai network issue"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.3701",
+            "end_time": "1.4306",
+            "original_transcript": "थे अच्छा अच्छा ठीक है साहब ठीक है कोई बात नहीं तो आप बताओ हमें क्या करना है इसका",
+            "translated_transcript": "THE ACHA ACHA OK HAI SAHAB OKAY HAI KOI BAAT NO HE BAATAO HAME KYA KARNA HAI ISKA",
+            "tone": "Neutral",
+            "rate_of_speech": "297.52",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "the acha acha",
+                "hai sahab okay hai koi baat no he baatao hame kya karna hai iska"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.4348",
+            "end_time": "1.5435",
+            "original_transcript": "तो इसके लिए सर आप मुझे बैच नंबर बताइये जो पैकेट के पीछे लिखा हुआ है ताकि हमारे टीम को हम बता सके three zero four",
+            "translated_transcript": "He iske lie sir ap muze batch number who write the packet on the back of the packet, huh hai taki hamare team co um bata say three zero four",
+            "tone": "Neutral",
+            "rate_of_speech": "276.03",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "iske lie sir ap muze batch number",
+                "huh hai taki hamare team co um bata"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.5435",
+            "end_time": "1.5907",
+            "original_transcript": "three four three four three",
+            "translated_transcript": "three four three four three",
+            "tone": "Neutral",
+            "rate_of_speech": "106.01",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.6048",
+            "end_time": "1.6315",
+            "original_transcript": "two three zero",
+            "translated_transcript": "two three zero",
+            "tone": "Neutral",
+            "rate_of_speech": "112.57",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.6423",
+            "end_time": "1.643",
+            "original_transcript": "F C",
+            "translated_transcript": "F.C.",
+            "tone": "Neutral",
+            "rate_of_speech": "1500.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "f.c"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.6762",
+            "end_time": "1.6868",
+            "original_transcript": "F C",
+            "translated_transcript": "F.C.",
+            "tone": "Neutral",
+            "rate_of_speech": "93.75",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "f.c"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.6958",
+            "end_time": "1.7092",
+            "original_transcript": "four three",
+            "translated_transcript": "fyra tre",
+            "tone": "Neutral",
+            "rate_of_speech": "150.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "fyra tre"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.74",
+            "end_time": "1.7655",
+            "original_transcript": "धन्यवाद Date क्या है उसका",
+            "translated_transcript": "Thank you Date Kya Hai Uska",
+            "tone": "Neutral",
+            "rate_of_speech": "235.29",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thank",
+                "date kya hai uska"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.7865",
+            "end_time": "1.7962",
+            "original_transcript": "क्या",
+            "translated_transcript": "key",
+            "tone": "Neutral",
+            "rate_of_speech": "103.63",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.8038",
+            "end_time": "1.8335",
+            "original_transcript": "manufacturing date क्या लिखा हुआ है",
+            "translated_transcript": "manufacturing date is written Hua Hai",
+            "tone": "Neutral",
+            "rate_of_speech": "202.25",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hua hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.866",
+            "end_time": "1.9095",
+            "original_transcript": "पंद्रह जून दो तेईस",
+            "translated_transcript": "Monday June Do Teese",
+            "tone": "Neutral",
+            "rate_of_speech": "91.95",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "june",
+                "teese"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.937",
+            "end_time": "2.0167",
+            "original_transcript": "पंद्रह जून और पांच रुपये का एक packet है right",
+            "translated_transcript": "Monday June and five rupees are a packet right",
+            "tone": "Happy",
+            "rate_of_speech": "112.97",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "june"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.026",
+            "end_time": "2.0368",
+            "original_transcript": "हाँ हाँ",
+            "translated_transcript": "Ha Ha",
+            "tone": "Neutral",
+            "rate_of_speech": "184.62",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ha ha"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.0628",
+            "end_time": "2.1605",
+            "original_transcript": "okay तो जानकारी दिया इसके लिए धन्यवाद और कहाँ से लिया था कौन दुकान से दुकान का नाम बोल पाएंगे",
+            "translated_transcript": "okay he jankari dia iske liae thank you and kahan se lia tha kaun shop se shop ka nam bol paenge",
+            "tone": "Neutral",
+            "rate_of_speech": "214.98",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "jankari dia iske liae",
+                "kahan se lia tha kaun shop se shop ka nam bol paenge"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.2001",
+            "end_time": "2.222",
+            "original_transcript": "दुकान का नाम ITC",
+            "translated_transcript": "Shop Name ITC",
+            "tone": "Neutral",
+            "rate_of_speech": "137.30",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "name itc"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.2337",
+            "end_time": "2.2615",
+            "original_transcript": "दुकान का नाम sir खरीदे कहाँ थे",
+            "translated_transcript": "Shop Ka Naam Sir Kharide Kahaan The",
+            "tone": "Neutral",
+            "rate_of_speech": "251.50",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ka naam sir kharide kahaan"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.2615",
+            "end_time": "2.2962",
+            "original_transcript": "आप हाँ इसपे आई टी सी लिखा हुआ है भैया",
+            "translated_transcript": "AAP HAA ISPE ITC LIKHA HUA HAI BHAIYA",
+            "tone": "Neutral",
+            "rate_of_speech": "230.77",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "aap haa ispe itc likha hua hai bhaiya"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.3037",
+            "end_time": "2.3603",
+            "original_transcript": "नहीं sir वो तो हमारा नाम लिखा हुआ है आप खरीद के कहाँ से लाए थे",
+            "translated_transcript": "No sir wo to hamara name write hua hai ap kharif ke kahaan se laae the",
+            "tone": "Neutral",
+            "rate_of_speech": "282.44",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir wo",
+                "hamara name",
+                "hua hai ap kharif ke kahaan se laae"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.3603",
+            "end_time": "2.3842",
+            "original_transcript": "आपका नाम कहाँ आईटीसी",
+            "translated_transcript": "Apka Naam Kahan ITC",
+            "tone": "Neutral",
+            "rate_of_speech": "167.71",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "apka naam kahan itc"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.3927",
+            "end_time": "2.4487",
+            "original_transcript": "मैं उन दुकान से लिया तो वो ये बता रहे है ITC का है",
+            "translated_transcript": "Main un shop se lia to wo ye bata rahe hai ITC ka hai",
+            "tone": "Neutral",
+            "rate_of_speech": "250.00",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "main un shop se lia",
+                "bata rahe hai",
+                "itc",
+                "ka hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.459",
+            "end_time": "2.5862",
+            "original_transcript": "sir दुकान मतलब कौन सा दुकान मतलब आपके आस पास जहाँ गए थे रानी के लिए किराना का जो दुकान था ना वहां का नाम पूछ रहे है आपसे",
+            "translated_transcript": "sir shop matlab kaun sa shop matlab apke as pas jahan gae the queen ke liye kirana ka jo shop tha na wahan ka nam poch rahe hai apse",
+            "tone": "Neutral",
+            "rate_of_speech": "228.05",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir shop matlab kaun sa shop matlab apke",
+                "pas jahan gae",
+                "queen ke liye kirana ka jo shop tha na wahan ka nam poch rahe hai apse"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.6538",
+            "end_time": "2.6737",
+            "original_transcript": "की दुकान का नाम",
+            "translated_transcript": "Key Shop Ka Naam",
+            "tone": "Neutral",
+            "rate_of_speech": "201.68",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "key",
+                "ka naam"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.6832",
+            "end_time": "2.7538",
+            "original_transcript": "हाँ क्यूंकि हमें पता लगाना होगा ऐसा issue क्यों हुआ जानकारी के लिए",
+            "translated_transcript": "How can we address this issue? How do you know what you want?",
+            "tone": "Neutral",
+            "rate_of_speech": "184.01",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.7758",
+            "end_time": "2.793",
+            "original_transcript": "मनोज की दुकान से ली",
+            "translated_transcript": "Manoj Key Shop Se Li",
+            "tone": "Neutral",
+            "rate_of_speech": "291.26",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "manoj key",
+                "se li"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.8038",
+            "end_time": "2.8198",
+            "original_transcript": "मनोज की दुकान",
+            "translated_transcript": "Manoj Key Shop",
+            "tone": "Neutral",
+            "rate_of_speech": "187.30",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "manoj key"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.8567",
+            "end_time": "2.8965",
+            "original_transcript": "मनोज shop घर के पास है ना ये दुकान",
+            "translated_transcript": "Manoj shop Ghar ke pas hai na ye shop",
+            "tone": "Neutral",
+            "rate_of_speech": "225.94",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "manoj",
+                "ghar",
+                "ke pas hai na"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.9288",
+            "end_time": "2.9407",
+            "original_transcript": "हां हां",
+            "translated_transcript": "Ha ha",
+            "tone": "Neutral",
+            "rate_of_speech": "168.78",
+            "emotion": "amusement",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ha"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.9442",
+            "end_time": "3.2278",
+            "original_transcript": "okay okay तो sir मैं इसके लिए जानकारी दिया आपके लिए इसके लिए धन्यवाद और मैं जो आपका complaint है ना मैं हमारे team को भेज रहा हूं इसपे जांच करने के लिए हमारे team पूरे ध्यान से जांच करेंगे ऐसा क्यों problem आया क्योंकि हमारी तरफ से बहुत बार test करके ही भेजा गया था market में",
+            "translated_transcript": "okay okay it sir main iske liae jankari dia apke liae iske liae thank you and main who your complaint hai na main team co bhej ra ha ha ha ispe janch karane ke liae each team full meditation se janch karenge What is the problem? Aya Kiyonki Hamari Taraf is testing more often than not, this can be found in the market",
+            "tone": "Neutral",
+            "rate_of_speech": "222.09",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay okay",
+                "main iske liae jankari dia apke liae iske liae",
+                "complaint hai na",
+                "main team co bhej ra",
+                "ispe janch karane ke liae",
+                "full meditation se janch karenge",
+                "aya kiyonki hamari taraf"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.237",
+            "end_time": "3.3288",
+            "original_transcript": "और इस तरह की problem उम्मीद करते हैं sir दोबारा ना आए आपको इसके लिए हम पूरी जांच करेंगे sir ठीक है",
+            "translated_transcript": "Aur es tarah ki problem ummied hai sir dobara na aae apko iske liae ham puri janch karenge sir ok hai",
+            "tone": "Neutral",
+            "rate_of_speech": "228.72",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "aur",
+                "es tarah ki problem",
+                "hai sir dobara na aae apko iske liae ham puri janch karenge sir ok hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.337",
+            "end_time": "3.3457",
+            "original_transcript": "बिल्कुल बिल्कुल",
+            "translated_transcript": "Bilkul Bilkul",
+            "tone": "Neutral",
+            "rate_of_speech": "230.77",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bilkul bilkul"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.3537",
+            "end_time": "3.5038",
+            "original_transcript": "अगर आप वो packet देते तो हमारे executive जाकर आपको नया packet देते और आपको वो packet हम वापस लाकर lab में भेजते हैं sir check करने के लिए factory में",
+            "translated_transcript": "If you give me a packet, he gives you a new packet and you send your packet back to the lakar lab, check it and take it to the factory.",
+            "tone": "Neutral",
+            "rate_of_speech": "199.80",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "new packet",
+                "lakar lab"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.5443",
+            "end_time": "3.551",
+            "original_transcript": "ये",
+            "translated_transcript": "Come",
+            "tone": "Neutral",
+            "rate_of_speech": "150.38",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.551",
+            "end_time": "3.5715",
+            "original_transcript": "कोई बात हुई है",
+            "translated_transcript": "Koi Bat Hui Hai",
+            "tone": "Neutral",
+            "rate_of_speech": "195.12",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "koi bat hui hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.6068",
+            "end_time": "3.676",
+            "original_transcript": "चलो ठीक है आप अपना काम करो मैं अपना करूँगा कोई बात नहीं है आप अपना काम करिए मैं अपना करूंगा",
+            "translated_transcript": "Let's all right, I'll do my job, I'll do my job, I'll do my job, I'll do my job.",
+            "tone": "Happy",
+            "rate_of_speech": "274.77",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.6801",
+            "end_time": "3.7443",
+            "original_transcript": "तो क्या मैं हमारी team को भेजूं आपके घर के वो packet लाने के लिए",
+            "translated_transcript": "That's why my team knows how to buy your house and what the packet is",
+            "tone": "Neutral",
+            "rate_of_speech": "233.71",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.7528",
+            "end_time": "3.7662",
+            "original_transcript": "हाँ बिलकुल भेजो",
+            "translated_transcript": "Ha Bilkul Bhejo",
+            "tone": "Neutral",
+            "rate_of_speech": "224.72",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ha bilkul bhejo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.7795",
+            "end_time": "3.9131",
+            "original_transcript": "ठीक है sir तो आपका मुझे address पूरा बताइए details के साथ ताकि team जा सके गंजन में कहाँ रहते हैं sir",
+            "translated_transcript": "Okay sir he's your address full details to help the team go to the Ganjan in the village sir",
+            "tone": "Happy",
+            "rate_of_speech": "142.16",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay",
+                "full details",
+                "ganjan",
+                "village sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.9295",
+            "end_time": "3.9542",
+            "original_transcript": "हम लोग घर पे रहते हैं अपने घर",
+            "translated_transcript": "Hum Log Ghar Pay Hate Hai Apne Ghar",
+            "tone": "Sad",
+            "rate_of_speech": "324.32",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "hum log ghar pay hate hai apne ghar"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.9657",
+            "end_time": "4.0277",
+            "original_transcript": "sir गंजमारा में कोई गली number घर का land mark वगैरह कुछ है",
+            "translated_transcript": "Sir Ganjmara in Koi Gali Number Ghar Ka Land Mark etc",
+            "tone": "Neutral",
+            "rate_of_speech": "177.42",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir ganjmara",
+                "koi gali number ghar ka land mark"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.0377",
+            "end_time": "4.1177",
+            "original_transcript": "ना ना जहां पे गली number वम्बर भैया कुछ ना होते हैं आप सीधे भेज दिए ऐसे ही थाने वाले road पे रहते हैं मैं मान ल",
+            "translated_transcript": "Na na jahan pe gli number Wumber bhaiya kuch na was hai ap sidhe bhej diye if this thane walle road pa lives in main man l",
+            "tone": "Neutral",
+            "rate_of_speech": "337.50",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "na",
+                "na jahan pe gli number",
+                "wumber",
+                "bhaiya kuch na",
+                "hai ap sidhe bhej diye",
+                "thane walle road pa",
+                "main man l"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.129",
+            "end_time": "4.1395",
+            "original_transcript": "कहाँ कहाँ",
+            "translated_transcript": "Kahan Kahan",
+            "tone": "Neutral",
+            "rate_of_speech": "190.78",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "kahan kahan"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.1523",
+            "end_time": "4.1873",
+            "original_transcript": "थाने वाले road में police station के सामने",
+            "translated_transcript": "Matches against police station in Thane Wale road",
+            "tone": "Neutral",
+            "rate_of_speech": "228.46",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "matches",
+                "police station",
+                "thane wale"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.2167",
+            "end_time": "4.2447",
+            "original_transcript": "हाँ police station के सामने",
+            "translated_transcript": "Matches of Ha police station",
+            "tone": "Neutral",
+            "rate_of_speech": "178.68",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "matches",
+                "ha",
+                "police station"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.2447",
+            "end_time": "4.2937",
+            "original_transcript": "police station में ही भेज दिए तुम अंदर वही बात कर लेंगे उनसे हम अच्छी तरह से",
+            "translated_transcript": "Police Station Hai Bhej Diae Tum Andar Vahi Baat Kar Lange Unse Hum Acchi Tarah Se",
+            "tone": "Neutral",
+            "rate_of_speech": "326.53",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "police station",
+                "hai bhej diae tum andar vahi baat kar lange unse hum acchi tarah se"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.3122",
+            "end_time": "4.3608",
+            "original_transcript": "sir proper address नहीं जानेंगे तो",
+            "translated_transcript": "sir proper address no janange",
+            "tone": "Neutral",
+            "rate_of_speech": "102.77",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "proper address"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.3608",
+            "end_time": "4.4247",
+            "original_transcript": "आप पुलिस स्टेशन बारह लिख दो आप proper address हो गया मेरा",
+            "translated_transcript": "AAP Police Station Barh Lich Do Aap Proper Address Ho Gaya Mera",
+            "tone": "Neutral",
+            "rate_of_speech": "187.94",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "aap",
+                "barh lich",
+                "aap proper address ho gaya mera"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.4315",
+            "end_time": "4.5005",
+            "original_transcript": "अच्छा two zero seven two four two यही पिन code रहेगा न",
+            "translated_transcript": "Acha two zero seven two four two yahi pin code no",
+            "tone": "Neutral",
+            "rate_of_speech": "159.46",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "acha",
+                "yahi pin code"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.5076",
+            "end_time": "4.5171",
+            "original_transcript": "हम्म हम्म",
+            "translated_transcript": "Hamm Hamm",
+            "tone": "Neutral",
+            "rate_of_speech": "210.53",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hamm hamm"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.5323",
+            "end_time": "4.597",
+            "original_transcript": "धन्यवाद WhatsApp number लिख लीजिये sir photo हमें भेज दीजिये आप कृपया करके",
+            "translated_transcript": "Thank you whatsapp number please write me sir photo please visit us",
+            "tone": "Neutral",
+            "rate_of_speech": "185.57",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thank",
+                "whatsapp number",
+                "sir photo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.6105",
+            "end_time": "4.7002",
+            "original_transcript": "आप मुझे whatsapp में save नहीं कर पाता हूँ number भैया आप मुझे whatsapp पे कोई message भेज दो मैं उसको भेज दूंगा number",
+            "translated_transcript": "Do not save in whatsapp do not save your page number Bhaiya ap muze whatsapp pa any message Bhej do main usco bhej dung number",
+            "tone": "Neutral",
+            "rate_of_speech": "278.81",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "page number",
+                "bhaiya",
+                "ap muze whatsapp pa",
+                "bhej",
+                "main usco bhej dung number"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.7071",
+            "end_time": "4.7152",
+            "original_transcript": "actually",
+            "translated_transcript": "in actuality",
+            "tone": "Neutral",
+            "rate_of_speech": "249.48",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.7152",
+            "end_time": "4.723",
+            "original_transcript": "whatsapp number से बात कर रहे",
+            "translated_transcript": "Contact whatsapp number",
+            "tone": "Neutral",
+            "rate_of_speech": "382.98",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "contact",
+                "whatsapp number"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.7465",
+            "end_time": "4.7767",
+            "original_transcript": "है ना तो यहाँ से message आपको नहीं करना",
+            "translated_transcript": "I don't want to send that message to you.",
+            "tone": "Neutral",
+            "rate_of_speech": "298.34",
+            "emotion": "disapproval",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.7767",
+            "end_time": "4.811",
+            "original_transcript": "तो whatsapp laptop पे कहाँ चले जाते हो वो चले जाते हैं",
+            "translated_transcript": "It goes on whatsapp laptop pa kahana ho wo chale hai",
+            "tone": "Neutral",
+            "rate_of_speech": "320.39",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "whatsapp laptop pa kahana ho wo chale hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.8185",
+            "end_time": "4.8397",
+            "original_transcript": "चल जाते हैं sir आप",
+            "translated_transcript": "Come on, sir.",
+            "tone": "Neutral",
+            "rate_of_speech": "141.62",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.8397",
+            "end_time": "4.8828",
+            "original_transcript": "अच्छा अच्छा तो हम number save नहीं कर पाते हैं भैया",
+            "translated_transcript": "Acha Acha He Hum Number Don't Save Kar Pate Hai Bhaiya",
+            "tone": "Neutral",
+            "rate_of_speech": "254.83",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "acha acha",
+                "hum number",
+                "save kar pate hai bhaiya"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.9",
+            "end_time": "5.019",
+            "original_transcript": "okay okay तो आप किसी और के number पे कर सकते हैं किसी के भी number पे भेज सकते हैं कोई problem नहीं है",
+            "translated_transcript": "okay okay he has to give you a number or a number, there is no problem",
+            "tone": "Neutral",
+            "rate_of_speech": "134.45",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.0247",
+            "end_time": "5.0705",
+            "original_transcript": "तो आप हमें अपने plan से message देते हो पे भेजेंगे",
+            "translated_transcript": "He gives you a message that we plan on how to get better.",
+            "tone": "Neutral",
+            "rate_of_speech": "283.64",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.0888",
+            "end_time": "5.2081",
+            "original_transcript": "और आलोक जी यहाँ से हम या message नहीं कर पाएंगे आप number अगर लिखना चाह रहे हैं तो possible है तो लिख लीजिए ताकि आप",
+            "translated_transcript": "Aur alok ji yahan se hum this message don't give you a number or write it down, it's possible it is possible to write it legiie taki ap",
+            "tone": "Sad",
+            "rate_of_speech": "234.64",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "aur",
+                "alok ji yahan se hum",
+                "legiie taki ap"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.2081",
+            "end_time": "5.2623",
+            "original_transcript": "possible possible नहीं है भैया मैं number save ही नहीं कर पाऊंगा दिक्कत है",
+            "translated_transcript": "possible possible no hai bhaiya main number save this no kar paunga dickat hai",
+            "tone": "Happy",
+            "rate_of_speech": "258.46",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "hai bhaiya",
+                "main number",
+                "kar paunga dickat hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.3",
+            "end_time": "5.5713",
+            "original_transcript": "ठीक है तो फिर आप whatsapp number रहने दीजिये मैं हमारी team को inform करता हूँ जाके वो packet लाने के लिए आपसे और नया packet आपको दे के आएंगे ठीक है और further process के लिए तो कृपया करके आप दो minute line पे बने रहेंगे ताकि मैं complaint register कर सकूँ",
+            "translated_transcript": "All right, it is up to you whatsapp number to inform the main help team to inform you that you want to send your packet and your new packet to the next one ok and further process to do it please make up a two minute line to pay for it. Main complaint register Tax Office",
+            "tone": "Neutral",
+            "rate_of_speech": "206.40",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "whatsapp number",
+                "new packet",
+                "minute line",
+                "main complaint register tax office"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.621",
+            "end_time": "5.6397",
+            "original_transcript": "please आप बयान",
+            "translated_transcript": "please AAP Bayan",
+            "tone": "Neutral",
+            "rate_of_speech": "160.71",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "aap bayan"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.6652",
+            "end_time": "5.7448",
+            "original_transcript": "नहीं नहीं आपका call दो minute hold पे रख सकता हूँ ताकि complaint register आपका call",
+            "translated_transcript": "No no no your call two minute hold pay rakha sakta whoa takki complaint register your call",
+            "tone": "Neutral",
+            "rate_of_speech": "213.39",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "minute hold pay rakha sakta whoa takki complaint register"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.7562",
+            "end_time": "5.7668",
+            "original_transcript": "दो minute",
+            "translated_transcript": "two minute",
+            "tone": "Neutral",
+            "rate_of_speech": "187.21",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.7668",
+            "end_time": "5.7946",
+            "original_transcript": "hold hold पे जा रहे हैं",
+            "translated_transcript": "hold hold pay go stay",
+            "tone": "Neutral",
+            "rate_of_speech": "179.75",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.8125",
+            "end_time": "5.8258",
+            "original_transcript": "sorry वो",
+            "translated_transcript": "sorry Woo",
+            "tone": "Sad",
+            "rate_of_speech": "150.19",
+            "emotion": "remorse",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "woo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.8265",
+            "end_time": "5.846",
+            "original_transcript": "hold पे क्यों कर रहे हो भैया",
+            "translated_transcript": "Hold Pe Kone Kar Rahe Ho Bhaiya",
+            "tone": "Neutral",
+            "rate_of_speech": "358.67",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hold pe kone kar rahe ho bhaiya"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.8558",
+            "end_time": "5.8851",
+            "original_transcript": "तो complaint रजिस्टर करने के लिए अच्छा",
+            "translated_transcript": "I would like to register a complaint",
+            "tone": "Neutral",
+            "rate_of_speech": "238.77",
+            "emotion": "desire",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.8971",
+            "end_time": "5.9152",
+            "original_transcript": "अच्छा करो करो बिल्कुल",
+            "translated_transcript": "Acha Karo Bilkul",
+            "tone": "Neutral",
+            "rate_of_speech": "166.51",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "acha karo bilkul"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.9152",
+            "end_time": "5.9222",
+            "original_transcript": "करो",
+            "translated_transcript": "Karo",
+            "tone": "Neutral",
+            "rate_of_speech": "143.20",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "karo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.931",
+            "end_time": "6.0177",
+            "original_transcript": "ठीक है line पे रहिये sir अगर किसी network से call कट जाता है तो मैं खुद call करूँगा आपको ठीक",
+            "translated_transcript": "Okay, the line is there, sir, or the network call goes out, so call the main one.",
+            "tone": "Neutral",
+            "rate_of_speech": "196.15",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.0177",
+            "end_time": "6.0892",
+            "original_transcript": "है हाँ ठीक है ठीक है ठीक है सुनो hello line पे रहने",
+            "translated_transcript": "Hai ha ok hai ok hai ok hai suno hello line pe rahne",
+            "tone": "Neutral",
+            "rate_of_speech": "181.78",
+            "emotion": "amusement",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "hai",
+                "ok hai ok hai ok hai suno hello line pe rahne"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.0985",
+            "end_time": "6.117",
+            "original_transcript": "धन्यवाद जी बताइए कुछ",
+            "translated_transcript": "Thank you G Bataiye Kuch",
+            "tone": "Neutral",
+            "rate_of_speech": "270.51",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thank",
+                "g bataiye kuch"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.117",
+            "end_time": "6.143",
+            "original_transcript": "अरे सुनो तो सही यार बोलिए",
+            "translated_transcript": "Hey, son, that's what I said.",
+            "tone": "Neutral",
+            "rate_of_speech": "230.77",
+            "emotion": "approval",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hey"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.143",
+            "end_time": "6.1483",
+            "original_transcript": "sir",
+            "translated_transcript": "cheese",
+            "tone": "Neutral",
+            "rate_of_speech": "187.50",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.151",
+            "end_time": "6.1657",
+            "original_transcript": "आवाज आ रही है आ",
+            "translated_transcript": "The voice of Rahi Hai",
+            "tone": "Neutral",
+            "rate_of_speech": "340.52",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "rahi hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.1657",
+            "end_time": "6.1772",
+            "original_transcript": "रही है बोलिए",
+            "translated_transcript": "Rahi Hai Boliye",
+            "tone": "Neutral",
+            "rate_of_speech": "260.87",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "rahi hai boliye"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.1908",
+            "end_time": "6.2367",
+            "original_transcript": "हाँ होल्ड पे बाद में करिए पहले हम को कंप्लेंट नंबर दे दियो मैं",
+            "translated_transcript": "Don't Hold Pay Out Me Curie Pahle Hum Co Complement Number De Dio Main",
+            "tone": "Neutral",
+            "rate_of_speech": "305.45",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "hold pay",
+                "curie pahle hum co complement number de dio"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.2455",
+            "end_time": "6.3275",
+            "original_transcript": "सर होल्ड ऐसी आने के बाद दे पाएंगे होल्ड पे आपको रख के वही रजिस्टर करेंगे तो होल्ड से आने",
+            "translated_transcript": "Sir hold ac ane ke bad de paenge hold pe apco rakh ke notebook register krenge to hold se ane",
+            "tone": "Sad",
+            "rate_of_speech": "243.95",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "sir",
+                "ac ane ke",
+                "paenge hold pe apco rakh ke notebook register krenge",
+                "se ane"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.3275",
+            "end_time": "6.4101",
+            "original_transcript": "के बाद अरे यार ये ये कोई बात नहीं हुई तो फिर इसका मतलब काट दोगे आप",
+            "translated_transcript": "Ke baad are yar ye ye any bat no hui he fir iska meaning cut both of us",
+            "tone": "Neutral",
+            "rate_of_speech": "217.74",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ke",
+                "fir iska meaning"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.4101",
+            "end_time": "6.4683",
+            "original_transcript": "नेटवर्क की ऐसी अगर कट जायेगा तो मैंने कहा की मैं आपको कॉल करता हूँ",
+            "translated_transcript": "The network key is easy or cut, it says to me that I call you",
+            "tone": "Happy",
+            "rate_of_speech": "257.81",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "network key"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.5018",
+            "end_time": "6.572",
+            "original_transcript": "अरे भाई तो आप हमें complaint number दे दोना हमारा उसके बाद में आप जो करना है वो करते रहना है",
+            "translated_transcript": "Oh Bhai to aap haem complaint number, give two help to the rest of us.",
+            "tone": "Neutral",
+            "rate_of_speech": "213.73",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "oh bhai",
+                "aap haem complaint number"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.599",
+            "end_time": "6.6495",
+            "original_transcript": "ठीक है आप हमारा complaint number हमको दे दीजिए",
+            "translated_transcript": "Ok Hai Aap Hamara Complaint Number Hamco De Dejie",
+            "tone": "Neutral",
+            "rate_of_speech": "178.22",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok hai aap hamara complaint number hamco de dejie"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.6622",
+            "end_time": "6.7455",
+            "original_transcript": "अगर आप नहीं दे पा रहे हैं तो फिर आप बता दो जैसे कोई समस्या आ रही है तो फिर हम किसी और से बात करेंगे",
+            "translated_transcript": "Or you don't let it stay, it's like any problem you have to worry about.",
+            "tone": "Neutral",
+            "rate_of_speech": "180.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.7455",
+            "end_time": "6.779",
+            "original_transcript": "अपना number लिख लीजिए sir one seven",
+            "translated_transcript": "Write an open number Legia sir one seven",
+            "tone": "Neutral",
+            "rate_of_speech": "238.92",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "open number",
+                "legia"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.8091",
+            "end_time": "6.84",
+            "original_transcript": "हाँ one seven",
+            "translated_transcript": "Ha one seven",
+            "tone": "Neutral",
+            "rate_of_speech": "97.30",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ha"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.8485",
+            "end_time": "6.8645",
+            "original_transcript": "four seven",
+            "translated_transcript": "fyra sette",
+            "tone": "Neutral",
+            "rate_of_speech": "125.13",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "fyra sette"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.8855",
+            "end_time": "6.8982",
+            "original_transcript": "ठीक है",
+            "translated_transcript": "OK Hai",
+            "tone": "Neutral",
+            "rate_of_speech": "157.89",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.9135",
+            "end_time": "6.9358",
+            "original_transcript": "eight double six",
+            "translated_transcript": "eight double six",
+            "tone": "Neutral",
+            "rate_of_speech": "134.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.9537",
+            "end_time": "6.9662",
+            "original_transcript": "ठीक है",
+            "translated_transcript": "OK Hai",
+            "tone": "Neutral",
+            "rate_of_speech": "160.00",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.9853",
+            "end_time": "7.0113",
+            "original_transcript": "बस इतना ही number है",
+            "translated_transcript": "That's just the number.",
+            "tone": "Neutral",
+            "rate_of_speech": "153.85",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.031",
+            "end_time": "7.0417",
+            "original_transcript": "repeat करो",
+            "translated_transcript": "repeat",
+            "tone": "Neutral",
+            "rate_of_speech": "93.60",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.0556",
+            "end_time": "7.1",
+            "original_transcript": "one seven four seven eight double six",
+            "translated_transcript": "one seven four seven eight double six",
+            "tone": "Neutral",
+            "rate_of_speech": "157.84",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.1171",
+            "end_time": "7.1273",
+            "original_transcript": "ठीक है",
+            "translated_transcript": "OK Hai",
+            "tone": "Neutral",
+            "rate_of_speech": "196.40",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.1415",
+            "end_time": "7.3612",
+            "original_transcript": "okay तो हमारे team आने से पहले call करेंगे आपको और उनसे बात करेंगे आप वो packet दे दीजिएगा और आपको नया packet मिलेगा गुरब केशर के तौर पर और उस packet से हम जांच पूरा करेंगे sir इस तरह की problem ना आये दोबारा ठीक है",
+            "translated_transcript": "okay it's every team and it's called Karenge apko and unse bat karenge ap o packet de dijiega and apko new packet Milega Grub Keshar ke tour par and us packet se ham that full of trouble sir this is the problem not both Ok Hai",
+            "tone": "Neutral",
+            "rate_of_speech": "209.39",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "karenge",
+                "unse bat karenge ap o packet",
+                "new packet",
+                "milega grub keshar",
+                "ke tour par",
+                "packet se ham",
+                "trouble sir",
+                "ok hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.378",
+            "end_time": "7.3877",
+            "original_transcript": "hold रखो",
+            "translated_transcript": "hold",
+            "tone": "Neutral",
+            "rate_of_speech": "103.27",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.4012",
+            "end_time": "7.4538",
+            "original_transcript": "अ hold पे रखेंगे sir अगर आप permission देंगे तो रखेंगे",
+            "translated_transcript": "A hold pe rakhenge sir or ap permission denge to rakhenge",
+            "tone": "Neutral",
+            "rate_of_speech": "208.86",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pe rakhenge sir",
+                "ap permission denge"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.4808",
+            "end_time": "7.5235",
+            "original_transcript": "अब complaint तो तुमने register कर दी फिर क्या करो hold पे रख के यार",
+            "translated_transcript": "If you have a complaint, you can register the tax you have to pay.",
+            "tone": "Neutral",
+            "rate_of_speech": "328.12",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.534",
+            "end_time": "7.593",
+            "original_transcript": "ठीक है sir तो आप कृपया wait कीजिए हमारे team का ठीक है",
+            "translated_transcript": "Okay sir it's up please wait Kijie hamare team why ok",
+            "tone": "Neutral",
+            "rate_of_speech": "186.49",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay",
+                "kijie",
+                "hamare team"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.603",
+            "end_time": "7.6122",
+            "original_transcript": "ठीक है",
+            "translated_transcript": "OK Hai",
+            "tone": "Neutral",
+            "rate_of_speech": "217.79",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.6196",
+            "end_time": "7.6363",
+            "original_transcript": "आई टी सी में कॉल कर",
+            "translated_transcript": "Make calls to ITC",
+            "tone": "Neutral",
+            "rate_of_speech": "240.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "itc"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.6363",
+            "end_time": "7.653",
+            "original_transcript": "कब तक आगे",
+            "translated_transcript": "Kab Tak Aage",
+            "tone": "Neutral",
+            "rate_of_speech": "180.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "kab tak aage"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.653",
+            "end_time": "7.6845",
+            "original_transcript": "जितना जल्दी हो सके टीम कोशिश करेंगे",
+            "translated_transcript": "Jitana Jaldi Ho Ske Team Koshish Karenge",
+            "tone": "Neutral",
+            "rate_of_speech": "222.10",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "jitana jaldi ho ske team koshish karenge"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.7117",
+            "end_time": "7.7265",
+            "original_transcript": "मैं रजिस्टर कर रहा हूँ आज मैं",
+            "translated_transcript": "Main Register Tax Stay Hoon Aaj Main",
+            "tone": "Neutral",
+            "rate_of_speech": "472.44",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "main register tax",
+                "hoon aaj"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.7407",
+            "end_time": "7.794",
+            "original_transcript": "आज नहीं आएंगे sir अब तो रात हो गया है ना वो call करेंगे",
+            "translated_transcript": "Aaj nahi aange sir ab to rat ho gai hai na wo call karenge",
+            "tone": "Neutral",
+            "rate_of_speech": "262.50",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "aaj",
+                "nahi aange sir ab",
+                "rat ho gai hai na wo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.794",
+            "end_time": "7.8225",
+            "original_transcript": "तो तभी तो पूछते हैं कब कब भेजो",
+            "translated_transcript": "It's good, it's good, it's good.",
+            "tone": "Happy",
+            "rate_of_speech": "210.53",
+            "emotion": "admiration",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.8327",
+            "end_time": "7.848",
+            "original_transcript": "तो कल call करे",
+            "translated_transcript": "Call it a trend",
+            "tone": "Neutral",
+            "rate_of_speech": "260.59",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "call"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.848",
+            "end_time": "7.9418",
+            "original_transcript": "मतलब ऐसा है मैं इसलिए कह रहा हूँ अभी मैं जा रहा हूँ बाहर तो आप पता चले अभी भेज दो फिर अभी मैं नहीं मिल पाऊंगा उनको बात जी है",
+            "translated_transcript": "Matlab Aisa Hai Main Isaliye Kah Raha Hoon Abhi Main Go Raha Hoon Bahar To Aap Pata Chale Abhi Bhej Do Phir Abhi Main No Mill Paunga Unko Bat Ji Hai",
+            "tone": "Neutral",
+            "rate_of_speech": "330.37",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "matlab aisa hai",
+                "isaliye kah raha hoon abhi",
+                "raha hoon bahar",
+                "aap pata chale abhi bhej",
+                "phir abhi",
+                "paunga unko bat ji hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.9473",
+            "end_time": "7.988",
+            "original_transcript": "वो call करेंगे आपको आप जब रहिएगा तभी",
+            "translated_transcript": "Wo Call Karenge Apko Aap Jab Rahiega Tabi",
+            "tone": "Neutral",
+            "rate_of_speech": "196.72",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "wo call karenge apko aap jab rahiega tabi"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.988",
+            "end_time": "8.0",
+            "original_transcript": "जागा अच्छा",
+            "translated_transcript": "The desire for space",
+            "tone": "Neutral",
+            "rate_of_speech": "332.87",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.0153",
+            "end_time": "8.0336",
+            "original_transcript": "ठीक है साहब ठीक है",
+            "translated_transcript": "OK Hai Saab Ok Hai",
+            "tone": "Neutral",
+            "rate_of_speech": "272.98",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "hai saab ok hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.0475",
+            "end_time": "8.1091",
+            "original_transcript": "ठीक है ITC में call करने के लिए धन्यवाद आपका दिन शुभ हो",
+            "translated_transcript": "Ok hi call ITC and thank you happy day",
+            "tone": "Happy",
+            "rate_of_speech": "145.99",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok",
+                "itc",
+                "happy day"
+            ]
+        }
+    ],
+    "translated_segments": "Good evening welcome to ITC Main Nam Alok Ke Bataiye Kya Aaitha Ka Sakta Hun Hello Yeh Kah Raha Hoon Mainne Abhi Der Pahle Kiya Hai Aur Ur Sunho Diya Kiss Cut Kar Dia Sir Main Check Kar Leta Hoon Tanvir Naam Bataya Unhone Tanvir Tanvir Ji Ne Ha All right sir main call co transfer tax due to hoon unke liae bat kar lejiega main apki call co hold pay rakh sakta hoon Apka Name Main Jan Sakta Hoon Mary Kinse Baat Ho Rahi Hai Mera Naam Alok Hai Alok nam hai apka ok hai sir line pe pae rahiye Caste tax linea line pe rahne ke lei thank you sir Ha Ha sorry mister alok call disconnect yes gaaya tha sir server issue key waj se hua Oh Aap Kaun Baat Kar Rahe Ha Ar Baat Kar Rahe Ha ji sir mujse hi baat ho rahi thi apki achha How can you cut your phone? Sir apka wo jo server hai network issue that the weight of the voice is not a sound that he wants to call two men or two calls or two calls make the mistake of the big one THE ACHA ACHA OK HAI SAHAB OKAY HAI KOI BAAT NO HE BAATAO HAME KYA KARNA HAI ISKA He iske lie sir ap muze batch number who write the packet on the back of the packet, huh hai taki hamare team co um bata say three zero four three four three four three two three zero F.C. F.C. fyra tre Thank you Date Kya Hai Uska key manufacturing date is written Hua Hai Monday June Do Teese Monday June and five rupees are a packet right Ha Ha okay he jankari dia iske liae thank you and kahan se lia tha kaun shop se shop ka nam bol paenge Shop Name ITC Shop Ka Naam Sir Kharide Kahaan The AAP HAA ISPE ITC LIKHA HUA HAI BHAIYA No sir wo to hamara name write hua hai ap kharif ke kahaan se laae the Apka Naam Kahan ITC Main un shop se lia to wo ye bata rahe hai ITC ka hai sir shop matlab kaun sa shop matlab apke as pas jahan gae the queen ke liye kirana ka jo shop tha na wahan ka nam poch rahe hai apse Key Shop Ka Naam How can we address this issue? How do you know what you want? Manoj Key Shop Se Li Manoj Key Shop Manoj shop Ghar ke pas hai na ye shop Ha ha okay okay it sir main iske liae jankari dia apke liae iske liae thank you and main who your complaint hai na main team co bhej ra ha ha ha ispe janch karane ke liae each team full meditation se janch karenge What is the problem? Aya Kiyonki Hamari Taraf is testing more often than not, this can be found in the market Aur es tarah ki problem ummied hai sir dobara na aae apko iske liae ham puri janch karenge sir ok hai Bilkul Bilkul If you give me a packet, he gives you a new packet and you send your packet back to the lakar lab, check it and take it to the factory. Come Koi Bat Hui Hai Let's all right, I'll do my job, I'll do my job, I'll do my job, I'll do my job. That's why my team knows how to buy your house and what the packet is Ha Bilkul Bhejo Okay sir he's your address full details to help the team go to the Ganjan in the village sir Hum Log Ghar Pay Hate Hai Apne Ghar Sir Ganjmara in Koi Gali Number Ghar Ka Land Mark etc Na na jahan pe gli number Wumber bhaiya kuch na was hai ap sidhe bhej diye if this thane walle road pa lives in main man l Kahan Kahan Matches against police station in Thane Wale road Matches of Ha police station Police Station Hai Bhej Diae Tum Andar Vahi Baat Kar Lange Unse Hum Acchi Tarah Se sir proper address no janange AAP Police Station Barh Lich Do Aap Proper Address Ho Gaya Mera Acha two zero seven two four two yahi pin code no Hamm Hamm Thank you whatsapp number please write me sir photo please visit us Do not save in whatsapp do not save your page number Bhaiya ap muze whatsapp pa any message Bhej do main usco bhej dung number in actuality Contact whatsapp number I don't want to send that message to you. It goes on whatsapp laptop pa kahana ho wo chale hai Come on, sir. Acha Acha He Hum Number Don't Save Kar Pate Hai Bhaiya okay okay he has to give you a number or a number, there is no problem He gives you a message that we plan on how to get better. Aur alok ji yahan se hum this message don't give you a number or write it down, it's possible it is possible to write it legiie taki ap possible possible no hai bhaiya main number save this no kar paunga dickat hai All right, it is up to you whatsapp number to inform the main help team to inform you that you want to send your packet and your new packet to the next one ok and further process to do it please make up a two minute line to pay for it. Main complaint register Tax Office please AAP Bayan No no no your call two minute hold pay rakha sakta whoa takki complaint register your call two minute hold hold pay go stay sorry Woo Hold Pe Kone Kar Rahe Ho Bhaiya I would like to register a complaint Acha Karo Bilkul Karo Okay, the line is there, sir, or the network call goes out, so call the main one. Hai ha ok hai ok hai ok hai suno hello line pe rahne Thank you G Bataiye Kuch Hey, son, that's what I said. cheese The voice of Rahi Hai Rahi Hai Boliye Don't Hold Pay Out Me Curie Pahle Hum Co Complement Number De Dio Main Sir hold ac ane ke bad de paenge hold pe apco rakh ke notebook register krenge to hold se ane Ke baad are yar ye ye any bat no hui he fir iska meaning cut both of us The network key is easy or cut, it says to me that I call you Oh Bhai to aap haem complaint number, give two help to the rest of us. Ok Hai Aap Hamara Complaint Number Hamco De Dejie Or you don't let it stay, it's like any problem you have to worry about. Write an open number Legia sir one seven Ha one seven fyra sette OK Hai eight double six OK Hai That's just the number. repeat one seven four seven eight double six OK Hai okay it's every team and it's called Karenge apko and unse bat karenge ap o packet de dijiega and apko new packet Milega Grub Keshar ke tour par and us packet se ham that full of trouble sir this is the problem not both Ok Hai hold A hold pe rakhenge sir or ap permission denge to rakhenge If you have a complaint, you can register the tax you have to pay. Okay sir it's up please wait Kijie hamare team why ok OK Hai Make calls to ITC Kab Tak Aage Jitana Jaldi Ho Ske Team Koshish Karenge Main Register Tax Stay Hoon Aaj Main Aaj nahi aange sir ab to rat ho gai hai na wo call karenge It's good, it's good, it's good. Call it a trend Matlab Aisa Hai Main Isaliye Kah Raha Hoon Abhi Main Go Raha Hoon Bahar To Aap Pata Chale Abhi Bhej Do Phir Abhi Main No Mill Paunga Unko Bat Ji Hai Wo Call Karenge Apko Aap Jab Rahiega Tabi The desire for space OK Hai Saab Ok Hai Ok hi call ITC and thank you happy day ",
+    "speaker_a_segments": "Good evening welcome to ITC Main Nam Alok Ke Bataiye Kya Aaitha Ka Sakta Hun Hello Kiss Cut Kar Dia Sir Main Check Kar Leta Hoon Tanvir Ji Ne All right sir main call co transfer tax due to hoon unke liae bat kar lejiega main apki call co hold pay rakh sakta hoon Apka Main Jan Sakta Hoon Mary Kinse Baat Ho Rahi Hai Alok nam hai apka ok hai sir line pe pae rahiye line pe rahne ke lei thank you sir sorry mister alok call disconnect yes gaaya tha sir server issue key waj se hua Ha ji sir mujse hi baat ho rahi thi apki achha Sir apka wo jo server hai network issue that the weight of the voice is not a sound that he wants to call two men or two calls or two calls make the mistake of the big one He iske lie sir ap muze batch number who write the packet on the back of the packet, huh hai taki hamare team co um bata say three zero four two three zero F.C. Thank you Date Kya Hai Uska manufacturing date is written Hua Hai Monday June and five rupees are a packet right okay he jankari dia iske liae thank you and kahan se lia tha kaun shop se shop ka nam bol paenge Shop Ka Naam Sir Kharide Kahaan The No sir wo to hamara name write hua hai ap kharif ke kahaan se laae the sir shop matlab kaun sa shop matlab apke as pas jahan gae the queen ke liye kirana ka jo shop tha na wahan ka nam poch rahe hai apse How can we address this issue? How do you know what you want? Manoj Key Shop Manoj shop Ghar ke pas hai na ye shop okay okay it sir main iske liae jankari dia apke liae iske liae thank you and main who your complaint hai na main team co bhej ra ha ha ha ispe janch karane ke liae each team full meditation se janch karenge What is the problem? Aya Kiyonki Hamari Taraf is testing more often than not, this can be found in the market Aur es tarah ki problem ummied hai sir dobara na aae apko iske liae ham puri janch karenge sir ok hai If you give me a packet, he gives you a new packet and you send your packet back to the lakar lab, check it and take it to the factory. Come That's why my team knows how to buy your house and what the packet is Okay sir he's your address full details to help the team go to the Ganjan in the village sir Sir Ganjmara in Koi Gali Number Ghar Ka Land Mark etc Kahan Kahan Matches of Ha police station sir proper address no janange Acha two zero seven two four two yahi pin code no Thank you whatsapp number please write me sir photo please visit us in actuality I don't want to send that message to you. Come on, sir. okay okay he has to give you a number or a number, there is no problem Aur alok ji yahan se hum this message don't give you a number or write it down, it's possible it is possible to write it legiie taki ap All right, it is up to you whatsapp number to inform the main help team to inform you that you want to send your packet and your new packet to the next one ok and further process to do it please make up a two minute line to pay for it. Main complaint register Tax Office No no no your call two minute hold pay rakha sakta whoa takki complaint register your call two minute sorry Woo I would like to register a complaint Karo Okay, the line is there, sir, or the network call goes out, so call the main one. Thank you G Bataiye Kuch cheese Rahi Hai Boliye Sir hold ac ane ke bad de paenge hold pe apco rakh ke notebook register krenge to hold se ane The network key is easy or cut, it says to me that I call you Write an open number Legia sir one seven fyra sette eight double six That's just the number. one seven four seven eight double six okay it's every team and it's called Karenge apko and unse bat karenge ap o packet de dijiega and apko new packet Milega Grub Keshar ke tour par and us packet se ham that full of trouble sir this is the problem not both Ok Hai A hold pe rakhenge sir or ap permission denge to rakhenge Okay sir it's up please wait Kijie hamare team why ok Make calls to ITC Jitana Jaldi Ho Ske Team Koshish Karenge Aaj nahi aange sir ab to rat ho gai hai na wo call karenge Call it a trend Wo Call Karenge Apko Aap Jab Rahiega Tabi Ok hi call ITC and thank you happy day ",
+    "speaker_b_segments": "Yeh Kah Raha Hoon Mainne Abhi Der Pahle Kiya Hai Aur Ur Sunho Diya Tanvir Naam Bataya Unhone Tanvir Ha Name Mera Naam Alok Hai Caste tax linea Ha Ha Oh Aap Kaun Baat Kar Rahe Ha Ar Baat Kar Rahe How can you cut your phone? THE ACHA ACHA OK HAI SAHAB OKAY HAI KOI BAAT NO HE BAATAO HAME KYA KARNA HAI ISKA three four three four three F.C. fyra tre key Monday June Do Teese Ha Ha Shop Name ITC AAP HAA ISPE ITC LIKHA HUA HAI BHAIYA Apka Naam Kahan ITC Main un shop se lia to wo ye bata rahe hai ITC ka hai Key Shop Ka Naam Manoj Key Shop Se Li Ha ha Bilkul Bilkul Koi Bat Hui Hai Let's all right, I'll do my job, I'll do my job, I'll do my job, I'll do my job. Ha Bilkul Bhejo Hum Log Ghar Pay Hate Hai Apne Ghar Na na jahan pe gli number Wumber bhaiya kuch na was hai ap sidhe bhej diye if this thane walle road pa lives in main man l Matches against police station in Thane Wale road Police Station Hai Bhej Diae Tum Andar Vahi Baat Kar Lange Unse Hum Acchi Tarah Se AAP Police Station Barh Lich Do Aap Proper Address Ho Gaya Mera Hamm Hamm Do not save in whatsapp do not save your page number Bhaiya ap muze whatsapp pa any message Bhej do main usco bhej dung number Contact whatsapp number It goes on whatsapp laptop pa kahana ho wo chale hai Acha Acha He Hum Number Don't Save Kar Pate Hai Bhaiya He gives you a message that we plan on how to get better. possible possible no hai bhaiya main number save this no kar paunga dickat hai please AAP Bayan hold hold pay go stay Hold Pe Kone Kar Rahe Ho Bhaiya Acha Karo Bilkul Hai ha ok hai ok hai ok hai suno hello line pe rahne Hey, son, that's what I said. The voice of Rahi Hai Don't Hold Pay Out Me Curie Pahle Hum Co Complement Number De Dio Main Ke baad are yar ye ye any bat no hui he fir iska meaning cut both of us Oh Bhai to aap haem complaint number, give two help to the rest of us. Ok Hai Aap Hamara Complaint Number Hamco De Dejie Or you don't let it stay, it's like any problem you have to worry about. Ha one seven OK Hai OK Hai repeat OK Hai hold If you have a complaint, you can register the tax you have to pay. OK Hai Kab Tak Aage Main Register Tax Stay Hoon Aaj Main It's good, it's good, it's good. Matlab Aisa Hai Main Isaliye Kah Raha Hoon Abhi Main Go Raha Hoon Bahar To Aap Pata Chale Abhi Bhej Do Phir Abhi Main No Mill Paunga Unko Bat Ji Hai The desire for space OK Hai Saab Ok Hai ",
+    "summary": "Alok is a customer support executive at ITC and is helping Manoj, a customer, with an issue he's facing with one of his products. Alok takes all the necessary details, tries to understand the issue and guides Manoj on the next steps to resolve the issue. Alok stays on the line with Manoj and keeps him updated about the status of his complaint. Alok is patient and makes sure Manoj's issue is resolved. They also have to deal with some network issues in the call, which they are able to work through. In the end, Manoj is satisfied with the support he received and thanks Alok for his help.",
+    "speaker_a_summary": "Alok, a customer service representative, is trying to help Mr Tanvir troubleshoot an issue he's having with one of his products. Alok asks Mr Tanvir a series of questions in order to understand the issue and offer the best solution. Mr Tanvir's issue is eventually resolved, and Alok offers further assistance if needed, ending the conversation with a thank you and goodbye.  Throughout the call, Alok maintains a professional and helpful demeanor, ensuring that all of Mr Tanvir's concerns are addressed with patience and care.  This conversation underscores the importance of excellent customer service, as Alok works to understand the customer's needs and provide solutions with empathy and efficiency.  Ultimately, Mr Tanvir's issue is resolved, and he is satisfied with the outcome of the call.  This highlights the value of effective communication and problem-solving in customer service roles.  This is a transcript of a call between a customer and an employee of ITC.  The employee, Alok, is trying to help the customer, Tanvir, troubleshoot an issue with one of Tanvir's products.  Through a series of questions, Alok is able to identify the problem and provide Tanvir with a solution, offering to replace the product.",
+    "speaker_b_summary": "The recording is a conversation between a shopkeeper and another man, seemingly regarding a phone number and a potential transaction. The man tells the shopkeeper to write down the name 'Tanvir' as his name is 'Alok' and his caste is 'Teli'. The man then inquires about the name of the shop and the shopkeeper tells him it is called 'ITC'. The man tells the shopkeeper to write down his number and to not save it on WhatsApp. The man then tells the shopkeeper that if there is any message, it will be sent on the same number and to not save the number. They then discuss an address and the man tells the shopkeeper to write it down as 'Manoj' and that it is on the same road as the shop. The man then tells the shopkeeper that if there is any problem, he should go to the police station on Thane Wale Road and give the police the proper address. The man then tells the shopkeeper to hold on and not to pay yet.",
+    "cohere_points": "- Call centre conversation between a customer and a customer service agent \n- Mostly centred around the customer trying to get an issue resolved \n- The customer service agent is trying to be helpful but the customer is frustrated\n- Eventually, the customer agrees to send the product back but wants a refund or replacement instead\n- The customer service agent promises to help and instructs the customer how to proceed. \n- The conversation ends on a positive note. \n- This conversation is an example of how a customer can be frustrated by a product or service and how important it is for a customer service agent to remain calm, collected, and helpful in these situations.",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "1. Customer service communication\n2. Complaint registration process\n3. Address verification\n4. Product quality check\n5. Shop name inquiry\n6. Network server issue\n7. Manufacturing date verification\n8. Lost packet replacement\n9. Assistance with WhatsApp\n10. Police station location\n11. Inquiry for packet return\n12. Contact number sharing\n13. Hold line for complaint\n14. Follow-up on complaint\n15. Closing customer call",
+    "Resolution": "The customer issue is not fully resolved as they were unable to register a complaint and obtain a new packet. Further assistance and follow-up are required to address their concerns effectively.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "Yes, the caller displayed empathy in this conversation. They showed empathy by actively listening to the caller's concerns, acknowledging their issues, offering assistance, and ensuring that the caller's problem would be addressed promptly and effectively. The caller also maintained a polite and understanding tone throughout the conversation, demonstrating empathy towards the caller's situation.",
+    "Was there any profanity on the call": "No.",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 139.0040000000003,
+    "num_silences": 114
+}

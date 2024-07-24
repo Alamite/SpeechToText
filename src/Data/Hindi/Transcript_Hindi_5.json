@@ -1,0 +1,990 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0095",
+            "end_time": "0.0583",
+            "original_transcript": "Thank you for calling ITP how may I help you",
+            "translated_transcript": "Thank you for calling ITP how can I help you",
+            "tone": "Neutral",
+            "rate_of_speech": "204.71",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thank",
+                "itp"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0733",
+            "end_time": "0.2118",
+            "original_transcript": "हाँ actually यार अभी मैं किसी से call पे बात ही कर रहा था और disconnect हो गयी है अब मेरे को नाम याद नहीं है इस number से हो सकता है",
+            "translated_transcript": "Ha actually yaar abhi main kissi se call pe bat hi kar ra tha ar a disconnect ho gyi hai ab mere co no namad hai this number se ho sakta hai",
+            "tone": "Neutral",
+            "rate_of_speech": "231.05",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "ha",
+                "yaar abhi",
+                "main kissi se",
+                "pe bat hi kar ra tha ar",
+                "disconnect ho gyi hai ab",
+                "mere co",
+                "namad hai",
+                "number se ho sakta hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.2288",
+            "end_time": "0.2672",
+            "original_transcript": "दो minute line पे बने रहो details check करेंगे",
+            "translated_transcript": "Two minute line Pay Stay details check Karenge",
+            "tone": "Neutral",
+            "rate_of_speech": "208.60",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "minute line",
+                "pay",
+                "details check",
+                "karenge"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.277",
+            "end_time": "0.3658",
+            "original_transcript": "इस number पे ही करा था अभी emergency है details check करेंगे sir दो minute line पे बने रहेंगे ठीक है",
+            "translated_transcript": "Pay this number do this for emergency hai details check karenge sir two minute line pay be rahenge ok hai",
+            "tone": "Neutral",
+            "rate_of_speech": "225.14",
+            "emotion": "amusement",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "pay",
+                "emergency hai details check karenge sir",
+                "minute line pay",
+                "rahenge ok hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.8045",
+            "end_time": "0.8475",
+            "original_transcript": "Sir I'll transfer your call to the same agent sir okay",
+            "translated_transcript": "Sir I'll transfer your call to the same agent sir okay",
+            "tone": "Neutral",
+            "rate_of_speech": "255.91",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "sir",
+                "agent sir okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.8712",
+            "end_time": "0.9285",
+            "original_transcript": "Sorry I will transfer your call to the consult agent sir",
+            "translated_transcript": "Sorry, I will transfer your call to the consultant agent sir",
+            "tone": "Sad",
+            "rate_of_speech": "191.92",
+            "emotion": "remorse",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "sorry",
+                "consultant agent sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.95",
+            "end_time": "1.0603",
+            "original_transcript": "नहीं मेरे को आवाज clear नहीं आ रही बिल्कुल भी sir आपका call उसी agent को transfer करे sir बात करेंगे",
+            "translated_transcript": "No my voice clear no a rhi bilkul bhi sir apka call usi agent co transfer sir bat karenge",
+            "tone": "Neutral",
+            "rate_of_speech": "172.23",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "rhi bilkul bhi sir apka",
+                "usi agent co",
+                "sir bat karenge"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.0702",
+            "end_time": "1.093",
+            "original_transcript": "अच्छा अच्छा",
+            "translated_transcript": "Acha Acha",
+            "tone": "Neutral",
+            "rate_of_speech": "87.53",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "acha acha"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.2542",
+            "end_time": "1.2615",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "136.36",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.283",
+            "end_time": "1.3197",
+            "original_transcript": "हाँ यार अभी actually आपसे बात कर रहा था Good morning",
+            "translated_transcript": "Ha yar abhi actually talk to you Good morning",
+            "tone": "Neutral",
+            "rate_of_speech": "245.45",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ha",
+                "yar abhi",
+                "good morning"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.3197",
+            "end_time": "1.3398",
+            "original_transcript": "sir मैं खंद बात कर रहा",
+            "translated_transcript": "Sir Main Khand Baat Kar Raha",
+            "tone": "Neutral",
+            "rate_of_speech": "297.77",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "sir",
+                "khand baat kar raha"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.3398",
+            "end_time": "1.341",
+            "original_transcript": "हूँ",
+            "translated_transcript": "Hoo",
+            "tone": "Neutral",
+            "rate_of_speech": "857.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hoo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.355",
+            "end_time": "1.4348",
+            "original_transcript": "sir मैं आपको call back किया था लेकिन कुछ से connect नहीं हुआ प्रभुवन sir से बात हो रही है ना",
+            "translated_transcript": "sir main apko call back kiya tha but kuch se connect no hua prabhuvan sir se bat ho rahi hai na",
+            "tone": "Neutral",
+            "rate_of_speech": "263.10",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "main apko",
+                "kiya tha",
+                "kuch se",
+                "hua prabhuvan sir se bat ho rahi hai na"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.45",
+            "end_time": "1.4627",
+            "original_transcript": "हाँ जी",
+            "translated_transcript": "Ha Ji",
+            "tone": "Neutral",
+            "rate_of_speech": "157.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ha ji"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.4627",
+            "end_time": "1.5095",
+            "original_transcript": "sir आपका जो complaint register हो चूका है complaint number note कर लीजिए",
+            "translated_transcript": "sir your complaint register is wrong complaint number note tax law",
+            "tone": "Neutral",
+            "rate_of_speech": "234.96",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "complaint register",
+                "wrong complaint number note tax law"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.5296",
+            "end_time": "1.5633",
+            "original_transcript": "Complaint number एक minute",
+            "translated_transcript": "Complaint number one minute",
+            "tone": "Neutral",
+            "rate_of_speech": "118.75",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "complaint"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.5877",
+            "end_time": "1.6065",
+            "original_transcript": "हम्म",
+            "translated_transcript": "Hamm",
+            "tone": "Neutral",
+            "rate_of_speech": "53.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hamm"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.7485",
+            "end_time": "1.7588",
+            "original_transcript": "बोलिए",
+            "translated_transcript": "Boliye",
+            "tone": "Neutral",
+            "rate_of_speech": "96.93",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "boliye"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.7588",
+            "end_time": "1.7968",
+            "original_transcript": "जी note कीजिए one seven six",
+            "translated_transcript": "G note keyJie one seven six",
+            "tone": "Neutral",
+            "rate_of_speech": "157.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "note keyjie"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.8202",
+            "end_time": "1.846",
+            "original_transcript": "One seven six",
+            "translated_transcript": "One seven six",
+            "tone": "Neutral",
+            "rate_of_speech": "116.05",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.8522",
+            "end_time": "1.8657",
+            "original_transcript": "zero seven",
+            "translated_transcript": "zero seven",
+            "tone": "Neutral",
+            "rate_of_speech": "147.97",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.8842",
+            "end_time": "1.9002",
+            "original_transcript": "zero seven",
+            "translated_transcript": "zero seven",
+            "tone": "Neutral",
+            "rate_of_speech": "125.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.9002",
+            "end_time": "1.914",
+            "original_transcript": "double nine",
+            "translated_transcript": "double nine",
+            "tone": "Neutral",
+            "rate_of_speech": "144.75",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.934",
+            "end_time": "1.942",
+            "original_transcript": "double nine",
+            "translated_transcript": "double nine",
+            "tone": "Neutral",
+            "rate_of_speech": "250.52",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.9511",
+            "end_time": "1.952",
+            "original_transcript": "जो है",
+            "translated_transcript": "Jo Hai",
+            "tone": "Neutral",
+            "rate_of_speech": "2352.94",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "jo hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.9587",
+            "end_time": "2.0147",
+            "original_transcript": "repeat कर रहा हूँ one one seven six zero seven double",
+            "translated_transcript": "repeat stay up one one one seven six zero seven double",
+            "tone": "Neutral",
+            "rate_of_speech": "196.43",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "repeat stay"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.0147",
+            "end_time": "2.0953",
+            "original_transcript": "nine जी सही है sir ये जो है आपका complaint number है ठीक है whatsapp number note कीजिए",
+            "translated_transcript": "nine ji sahi hai sir jo hai apka complaint number hi ok hai whatsapp number note keyjie",
+            "tone": "Neutral",
+            "rate_of_speech": "210.70",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ji sahi hai sir jo hai apka complaint number hi ok hai whatsapp number note keyjie"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.137",
+            "end_time": "2.1727",
+            "original_transcript": "number",
+            "translated_transcript": "nummer",
+            "tone": "Neutral",
+            "rate_of_speech": "28.04",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.19",
+            "end_time": "2.2",
+            "original_transcript": "हं",
+            "translated_transcript": "Ha",
+            "tone": "Neutral",
+            "rate_of_speech": "99.83",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ha"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.22",
+            "end_time": "2.3083",
+            "original_transcript": "जी आपका जो whatsapp मतलब company का जो whatsapp number है nine six zero six",
+            "translated_transcript": "What does your whatsapp mean company do whatsapp number nine six zero six",
+            "tone": "Sad",
+            "rate_of_speech": "147.14",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "whatsapp number"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.3242",
+            "end_time": "2.3495",
+            "original_transcript": "nine six zero",
+            "translated_transcript": "nine six zero",
+            "tone": "Neutral",
+            "rate_of_speech": "118.34",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.3495",
+            "end_time": "2.3747",
+            "original_transcript": "six double nine six",
+            "translated_transcript": "six double nine six",
+            "tone": "Neutral",
+            "rate_of_speech": "159.05",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.3902",
+            "end_time": "2.4155",
+            "original_transcript": "double nine",
+            "translated_transcript": "double nine",
+            "tone": "Neutral",
+            "rate_of_speech": "79.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.4155",
+            "end_time": "2.4412",
+            "original_transcript": "six double nine zero",
+            "translated_transcript": "six double nine zero",
+            "tone": "Neutral",
+            "rate_of_speech": "155.74",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.4842",
+            "end_time": "2.5697",
+            "original_transcript": "double nine zero I am repeating nine six zero",
+            "translated_transcript": "double nine zero I am repeating nine six zero",
+            "tone": "Neutral",
+            "rate_of_speech": "105.28",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.5837",
+            "end_time": "2.6078",
+            "original_transcript": "six double nine का",
+            "translated_transcript": "why six double nine",
+            "tone": "Neutral",
+            "rate_of_speech": "165.52",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.624",
+            "end_time": "2.6467",
+            "original_transcript": "six double nine zero जी",
+            "translated_transcript": "six double nine zero G",
+            "tone": "Neutral",
+            "rate_of_speech": "220.59",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.6467",
+            "end_time": "2.6755",
+            "original_transcript": "सही बात है sir ये जो है",
+            "translated_transcript": "Sahi Baat Hai Sir Ye Jo Hai",
+            "tone": "Neutral",
+            "rate_of_speech": "242.91",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sahi baat hai sir ye jo hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.6967",
+            "end_time": "2.712",
+            "original_transcript": "six double nine double",
+            "translated_transcript": "six double nine double",
+            "tone": "Neutral",
+            "rate_of_speech": "260.87",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.728",
+            "end_time": "2.809",
+            "original_transcript": "six double nine six double nine zero nine six zero six double nine six double nine zero सही है ना",
+            "translated_transcript": "six double nine six double nine zero nine six zero six double nine six double nine zero signature hai na",
+            "tone": "Neutral",
+            "rate_of_speech": "246.91",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "zero signature hai na"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.818",
+            "end_time": "2.8188",
+            "original_transcript": "ये जो है",
+            "translated_transcript": "Yeh Jo Hai",
+            "tone": "Neutral",
+            "rate_of_speech": "3600.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "yeh jo hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.8533",
+            "end_time": "3.0828",
+            "original_transcript": "whatsapp number save करके आप complaint number mention कीजिये उसके बाद जो है अगर का photo है आटे में वो भी photo आप भेज सकते हो और साथ ही साथ जो है आटा का front and back photo आपको भेजना sir ठीक है दस KG में आटा जो भी कितना बचा हुआ है अभी",
+            "translated_transcript": "whatsapp number save your complaint number mention if you want to go to the front and back photo if you want it to be a photo you can see if you can see it in front and back photo in front and back photo you are not afraid. Na Bacha Hua Hai Abhi",
+            "tone": "Neutral",
+            "rate_of_speech": "230.92",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "whatsapp number",
+                "complaint number",
+                "na bacha hua hai abhi"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.1473",
+            "end_time": "3.1493",
+            "original_transcript": "पूरा बचा हुआ",
+            "translated_transcript": "Pura Bacha Hua",
+            "tone": "Neutral",
+            "rate_of_speech": "1487.60",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pura bacha hua"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.1493",
+            "end_time": "3.1668",
+            "original_transcript": "है ना तो पूरा कहां डाल दिया है sir",
+            "translated_transcript": "Hai na to pura kahan dal dia hai sir",
+            "tone": "Neutral",
+            "rate_of_speech": "514.78",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hai",
+                "pura kahan dal dia hai sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.1823",
+            "end_time": "3.197",
+            "original_transcript": "मतलब पूरा बचा हुआ",
+            "translated_transcript": "Matlab Pura Bacha Hua",
+            "tone": "Neutral",
+            "rate_of_speech": "272.73",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "matlab pura bacha hua"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.197",
+            "end_time": "3.1987",
+            "original_transcript": "है बचा हुआ है बचा हुआ है",
+            "translated_transcript": "Hai Bcha Hua Hai Bcha Hua Hai",
+            "tone": "Neutral",
+            "rate_of_speech": "4242.42",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hai bcha hua hai bcha hua hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.279",
+            "end_time": "3.491",
+            "original_transcript": "जी जी वो जो complaint sample है ना हमारे agent को handover कर दीजिए as a company goodwill के product replace करवा दिया जाएगा हम लोग check करेंगे sir क्यों ऐसा issue है तो इसीलिए sir आपके पास जो pack है ना वो handover करना ठीक है",
+            "translated_transcript": "Gee ji wo jo complaint sample hai na hamare agent co handover kar dijia as a company goodwill ke product replace the product should be replaced by a human log check.",
+            "tone": "Neutral",
+            "rate_of_speech": "146.23",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "gee",
+                "ji wo jo complaint sample hai na hamare agent co handover kar dijia",
+                "company goodwill ke product",
+                "human log check"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.4987",
+            "end_time": "3.508",
+            "original_transcript": "नहीं वो",
+            "translated_transcript": "No Woo",
+            "tone": "Neutral",
+            "rate_of_speech": "214.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "woo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.5287",
+            "end_time": "3.566",
+            "original_transcript": "हमारे agent contact करेंगे आपको जो address आपने बताया है",
+            "translated_transcript": "Any agent contact you can specify the address you have",
+            "tone": "Neutral",
+            "rate_of_speech": "267.86",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "agent contact"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.566",
+            "end_time": "3.5707",
+            "original_transcript": "ना",
+            "translated_transcript": "Na",
+            "tone": "Neutral",
+            "rate_of_speech": "214.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "na"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.6513",
+            "end_time": "3.654",
+            "original_transcript": "ठीक है ठीक है",
+            "translated_transcript": "Okay, okay, okay.",
+            "tone": "Neutral",
+            "rate_of_speech": "1125.00",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.6881",
+            "end_time": "3.6932",
+            "original_transcript": "जो भी address आपने बताया है वहां पर हमारे agent आएंगे ठीक",
+            "translated_transcript": "If you have an address, please contact each agent.",
+            "tone": "Neutral",
+            "rate_of_speech": "1800.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.6932",
+            "end_time": "3.763",
+            "original_transcript": "है nearby agent रहते है ना उन लोग आपको contact करेंगे contact करने के बाद product replace",
+            "translated_transcript": "If the nearby agent stays there is no log of your contact by contacting and removing the product replace",
+            "tone": "Neutral",
+            "rate_of_speech": "272.08",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "nearby agent stays"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.7631",
+            "end_time": "4.0277",
+            "original_transcript": "करवा दिया जाएगा आप use करके feedback share कीजिये sir ठीक है तो हम लोग investigate करेंगे sir की आटा sensitive है मतलब वो जो है ना sensitive issue है तो हम लोग definitely जो है complaint raise करके team को inform करेंगे team जो है investigate करेंगे sir तो आपको photos भेजना sir ठीक है",
+            "translated_transcript": "Do the place where you use feedback share keys sir ok hi he hum log investigates sir ki ata sensitive hai means wo jo hai na sensitive issue hai to hum log definitely who raise complaints team who inform team who investigate karege sir he is raising complaints to the team who are investigating them. Bhejana sir ok hai",
+            "tone": "Happy",
+            "rate_of_speech": "223.05",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "feedback share keys sir ok hi",
+                "hum log investigates sir ki ata",
+                "sensitive hai",
+                "wo jo hai na",
+                "sensitive issue hai",
+                "hum log",
+                "complaints team",
+                "karege sir",
+                "bhejana",
+                "sir ok hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.0385",
+            "end_time": "4.2537",
+            "original_transcript": "वो एक आटे का pack है ना वो हमारे agent को दे दीजिए as a company आपको product replace करवा दिया जाएगा sir एक और बात पूछना था आपको ये जो pack आपने कहां से खरीदे थे local store से खरीदे थे या online से मंगवाए थे sir",
+            "translated_transcript": "Wo a ate ka pack hai na wo hamare agent co de dizie as a company replace your product in your place sir an aur bat pochana tha apko come what pack you say buy the local store se kharide the online se mangwae the sir",
+            "tone": "Neutral",
+            "rate_of_speech": "213.77",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "wo",
+                "ate ka pack hai na wo hamare agent co",
+                "place sir",
+                "aur bat pochana tha apko",
+                "local store se kharide",
+                "online se mangwae"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.2688",
+            "end_time": "4.3085",
+            "original_transcript": "local store ही है हमारे पास",
+            "translated_transcript": "local store hi hai hamare pas",
+            "tone": "Neutral",
+            "rate_of_speech": "151.26",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "local store hi hai hamare pas"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.3288",
+            "end_time": "4.3488",
+            "original_transcript": "ठीक है sir आप",
+            "translated_transcript": "All right, sir.",
+            "tone": "Happy",
+            "rate_of_speech": "150.13",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.3488",
+            "end_time": "4.3643",
+            "original_transcript": "नाम बताना है",
+            "translated_transcript": "Naam Batana Hai",
+            "tone": "Neutral",
+            "rate_of_speech": "193.55",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "naam batana hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.3643",
+            "end_time": "4.4375",
+            "original_transcript": "उसका कोई बात नहीं अगर आपको पता है तो बता दीजिए नहीं तो यहाँ पे मैं local store करके update करूंगा",
+            "translated_transcript": "If you don't know what to do or if your address is there, you can update it by making a local store",
+            "tone": "Neutral",
+            "rate_of_speech": "300.61",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "local store"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.4546",
+            "end_time": "4.5213",
+            "original_transcript": "हाँ वही मेरे को नाम तो नहीं पता but local story करके ही कुछ था",
+            "translated_transcript": "Ha wahi mere ko nam to no address but do local story make hi quch tha",
+            "tone": "Neutral",
+            "rate_of_speech": "240.00",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "ha",
+                "mere ko nam",
+                "local story",
+                "hi quch tha"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.5253",
+            "end_time": "4.5383",
+            "original_transcript": "कोई बात नहीं sir",
+            "translated_transcript": "Don't worry, sir.",
+            "tone": "Neutral",
+            "rate_of_speech": "230.77",
+            "emotion": "caring",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.5475",
+            "end_time": "4.5966",
+            "original_transcript": "ठीक है sir आप आप जल्द से जल्द photos भेज दीजिए sir",
+            "translated_transcript": "Ok Hai sir Aap Aap Saad Se Velde Photos Bhej Dijie sir",
+            "tone": "Neutral",
+            "rate_of_speech": "244.15",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok hai",
+                "aap aap saad se velde photos bhej dijie"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.6067",
+            "end_time": "4.6358",
+            "original_transcript": "ठीक है ठीक है whatsapp कर देता हूँ",
+            "translated_transcript": "Ok, ok, ok, whatsapp, whoa",
+            "tone": "Neutral",
+            "rate_of_speech": "171.43",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.6387",
+            "end_time": "4.7145",
+            "original_transcript": "हम लोग investigate करेंगे ठीक है उसके अलावा आपकी सहायता कर सकता हूँ भुवन sir",
+            "translated_transcript": "Hum log investigate karenge ok hai uske alava apaki aiuta kar sakta hoon bhuvan sir",
+            "tone": "Neutral",
+            "rate_of_speech": "197.85",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "hum",
+                "karenge ok hai uske alava apaki aiuta kar sakta hoon bhuvan sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.7431",
+            "end_time": "4.8003",
+            "original_transcript": "इसके अलावा कुछ या कोई भी सहायता नहीं thank",
+            "translated_transcript": "Iske Alawa Kuchh Ya Bhi Bhi no help thank",
+            "tone": "Neutral",
+            "rate_of_speech": "157.43",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "iske alawa kuchh ya bhi bhi"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.8012",
+            "end_time": "4.8262",
+            "original_transcript": "you thank you जी",
+            "translated_transcript": "you thank you G",
+            "tone": "Neutral",
+            "rate_of_speech": "160.00",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.8325",
+            "end_time": "4.8898",
+            "original_transcript": "जी बहुत धन्यवाद sir ID इस company पर call करने के लिए आपका दिन शुभ",
+            "translated_transcript": "Thank you very much sir ID for calling this company and happy your day",
+            "tone": "Happy",
+            "rate_of_speech": "244.19",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "thank",
+                "id"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.8898",
+            "end_time": "4.897",
+            "original_transcript": "हो",
+            "translated_transcript": "Yes",
+            "tone": "Neutral",
+            "rate_of_speech": "139.53",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        }
+    ],
+    "translated_segments": "Thank you for calling ITP how can I help you Ha actually yaar abhi main kissi se call pe bat hi kar ra tha ar a disconnect ho gyi hai ab mere co no namad hai this number se ho sakta hai Two minute line Pay Stay details check Karenge Pay this number do this for emergency hai details check karenge sir two minute line pay be rahenge ok hai Sir I'll transfer your call to the same agent sir okay Sorry, I will transfer your call to the consultant agent sir No my voice clear no a rhi bilkul bhi sir apka call usi agent co transfer sir bat karenge Acha Acha Hallo Ha yar abhi actually talk to you Good morning Sir Main Khand Baat Kar Raha Hoo sir main apko call back kiya tha but kuch se connect no hua prabhuvan sir se bat ho rahi hai na Ha Ji sir your complaint register is wrong complaint number note tax law Complaint number one minute Hamm Boliye G note keyJie one seven six One seven six zero seven zero seven double nine double nine Jo Hai repeat stay up one one one seven six zero seven double nine ji sahi hai sir jo hai apka complaint number hi ok hai whatsapp number note keyjie nummer Ha What does your whatsapp mean company do whatsapp number nine six zero six nine six zero six double nine six double nine six double nine zero double nine zero I am repeating nine six zero why six double nine six double nine zero G Sahi Baat Hai Sir Ye Jo Hai six double nine double six double nine six double nine zero nine six zero six double nine six double nine zero signature hai na Yeh Jo Hai whatsapp number save your complaint number mention if you want to go to the front and back photo if you want it to be a photo you can see if you can see it in front and back photo in front and back photo you are not afraid. Na Bacha Hua Hai Abhi Pura Bacha Hua Hai na to pura kahan dal dia hai sir Matlab Pura Bacha Hua Hai Bcha Hua Hai Bcha Hua Hai Gee ji wo jo complaint sample hai na hamare agent co handover kar dijia as a company goodwill ke product replace the product should be replaced by a human log check. No Woo Any agent contact you can specify the address you have Na Okay, okay, okay. If you have an address, please contact each agent. If the nearby agent stays there is no log of your contact by contacting and removing the product replace Do the place where you use feedback share keys sir ok hi he hum log investigates sir ki ata sensitive hai means wo jo hai na sensitive issue hai to hum log definitely who raise complaints team who inform team who investigate karege sir he is raising complaints to the team who are investigating them. Bhejana sir ok hai Wo a ate ka pack hai na wo hamare agent co de dizie as a company replace your product in your place sir an aur bat pochana tha apko come what pack you say buy the local store se kharide the online se mangwae the sir local store hi hai hamare pas All right, sir. Naam Batana Hai If you don't know what to do or if your address is there, you can update it by making a local store Ha wahi mere ko nam to no address but do local story make hi quch tha Don't worry, sir. Ok Hai sir Aap Aap Saad Se Velde Photos Bhej Dijie sir Ok, ok, ok, whatsapp, whoa Hum log investigate karenge ok hai uske alava apaki aiuta kar sakta hoon bhuvan sir Iske Alawa Kuchh Ya Bhi Bhi no help thank you thank you G Thank you very much sir ID for calling this company and happy your day Yes ",
+    "speaker_a_segments": "Thank you for calling ITP how can I help you Ha actually yaar abhi main kissi se call pe bat hi kar ra tha ar a disconnect ho gyi hai ab mere co no namad hai this number se ho sakta hai Two minute line Pay Stay details check Karenge Pay this number do this for emergency hai details check karenge sir two minute line pay be rahenge ok hai Sir I'll transfer your call to the same agent sir okay Sorry, I will transfer your call to the consultant agent sir No my voice clear no a rhi bilkul bhi sir apka call usi agent co transfer sir bat karenge Acha Acha Hallo Ha yar abhi actually talk to you Good morning Hoo Ha Ji Complaint number one minute Hamm Boliye One seven six zero seven double nine repeat stay up one one one seven six zero seven double Ha nine six zero double nine double nine zero I am repeating nine six zero why six double nine six double nine zero G six double nine double Yeh Jo Hai Pura Bacha Hua Hai Bcha Hua Hai Bcha Hua Hai No Woo Na If you have an address, please contact each agent. local store hi hai hamare pas Naam Batana Hai Ha wahi mere ko nam to no address but do local story make hi quch tha Ok, ok, ok, whatsapp, whoa you thank you G Yes ",
+    "speaker_b_segments": "Sir Main Khand Baat Kar Raha sir main apko call back kiya tha but kuch se connect no hua prabhuvan sir se bat ho rahi hai na sir your complaint register is wrong complaint number note tax law G note keyJie one seven six zero seven double nine Jo Hai nine ji sahi hai sir jo hai apka complaint number hi ok hai whatsapp number note keyjie nummer What does your whatsapp mean company do whatsapp number nine six zero six six double nine six six double nine zero Sahi Baat Hai Sir Ye Jo Hai six double nine six double nine zero nine six zero six double nine six double nine zero signature hai na whatsapp number save your complaint number mention if you want to go to the front and back photo if you want it to be a photo you can see if you can see it in front and back photo in front and back photo you are not afraid. Na Bacha Hua Hai Abhi Hai na to pura kahan dal dia hai sir Matlab Pura Bacha Hua Gee ji wo jo complaint sample hai na hamare agent co handover kar dijia as a company goodwill ke product replace the product should be replaced by a human log check. Any agent contact you can specify the address you have Okay, okay, okay. If the nearby agent stays there is no log of your contact by contacting and removing the product replace Do the place where you use feedback share keys sir ok hi he hum log investigates sir ki ata sensitive hai means wo jo hai na sensitive issue hai to hum log definitely who raise complaints team who inform team who investigate karege sir he is raising complaints to the team who are investigating them. Bhejana sir ok hai Wo a ate ka pack hai na wo hamare agent co de dizie as a company replace your product in your place sir an aur bat pochana tha apko come what pack you say buy the local store se kharide the online se mangwae the sir All right, sir. If you don't know what to do or if your address is there, you can update it by making a local store Don't worry, sir. Ok Hai sir Aap Aap Saad Se Velde Photos Bhej Dijie sir Hum log investigate karenge ok hai uske alava apaki aiuta kar sakta hoon bhuvan sir Iske Alawa Kuchh Ya Bhi Bhi no help thank Thank you very much sir ID for calling this company and happy your day ",
+    "summary": "The customer whose call was disconnected is having issues with their number and would like to know if their number can be reactivated. They also would like details on their two-minute line pay. The agent transfers the customer to the consultant agent; the customer is put on hold several times. The customer provides their complaint number and whatsapp number to the agent. It is determined that the customer's complaint number is incorrect, so they are asked to provide the correct one; they are also asked for photos. The customer is informed that they will be helped by the investigating team and can provide their address to be contacted by an agent.",
+    "speaker_a_summary": "The customer was disconnected from their original call and now has a new number. They are trying to find their old number and retrieve their old account under a different number. The customer repeatedly gives out their new number and the agent repeats the new number back. The customer also gives a complaint number and then gives a different number again. The customer is also asked for an address and they don't have one, only a local store. The customer will be contacted via WhatsApp.",
+    "speaker_b_summary": "The caller was trying to resolve an issue with a product's packaging and wanted to check the status of their complaint. The agent confirmed the correct complaint number and asked if they could assist over WhatsApp. The caller then provided a WhatsApp number, which the agent confirmed as correct. The agent offered to send a return shipping label to the caller and requested a nearby address to do so, as the agent will send the label through mail. The caller then provided an address and the agent acknowledged the location, assuring the caller that the issue would be resolved at their place. The agent then asked if the caller had any further queries or concerns.",
+    "cohere_points": "- Customer wants to check the pay and stay details of their number and wants to register a complaint.\n- Agent is unable to provide details but assures the customer that the complaint will be registered. \n- Customer is satisfied and grateful for the assistance. \n- Call ends with customer thanking the agent and the company. \n- Agent asks the customer to reach out if there are any further issues and provides the company's whatsapp number as a contact method.",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "1. Customer call concerns\n2. Complaint registration process\n3. WhatsApp number verification\n4. Product replacement procedure\n5. Agent contact details\n6. Sensitive issue handling\n7. Investigation team involvement\n8. Local store purchase\n9. Address update process\n10. Sending product photos\n11. Feedback sharing\n12. Consultant agent transfer\n13. Emergency assistance\n14. Company goodwill\n15. Happy customer service",
+    "Resolution": "The customer's issue is not yet resolved as they are still discussing the complaint registration, product replacement, and address details.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "Yes, the caller displayed empathy in the following sentences:\n\n1. \"No my voice clear no a rhi bilkul bhi sir apka call usi agent co transfer sir bat karenge\" - The caller acknowledges the technical difficulty and assures the customer that their call will be transferred to the same agent for continuity.\n\n2. \"Na Bacha Hua Hai Abhi Pura Bacha Hua Hai na to pura kahan dal dia hai sir\" - The caller tries to clarify",
+    "Was there any profanity on the call": "No",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 1652.7740000000006,
+    "num_silences": 52
+}

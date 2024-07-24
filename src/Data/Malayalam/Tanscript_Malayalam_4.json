@@ -1,0 +1,1122 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0207",
+            "end_time": "0.0592",
+            "original_transcript": "സഫക്കങ്ങാറ്റ്ഷി ഇസ് റോയി ചിരമൽഫ്യൂ",
+            "translated_transcript": "Safakangatshi Is Roy Chiramalfu",
+            "tone": "Neutral",
+            "rate_of_speech": "103.94",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "safakangatshi",
+                "roy chiramalfu"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.0698",
+            "end_time": "0.0822",
+            "original_transcript": "ഹലോ",
+            "translated_transcript": "Hello.",
+            "tone": "Neutral",
+            "rate_of_speech": "81.19",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0892",
+            "end_time": "0.0992",
+            "original_transcript": "ഹലോ",
+            "translated_transcript": "Hello.",
+            "tone": "Neutral",
+            "rate_of_speech": "100.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.119",
+            "end_time": "0.2098",
+            "original_transcript": "തിരുവല്ല ആനന്ദ് സ്റ്റോർ സിനൊളിക്കാണ് തിരുവല്ല പത്തനംതിട്ട ഡിസ്ട്രിക്ട് ആനന്ദ് സ്റ്റോഴ്സ്",
+            "translated_transcript": "Thiruvalla Anand Store Sinolic Thiruvalla Pathanamthitta District Anand Store",
+            "tone": "Neutral",
+            "rate_of_speech": "99.06",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thiruvalla anand store sinolic thiruvalla pathanamthitta",
+                "anand store"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.2305",
+            "end_time": "0.2525",
+            "original_transcript": "സർവ്വക കോംഫർട്ടബിൾ മലയാളം",
+            "translated_transcript": "Universal Comfortable Malayalam",
+            "tone": "Neutral",
+            "rate_of_speech": "136.36",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "universal",
+                "malayalam"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.2701",
+            "end_time": "0.2991",
+            "original_transcript": "മലയാളം മലയാളം സെവയ്ക്ക്",
+            "translated_transcript": "Malayalam Malayalam Sevak",
+            "tone": "Neutral",
+            "rate_of_speech": "103.45",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "malayalam malayalam sevak"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.3106",
+            "end_time": "0.3332",
+            "original_transcript": "പീസ്റ്റ് ടർ റോൾ",
+            "translated_transcript": "Peat Tar Roll",
+            "tone": "Neutral",
+            "rate_of_speech": "133.23",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "peat tar roll"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.442",
+            "end_time": "0.4473",
+            "original_transcript": "എ",
+            "translated_transcript": "A",
+            "tone": "Neutral",
+            "rate_of_speech": "187.50",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.7165",
+            "end_time": "0.788",
+            "original_transcript": "നമസ്കാരം എന്റെ പേര് പ്രദീനാണ് ഞാന ടിസിനാണെന്ന് പറഞ്ഞോളിൽ",
+            "translated_transcript": "Namaskara when I said that my name is Pradeen and I am Tsin",
+            "tone": "Neutral",
+            "rate_of_speech": "181.86",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "namaskara",
+                "pradeen",
+                "tsin"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.8033",
+            "end_time": "0.8093",
+            "original_transcript": "രണ്ട്",
+            "translated_transcript": "two",
+            "tone": "Neutral",
+            "rate_of_speech": "166.67",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.8093",
+            "end_time": "0.8871",
+            "original_transcript": "പേർ ആനന്ദ് തിരുവല്ല ആനന്ദ് സ്റ്റോഴ്സ് തിരുവല്ല ആനന്ദ് സ്റ്റോഴ്സ്",
+            "translated_transcript": "Name Anand Thiruvalla Anand Store Thiruvalla Anand Store",
+            "tone": "Neutral",
+            "rate_of_speech": "102.81",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "name anand thiruvalla anand store thiruvalla anand store"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.8966",
+            "end_time": "0.8995",
+            "original_transcript": "പത്മ",
+            "translated_transcript": "Padma",
+            "tone": "Neutral",
+            "rate_of_speech": "350.88",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "padma"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.9313",
+            "end_time": "1.0121",
+            "original_transcript": "നമ്മളുടെ ആശീർവാദ ചപ്പാത്തി വച്ചുകൊണ്ടിരുന്നാണ് ഒരു മാസ പാട്ട് വയ്ക്കുന്നില്ല",
+            "translated_transcript": "Our arrogant chapati has not sung for a month",
+            "tone": "Neutral",
+            "rate_of_speech": "111.36",
+            "emotion": "disappointment",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "arrogant chapati"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.0307",
+            "end_time": "1.0412",
+            "original_transcript": "എന്താണ് എന്താണ് ഇഷ്യു",
+            "translated_transcript": "What is issued",
+            "tone": "Neutral",
+            "rate_of_speech": "285.71",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.0613",
+            "end_time": "1.1592",
+            "original_transcript": "അല്ല വേറൊന്ന് ഇഷ്യു വന്നതില്ല അവര് സപ്ലൈ ചെയ്യുന്നില്ല എന്താന്ന് അന്വേഷിച്ച എന്താന്നെന്ന് അന്വേഷിക്കാവുന്ന അറിയാനാകും",
+            "translated_transcript": "No one else has not issued what they do not supply and what they are looking for will know what they are looking for",
+            "tone": "Neutral",
+            "rate_of_speech": "245.32",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.1678",
+            "end_time": "1.1793",
+            "original_transcript": "അവർ സപ്ലൈ",
+            "translated_transcript": "They Supply",
+            "tone": "Neutral",
+            "rate_of_speech": "173.66",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.2365",
+            "end_time": "1.3428",
+            "original_transcript": "നമുക്ക് ഒരു മാസംവിടെ തരുന്ന എല്ലാ ആഴ്ച സപ്ലൈതുകണ്ടിരുന്ന പത്ത ഇതായിരുന്നു എടുത്തുകൊണ്ടിരുന്ന",
+            "translated_transcript": "This was the ten that we were supplied with every week that we were given a month",
+            "tone": "Neutral",
+            "rate_of_speech": "159.90",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.375",
+            "end_time": "1.3813",
+            "original_transcript": "പേമെന്റ് ഒരു",
+            "translated_transcript": "Payment One",
+            "tone": "Neutral",
+            "rate_of_speech": "316.62",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "payment"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.4125",
+            "end_time": "1.4192",
+            "original_transcript": "പേമെന്റ് ഒന്ന് ഒരു",
+            "translated_transcript": "Payment One One",
+            "tone": "Neutral",
+            "rate_of_speech": "450.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "payment"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.4372",
+            "end_time": "1.4478",
+            "original_transcript": "ഇഷ്യു",
+            "translated_transcript": "Issuing",
+            "tone": "Neutral",
+            "rate_of_speech": "93.75",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "issuing"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.4478",
+            "end_time": "1.5507",
+            "original_transcript": "ഒന്നുമല്ല നെല്ലേണ്ട",
+            "translated_transcript": "Don't worry about anything.",
+            "tone": "Neutral",
+            "rate_of_speech": "38.90",
+            "emotion": "caring",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.5587",
+            "end_time": "1.74",
+            "original_transcript": "നിലവിൽ സാധനങ്ങനെ ഫേസ് ക്ഷമിക്കണം ഞാൻ കാര്യം ചെയ്താം ഞാൻ സെൽസ്മെന്റെ അഗെയിൻസ്റ്റ് ഒരു കംപ്ലെയിന്റ് വിടുതെടുത്ത് തന്റെ ടീമിലേക്ക് അയയ്ക്കാം അപ്പന്റെ ടീമിന്റെ ഭാഗത്തിനായി സാധനായിച്ചേരും അവര് ഹെൽപ്പും",
+            "translated_transcript": "Currently the inventory face sorry if I do the thing I can leave a complacent of the salesman's against and send it to his team to stock up for the part of dad's team and they will help",
+            "tone": "Sad",
+            "rate_of_speech": "209.54",
+            "emotion": "remorse",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "currently",
+                "salesman 's",
+                "dad 's team"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.8267",
+            "end_time": "1.8315",
+            "original_transcript": "കാനാണ് അവരെ വിളിച്ച ഉണ്ടായ വിളിച്ച്",
+            "translated_transcript": "Calling those who have asked for them.",
+            "tone": "Neutral",
+            "rate_of_speech": "1448.28",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.882",
+            "end_time": "1.9997",
+            "original_transcript": "ഞാൻ ഒരു കംപ്ലയിന്റ് എടുക്കാം കംപ്ലെയിന്റ് എടുത്ത് ടീമിലേക്ക് അയയ്ക്കാം എന്മേറ്റോ ഈ സെയിൽസ്മെൻ എപ്പത്തൊട്ട് വേരനില്ല സന്ന കടയിൽ",
+            "translated_transcript": "I CAN TAKE A COMPLIANT AND TAKE THE COMPLIANT AND SEND IT TO THE TEAM ENMETO HOW THESE SALESMEN ARE NOT ROOTED IN THE SANNA SHOP",
+            "tone": "Neutral",
+            "rate_of_speech": "220.93",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "can take",
+                "compliant and take the compliant and send it to the team enmeto how these salesmen are not rooted in the sanna shop"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.0143",
+            "end_time": "2.04",
+            "original_transcript": "ഒരു മാസാട്ട് വരുന്നില്ല",
+            "translated_transcript": "Not coming for a month.",
+            "tone": "Neutral",
+            "rate_of_speech": "194.81",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.0497",
+            "end_time": "2.0598",
+            "original_transcript": "ഒരു മാസ",
+            "translated_transcript": "One month",
+            "tone": "Neutral",
+            "rate_of_speech": "197.04",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.083",
+            "end_time": "2.143",
+            "original_transcript": "ഞാൻ ലാസ്റ്റ് വീഴ തന്നേക്കുന്നത് പന്ത്രണ്ട് എട്ടിത്താണ്",
+            "translated_transcript": "I give the last fall is twelve and eight",
+            "tone": "Neutral",
+            "rate_of_speech": "150.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.1545",
+            "end_time": "2.1743",
+            "original_transcript": "പന്ത്രണ്ട് എട്ടിന്",
+            "translated_transcript": "Twelve eight",
+            "tone": "Neutral",
+            "rate_of_speech": "100.84",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.1863",
+            "end_time": "2.2052",
+            "original_transcript": "സപ്ലൈകോ",
+            "translated_transcript": "Suplaico",
+            "tone": "Neutral",
+            "rate_of_speech": "53.10",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "suplaico"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.2138",
+            "end_time": "2.242",
+            "original_transcript": "ഇരുപത് ദിവസം",
+            "translated_transcript": "Twenty days",
+            "tone": "Neutral",
+            "rate_of_speech": "71.01",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "twenty"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.2565",
+            "end_time": "2.3118",
+            "original_transcript": "ഇരുപത് ദിവസായി സാർ കോൺടാക്ട് ചെയ്യാൻ നോക്കിയായിരുന്നു അവർ",
+            "translated_transcript": "They had been looking to contact the sir for twenty days",
+            "tone": "Neutral",
+            "rate_of_speech": "198.74",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.3233",
+            "end_time": "2.5118",
+            "original_transcript": "കോണ്ടാക്ട് നോക്കി അവർ എടുക്കുന്ന ഫോൺ വിളിച്ച രണ്ട് നമ്പർതല്ല ഓണ നമ്പർ വിളിച്ചിട്ട് എടുക്കുന്നു ഇല്ല",
+            "translated_transcript": "Look at the contact and don't call the number on the two numbers they ask for and pick up the phone they pick up",
+            "tone": "Neutral",
+            "rate_of_speech": "127.31",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.5247",
+            "end_time": "2.527",
+            "original_transcript": "അപ്പ",
+            "translated_transcript": "Appa",
+            "tone": "Neutral",
+            "rate_of_speech": "428.57",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "appa"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.55",
+            "end_time": "2.612",
+            "original_transcript": "വേറെ ഇവിടെ ഒരു നാല് ഡാമേജും കടപ്പുണ്ട്",
+            "translated_transcript": "Another four damages are due here.",
+            "tone": "Neutral",
+            "rate_of_speech": "96.77",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.6293",
+            "end_time": "2.6847",
+            "original_transcript": "ഡാമേജും ഉറക്കണ ഡാമേജും എടുക്കില്ലെന്നാണ്",
+            "translated_transcript": "Damage and sleep damage are not taken",
+            "tone": "Neutral",
+            "rate_of_speech": "126.47",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "damage",
+                "sleep damage"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.6958",
+            "end_time": "2.918",
+            "original_transcript": "അല്ല അങ്ങനെയുള്ള ഇഷ്യൂസ് ഒന്നും സംസാരിച്ചില്ലല്ല പ്രമാർ തരാറുകൊണ്ടൊന്നും അങ്ങനെയുള്ള ഇഷ്യൂസ് ഒന്നല്ല പക്ഷ വരുന്നില്ല അതെന്താണുള്ള യോജിച്ച ഞങ്ങളുടെ ഇഷ്യൂസ് ഒന്നല്ല",
+            "translated_transcript": "No such issues have not been talked about nothing by pramar giving nothing like that such issues are not coming Paksha is not one of our issues which is consistent with what is",
+            "tone": "Neutral",
+            "rate_of_speech": "148.54",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "such issues",
+                "such issues",
+                "paksha"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.9375",
+            "end_time": "2.9998",
+            "original_transcript": "അവര് സപ്ലൈ ചെയ്യുന്നതിൽ എന്താണെന്നുള്ളതാണെന്ന് ഒന്ന് ചൊഴിച്ചത്",
+            "translated_transcript": "One asked what they were supplying.",
+            "tone": "Neutral",
+            "rate_of_speech": "96.26",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.0088",
+            "end_time": "3.1295",
+            "original_transcript": "ഞാൻ ഒരു കാര്യം ചെയ്യണ്ടി ഞാന്റെ ഭാഗത്ത് ഒരു കംപ്ലെയിന്റ് എടുക്കേണ്ടപ്പായി കംപ്ലെയിന്റ് എടുക്കാൻ വേണ്ടിട്ടു എനിക്ക് കുറിച്ച് ഡീറ്റേഴ്സ് പറയെന്ന് അപ്പ ഞാൻഷന്റെ കംപ്ലെയിന്റ് ഇത് ടീമിലേക്ക് അയയ്ക്കാൻ",
+            "translated_transcript": "I have to do one thing I need to take a complain on my side and tell the deaters about me to send it to the team",
+            "tone": "Neutral",
+            "rate_of_speech": "223.73",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.1295",
+            "end_time": "3.1688",
+            "original_transcript": "പറ്റുഷന്റെ",
+            "translated_transcript": "Patushan's",
+            "tone": "Neutral",
+            "rate_of_speech": "25.42",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "patushan"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.1688",
+            "end_time": "3.1926",
+            "original_transcript": "പേരന്ന് പറയറ്റ എനിക്ക്",
+            "translated_transcript": "Tell me your name.",
+            "tone": "Neutral",
+            "rate_of_speech": "167.95",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.2352",
+            "end_time": "3.2845",
+            "original_transcript": "എന്റെ പേര് അജിത് കുമാർ",
+            "translated_transcript": "My name is Ajit Kumar",
+            "tone": "Neutral",
+            "rate_of_speech": "101.35",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ajit kumar"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.293",
+            "end_time": "3.3088",
+            "original_transcript": "അജിത് കുമാർ",
+            "translated_transcript": "Ajith Kumar",
+            "tone": "Neutral",
+            "rate_of_speech": "126.45",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ajith kumar"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.3207",
+            "end_time": "3.3468",
+            "original_transcript": "okay",
+            "translated_transcript": "ok",
+            "tone": "Neutral",
+            "rate_of_speech": "38.24",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.3582",
+            "end_time": "3.4292",
+            "original_transcript": "രജിസ്റ്റർ മൊബൈൽ നമ്പർ തന്നെയാണോ ഇവിളിച്ച നമ്പർനാണോ",
+            "translated_transcript": "Is the registered mobile number itself or a registered number",
+            "tone": "Neutral",
+            "rate_of_speech": "140.85",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mobile number"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.4435",
+            "end_time": "3.4727",
+            "original_transcript": "നമ്പർ തന്നെ",
+            "translated_transcript": "The number itself.",
+            "tone": "Neutral",
+            "rate_of_speech": "102.86",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.4817",
+            "end_time": "3.578",
+            "original_transcript": "ആ സാന്ത കടട മുഴെ അഡ്രസ് ഒന്ന് തരാമിട്ടു കടട മുഴ അഡ്രസ്",
+            "translated_transcript": "One of the addresses given by Santa Cada Muzha is the address of the Cada Muzha",
+            "tone": "Neutral",
+            "rate_of_speech": "166.09",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "santa cada muzha",
+                "cada muzha"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.5883",
+            "end_time": "3.644",
+            "original_transcript": "ഷോപ്പിന്റെ മൊഴി അഡ്രസ് താനെ മറ്റോ",
+            "translated_transcript": "The shop's full address is changed.",
+            "tone": "Happy",
+            "rate_of_speech": "107.82",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "shop 's",
+                "full address"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.6525",
+            "end_time": "3.7118",
+            "original_transcript": "ഇതാ എ",
+            "translated_transcript": "Here is a",
+            "tone": "Neutral",
+            "rate_of_speech": "50.55",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.7518",
+            "end_time": "3.764",
+            "original_transcript": "ആ",
+            "translated_transcript": "that",
+            "tone": "Neutral",
+            "rate_of_speech": "82.30",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.8543",
+            "end_time": "3.865",
+            "original_transcript": "ഹലോ",
+            "translated_transcript": "Hello.",
+            "tone": "Neutral",
+            "rate_of_speech": "93.75",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.8817",
+            "end_time": "3.925",
+            "original_transcript": "ആനന്ദ് സ്റ്റോഴ്സ് മതിൽഭാഗം",
+            "translated_transcript": "Anand Stores Wall",
+            "tone": "Neutral",
+            "rate_of_speech": "69.20",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "anand stores wall"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.9343",
+            "end_time": "3.9697",
+            "original_transcript": "ആനന്ദ് സ്റ്റോർ",
+            "translated_transcript": "Pleasure Store",
+            "tone": "Neutral",
+            "rate_of_speech": "56.60",
+            "emotion": "joy",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pleasure store"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.9697",
+            "end_time": "4.0262",
+            "original_transcript": "സ്റ്റോഴ്സ് മതിൽഭാഗം തിരുവല്ല",
+            "translated_transcript": "Store wall part Thiruvalla",
+            "tone": "Neutral",
+            "rate_of_speech": "70.78",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "store",
+                "wall part",
+                "thiruvalla"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.0372",
+            "end_time": "4.0492",
+            "original_transcript": "പാൽ",
+            "translated_transcript": "milk",
+            "tone": "Neutral",
+            "rate_of_speech": "83.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.0668",
+            "end_time": "4.0783",
+            "original_transcript": "തിരുവല്ല",
+            "translated_transcript": "Thiruvalla",
+            "tone": "Neutral",
+            "rate_of_speech": "86.96",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thiruvalla"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.0913",
+            "end_time": "4.105",
+            "original_transcript": "തിരുവല്ല",
+            "translated_transcript": "Thiruvalla",
+            "tone": "Neutral",
+            "rate_of_speech": "73.08",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thiruvalla"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.1573",
+            "end_time": "4.1692",
+            "original_transcript": "ഒക്കെ",
+            "translated_transcript": "OKKE",
+            "tone": "Neutral",
+            "rate_of_speech": "84.63",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "okke"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.2062",
+            "end_time": "4.2376",
+            "original_transcript": "പിന് രവടയിട്ടാണ് വരെ തിരുവല്ലാണ്",
+            "translated_transcript": "Until the end of the day, there is still time.",
+            "tone": "Neutral",
+            "rate_of_speech": "317.46",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.2535",
+            "end_time": "4.273",
+            "original_transcript": "തിരുവല്ല ശ്രീവല്ല വശത്ത് ഫ്രണ്ടിലാണ്",
+            "translated_transcript": "Thiruvalla Sreevalla is in front on the side",
+            "tone": "Neutral",
+            "rate_of_speech": "410.26",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thiruvalla sreevalla"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.3081",
+            "end_time": "4.346",
+            "original_transcript": "പിൻകോഡ് നമ്പർ പരാമറ്റോ സാർന്ന ഏരിയുടെ",
+            "translated_transcript": "PINCODE NUMBER PARAMETER OF SARNA AREA",
+            "tone": "Neutral",
+            "rate_of_speech": "158.52",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pincode number parameter of sarna area"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.3588",
+            "end_time": "4.3683",
+            "original_transcript": "ആ",
+            "translated_transcript": "that",
+            "tone": "Neutral",
+            "rate_of_speech": "105.08",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.5772",
+            "end_time": "4.5778",
+            "original_transcript": "സി എട്ട്",
+            "translated_transcript": "C eight",
+            "tone": "Neutral",
+            "rate_of_speech": "3000.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.6063",
+            "end_time": "4.6128",
+            "original_transcript": "എട്ട്",
+            "translated_transcript": "eight",
+            "tone": "Neutral",
+            "rate_of_speech": "154.24",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.6233",
+            "end_time": "4.6377",
+            "original_transcript": "നൈൻ വൺ",
+            "translated_transcript": "Nine One",
+            "tone": "Neutral",
+            "rate_of_speech": "139.37",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.6446",
+            "end_time": "4.6563",
+            "original_transcript": "നൈൻ വൺ",
+            "translated_transcript": "Nine One",
+            "tone": "Neutral",
+            "rate_of_speech": "171.18",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.6678",
+            "end_time": "4.6828",
+            "original_transcript": "zero one",
+            "translated_transcript": "zero one",
+            "tone": "Neutral",
+            "rate_of_speech": "133.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.6971",
+            "end_time": "4.7037",
+            "original_transcript": "one",
+            "translated_transcript": "one",
+            "tone": "Neutral",
+            "rate_of_speech": "153.45",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.7133",
+            "end_time": "4.8428",
+            "original_transcript": "പിന്ന ഈ സെയിൽസ്മെൻ സാന്തക്കടയില് വരി അങ്ങോര സാന്തയില് പേരും മൊബൈൽ നമ്പറും കണ്ടോ",
+            "translated_transcript": "Did these salesmen see their name and mobile number in the line of Angora Santa?",
+            "tone": "Neutral",
+            "rate_of_speech": "115.82",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mobile number",
+                "angora santa"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.8542",
+            "end_time": "4.8623",
+            "original_transcript": "ആ",
+            "translated_transcript": "that",
+            "tone": "Neutral",
+            "rate_of_speech": "122.70",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.8765",
+            "end_time": "4.909",
+            "original_transcript": "ഒന്നാംത പല sir",
+            "translated_transcript": "First many sir",
+            "tone": "Neutral",
+            "rate_of_speech": "92.26",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.9252",
+            "end_time": "4.9858",
+            "original_transcript": "ലോ അല്ല സപ്ലൈ നാളുടെ നമ്പരോ",
+            "translated_transcript": "Low or no supply day number",
+            "tone": "Neutral",
+            "rate_of_speech": "98.93",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "low",
+                "supply day number"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.9858",
+            "end_time": "4.9938",
+            "original_transcript": "സെൽസ്മെൻ",
+            "translated_transcript": "salesmen",
+            "tone": "Neutral",
+            "rate_of_speech": "124.74",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.0332",
+            "end_time": "5.0857",
+            "original_transcript": "അതിയ നോക്കിയിട്ട് അതു നോക്കിയിട്ട് വിളിച്ചു വരെ അന്ന നോക്കിയിട്ടുകളെ",
+            "translated_transcript": "Anna looked at it and looked at it until she called.",
+            "tone": "Neutral",
+            "rate_of_speech": "209.46",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "anna"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.0998",
+            "end_time": "5.1058",
+            "original_transcript": "ആരംഭിച്ച",
+            "translated_transcript": "started",
+            "tone": "Neutral",
+            "rate_of_speech": "166.20",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.1245",
+            "end_time": "5.1415",
+            "original_transcript": "കല്ല ഞാന അത്",
+            "translated_transcript": "That's what I call it.",
+            "tone": "Neutral",
+            "rate_of_speech": "294.41",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.153",
+            "end_time": "5.1821",
+            "original_transcript": "മൊബൈൽ",
+            "translated_transcript": "Mobile",
+            "tone": "Neutral",
+            "rate_of_speech": "34.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mobile"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.1907",
+            "end_time": "5.23",
+            "original_transcript": "നോട്ട് അല്ല നമ്പർ വിളിക്കാം",
+            "translated_transcript": "You can call the number, not the note.",
+            "tone": "Neutral",
+            "rate_of_speech": "203.48",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.2373",
+            "end_time": "5.2627",
+            "original_transcript": "ഏജൻസിയുടെ പേർ അറിയോ സന്",
+            "translated_transcript": "Know the name of the agency Sun",
+            "tone": "Neutral",
+            "rate_of_speech": "276.13",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "know",
+                "sun"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.2755",
+            "end_time": "5.3663",
+            "original_transcript": "ഇല്ല കുന്ന ദാനത്ത് ഏജൻസി നാ ഇത് സപ്ലൈതലുള്ളത് നോക്കിയ ഞാനി വിളിച്ചത്",
+            "translated_transcript": "NO KUNNA DONAT AGENCY NA THIS IS SUPPLIED BY NOKIA I CALLED",
+            "tone": "Neutral",
+            "rate_of_speech": "132.09",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "no kunna donat agency na this is supplied by nokia",
+                "called"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.3758",
+            "end_time": "5.4357",
+            "original_transcript": "okay",
+            "translated_transcript": "ok",
+            "tone": "Neutral",
+            "rate_of_speech": "16.71",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.4532",
+            "end_time": "5.5653",
+            "original_transcript": "ഞാനൊരു കാര്യം ചെയ്യുക ഞാൻ ഞന്റെ ഭാഗത്ത് വിടന്ന് കംപ്ലെയിന്റ് എടുക്കാൻ പോയി കംപ്ലെയിന്റ് എടുക്കാൻ വേണ്ടി താങ്ങുടെ കോൾ ഞാൻ ഒന്നോ രണ്ടോ മെന്റനോ ഹോൾഡയ്ക്കാൻ വിറ്റോ സർ",
+            "translated_transcript": "I do one thing I leave on my side and go pick up the complacent Your call for me to take the complacent I'm gonna hold one or two mentano or two Vito sir",
+            "tone": "Neutral",
+            "rate_of_speech": "303.12",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "your",
+                "'m gon na hold",
+                "vito"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.5763",
+            "end_time": "5.6351",
+            "original_transcript": "ലൈനിലെ കോൾ disconnect ചെയ്യരുത്",
+            "translated_transcript": "Do not disconnect the call on the line",
+            "tone": "Neutral",
+            "rate_of_speech": "135.98",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.6466",
+            "end_time": "5.6718",
+            "original_transcript": "ഓക്കെ",
+            "translated_transcript": "OK",
+            "tone": "Neutral",
+            "rate_of_speech": "39.74",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        }
+    ],
+    "translated_segments": "Safakangatshi Is Roy Chiramalfu Hello. Hello. Thiruvalla Anand Store Sinolic Thiruvalla Pathanamthitta District Anand Store Universal Comfortable Malayalam Malayalam Malayalam Sevak Peat Tar Roll A Namaskara when I said that my name is Pradeen and I am Tsin two Name Anand Thiruvalla Anand Store Thiruvalla Anand Store Padma Our arrogant chapati has not sung for a month What is issued No one else has not issued what they do not supply and what they are looking for will know what they are looking for They Supply This was the ten that we were supplied with every week that we were given a month Payment One Payment One One Issuing Don't worry about anything. Currently the inventory face sorry if I do the thing I can leave a complacent of the salesman's against and send it to his team to stock up for the part of dad's team and they will help Calling those who have asked for them. I CAN TAKE A COMPLIANT AND TAKE THE COMPLIANT AND SEND IT TO THE TEAM ENMETO HOW THESE SALESMEN ARE NOT ROOTED IN THE SANNA SHOP Not coming for a month. One month I give the last fall is twelve and eight Twelve eight Suplaico Twenty days They had been looking to contact the sir for twenty days Look at the contact and don't call the number on the two numbers they ask for and pick up the phone they pick up Appa Another four damages are due here. Damage and sleep damage are not taken No such issues have not been talked about nothing by pramar giving nothing like that such issues are not coming Paksha is not one of our issues which is consistent with what is One asked what they were supplying. I have to do one thing I need to take a complain on my side and tell the deaters about me to send it to the team Patushan's Tell me your name. My name is Ajit Kumar Ajith Kumar ok Is the registered mobile number itself or a registered number The number itself. One of the addresses given by Santa Cada Muzha is the address of the Cada Muzha The shop's full address is changed. Here is a that Hello. Anand Stores Wall Pleasure Store Store wall part Thiruvalla milk Thiruvalla Thiruvalla OKKE Until the end of the day, there is still time. Thiruvalla Sreevalla is in front on the side PINCODE NUMBER PARAMETER OF SARNA AREA that C eight eight Nine One Nine One zero one one Did these salesmen see their name and mobile number in the line of Angora Santa? that First many sir Low or no supply day number salesmen Anna looked at it and looked at it until she called. started That's what I call it. Mobile You can call the number, not the note. Know the name of the agency Sun NO KUNNA DONAT AGENCY NA THIS IS SUPPLIED BY NOKIA I CALLED ok I do one thing I leave on my side and go pick up the complacent Your call for me to take the complacent I'm gonna hold one or two mentano or two Vito sir Do not disconnect the call on the line OK ",
+    "speaker_a_segments": "Safakangatshi Is Roy Chiramalfu Hello. Universal Comfortable Malayalam Peat Tar Roll A Namaskara when I said that my name is Pradeen and I am Tsin two Padma What is issued They Supply Payment One Issuing Currently the inventory face sorry if I do the thing I can leave a complacent of the salesman's against and send it to his team to stock up for the part of dad's team and they will help I CAN TAKE A COMPLIANT AND TAKE THE COMPLIANT AND SEND IT TO THE TEAM ENMETO HOW THESE SALESMEN ARE NOT ROOTED IN THE SANNA SHOP One month Twelve eight They had been looking to contact the sir for twenty days Appa Damage and sleep damage are not taken I have to do one thing I need to take a complain on my side and tell the deaters about me to send it to the team Tell me your name. Ajith Kumar ok Is the registered mobile number itself or a registered number One of the addresses given by Santa Cada Muzha is the address of the Cada Muzha The shop's full address is changed. Hello. Pleasure Store milk Thiruvalla OKKE Until the end of the day, there is still time. PINCODE NUMBER PARAMETER OF SARNA AREA that eight Nine One one Did these salesmen see their name and mobile number in the line of Angora Santa? that First many sir salesmen started Know the name of the agency Sun ok I do one thing I leave on my side and go pick up the complacent Your call for me to take the complacent I'm gonna hold one or two mentano or two Vito sir Do not disconnect the call on the line OK ",
+    "speaker_b_segments": "Hello. Thiruvalla Anand Store Sinolic Thiruvalla Pathanamthitta District Anand Store Malayalam Malayalam Sevak Name Anand Thiruvalla Anand Store Thiruvalla Anand Store Our arrogant chapati has not sung for a month No one else has not issued what they do not supply and what they are looking for will know what they are looking for This was the ten that we were supplied with every week that we were given a month Payment One One Don't worry about anything. Calling those who have asked for them. Not coming for a month. I give the last fall is twelve and eight Suplaico Twenty days Look at the contact and don't call the number on the two numbers they ask for and pick up the phone they pick up Another four damages are due here. No such issues have not been talked about nothing by pramar giving nothing like that such issues are not coming Paksha is not one of our issues which is consistent with what is One asked what they were supplying. Patushan's My name is Ajit Kumar The number itself. Here is a that Anand Stores Wall Store wall part Thiruvalla Thiruvalla Thiruvalla Sreevalla is in front on the side C eight Nine One zero one Low or no supply day number Anna looked at it and looked at it until she called. That's what I call it. Mobile You can call the number, not the note. NO KUNNA DONAT AGENCY NA THIS IS SUPPLIED BY NOKIA I CALLED ",
+    "summary": "Pradeen, a Malayalam-speaking customer, is having issues with their supply of Nokia products from Anand Store in Thiruvalla, Pathanamthitta District. According to them, the store has not supplied the products for over a month, and the store staff does not respond to their queries. Pradeen is advised to file a complaint, and they will follow up with the store staff to restock the products. Ajit Kumar, whose contact details were provided by Santa Cada Muzha, will assist Pradeen with the complaint and ensure that the issue is resolved. The conversation was recorded for reference and quality assurance purposes.",
+    "speaker_a_summary": "Pradeen, a customer of Santa Shop, is facing issues with the inventory at the store. He wants to file a complaint against the salesman as the necessary supplies are not being stocked up. Ajith Kumar, who appears to be a representative from the same shop, is trying to help Pradeen but is unable to provide the necessary assistance. Pradeen wants to file a complaint to the higher-ups and provide a complaint to the salesman's team to restock the inventory. However, there are issues with the contact details and the address provided for the Santa Shop. Ajith Kumar agrees to help Pradeen with the complaint and assures him that the issue will be resolved.",
+    "speaker_b_summary": "Anand store from Thiruvalla, Pathanamthitta district has not received supply for a month and is looking for it. They are frustrated as no one else can provide the supply. They are owed 12 and 8 suplaico and have incurred damages as well. Ajit Kumar is informing the concerned people that this needs to be taken care of urgently. The phone number is 489181.",
+    "cohere_points": "- Anand store in Thiruvalla, Kerala has not received stock for a month and the agent Nokia is not responding to their calls\n- Agent Nokia seems to be irresponsible and not responsive to the situation\n- The store is frustrated and losing business due to this issue. \n- They are looking for a solution and want to file a complaint \n- It is important to have their stock replenished promptly.",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "1. Anand Store Thiruvalla\n2. Malayalam Sevak Peat\n3. Universal Comfortable Malayalam\n4. Pradeen Tsin\n5. Thiruvalla Anand Store\n6. Padma Arrogant Chapati\n7. Inventory Face\n8. Stock Up\n9. Salesmen Team\n10. Contact Sir\n11. Damage Sleep\n12. Complain Deaters\n13. Ajith Kumar\n14. Registered Mobile Number",
+    "Resolution": "The customer issue is not completely resolved as there are still pending complaints and unresolved supply and communication issues that need to be addressed.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "Yes\n\nThe caller displayed empathy when they said, \"Don't worry about anything.\" This shows that they are understanding and supportive towards the person they are speaking with, acknowledging any potential concerns or anxieties.",
+    "Was there any profanity on the call": "No.",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 134.5970000000001,
+    "num_silences": 98
+}

@@ -1,0 +1,1054 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0725",
+            "end_time": "0.124",
+            "original_transcript": "ഗഡ് അഫ്റ്റർനൂൺ വിൽക്കം ഐടി സിമാലൂക്കി തൈക്കയാക്കൾ",
+            "translated_transcript": "Good Afternoon Sale IT in Simaluki Thailand",
+            "tone": "Happy",
+            "rate_of_speech": "135.88",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "afternoon sale it",
+                "simaluki thailand"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.1387",
+            "end_time": "0.181",
+            "original_transcript": "ഹലോ",
+            "translated_transcript": "Hello.",
+            "tone": "Neutral",
+            "rate_of_speech": "23.62",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.1907",
+            "end_time": "0.1957",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "200.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.228",
+            "end_time": "0.2437",
+            "original_transcript": "am I audible",
+            "translated_transcript": "am I audible",
+            "tone": "Neutral",
+            "rate_of_speech": "191.69",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.2533",
+            "end_time": "0.288",
+            "original_transcript": "സവാമി",
+            "translated_transcript": "Swami",
+            "tone": "Neutral",
+            "rate_of_speech": "28.83",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "swami"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.288",
+            "end_time": "0.2996",
+            "original_transcript": "സ്വാമി ബോളിയെ",
+            "translated_transcript": "SWAMI BOLIYE",
+            "tone": "Neutral",
+            "rate_of_speech": "171.67",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "swami boliye"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.3103",
+            "end_time": "0.3716",
+            "original_transcript": "I am calling you from",
+            "translated_transcript": "I am calling you from",
+            "tone": "Neutral",
+            "rate_of_speech": "81.54",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.3846",
+            "end_time": "0.5736",
+            "original_transcript": "സോപ്പർ മാർക്കറ്റ് ഡീലർ ഓർഡർ ഫോർ ആർ",
+            "translated_transcript": "Super Market Dealer Order For R",
+            "tone": "Happy",
+            "rate_of_speech": "31.75",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "market",
+                "dealer order"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.5823",
+            "end_time": "0.8337",
+            "original_transcript": "is",
+            "translated_transcript": "is",
+            "tone": "Neutral",
+            "rate_of_speech": "3.98",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.852",
+            "end_time": "0.8757",
+            "original_transcript": "ഡിസ് ഇസ് ദി പോസ്റ്റ് ആൻസർ",
+            "translated_transcript": "This Is the Post Ancer",
+            "tone": "Neutral",
+            "rate_of_speech": "211.12",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ancer"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.8925",
+            "end_time": "0.9037",
+            "original_transcript": "ഫസ്റ്റ്",
+            "translated_transcript": "Første",
+            "tone": "Neutral",
+            "rate_of_speech": "89.42",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "første"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.9302",
+            "end_time": "1.3148",
+            "original_transcript": "കൺസോൾ കൺസീഫ് മാർഗിനറ്റഡ് ഡീറ്റ സോസിസ്റ്റ് യു വിൽസോസിസ്റ്റ് യു വെൻ സിഡോ",
+            "translated_transcript": "Console Conceef Marginated Dita Socialist U Vilsosiste U Wen Sido",
+            "tone": "Neutral",
+            "rate_of_speech": "26.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "console conceef marginated dita",
+                "u vilsosiste u wen sido"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.3268",
+            "end_time": "1.4137",
+            "original_transcript": "ഹലോ may I know your good name I'm talking",
+            "translated_transcript": "Hello May I know your good name I'm talking",
+            "tone": "Happy",
+            "rate_of_speech": "103.67",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "hello may",
+                "good name"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.4313",
+            "end_time": "1.442",
+            "original_transcript": "sorry",
+            "translated_transcript": "sorryl",
+            "tone": "Neutral",
+            "rate_of_speech": "93.75",
+            "emotion": "remorse",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.453",
+            "end_time": "1.4867",
+            "original_transcript": "മെനയ ഗുഡ്നേം വിറ്റമ അന്താസിംഗ്സ്",
+            "translated_transcript": "Menaya Goodname Vitama Anthasings",
+            "tone": "Neutral",
+            "rate_of_speech": "118.87",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "menaya goodname vitama anthasings"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.4951",
+            "end_time": "1.5332",
+            "original_transcript": "My name is Anton Johnson",
+            "translated_transcript": "My name is Anton Johnson",
+            "tone": "Neutral",
+            "rate_of_speech": "131.58",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "anton johnson"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.5493",
+            "end_time": "1.5565",
+            "original_transcript": "ടേൽ യു",
+            "translated_transcript": "Tail U",
+            "tone": "Neutral",
+            "rate_of_speech": "279.07",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "tail u"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.5963",
+            "end_time": "1.607",
+            "original_transcript": "പ്ലേൽ യു",
+            "translated_transcript": "Play U",
+            "tone": "Neutral",
+            "rate_of_speech": "187.50",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.6212",
+            "end_time": "1.6405",
+            "original_transcript": "എ എൻ എസ് എസ്",
+            "translated_transcript": "A N S S",
+            "tone": "Neutral",
+            "rate_of_speech": "206.72",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "s s"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.6507",
+            "end_time": "1.6695",
+            "original_transcript": "എൻ എസ് എൻ",
+            "translated_transcript": "N S N",
+            "tone": "Neutral",
+            "rate_of_speech": "159.43",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.6825",
+            "end_time": "1.6952",
+            "original_transcript": "എ എൻ",
+            "translated_transcript": "A N",
+            "tone": "Neutral",
+            "rate_of_speech": "157.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.6952",
+            "end_time": "1.7083",
+            "original_transcript": "എസ് എൻ",
+            "translated_transcript": "SN",
+            "tone": "Neutral",
+            "rate_of_speech": "75.85",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sn"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.7145",
+            "end_time": "1.7225",
+            "original_transcript": "കരൻ",
+            "translated_transcript": "Karan",
+            "tone": "Neutral",
+            "rate_of_speech": "125.26",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "karan"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.7356",
+            "end_time": "1.763",
+            "original_transcript": "ജോർജ്ജ് ജി ആർ",
+            "translated_transcript": "George GR",
+            "tone": "Neutral",
+            "rate_of_speech": "73.17",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "george gr"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.7978",
+            "end_time": "1.9152",
+            "original_transcript": "താങ്ക്യു തോമസ് ഫോർ ഗ്രീൻ ഡീറ്റേഴ്സ് ക്വാട്ടബിലിറ്റി മിച്ച് കോളിംഗ്",
+            "translated_transcript": "THANKYOU THOMAS FOR GREEN DEATERS QUALITABILITY MITCH CALLING",
+            "tone": "Neutral",
+            "rate_of_speech": "68.18",
+            "emotion": "gratitude",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "thankyou thomas for green deaters qualitability mitch calling"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.9338",
+            "end_time": "1.9872",
+            "original_transcript": "മെസ് ടൂർ നം",
+            "translated_transcript": "Mess Tour No.",
+            "tone": "Neutral",
+            "rate_of_speech": "56.23",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "mess tour"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.0",
+            "end_time": "2.0478",
+            "original_transcript": "സ്മാർട്ട്",
+            "translated_transcript": "Smart",
+            "tone": "Happy",
+            "rate_of_speech": "20.91",
+            "emotion": "admiration",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "smart"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.0592",
+            "end_time": "2.07",
+            "original_transcript": "ഇബി",
+            "translated_transcript": "EB",
+            "tone": "Neutral",
+            "rate_of_speech": "92.45",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "eb"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.0823",
+            "end_time": "2.1415",
+            "original_transcript": "ഇത് ഐബി ഡബ്ല്യുഐഎസ്ഐ",
+            "translated_transcript": "This is IB WISI",
+            "tone": "Neutral",
+            "rate_of_speech": "67.61",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ib wisi"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.1503",
+            "end_time": "2.1628",
+            "original_transcript": "ഡബ്ല്യു",
+            "translated_transcript": "W",
+            "tone": "Neutral",
+            "rate_of_speech": "80.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.2563",
+            "end_time": "2.273",
+            "original_transcript": "സ്മാർട്ട് ഒക്കെ",
+            "translated_transcript": "Smart Ok",
+            "tone": "Happy",
+            "rate_of_speech": "120.00",
+            "emotion": "admiration",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "smart ok"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.273",
+            "end_time": "2.2783",
+            "original_transcript": "താങ്ക്യു",
+            "translated_transcript": "Thankyou",
+            "tone": "Neutral",
+            "rate_of_speech": "188.09",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thankyou"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.2783",
+            "end_time": "2.2838",
+            "original_transcript": "സോച്ച്",
+            "translated_transcript": "Soch",
+            "tone": "Neutral",
+            "rate_of_speech": "181.82",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "soch"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.3056",
+            "end_time": "2.3555",
+            "original_transcript": "your",
+            "translated_transcript": "uw",
+            "tone": "Neutral",
+            "rate_of_speech": "20.06",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.369",
+            "end_time": "2.3997",
+            "original_transcript": "പ്ലസ് ടെൽ മി യർ അഡ്രസ് വിത്ത് പിൻ കോഡ്",
+            "translated_transcript": "PLUS TEL MY AIR ADDRESS WITH PIN CODE",
+            "tone": "Neutral",
+            "rate_of_speech": "260.87",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "plus tel my air address with pin code"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.435",
+            "end_time": "2.451",
+            "original_transcript": "സിറ്റി കോഡ്",
+            "translated_transcript": "City Code",
+            "tone": "Neutral",
+            "rate_of_speech": "125.13",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "code"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.463",
+            "end_time": "2.5017",
+            "original_transcript": "സോ അഡ്രസ് വി പിൻ കോഡ് സോ",
+            "translated_transcript": "SO ADDRESS V PIN CODE SAW",
+            "tone": "Neutral",
+            "rate_of_speech": "155.11",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "so address v pin code saw"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.516",
+            "end_time": "2.5492",
+            "original_transcript": "my under sixteen പത്തനംതിട്ട",
+            "translated_transcript": "my under sixteen Pathanamthitta",
+            "tone": "Neutral",
+            "rate_of_speech": "120.66",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pathanamthitta"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.5603",
+            "end_time": "2.5762",
+            "original_transcript": "എ",
+            "translated_transcript": "A",
+            "tone": "Neutral",
+            "rate_of_speech": "63.09",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.5868",
+            "end_time": "2.6176",
+            "original_transcript": "പിഎടിഎച്ച്എഎൻ",
+            "translated_transcript": "PATHAN",
+            "tone": "Neutral",
+            "rate_of_speech": "32.45",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pathan"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.6267",
+            "end_time": "2.6418",
+            "original_transcript": "പി എച്ച് എൻ",
+            "translated_transcript": "PHN",
+            "tone": "Neutral",
+            "rate_of_speech": "66.01",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "phn"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.6548",
+            "end_time": "2.6686",
+            "original_transcript": "എം",
+            "translated_transcript": "M",
+            "tone": "Neutral",
+            "rate_of_speech": "72.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.6735",
+            "end_time": "2.6837",
+            "original_transcript": "എം",
+            "translated_transcript": "M",
+            "tone": "Neutral",
+            "rate_of_speech": "98.36",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.6958",
+            "end_time": "2.7032",
+            "original_transcript": "ടി",
+            "translated_transcript": "T",
+            "tone": "Neutral",
+            "rate_of_speech": "136.36",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.7032",
+            "end_time": "2.709",
+            "original_transcript": "എച്ച്",
+            "translated_transcript": "H",
+            "tone": "Neutral",
+            "rate_of_speech": "171.92",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.7171",
+            "end_time": "2.727",
+            "original_transcript": "ടി എച്ച്",
+            "translated_transcript": "T H",
+            "tone": "Neutral",
+            "rate_of_speech": "203.39",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "t h"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.727",
+            "end_time": "2.7273",
+            "original_transcript": "ഐ",
+            "translated_transcript": "Eye",
+            "tone": "Neutral",
+            "rate_of_speech": "3000.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "eye"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.7617",
+            "end_time": "2.8003",
+            "original_transcript": "ഐ ടി എൻ",
+            "translated_transcript": "ITN",
+            "tone": "Neutral",
+            "rate_of_speech": "25.85",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "itn"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.8258",
+            "end_time": "2.9028",
+            "original_transcript": "ടൌൺ",
+            "translated_transcript": "Town",
+            "tone": "Neutral",
+            "rate_of_speech": "12.99",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.9125",
+            "end_time": "2.9453",
+            "original_transcript": "സോയോ ഏലിയ പിൻബുസ്സിൽ മി പ്ലസ്",
+            "translated_transcript": "Mi Plus in Soyo Elia Pinbusse",
+            "tone": "Neutral",
+            "rate_of_speech": "182.74",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mi",
+                "soyo elia pinbusse"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.0165",
+            "end_time": "3.2505",
+            "original_transcript": "സ്ല",
+            "translated_transcript": "SLA",
+            "tone": "Neutral",
+            "rate_of_speech": "4.27",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sla"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.2725",
+            "end_time": "3.3397",
+            "original_transcript": "ഹോൾഡ് ഫോർ മിനിറ്റ് ഐ റിവസ്റ്റ് യു",
+            "translated_transcript": "Hold For Minute I Rest You",
+            "tone": "Neutral",
+            "rate_of_speech": "89.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hold",
+                "minute",
+                "rest"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.3518",
+            "end_time": "3.3758",
+            "original_transcript": "വോയിസ് ഇസ് ക്ലിയർ",
+            "translated_transcript": "Voice Is Clear",
+            "tone": "Neutral",
+            "rate_of_speech": "125.00",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "voice",
+                "clear"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.3832",
+            "end_time": "3.393",
+            "original_transcript": "ഹലോ",
+            "translated_transcript": "Hello.",
+            "tone": "Neutral",
+            "rate_of_speech": "101.69",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.4015",
+            "end_time": "3.4758",
+            "original_transcript": "പ്ലസ് കോൾ ഓൺ ഹോൾഡ് മിനിറ്റ്സ് റിക്വസ്റ്റ്",
+            "translated_transcript": "Plus Call On Hold Minutes Request",
+            "tone": "Neutral",
+            "rate_of_speech": "80.70",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "call",
+                "hold minutes request"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.5373",
+            "end_time": "3.56",
+            "original_transcript": "what you are",
+            "translated_transcript": "what are you",
+            "tone": "Neutral",
+            "rate_of_speech": "132.35",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.56",
+            "end_time": "3.5668",
+            "original_transcript": "telling",
+            "translated_transcript": "score",
+            "tone": "Neutral",
+            "rate_of_speech": "146.70",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.5813",
+            "end_time": "3.6427",
+            "original_transcript": "സോ മേ പ്ലസ് യു കോൾ ഓൺ ഹോൾഡ് സോ ഐ കൻ റീച്ച് യു റിക്വസ്റ്റ്",
+            "translated_transcript": "SO ME PLUS YOU CALL ON HOLD SO I CAN REACH YOU DEMAND",
+            "tone": "Neutral",
+            "rate_of_speech": "212.01",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "so me plus you call on hold so",
+                "can reach you demand"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.6828",
+            "end_time": "3.7595",
+            "original_transcript": "your voice is not clearly I can't listen in proper",
+            "translated_transcript": "tu voz no es claro, no puede ascultar en bien",
+            "tone": "Neutral",
+            "rate_of_speech": "130.43",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "tu voz",
+                "es claro",
+                "puede ascultar"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.7595",
+            "end_time": "3.7657",
+            "original_transcript": "way",
+            "translated_transcript": "way",
+            "tone": "Neutral",
+            "rate_of_speech": "162.16",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.7778",
+            "end_time": "3.8227",
+            "original_transcript": "ബസ് ഇൻ your background there is too much",
+            "translated_transcript": "Busy in your background there is too much",
+            "tone": "Neutral",
+            "rate_of_speech": "178.37",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "busy"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.8335",
+            "end_time": "3.8792",
+            "original_transcript": "മൈ പ്ലസ് കോൺസോസ്",
+            "translated_transcript": "My Plus Consoz",
+            "tone": "Neutral",
+            "rate_of_speech": "65.67",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "consoz"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.9185",
+            "end_time": "3.9947",
+            "original_transcript": "please your call on hold please request you",
+            "translated_transcript": "please hold your call please request",
+            "tone": "Neutral",
+            "rate_of_speech": "78.79",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.0236",
+            "end_time": "4.029",
+            "original_transcript": "ജി",
+            "translated_transcript": "G",
+            "tone": "Neutral",
+            "rate_of_speech": "186.92",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.029",
+            "end_time": "4.0413",
+            "original_transcript": "എസ് സി നമ്പർ",
+            "translated_transcript": "SC No.",
+            "tone": "Neutral",
+            "rate_of_speech": "162.38",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sc"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.0528",
+            "end_time": "4.0633",
+            "original_transcript": "ഹലോ",
+            "translated_transcript": "Hello.",
+            "tone": "Neutral",
+            "rate_of_speech": "95.09",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.0768",
+            "end_time": "4.0833",
+            "original_transcript": "എസ്",
+            "translated_transcript": "S",
+            "tone": "Neutral",
+            "rate_of_speech": "153.85",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.0975",
+            "end_time": "4.2942",
+            "original_transcript": "മലയാളം ഇംഗ്ലീഷ്",
+            "translated_transcript": "Malayalam English",
+            "tone": "Neutral",
+            "rate_of_speech": "10.17",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "malayalam english"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.3045",
+            "end_time": "4.3453",
+            "original_transcript": "Okay thank you sir please",
+            "translated_transcript": "Okay thank you sir please",
+            "tone": "Neutral",
+            "rate_of_speech": "122.40",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.4507",
+            "end_time": "5.4823",
+            "original_transcript": "Thank you for being on line",
+            "translated_transcript": "Thank you for being on line",
+            "tone": "Neutral",
+            "rate_of_speech": "189.47",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thank"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.4915",
+            "end_time": "5.5002",
+            "original_transcript": "yeah",
+            "translated_transcript": "yea",
+            "tone": "Neutral",
+            "rate_of_speech": "115.16",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.5096",
+            "end_time": "5.7362",
+            "original_transcript": "ഓൾഡ് കൺസേൺ ടീം ടോൾ യുർലിയർ ഷൂൺ കോൾ ഫർ കൺസേൺ ടീം ഇഫ് യു വടു നോ അബൌട്ട് പ്രൈസ് മാർജിൻ റിലേറ്റഡ് ഡിറ്റെസ് അസിസ്റ്റ് യു",
+            "translated_transcript": "Old Consen Team Toll Urlier Shoon Call For Concern Team IF U Scar No About Price Margin Relative Dites Assist U",
+            "tone": "Neutral",
+            "rate_of_speech": "92.71",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "consen team",
+                "urlier shoon call",
+                "team if u scar",
+                "price margin relative dites assist u"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.745",
+            "end_time": "5.8",
+            "original_transcript": "ഒക്കെഡ്",
+            "translated_transcript": "Okede",
+            "tone": "Neutral",
+            "rate_of_speech": "18.18",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "okede"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.8",
+            "end_time": "6.0503",
+            "original_transcript": "സോൺക്യ",
+            "translated_transcript": "Sonkia",
+            "tone": "Neutral",
+            "rate_of_speech": "3.99",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sonkia"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.0503",
+            "end_time": "6.0677",
+            "original_transcript": "സോച്ച് ഫോർ കോളിംഗ് ടി",
+            "translated_transcript": "SOCH FOR CALLING T",
+            "tone": "Neutral",
+            "rate_of_speech": "230.77",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "soch for calling t"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.0677",
+            "end_time": "6.0775",
+            "original_transcript": "സിഡ്",
+            "translated_transcript": "Sid",
+            "tone": "Neutral",
+            "rate_of_speech": "101.69",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sid"
+            ]
+        }
+    ],
+    "translated_segments": "Good Afternoon Sale IT in Simaluki Thailand Hello. Hallo am I audible Swami SWAMI BOLIYE I am calling you from Super Market Dealer Order For R is This Is the Post Ancer Første Console Conceef Marginated Dita Socialist U Vilsosiste U Wen Sido Hello May I know your good name I'm talking sorryl Menaya Goodname Vitama Anthasings My name is Anton Johnson Tail U Play U A N S S N S N A N SN Karan George GR THANKYOU THOMAS FOR GREEN DEATERS QUALITABILITY MITCH CALLING Mess Tour No. Smart EB This is IB WISI W Smart Ok Thankyou Soch uw PLUS TEL MY AIR ADDRESS WITH PIN CODE City Code SO ADDRESS V PIN CODE SAW my under sixteen Pathanamthitta A PATHAN PHN M M T H T H Eye ITN Town Mi Plus in Soyo Elia Pinbusse SLA Hold For Minute I Rest You Voice Is Clear Hello. Plus Call On Hold Minutes Request what are you score SO ME PLUS YOU CALL ON HOLD SO I CAN REACH YOU DEMAND tu voz no es claro, no puede ascultar en bien way Busy in your background there is too much My Plus Consoz please hold your call please request G SC No. Hello. S Malayalam English Okay thank you sir please Thank you for being on line yea Old Consen Team Toll Urlier Shoon Call For Concern Team IF U Scar No About Price Margin Relative Dites Assist U Okede Sonkia SOCH FOR CALLING T Sid ",
+    "speaker_a_segments": "Good Afternoon Sale IT in Simaluki Thailand Hello. am I audible SWAMI BOLIYE This Is the Post Ancer Console Conceef Marginated Dita Socialist U Vilsosiste U Wen Sido Hello May I know your good name I'm talking sorryl Menaya Goodname Vitama Anthasings Play U N S N A N Karan THANKYOU THOMAS FOR GREEN DEATERS QUALITABILITY MITCH CALLING Mess Tour No. EB Smart Ok Soch uw PLUS TEL MY AIR ADDRESS WITH PIN CODE SO ADDRESS V PIN CODE SAW A PHN M T T H ITN Mi Plus in Soyo Elia Pinbusse Hold For Minute I Rest You Hello. Plus Call On Hold Minutes Request score SO ME PLUS YOU CALL ON HOLD SO I CAN REACH YOU DEMAND way My Plus Consoz please hold your call please request G Hello. S Okay thank you sir please Thank you for being on line yea Old Consen Team Toll Urlier Shoon Call For Concern Team IF U Scar No About Price Margin Relative Dites Assist U Okede SOCH FOR CALLING T ",
+    "speaker_b_segments": "Hallo Swami I am calling you from Super Market Dealer Order For R is Første My name is Anton Johnson Tail U A N S S SN George GR Smart This is IB WISI W Thankyou City Code my under sixteen Pathanamthitta PATHAN M H Eye Town SLA Voice Is Clear what are you tu voz no es claro, no puede ascultar en bien Busy in your background there is too much SC No. Malayalam English Sonkia Sid ",
+    "summary": "Swami Boliyé from Super Market Dealer in Simaluki, Thailand calls Anton Johnson and Karan George from Norway to order for R and to inquire about the quality of the green dealers. The call gets confusing as there are language barriers and poor audibility. Finally, Swami requests for a call back and they hang up.",
+    "speaker_a_summary": "Swami Boliyé calls regarding an inquiry about green deaters' quality and requests Mitch's call-back. On hold, Swami is then asked to provide his pin code and address, after which he is put on hold again. He requests the console team to call back, as he is put on hold yet again. It is inferred that he is then disconnected.",
+    "speaker_b_summary": "Anton Johnson, the owner of a supermarket in Pathanamthitta, calls Swami regarding a order they placed. Unfortunately, Swami is not able to hear them properly due to too much background noise. The call ends with Swami informing the caller to use their mother tongue, Malayalam, if they can communicate better that way.",
+    "cohere_points": "- Anton Johnson orders groceries from a supermarket in Thailand\n- He needs assistance with the prices and a callback regarding his order\n- The call drops and he gets reconnected to a different agent named Mitch \n\nLet me know if I can help decipher anything else!",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "1. Good Afternoon Sale\n2. IT in Simaluki\n3. Thailand Hello\n4. Swami SWAMI BOLIYE\n5. Super Market Dealer\n6. Order For R\n7. Ancer Første Console\n8. Socialist U Vilsosiste\n9. Hello May I\n10. Anton Johnson Tail\n11. Karan George GR\n12. THANKYOU THOMAS\n13. QUALITABILITY MITCH CALLING\n14.",
+    "Resolution": "The customer issue does not seem to be resolved yet.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "No.",
+    "Was there any profanity on the call": "No.",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 18.12000000000002,
+    "num_silences": 21
+}

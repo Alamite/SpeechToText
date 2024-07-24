@@ -1,0 +1,1248 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0352",
+            "end_time": "0.1053",
+            "original_transcript": "Very good Very good morning Thank you for calling a DC My name is Kim How may I help you",
+            "translated_transcript": "Very good morning Thank you for calling a DC My name is Kim How can I help you",
+            "tone": "Happy",
+            "rate_of_speech": "256.47",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "thank",
+                "dc",
+                "kim"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.1462",
+            "end_time": "0.1758",
+            "original_transcript": "Ok",
+            "translated_transcript": "Ok",
+            "tone": "Neutral",
+            "rate_of_speech": "33.71",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.186",
+            "end_time": "0.3013",
+            "original_transcript": "um just your PC B How is the",
+            "translated_transcript": "just your PC B How is the",
+            "tone": "Neutral",
+            "rate_of_speech": "60.69",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pc"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.324",
+            "end_time": "0.3333",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "107.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.3563",
+            "end_time": "0.371",
+            "original_transcript": "He Hello",
+            "translated_transcript": "Hej",
+            "tone": "Neutral",
+            "rate_of_speech": "68.10",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hej"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.5516",
+            "end_time": "0.5632",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "86.83",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.613",
+            "end_time": "0.6198",
+            "original_transcript": "for me",
+            "translated_transcript": "for me",
+            "tone": "Neutral",
+            "rate_of_speech": "292.68",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.6848",
+            "end_time": "0.693",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "122.45",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.7575",
+            "end_time": "0.7655",
+            "original_transcript": "You don't want",
+            "translated_transcript": "You don't want",
+            "tone": "Neutral",
+            "rate_of_speech": "375.00",
+            "emotion": "disapproval",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.7657",
+            "end_time": "0.7698",
+            "original_transcript": "it",
+            "translated_transcript": "it",
+            "tone": "Neutral",
+            "rate_of_speech": "240.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.7805",
+            "end_time": "0.7945",
+            "original_transcript": "once in a",
+            "translated_transcript": "once in a",
+            "tone": "Neutral",
+            "rate_of_speech": "214.54",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.9672",
+            "end_time": "0.978",
+            "original_transcript": "Samantha",
+            "translated_transcript": "Samantha",
+            "tone": "Neutral",
+            "rate_of_speech": "92.17",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "samantha"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.0218",
+            "end_time": "1.0276",
+            "original_transcript": "and your",
+            "translated_transcript": "and your",
+            "tone": "Neutral",
+            "rate_of_speech": "343.84",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.0295",
+            "end_time": "1.0337",
+            "original_transcript": "doctor",
+            "translated_transcript": "Doktor",
+            "tone": "Neutral",
+            "rate_of_speech": "240.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "doktor"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.048",
+            "end_time": "1.1963",
+            "original_transcript": "Oh",
+            "translated_transcript": "Ooh",
+            "tone": "Neutral",
+            "rate_of_speech": "6.74",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ooh"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.2293",
+            "end_time": "1.2478",
+            "original_transcript": "hello",
+            "translated_transcript": "silav",
+            "tone": "Neutral",
+            "rate_of_speech": "54.05",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.2835",
+            "end_time": "1.4535",
+            "original_transcript": "Hello Hello sir this is here",
+            "translated_transcript": "Hello sir this is here",
+            "tone": "Neutral",
+            "rate_of_speech": "29.41",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.4627",
+            "end_time": "1.474",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "88.24",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.4852",
+            "end_time": "1.4928",
+            "original_transcript": "William",
+            "translated_transcript": "William",
+            "tone": "Neutral",
+            "rate_of_speech": "130.72",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "william"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.5051",
+            "end_time": "1.5115",
+            "original_transcript": "is the",
+            "translated_transcript": "is the",
+            "tone": "Neutral",
+            "rate_of_speech": "314.96",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.517",
+            "end_time": "1.549",
+            "original_transcript": "address",
+            "translated_transcript": "adress",
+            "tone": "Neutral",
+            "rate_of_speech": "31.23",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.5633",
+            "end_time": "1.6162",
+            "original_transcript": "Yeah",
+            "translated_transcript": "Ja",
+            "tone": "Neutral",
+            "rate_of_speech": "18.93",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ja"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.8135",
+            "end_time": "1.8548",
+            "original_transcript": "So order it or Mali",
+            "translated_transcript": "So order it or Mali",
+            "tone": "Neutral",
+            "rate_of_speech": "120.92",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mali"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.8778",
+            "end_time": "1.9058",
+            "original_transcript": "So in case a B play",
+            "translated_transcript": "So in case of a B play",
+            "tone": "Neutral",
+            "rate_of_speech": "250.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "b play"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.9178",
+            "end_time": "1.9242",
+            "original_transcript": "Have you",
+            "translated_transcript": "Have you",
+            "tone": "Neutral",
+            "rate_of_speech": "315.79",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "have"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.9243",
+            "end_time": "1.9545",
+            "original_transcript": "got a number of blacklist",
+            "translated_transcript": "got a number of blacklist",
+            "tone": "Neutral",
+            "rate_of_speech": "165.75",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.9692",
+            "end_time": "1.9983",
+            "original_transcript": "number blacklisted Are there",
+            "translated_transcript": "number blacklisted Are there",
+            "tone": "Neutral",
+            "rate_of_speech": "137.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.0083",
+            "end_time": "2.074",
+            "original_transcript": "GGG",
+            "translated_transcript": "GGG",
+            "tone": "Neutral",
+            "rate_of_speech": "15.23",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ggg"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.0847",
+            "end_time": "2.4263",
+            "original_transcript": "or",
+            "translated_transcript": "or",
+            "tone": "Neutral",
+            "rate_of_speech": "2.93",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.4485",
+            "end_time": "2.464",
+            "original_transcript": "hello",
+            "translated_transcript": "silav",
+            "tone": "Neutral",
+            "rate_of_speech": "64.59",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.4912",
+            "end_time": "2.5258",
+            "original_transcript": "Hello One",
+            "translated_transcript": "Hallo Een",
+            "tone": "Neutral",
+            "rate_of_speech": "57.69",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo een"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.5263",
+            "end_time": "2.5855",
+            "original_transcript": "minute sir",
+            "translated_transcript": "minute cheese",
+            "tone": "Neutral",
+            "rate_of_speech": "33.80",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "minute cheese"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.6268",
+            "end_time": "2.6363",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "105.45",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.6517",
+            "end_time": "3.0751",
+            "original_transcript": "So Apu Bingo Bingo Name the snacks A name or",
+            "translated_transcript": "So Apu Bingo Bingo Name the snacks A name or",
+            "tone": "Neutral",
+            "rate_of_speech": "23.61",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "apu bingo bingo name"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.0785",
+            "end_time": "3.085",
+            "original_transcript": "an new",
+            "translated_transcript": "the new",
+            "tone": "Neutral",
+            "rate_of_speech": "307.69",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.0868",
+            "end_time": "3.2005",
+            "original_transcript": "store Anu Province General Store An an an",
+            "translated_transcript": "store Anu Province General Store Year",
+            "tone": "Neutral",
+            "rate_of_speech": "52.79",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "anu province",
+                "store"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.2415",
+            "end_time": "3.3055",
+            "original_transcript": "an a mobile number 74170",
+            "translated_transcript": "or a mobile number 74170",
+            "tone": "Neutral",
+            "rate_of_speech": "78.12",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mobile number"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.3173",
+            "end_time": "3.3477",
+            "original_transcript": "31475",
+            "translated_transcript": "31475",
+            "tone": "Neutral",
+            "rate_of_speech": "32.95",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.3595",
+            "end_time": "3.3853",
+            "original_transcript": "Are you Are you any number I made up",
+            "translated_transcript": "Are you any number I made up",
+            "tone": "Neutral",
+            "rate_of_speech": "271.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.4051",
+            "end_time": "3.4233",
+            "original_transcript": "Um",
+            "translated_transcript": "Um",
+            "tone": "Neutral",
+            "rate_of_speech": "55.05",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "um"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.4267",
+            "end_time": "3.4421",
+            "original_transcript": "you know",
+            "translated_transcript": "you know",
+            "tone": "Neutral",
+            "rate_of_speech": "129.17",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.4562",
+            "end_time": "3.4985",
+            "original_transcript": "OK Email ID Here a go",
+            "translated_transcript": "OK Email ID Here to go",
+            "tone": "Neutral",
+            "rate_of_speech": "141.68",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "email id"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.5073",
+            "end_time": "3.5508",
+            "original_transcript": "E email ID Hey Capo",
+            "translated_transcript": "Email ID Hey Capo",
+            "tone": "Neutral",
+            "rate_of_speech": "91.95",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "email id hey capo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.5618",
+            "end_time": "3.5675",
+            "original_transcript": "Her",
+            "translated_transcript": "Hers",
+            "tone": "Neutral",
+            "rate_of_speech": "176.47",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hers"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.5676",
+            "end_time": "3.5803",
+            "original_transcript": "email ID",
+            "translated_transcript": "E-Mail ID",
+            "tone": "Neutral",
+            "rate_of_speech": "157.69",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "e-mail id"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.5876",
+            "end_time": "3.6103",
+            "original_transcript": "email ID But that is it",
+            "translated_transcript": "E-mail ID Pero que es",
+            "tone": "Neutral",
+            "rate_of_speech": "220.59",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "e-mail id pero",
+                "que es"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.6198",
+            "end_time": "3.6243",
+            "original_transcript": "It",
+            "translated_transcript": "It",
+            "tone": "Neutral",
+            "rate_of_speech": "222.22",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.6275",
+            "end_time": "3.6565",
+            "original_transcript": "is VISHV",
+            "translated_transcript": "is VISHV",
+            "tone": "Neutral",
+            "rate_of_speech": "68.97",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "vishv"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.6677",
+            "end_time": "3.6988",
+            "original_transcript": "VISHV",
+            "translated_transcript": "VISHW",
+            "tone": "Neutral",
+            "rate_of_speech": "32.09",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "vishw"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.7102",
+            "end_time": "3.7247",
+            "original_transcript": "R AJ",
+            "translated_transcript": "R AJ",
+            "tone": "Neutral",
+            "rate_of_speech": "138.09",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "r aj"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.7335",
+            "end_time": "3.747",
+            "original_transcript": "R AJ",
+            "translated_transcript": "R AJ",
+            "tone": "Neutral",
+            "rate_of_speech": "147.97",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "r aj"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.7587",
+            "end_time": "3.788",
+            "original_transcript": "79 at the rate gmail dot",
+            "translated_transcript": "79 at the rate gmail dot",
+            "tone": "Neutral",
+            "rate_of_speech": "204.66",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "rate gmail dot"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.7881",
+            "end_time": "3.8403",
+            "original_transcript": "com 79 at the rate gmail.com",
+            "translated_transcript": "com 79 at the rate gmail.com",
+            "tone": "Neutral",
+            "rate_of_speech": "115.02",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "rate gmail.com"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.8691",
+            "end_time": "3.9195",
+            "original_transcript": "the Gap address But that is a A new provision store",
+            "translated_transcript": "l'adresse de la Gap Mas est une nouveau store de provisionement",
+            "tone": "Neutral",
+            "rate_of_speech": "218.54",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "gap mas",
+                "nouveau store"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.9563",
+            "end_time": "3.9745",
+            "original_transcript": "Just for this",
+            "translated_transcript": "Just for this",
+            "tone": "Neutral",
+            "rate_of_speech": "165.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.985",
+            "end_time": "4.026",
+            "original_transcript": "one minute A new provision store Correct",
+            "translated_transcript": "one minute A new supply store Correct",
+            "tone": "Neutral",
+            "rate_of_speech": "170.80",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "correct"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.0533",
+            "end_time": "4.2631",
+            "original_transcript": "a provision store",
+            "translated_transcript": "a supply store",
+            "tone": "Neutral",
+            "rate_of_speech": "14.30",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "supply store"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.278",
+            "end_time": "4.3025",
+            "original_transcript": "OK sir",
+            "translated_transcript": "OK sir",
+            "tone": "Neutral",
+            "rate_of_speech": "81.63",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.3132",
+            "end_time": "4.3895",
+            "original_transcript": "NAGL a nag REWT I revathi nag",
+            "translated_transcript": "NAGL a nag REWT i revathi nag",
+            "tone": "Neutral",
+            "rate_of_speech": "91.72",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "nagl",
+                "rewt",
+                "i revathi nag"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.406",
+            "end_time": "4.4758",
+            "original_transcript": "nag revathi nag revathi zilla",
+            "translated_transcript": "naked rewathi naked rewathi zilla",
+            "tone": "Neutral",
+            "rate_of_speech": "71.60",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "rewathi zilla"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.487",
+            "end_time": "4.5065",
+            "original_transcript": "agra",
+            "translated_transcript": "Agra",
+            "tone": "Neutral",
+            "rate_of_speech": "51.28",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "agra"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.5327",
+            "end_time": "4.5465",
+            "original_transcript": "Agra",
+            "translated_transcript": "Agra",
+            "tone": "Neutral",
+            "rate_of_speech": "72.20",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "agra"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.606",
+            "end_time": "4.6223",
+            "original_transcript": "state",
+            "translated_transcript": "Estado",
+            "tone": "Neutral",
+            "rate_of_speech": "61.22",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "estado"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.6578",
+            "end_time": "4.672",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "70.59",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.699",
+            "end_time": "4.7193",
+            "original_transcript": "in gay Yeah",
+            "translated_transcript": "and gay Yeah",
+            "tone": "Happy",
+            "rate_of_speech": "147.54",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "yeah"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.735",
+            "end_time": "4.775",
+            "original_transcript": "Pin code 8283102",
+            "translated_transcript": "Código de pino 8283102",
+            "tone": "Neutral",
+            "rate_of_speech": "100.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "código"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.7795",
+            "end_time": "4.7958",
+            "original_transcript": "Uttar Pradesh",
+            "translated_transcript": "Uttar Pradesh",
+            "tone": "Neutral",
+            "rate_of_speech": "122.32",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "uttar pradesh"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.8065",
+            "end_time": "4.8118",
+            "original_transcript": "for the",
+            "translated_transcript": "for the",
+            "tone": "Neutral",
+            "rate_of_speech": "376.18",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.8142",
+            "end_time": "4.8581",
+            "original_transcript": "Pradesh state Have pin code have 50 though",
+            "translated_transcript": "Rajasthan state Hai codice pin ha 50 ha",
+            "tone": "Neutral",
+            "rate_of_speech": "181.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "rajasthan",
+                "hai",
+                "codice pin"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.8683",
+            "end_time": "4.8865",
+            "original_transcript": "English with I am",
+            "translated_transcript": "Inglés con I am",
+            "tone": "Neutral",
+            "rate_of_speech": "220.18",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "inglés"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.9055",
+            "end_time": "4.93",
+            "original_transcript": "28310",
+            "translated_transcript": "28310",
+            "tone": "Neutral",
+            "rate_of_speech": "40.82",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.9302",
+            "end_time": "4.9387",
+            "original_transcript": "two",
+            "translated_transcript": "two",
+            "tone": "Neutral",
+            "rate_of_speech": "117.42",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.9542",
+            "end_time": "5.0",
+            "original_transcript": "OK so get not in here Go",
+            "translated_transcript": "Ok so don't get in here Go",
+            "tone": "Neutral",
+            "rate_of_speech": "152.73",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.0091",
+            "end_time": "5.2473",
+            "original_transcript": "Order",
+            "translated_transcript": "Orden",
+            "tone": "Neutral",
+            "rate_of_speech": "4.20",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "orden"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.4451",
+            "end_time": "5.4915",
+            "original_transcript": "OK I have two sales for a number or number per se",
+            "translated_transcript": "OK I have two sales for a number or number per se",
+            "tone": "Neutral",
+            "rate_of_speech": "258.99",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.5002",
+            "end_time": "5.5118",
+            "original_transcript": "Number of",
+            "translated_transcript": "Número de",
+            "tone": "Neutral",
+            "rate_of_speech": "171.67",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "número"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.5332",
+            "end_time": "5.5335",
+            "original_transcript": "you",
+            "translated_transcript": "you",
+            "tone": "Neutral",
+            "rate_of_speech": "2857.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.5667",
+            "end_time": "5.598",
+            "original_transcript": "now",
+            "translated_transcript": "niha",
+            "tone": "Neutral",
+            "rate_of_speech": "31.91",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.6637",
+            "end_time": "5.7038",
+            "original_transcript": "number That number is",
+            "translated_transcript": "nummer That number is",
+            "tone": "Neutral",
+            "rate_of_speech": "99.59",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.7195",
+            "end_time": "5.7635",
+            "original_transcript": "Raji Kara Take a number with you",
+            "translated_transcript": "Raji Kara Take a number with you",
+            "tone": "Neutral",
+            "rate_of_speech": "159.15",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "raji kara"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.7753",
+            "end_time": "5.8171",
+            "original_transcript": "Double 865",
+            "translated_transcript": "Doble 865",
+            "tone": "Neutral",
+            "rate_of_speech": "47.81",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "doble"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.8283",
+            "end_time": "5.8515",
+            "original_transcript": "double 865",
+            "translated_transcript": "dubbel 865",
+            "tone": "Neutral",
+            "rate_of_speech": "86.39",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.8642",
+            "end_time": "5.8933",
+            "original_transcript": "9873",
+            "translated_transcript": "9873",
+            "tone": "Neutral",
+            "rate_of_speech": "34.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.897",
+            "end_time": "5.9187",
+            "original_transcript": "9873",
+            "translated_transcript": "9873",
+            "tone": "Neutral",
+            "rate_of_speech": "46.19",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.9282",
+            "end_time": "5.9417",
+            "original_transcript": "70",
+            "translated_transcript": "70",
+            "tone": "Neutral",
+            "rate_of_speech": "74.07",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.9522",
+            "end_time": "5.969",
+            "original_transcript": "70",
+            "translated_transcript": "70",
+            "tone": "Neutral",
+            "rate_of_speech": "59.41",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.9778",
+            "end_time": "5.9942",
+            "original_transcript": "Hm",
+            "translated_transcript": "Um",
+            "tone": "Neutral",
+            "rate_of_speech": "61.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "um"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.0058",
+            "end_time": "6.2091",
+            "original_transcript": "OK a AAA dominate to call me Hold for a second A circle sector applying for when I call this card Ok Thank you",
+            "translated_transcript": "OK a AAA dominates to call me Hold for a second A circle sector applying for when I call this card Ok Thank you",
+            "tone": "Neutral",
+            "rate_of_speech": "118.04",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "aaa",
+                "hold",
+                "circle sector",
+                "ok thank"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.2975",
+            "end_time": "6.3835",
+            "original_transcript": "How is that Ah yes Lori",
+            "translated_transcript": "How is that Ah yes Lori",
+            "tone": "Neutral",
+            "rate_of_speech": "69.77",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "lori"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.4273",
+            "end_time": "6.4451",
+            "original_transcript": "I live with the sensible one",
+            "translated_transcript": "I live with the sensitive one",
+            "tone": "Happy",
+            "rate_of_speech": "336.76",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.4607",
+            "end_time": "6.473",
+            "original_transcript": "Yeah",
+            "translated_transcript": "Ja",
+            "tone": "Neutral",
+            "rate_of_speech": "81.08",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ja"
+            ]
+        }
+    ],
+    "translated_segments": "Very good morning Thank you for calling a DC My name is Kim How can I help you Ok just your PC B How is the Hallo Hej Hallo for me Hallo You don't want it once in a Samantha and your Doktor Ooh silav Hello sir this is here Hallo William is the adress Ja So order it or Mali So in case of a B play Have you got a number of blacklist number blacklisted Are there GGG or silav Hallo Een minute cheese Hallo So Apu Bingo Bingo Name the snacks A name or the new store Anu Province General Store Year or a mobile number 74170 31475 Are you any number I made up Um you know OK Email ID Here to go Email ID Hey Capo Hers E-Mail ID E-mail ID Pero que es It is VISHV VISHW R AJ R AJ 79 at the rate gmail dot com 79 at the rate gmail.com l'adresse de la Gap Mas est une nouveau store de provisionement Just for this one minute A new supply store Correct a supply store OK sir NAGL a nag REWT i revathi nag naked rewathi naked rewathi zilla Agra Agra Estado Hallo and gay Yeah Código de pino 8283102 Uttar Pradesh for the Rajasthan state Hai codice pin ha 50 ha Inglés con I am 28310 two Ok so don't get in here Go Orden OK I have two sales for a number or number per se Número de you niha nummer That number is Raji Kara Take a number with you Doble 865 dubbel 865 9873 9873 70 70 Um OK a AAA dominates to call me Hold for a second A circle sector applying for when I call this card Ok Thank you How is that Ah yes Lori I live with the sensitive one Ja ",
+    "speaker_a_segments": "Very good morning Thank you for calling a DC My name is Kim How can I help you Hallo Hej Hallo for me Hallo You don't want Doktor Ooh silav Hello sir this is here William is the So in case of a B play Have you number blacklisted Are there minute cheese So Apu Bingo Bingo Name the snacks A name or the new or a mobile number 74170 31475 Um OK Email ID Here to go Email ID Hey Capo Hers E-mail ID Pero que es It VISHW R AJ com 79 at the rate gmail.com l'adresse de la Gap Mas est une nouveau store de provisionement one minute A new supply store Correct a supply store OK sir naked rewathi naked rewathi zilla Agra Estado Hallo and gay Yeah Uttar Pradesh for the Inglés con I am two Ok so don't get in here Go OK I have two sales for a number or number per se you Raji Kara Take a number with you dubbel 865 9873 70 OK a AAA dominates to call me Hold for a second A circle sector applying for when I call this card Ok Thank you Ja ",
+    "speaker_b_segments": "Ok just your PC B How is the it once in a Samantha and your Hallo adress Ja So order it or Mali got a number of blacklist GGG or silav Hallo Een Hallo store Anu Province General Store Year Are you any number I made up you know E-Mail ID is VISHV R AJ 79 at the rate gmail dot Just for this NAGL a nag REWT i revathi nag Agra Código de pino 8283102 Rajasthan state Hai codice pin ha 50 ha 28310 Orden Número de niha nummer That number is Doble 865 9873 70 Um How is that Ah yes Lori I live with the sensitive one ",
+    "summary": "The speaker, whose name appears to be Kim, helps William order a new PC. While completing the order, William's number (blacklisted) gets disconnected. William calls again and gives his number: 7417 031 475. He is interested in ordering snacks as well and wants to provide contact details for a new supply store. The store's email is vishv@gmail.com and the pin code is 8283102. William is also applying for a new card, which he wants to be able to use immediately. The call ends with some additional small talk.",
+    "speaker_a_summary": "The customer is calling about a blocked number. The operator, Kim, helps the customer by checking for any possible blacklistings. The customer then goes on to provide a new number, 74170 31475. They also provide an e-mail address, VISHW RAJ (vraj) com 79 at the rate gmail.com. They ask if there is a new supply store. The operator confirms it is a new supply store, and the customer gives the location of the store in naked rewathi zilla Agra Estado Uttar Pradesh. The customer then requests to be transferred to the English language line, and after a brief exchange of goodbyes, the call ends.",
+    "speaker_b_summary": "User B's computer has a number of issues, including a blacklisted Norton antivirus, problems with their address book, and difficulty placing orders. The user provides the following information: their name is Vishv Raj, their email is vishv.aj79@gmail.com, their home address is Rajasthan state, pin code 8283102, and their phone number is 865-9873-70.",
+    "cohere_points": "- A customer calls to order a product but the call becomes complicated when the agent tries to confirm the address and other details.\n- The caller provides various details including address, phone number and email, and finally manages to place the order. \n- The call ends with the customer being provided with a reference number.",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "1. Customer service greetings\n2. Name introductions\n3. PC assistance\n4. Address confirmation\n5. Blacklist inquiries\n6. Contact number verification\n7. Email identification\n8. Provision store information\n9. Location details\n10. Pin code discussions\n11. State identification\n12. Sales order queries\n13. Backup numbers provided\n14. Phone call etiquette\n15. Closing remarks",
+    "Resolution": "Based on the text provided, it appears that the customer's issue has not been resolved as there is no clear mention of a specific problem being addressed or solved in the conversation.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "Yes\n\nSentences where the caller displayed empathy:\n- \"Um you know OK\"\n- \"Hold for a second\"\n- \"Ah yes Lori I live with the sensitive one\"",
+    "Was there any profanity on the call": "No.",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 120.16499999999995,
+    "num_silences": 105
+}

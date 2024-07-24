@@ -1,0 +1,878 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.022",
+            "end_time": "0.07",
+            "original_transcript": "thanks for calling ITC you are speaking to Praveen how may I",
+            "translated_transcript": "thanks for calling ITC you are speaking to Praveen how may I",
+            "tone": "Neutral",
+            "rate_of_speech": "250.09",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "itc",
+                "praveen"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.07",
+            "end_time": "0.0808",
+            "original_transcript": "help you today",
+            "translated_transcript": "help you today",
+            "tone": "Neutral",
+            "rate_of_speech": "276.92",
+            "emotion": "caring",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.092",
+            "end_time": "0.096",
+            "original_transcript": "yes",
+            "translated_transcript": "ja",
+            "tone": "Neutral",
+            "rate_of_speech": "248.96",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.096",
+            "end_time": "0.103",
+            "original_transcript": "sir",
+            "translated_transcript": "cheese",
+            "tone": "Neutral",
+            "rate_of_speech": "143.20",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.1223",
+            "end_time": "0.1235",
+            "original_transcript": "hello",
+            "translated_transcript": "silav",
+            "tone": "Neutral",
+            "rate_of_speech": "869.57",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.1428",
+            "end_time": "0.1712",
+            "original_transcript": "yeah tell me sir how can I help you",
+            "translated_transcript": "yeah tell me how can i help you",
+            "tone": "Neutral",
+            "rate_of_speech": "282.19",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.2045",
+            "end_time": "0.2112",
+            "original_transcript": "hello",
+            "translated_transcript": "silav",
+            "tone": "Neutral",
+            "rate_of_speech": "150.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.2158",
+            "end_time": "0.216",
+            "original_transcript": "hello",
+            "translated_transcript": "silav",
+            "tone": "Neutral",
+            "rate_of_speech": "5454.55",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.2432",
+            "end_time": "0.2716",
+            "original_transcript": "sir tell me sir how can I help you",
+            "translated_transcript": "tell me how I can help you",
+            "tone": "Neutral",
+            "rate_of_speech": "245.90",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.2823",
+            "end_time": "0.5493",
+            "original_transcript": "ಆ ಅದು ಆಶೀರ್ವಾದ ನಾವ್ daily ಪುತ್ತೂರು ದಕ್ಷಿಣ ಕನ್ನಡ ಪುತ್ತೂರು ಹರಿಪ್ರಸಾದ್ hotel ಕನ್ನಡ ಕನ್ನಡ ಕನ್ನಡ ಕನ್ನಡ okay okay",
+            "translated_transcript": "That's it blessings now daily Putur South Kannada Purtur Hariprasad hotel Kannada Kannada Kannada Kannada okay",
+            "tone": "Neutral",
+            "rate_of_speech": "59.93",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "putur",
+                "kannada purtur hariprasad",
+                "kannada kannada kannada kannada"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.162",
+            "end_time": "1.2838",
+            "original_transcript": "ಹಲೋ ನಮಸ್ತೆ ಸರ್ ಐಟಿ ಸಂಪತ್ ಮಾಡಿದ್ದೆ ನಾನು ಅಂತ ಹೇಳಿ ನಿಮ್ ಹೆಸರು ಸರ್",
+            "translated_transcript": "Hello Namaste sir IT was rich I tell you the end Nim name sir",
+            "tone": "Happy",
+            "rate_of_speech": "114.93",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "hello namaste",
+                "it",
+                "nim",
+                "name sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.307",
+            "end_time": "1.3212",
+            "original_transcript": "ನಿಮ್ ಹೆಸರು",
+            "translated_transcript": "Nim Name",
+            "tone": "Neutral",
+            "rate_of_speech": "141.18",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "nim name"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.3462",
+            "end_time": "1.42",
+            "original_transcript": "ಆ ಇದು ರಾಜೇಶ್ hotel ಹರಿಪ್ರಸಾದ್ ಬಟ್ಟರ್",
+            "translated_transcript": "That's it Rajesh hotel Hariprasad Butter",
+            "tone": "Neutral",
+            "rate_of_speech": "81.26",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "rajesh",
+                "hariprasad butter"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.434",
+            "end_time": "1.5347",
+            "original_transcript": "ಅದೀಗ ನಾವು daily ಎರಡು hotel ಅಲ್ಲಿ ಆಶೀರ್ವಾದ ಆಟ use ಮಾಡ್ತೇವೆ ಅರವತ್ತು ಎಪ್ಪತ್ತು KG ಎಷ್ಟು ಬೇಕು ನಮಗೆ",
+            "translated_transcript": "Then we used a blessing game there every two days sixty and seventy KG how much do we need",
+            "tone": "Neutral",
+            "rate_of_speech": "188.74",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "days sixty",
+                "kg"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.5433",
+            "end_time": "1.5796",
+            "original_transcript": "okay so ನಿಮಗೆ hotel ಗೆ ಆಟ ಬೇಕಾ",
+            "translated_transcript": "okay so you need a game for the hotel",
+            "tone": "Neutral",
+            "rate_of_speech": "247.71",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.5933",
+            "end_time": "1.5988",
+            "original_transcript": "ಹೌದ್",
+            "translated_transcript": "Haud",
+            "tone": "Neutral",
+            "rate_of_speech": "181.27",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "haud"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.5988",
+            "end_time": "1.6303",
+            "original_transcript": "ಹೌದು",
+            "translated_transcript": "Yes",
+            "tone": "Neutral",
+            "rate_of_speech": "31.76",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.6418",
+            "end_time": "1.7812",
+            "original_transcript": "ನನಗೆ ಅದು fresh ಸಿಗ್ತಾ ಇಲ್ಲ old stock ಸಿಗ್ತಾ ಇದೆ ಮೊನ್ನೆಲ್ಲ ಅದ್ರಲ್ಲಿ ಗುಗ್ಗುರು ಇದೆಲ್ಲ ಬಂದಿದೆ item ಳಲ್ಲ ಆಗಿದೆ",
+            "translated_transcript": "For me it is fresh Sigta no old stock Sigta is Monnella Adralli Guggur has not been item is not",
+            "tone": "Neutral",
+            "rate_of_speech": "143.54",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "sigta",
+                "old stock",
+                "sigta",
+                "monnella adralli guggur"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.802",
+            "end_time": "2.1021",
+            "original_transcript": "ಅದೇ ನಮ್ ಏನ್ ಮಾಡ್ತೀರಾ ನಿಮ್ ಕಡೆ request details concern team ಗೆ ಕಳುಸ್ತೀನಿ ಒಂದು team ಇದೆ ನಮ್ದು ಅವ್ನ್ team ಗೆ ನಿಮ್ details ಕಳ್ಸ್ತೀನಿ request ಮಾಡ್ತೀನಿ so ನಿಮ್ಗೆ ನಿಮ್ hotel ಗೆ ಆಟ ಬೇಕು only ಆಟ ಬೇಕಾ sir ನಿಮ್ಗೆ",
+            "translated_transcript": "Same num en modthira nim side request details concern team to namdu avn team to nimdu avn team to nimm details kulstini request modtini so you need a game to nim hotel only game need to sir nim",
+            "tone": "Neutral",
+            "rate_of_speech": "126.60",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "modthira nim side request details concern team",
+                "namdu avn team",
+                "nimdu avn team",
+                "nimm details kulstini request modtini",
+                "nim hotel",
+                "game need",
+                "sir nim"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.1301",
+            "end_time": "2.2178",
+            "original_transcript": "ಆಶೀರ್ವಾದದಲ್ಲಿ item ಇದೆ spices ಇದೆ",
+            "translated_transcript": "There is an item in blessing spices",
+            "tone": "Neutral",
+            "rate_of_speech": "79.83",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.235",
+            "end_time": "2.6737",
+            "original_transcript": "five twenty five KG ಬರ್ತಾರೆ",
+            "translated_transcript": "five twenty five KG bartare",
+            "tone": "Neutral",
+            "rate_of_speech": "11.40",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "kg"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.6907",
+            "end_time": "2.7847",
+            "original_transcript": "ಎರಡ್ ಕೆಜಿ so ನಿಮ್ಗೆ first ಆತ ತೊಗೊಳ್ತೀನಿ okay",
+            "translated_transcript": "Erad KG so you are the first one okay",
+            "tone": "Neutral",
+            "rate_of_speech": "95.74",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "erad kg"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.7931",
+            "end_time": "2.8042",
+            "original_transcript": "so ಆದ್ಮೇಲೆ",
+            "translated_transcript": "so on the other hand",
+            "tone": "Neutral",
+            "rate_of_speech": "453.86",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.8142",
+            "end_time": "2.8176",
+            "original_transcript": "ಪೂರ ನಿಮ್ಗೆ",
+            "translated_transcript": "Pura Nimge",
+            "tone": "Neutral",
+            "rate_of_speech": "574.16",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pura nimge"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.8176",
+            "end_time": "3.232",
+            "original_transcript": "ಅಲ್ಲಿಂದ ಸರಿ ಒಂದ್ ಕೆಲ್ಸ ಮಾಡೋಣ ನಿಮ್ email ID use ಮಾಡ್ತಾನೆ",
+            "translated_transcript": "From there, let's check if I used my email ID",
+            "tone": "Neutral",
+            "rate_of_speech": "24.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "'s check",
+                "id"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.253",
+            "end_time": "3.2643",
+            "original_transcript": "email",
+            "translated_transcript": "e-mail",
+            "tone": "Neutral",
+            "rate_of_speech": "88.11",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.2643",
+            "end_time": "3.2703",
+            "original_transcript": "ID",
+            "translated_transcript": "ID",
+            "tone": "Neutral",
+            "rate_of_speech": "166.67",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "id"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.2938",
+            "end_time": "3.3018",
+            "original_transcript": "ರಾಜೇಶ್",
+            "translated_transcript": "Rajesh",
+            "tone": "Neutral",
+            "rate_of_speech": "125.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "rajesh"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.3365",
+            "end_time": "3.3473",
+            "original_transcript": "ರಾಜೇಶ್",
+            "translated_transcript": "Rajesh",
+            "tone": "Neutral",
+            "rate_of_speech": "92.45",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "rajesh"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.3635",
+            "end_time": "3.3845",
+            "original_transcript": "ಅಲಿಕೆ ಎಕೆ",
+            "translated_transcript": "Alaki AK",
+            "tone": "Neutral",
+            "rate_of_speech": "95.16",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "alaki ak"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.3967",
+            "end_time": "3.4295",
+            "original_transcript": "L I K E okay",
+            "translated_transcript": "L I K E okay",
+            "tone": "Neutral",
+            "rate_of_speech": "152.28",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "k e"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.4468",
+            "end_time": "3.4876",
+            "original_transcript": "A A L I K",
+            "translated_transcript": "A L I K",
+            "tone": "Neutral",
+            "rate_of_speech": "97.96",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.5035",
+            "end_time": "3.5188",
+            "original_transcript": "ಜ",
+            "translated_transcript": "J",
+            "tone": "Neutral",
+            "rate_of_speech": "65.22",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.5335",
+            "end_time": "3.6506",
+            "original_transcript": "ರಾಜೇಶ್ ಹಲೋ",
+            "translated_transcript": "Rajesh Hello",
+            "tone": "Neutral",
+            "rate_of_speech": "17.07",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "rajesh hello"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.6696",
+            "end_time": "3.7092",
+            "original_transcript": "ರಾಜೇಶ್",
+            "translated_transcript": "Rajesh",
+            "tone": "Neutral",
+            "rate_of_speech": "25.31",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "rajesh"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.7092",
+            "end_time": "3.7105",
+            "original_transcript": "ಅಳಿಕೆ",
+            "translated_transcript": "Erasure",
+            "tone": "Neutral",
+            "rate_of_speech": "750.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "erasure"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.7228",
+            "end_time": "3.8193",
+            "original_transcript": "ಮತ್ತೆ number ಬರ್ಕೊಳ್ಳಿ ಇದು hotel number ನನ್ನ personal number nine double zero",
+            "translated_transcript": "Save number again This is hotel number my personal number nine double zero",
+            "tone": "Neutral",
+            "rate_of_speech": "134.69",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "save",
+                "hotel number",
+                "personal number",
+                "double zero"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.8392",
+            "end_time": "3.8633",
+            "original_transcript": "nine double zero",
+            "translated_transcript": "nine double zero",
+            "tone": "Neutral",
+            "rate_of_speech": "124.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "double zero"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.8742",
+            "end_time": "3.9095",
+            "original_transcript": "double eight double seven",
+            "translated_transcript": "double eight double seven",
+            "tone": "Neutral",
+            "rate_of_speech": "113.15",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.9562",
+            "end_time": "3.9717",
+            "original_transcript": "okay ಹೇಳಿ sir",
+            "translated_transcript": "tell me okay sir",
+            "tone": "Neutral",
+            "rate_of_speech": "257.79",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.9898",
+            "end_time": "3.9958",
+            "original_transcript": "two three",
+            "translated_transcript": "två tre",
+            "tone": "Neutral",
+            "rate_of_speech": "332.41",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "två tre"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.9958",
+            "end_time": "4.0",
+            "original_transcript": "six",
+            "translated_transcript": "six",
+            "tone": "Neutral",
+            "rate_of_speech": "240.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.0097",
+            "end_time": "4.0256",
+            "original_transcript": "two three six",
+            "translated_transcript": "two three six",
+            "tone": "Neutral",
+            "rate_of_speech": "187.70",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.0413",
+            "end_time": "4.0422",
+            "original_transcript": "ದಕ್ಷಿಣ",
+            "translated_transcript": "South",
+            "tone": "Neutral",
+            "rate_of_speech": "1200.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.1912",
+            "end_time": "4.2753",
+            "original_transcript": "ಕನ್ನಡ",
+            "translated_transcript": "Kannada",
+            "tone": "Neutral",
+            "rate_of_speech": "11.88",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "kannada"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.2858",
+            "end_time": "4.297",
+            "original_transcript": "ಪುತ್ತೂರ್",
+            "translated_transcript": "Purtur",
+            "tone": "Neutral",
+            "rate_of_speech": "89.42",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "purtur"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.322",
+            "end_time": "4.3418",
+            "original_transcript": "al tower",
+            "translated_transcript": "to the tower",
+            "tone": "Neutral",
+            "rate_of_speech": "151.26",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.3591",
+            "end_time": "4.3597",
+            "original_transcript": "tower",
+            "translated_transcript": "turret",
+            "tone": "Neutral",
+            "rate_of_speech": "2000.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.4007",
+            "end_time": "4.4387",
+            "original_transcript": "B O W R B",
+            "translated_transcript": "B O W R B",
+            "tone": "Neutral",
+            "rate_of_speech": "131.58",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "b o w"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.4537",
+            "end_time": "4.4763",
+            "original_transcript": "ಗೋಲ್ವ okay",
+            "translated_transcript": "Goal okay",
+            "tone": "Neutral",
+            "rate_of_speech": "88.30",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "goal"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.5003",
+            "end_time": "4.5188",
+            "original_transcript": "ಹುಟ್ಟೂರು ದಕ್ಷಿಣ ಕನ್ನಡ",
+            "translated_transcript": "Huttur South Kannada",
+            "tone": "Neutral",
+            "rate_of_speech": "162.02",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "huttur",
+                "kannada"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.5585",
+            "end_time": "4.5728",
+            "original_transcript": "ಹೊತ್ತರು",
+            "translated_transcript": "carried",
+            "tone": "Neutral",
+            "rate_of_speech": "69.85",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.596",
+            "end_time": "4.621",
+            "original_transcript": "ದಕ್ಷಿಣ ಕರ್ನಾಟಕ",
+            "translated_transcript": "South Karnataka",
+            "tone": "Neutral",
+            "rate_of_speech": "80.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "karnataka"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.6302",
+            "end_time": "4.6647",
+            "original_transcript": "ಆ ಇದು pin code",
+            "translated_transcript": "That's this pin code",
+            "tone": "Neutral",
+            "rate_of_speech": "115.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pin code"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.675",
+            "end_time": "4.7083",
+            "original_transcript": "five seven four two zero one",
+            "translated_transcript": "five seven four two zero one",
+            "tone": "Neutral",
+            "rate_of_speech": "180.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.7428",
+            "end_time": "4.8615",
+            "original_transcript": "five seven four two zero one okay so ನಿಮ್ದು hotel name ನ ಹರಿಪ್ರಸಾದ್ ಆ",
+            "translated_transcript": "five seven four two zero one okay so nimdu hotel name's Hariprasad Aa",
+            "tone": "Neutral",
+            "rate_of_speech": "109.55",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "nimdu hotel name 's",
+                "hariprasad aa"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.8726",
+            "end_time": "4.9522",
+            "original_transcript": "ಸರಿ",
+            "translated_transcript": "OK",
+            "tone": "Neutral",
+            "rate_of_speech": "12.58",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.9687",
+            "end_time": "5.2275",
+            "original_transcript": "ನಮ್ details ತಗೊಂಡಿದೆ ನಮ್ಮ team ಗೆ ಕಳುಸ್ತೀನಿ ಅವನು check ಮಾಡ್ಕೊಂಡು ನಿಮಗೆ call ಮಾಡ್ತಾರೆ so ಇವತ್ತು ನಿಮ್ಗೆ ಆಟ ಆಟ ಬೇಕು ಅಂತ ತಗೊಂಡಿದೆ so ಆದ್ಮೇಲೆ ನಿಮಗೆ ಏನೂ add ಮಾಡ್ಬೇಕು team team executive ಅಂತ ಬರ್ತಾರಲ್ಲ ಅವ್ರ್ salesman ಅವನಿಗೆ ಕೇಳಿ ಏನೇನು ಬೇಕೋ",
+            "translated_transcript": "We have details for our team and he would have called you when he checked and called you so here you need the game game is over so you have to add nothing team team executive end up waiting for salesman ask him what he wants",
+            "tone": "Neutral",
+            "rate_of_speech": "177.72",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "game game",
+                "team team executive end"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.2275",
+            "end_time": "5.244",
+            "original_transcript": "ಅವನು ನಿಮಗೆ",
+            "translated_transcript": "He is for you",
+            "tone": "Neutral",
+            "rate_of_speech": "242.18",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.244",
+            "end_time": "5.3267",
+            "original_transcript": "ಇನ್ನು details ನ ಕೊಡ್ತಾರೆ okay ನೀವು ITC ಗೆ ಸಂಪತ್ತು ಮಾಡಿದೆ",
+            "translated_transcript": "No more details okay you've made a fortune for ITC",
+            "tone": "Neutral",
+            "rate_of_speech": "120.97",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "details okay",
+                "itc"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.3448",
+            "end_time": "5.3452",
+            "original_transcript": "okay",
+            "translated_transcript": "ok",
+            "tone": "Neutral",
+            "rate_of_speech": "3157.89",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.3608",
+            "end_time": "5.3677",
+            "original_transcript": "ಧನ್ಯವಾದ",
+            "translated_transcript": "Thank you",
+            "tone": "Neutral",
+            "rate_of_speech": "292.68",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thank"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.3885",
+            "end_time": "5.3963",
+            "original_transcript": "ಸರಿ",
+            "translated_transcript": "OK",
+            "tone": "Neutral",
+            "rate_of_speech": "127.66",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        }
+    ],
+    "translated_segments": "thanks for calling ITC you are speaking to Praveen how may I help you today ja cheese silav yeah tell me how can i help you silav silav tell me how I can help you That's it blessings now daily Putur South Kannada Purtur Hariprasad hotel Kannada Kannada Kannada Kannada okay Hello Namaste sir IT was rich I tell you the end Nim name sir Nim Name That's it Rajesh hotel Hariprasad Butter Then we used a blessing game there every two days sixty and seventy KG how much do we need okay so you need a game for the hotel Haud Yes For me it is fresh Sigta no old stock Sigta is Monnella Adralli Guggur has not been item is not Same num en modthira nim side request details concern team to namdu avn team to nimdu avn team to nimm details kulstini request modtini so you need a game to nim hotel only game need to sir nim There is an item in blessing spices five twenty five KG bartare Erad KG so you are the first one okay so on the other hand Pura Nimge From there, let's check if I used my email ID e-mail ID Rajesh Rajesh Alaki AK L I K E okay A L I K J Rajesh Hello Rajesh Erasure Save number again This is hotel number my personal number nine double zero nine double zero double eight double seven tell me okay sir två tre six two three six South Kannada Purtur to the tower turret B O W R B Goal okay Huttur South Kannada carried South Karnataka That's this pin code five seven four two zero one five seven four two zero one okay so nimdu hotel name's Hariprasad Aa OK We have details for our team and he would have called you when he checked and called you so here you need the game game is over so you have to add nothing team team executive end up waiting for salesman ask him what he wants He is for you No more details okay you've made a fortune for ITC ok Thank you OK ",
+    "speaker_a_segments": "thanks for calling ITC you are speaking to Praveen how may I ja yeah tell me how can i help you silav tell me how I can help you Hello Namaste sir IT was rich I tell you the end Nim name sir Nim Name okay so you need a game for the hotel Yes Same num en modthira nim side request details concern team to namdu avn team to nimdu avn team to nimm details kulstini request modtini so you need a game to nim hotel only game need to sir nim There is an item in blessing spices five twenty five KG bartare Erad KG so you are the first one okay so on the other hand From there, let's check if I used my email ID ID Rajesh L I K E okay J Rajesh Hello Erasure nine double zero tell me okay sir six two three six South Purtur turret Goal okay carried South Karnataka That's this pin code five seven four two zero one okay so nimdu hotel name's Hariprasad Aa We have details for our team and he would have called you when he checked and called you so here you need the game game is over so you have to add nothing team team executive end up waiting for salesman ask him what he wants No more details okay you've made a fortune for ITC Thank you OK ",
+    "speaker_b_segments": "help you today cheese silav silav That's it blessings now daily Putur South Kannada Purtur Hariprasad hotel Kannada Kannada Kannada Kannada okay That's it Rajesh hotel Hariprasad Butter Then we used a blessing game there every two days sixty and seventy KG how much do we need Haud For me it is fresh Sigta no old stock Sigta is Monnella Adralli Guggur has not been item is not Pura Nimge e-mail Rajesh Alaki AK A L I K Rajesh Save number again This is hotel number my personal number nine double zero double eight double seven två tre Kannada to the tower B O W R B Huttur South Kannada five seven four two zero one OK He is for you ok ",
+    "summary": "Rajesh from Hariprasad Hotel in Putur, South Kannada is looking to order games (likely referring to edible gum) in quantities of 60-70 KGs every 2 days. He would like the freshest stock possible and also needs details about ordering the game from ITC. The agent helps him with his request and lets him know that the sales team will be in touch with him soon to provide the games for his hotel. The entire conversation is in the Kannada language.",
+    "speaker_a_summary": "Nim is looking to buy a game for their hotel, and wants to get details for their order. They let them know that they are the first one to order from their number, and collect their contact details to pass along to the appropriate team. The agent lets them know that the team will be in touch with them soon to fulfill the order, and the call ends.",
+    "speaker_b_summary": "Rajesh from Hariprasad hotel in Putur, South Kannada placed an order for cheese yesterday. Today he wants to know how much he needs to take in order to have 60-70 KG every two days, and wants to be sure to only have fresh stock. He needs a delivery today and wants to be contacted via phone and e-mail. The hotel's number is 9847452101.",
+    "cohere_points": "- Praveen is assisting a customer with a order for Hariprasad hotel\n- The customer wants to place a large order of games to the hotel\n- The order will be recurring every 2 days\n- The customer will be contacted by a separate team regarding the order. \n- The conversation was clarifying details of the order and confirming information.",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "1. Customer service at ITC\n2. Assistance from Praveen\n3. Hotel Hariprasad\n4. Blessings and greetings\n5. Need for a game\n6. Fresh spices required\n7. Email ID verification\n8. Contact details exchange\n9. South Karnataka location\n10. Pin code information\n11. Follow-up call scheduled\n12. Salesman inquiry\n13. Fortune made for ITC\n14. Request for item details\n15. Communication in",
+    "Resolution": "Based on the conversation provided, it appears that the customer's issue is not fully resolved as there seems to be ongoing communication regarding a game needed for the hotel and other details requested by the customer.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "Yes, the caller displayed empathy by using phrases like \"tell me how I can help you,\" \"blessings,\" and expressing understanding towards the caller's needs by stating \"so you need a game for the hotel only.\"",
+    "Was there any profanity on the call": "No",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 77.40999999999994,
+    "num_silences": 74
+}

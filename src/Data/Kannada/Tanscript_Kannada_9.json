@@ -1,0 +1,1224 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0626",
+            "end_time": "0.1168",
+            "original_transcript": "very good evening thank you for calling IC my name is kalandra how may I help you",
+            "translated_transcript": "very good evening thank you for calling IC my name is calendar how can I help you",
+            "tone": "Happy",
+            "rate_of_speech": "313.75",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good evening",
+                "ic"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.1342",
+            "end_time": "0.1482",
+            "original_transcript": "ಸರ್ ನಮಸ್ತೆ",
+            "translated_transcript": "Sir Namaste",
+            "tone": "Neutral",
+            "rate_of_speech": "142.86",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir namaste"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.1842",
+            "end_time": "0.1875",
+            "original_transcript": "sir",
+            "translated_transcript": "cheese",
+            "tone": "Neutral",
+            "rate_of_speech": "300.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.1875",
+            "end_time": "0.2398",
+            "original_transcript": "ನ already ನಮ್ ಇದ್ರ ಮೇಲೆ complaint register ಆಗಿದೆ",
+            "translated_transcript": "There is already a complaint register",
+            "tone": "Neutral",
+            "rate_of_speech": "114.65",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "complaint register"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.2496",
+            "end_time": "0.3603",
+            "original_transcript": "complaint register complaint number sir number complaint register",
+            "translated_transcript": "complaint register number sir number complaint register",
+            "tone": "Neutral",
+            "rate_of_speech": "63.24",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "complaint register number sir number complaint register"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.4097",
+            "end_time": "0.4337",
+            "original_transcript": "complaint number ಬೇಕಿದ್ರೆ ಹೇಳ್ತಿನಿ",
+            "translated_transcript": "complaint number Bakidre Khtini",
+            "tone": "Neutral",
+            "rate_of_speech": "166.55",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "complaint number",
+                "bakidre khtini"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.4443",
+            "end_time": "0.5067",
+            "original_transcript": "ಒಂದ್ ನಿಮಿಷ ನಾನು check ಮಾಡ್ತಿವಿ sir ಒಂದು line ಅಲ್ಲಿರಿ",
+            "translated_transcript": "One minute I can check sir be there in a line",
+            "tone": "Neutral",
+            "rate_of_speech": "176.47",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "check sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.5355",
+            "end_time": "0.5655",
+            "original_transcript": "sir ನಿಮ್ಮ mobile number ಇದೆ ತಾನೇ",
+            "translated_transcript": "sir is your mobile number itself",
+            "tone": "Neutral",
+            "rate_of_speech": "200.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mobile number"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.5755",
+            "end_time": "0.6042",
+            "original_transcript": "ಹೌದು ಸರ್ ಇದೆ",
+            "translated_transcript": "Yes sir there is",
+            "tone": "Neutral",
+            "rate_of_speech": "139.45",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.6151",
+            "end_time": "0.7243",
+            "original_transcript": "ಕೃಷ್ಣ ಅವ್ರ sir ಮಾತಾಡ್ತಾ ಇರೋದು okay sir ನೀವು complaint register ಮಾಡಿದ್ರಿ ಆ matches ಬಗ್ಗೆ",
+            "translated_transcript": "Krishna Awara sir Matadta Irodu okay sir register a complaint about those matches",
+            "tone": "Neutral",
+            "rate_of_speech": "119.08",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "krishna awara",
+                "matadta irodu",
+                "okay sir register"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.7398",
+            "end_time": "0.7452",
+            "original_transcript": "ಹೌದ್",
+            "translated_transcript": "Haud",
+            "tone": "Neutral",
+            "rate_of_speech": "187.50",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "haud"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.7452",
+            "end_time": "0.9257",
+            "original_transcript": "sir ಅದು ಇದುವರ್ಗೂ ಕೂಡ ಏನ ಅದು status ಏನು ಹೇಳಿಲ್ಲ ನಾವ್ last wednesday call ಮಾಡಿದ್ವಿ ಮತ್ತೆ wednesday call ಮಾಡ್ತಿವಿ ಅಂತ ಹೇಳಿದ್ವಿ ನಮ್ಗೆ ಆಗ್ಲಿಲ್ಲ ನಿನ್ನೆ ಮಾಡೋದಿಕ್ಕೆ",
+            "translated_transcript": "sir it's still what it's status hasn't said anything now last wednesday call made again wednesday call modtivi end didwi we didn't mind yesterday",
+            "tone": "Neutral",
+            "rate_of_speech": "132.95",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "'s status",
+                "modtivi end didwi",
+                "n't mind"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.935",
+            "end_time": "1.1597",
+            "original_transcript": "ಮಾಡಿಲ್ಲ ಸರ್ ನಾವ್ ಈಗ್ wait ಮಾಡೋಕ್ ಆಗೋದಿಲ್ಲ ನಾವ್ ಇವತ್ತೇ ಇವಾಗ ನಮ್ಗೆ ಏನು ಅದ್ರುದು status ಅಂತ ತಿಳ್ಕೊಬೇಕಾಗಿದೆ ನೀವೇನ್ ಮಾಡ್ತೀರಾ ಇಲ್ಲ ಏನು ಅನ್ನೋದು ನಮ್ಗೆ guarantee ಇಲ್ಲ ಅದಕ್ಕಾಗಿ ಏನು ನಿಮ್ದು ಮಾಹಿತಿ ಏನ್ ಕೊಡ್ತೀರಾ ಅಂತ ಸ್ವಲ್ಪ",
+            "translated_transcript": "Didn't Sir Nav Eeg wait Modok not Nav right now what we need to know about it is the end of the status Neiven Modthira no what Annodu we have no guarantee for it Information en Kodthira end a bit",
+            "tone": "Happy",
+            "rate_of_speech": "178.03",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "sir nav eeg",
+                "modok",
+                "nav",
+                "neiven modthira",
+                "annodu",
+                "information",
+                "kodthira"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.1638",
+            "end_time": "1.2238",
+            "original_transcript": "ಹೇಳೋದು",
+            "translated_transcript": "Let's say",
+            "tone": "Neutral",
+            "rate_of_speech": "33.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.2515",
+            "end_time": "1.3212",
+            "original_transcript": "sir ನಾವು amazon ಅಲ್ಲಿ matches order ಮಾಡಿದ್ವಿ",
+            "translated_transcript": "sir we ordered matches on amazon",
+            "tone": "Neutral",
+            "rate_of_speech": "86.12",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.3372",
+            "end_time": "1.3551",
+            "original_transcript": "ಐದನೇ ತಾರೀಕು",
+            "translated_transcript": "The fifth star",
+            "tone": "Neutral",
+            "rate_of_speech": "166.82",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.3883",
+            "end_time": "1.854",
+            "original_transcript": "ಪೂರ್ತಿ ಕೇಳಿ sir amazon ಅಲ್ಲಿ matches ಐದ್ನೇ ತಾರೀಖ್ order ಮಾಡಿದ್ವಿ ನಮ್ಗೆ ಅದು eight ಏನೋ receive ಆಗಿದೆ ಅದು ಬರಿ ಹತ್ತು ರೂಪಾಯಿ matches ಗೆ ನಮ್ಗೆ hundred and fifty five rupees ತಗೊಂಡಿದಾರೆ ಎರ್ಡ್ match box ಗೆ twenty rupees price ಗೆ amazon ಅವ್ರು ನಾನ್ ಅದ್ರುದು photo ಕೂಡ share ಮಾಡಿದೀನಿ ಅವ್ರ್ಗೆ ಅವ್ರು ನಿಮ್ ಆ amazon ಅವ್ರು ನಿಮ್ company item ನ ಅಷ್ಟು costly ಗೆ ಅವ್ರ್ ಹೆಂಗ್ ಮಾರ್ತಾ ಇದಾರೆ ಅಂತ ನಾನು ಅವ್ರ್ಗೆ complaint ಮಾಡಿದ್ದೆ",
+            "translated_transcript": "Listen to the full sir amazon where matches made a fifth order for us to receive eight something that is a bare ten rupees to matches cost us one hundred and fifty five rupees to the earth match box to twenty rupees price to amazon awru non that photo was also shared by Avrii Awru Aur Heng Marta to so costly of that amazon avru nimm company item is the end i had made a complaint to Aur",
+            "tone": "Neutral",
+            "rate_of_speech": "167.51",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "listen",
+                "full sir amazon",
+                "rupees price",
+                "amazon awru non",
+                "avrii awru aur heng marta",
+                "amazon avru nimm company item",
+                "end i",
+                "aur"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.8575",
+            "end_time": "2.117",
+            "original_transcript": "ಅವ್ರ್ ಬೇಕಿದ್ರೆ delivery charge ಅಂತ extra ತಗೋಳಿ that is not an issue but MRP ಅಂತಾನೆ mention ಮಾಡಿ one eighty rupees mention ಮಾಡಿ fifteen percent discount ಅಂತೇಳಿ one fifty five ಗೆ ನಮ್ಗೆ product ನ sale ಮಾಡಿದಾರೆ",
+            "translated_transcript": "Avr Bakidre delivery charge end extra Tagoli that is not an issue but MRP mention one eighty rupees mention fifteen percent discount or sell us product for one fifty five",
+            "tone": "Neutral",
+            "rate_of_speech": "115.61",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "avr bakidre",
+                "delivery charge end",
+                "tagoli",
+                "mrp",
+                "eighty rupees",
+                "percent discount"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.1313",
+            "end_time": "2.5613",
+            "original_transcript": "ನಾವ್ ಇದ್ರೂ ಬಗ್ಗೆ complaint ಮಾಡಿದೀವಿ ನೋಡಿ twenty rupees item ನ one fifty five ತಗೊಂಡಿದಾರೆ ಮತ್ತ ಇದ್ರ ಬಗ್ಗೆ ನೀವ್ ಏನ್ ಹೇಳ್ತೀರಾ ಅಂತೇಳಿದ್ರೆ photo ಎಲ್ಲ ನಾನು screenshot ಹಾಕಿದ್ದೆ ಆ ಮತ್ತೆ amazon ದು price photo ಕೂಡ share ಮಾಡಿದ್ದೆ ಅವ್ರು ಹೇಳ್ತಿವಿ ಹೇಳ್ತಿವಿ ಅಂತೇಳಿ details correct ಮಾಡೋವರ್ಗು ಎಷ್ಟ್ ಸಲ call ಮಾಡ್ತಾರೆ ಮತ್ತೆ ನಾವ್ details ಎಲ್ಲ ಕೊಟ್ಮೇಲೆ ಇವಾಗ್ ಏನು ನಮ್ಗೆ ಅದ್ರು problem solve ಮಾಡೋದ್ ಇವ್ರ್ ಬಗ್ಗೆ ಏನು ಹೇಳ್ತಾನೆ ಇಲ್ಲ",
+            "translated_transcript": "See complaint about Nav Idro see one fifty five of twenty rupees item on one fifty five of the item Neev en Testira Antelidre photo All I put a screenshot of that again amazon du price photo I also shared Avru said statement such details as correct category So we had to call again we know details on all the quotes what evag did solve the problem for us no what did we say about evr",
+            "tone": "Neutral",
+            "rate_of_speech": "176.74",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "nav idro",
+                "rupees item",
+                "neev",
+                "testira antelidre",
+                "amazon du price photo",
+                "avru",
+                "such details"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.5667",
+            "end_time": "2.9108",
+            "original_transcript": "last week ಮಾಡಿದ್ರೆ ನಮ್ಗ್ ಇನ್ ಸ್ವಲ್ಪ time ಕೊಡ್ರಿ ಅಂತ ಹೇಳಿದ್ರೆ ನಮ್ಗ್ ಇವಾಗ್ ಇನ್ನು wait ಮಾಡೋಕಾಗಲ್ಲ ನಿಮ್ ಕೈಯಲ್ ಆಗುತ್ತೋ ಇಲ್ವೋ ನಮ್ಗೇನ್ refund ಬರುತ್ತಾ ಇಲ್ಲ amazon ಕಡೆಯಿಂದ ಏನನ್ನ ನೀವ್ ಅಜ ಅವ್ರ್ ಮೇಲೆ ಏನೋನ್ action ತಗೊಂತೀರಾ ಏನ್ ಮಾಡ್ತೀರಾ four hundred six sir two hundred six ಇತ್ತು ನನ್ ಒಂದ್ ಒಂದ್ batch ಅಲ್ಲಿ two hundred six ಇರ್ತಾವೆ",
+            "translated_transcript": "last week madidre namg in a little time kodri end thanidre namg evag no longer wait Nim kaial or ilvo namgen refund coming no refunds coming from amazon what no action on the part of amazon does not take any action on aj avr There was four hundred six sir two hundred six and one batch where two hundred six were",
+            "tone": "Neutral",
+            "rate_of_speech": "177.25",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "week madidre namg",
+                "time kodri end thanidre namg evag",
+                "nim",
+                "ilvo namgen refund",
+                "aj avr"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.9283",
+            "end_time": "2.9395",
+            "original_transcript": "okay",
+            "translated_transcript": "ok",
+            "tone": "Neutral",
+            "rate_of_speech": "89.55",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.959",
+            "end_time": "2.9637",
+            "original_transcript": "ಆ sir ಇವಾಗ pack",
+            "translated_transcript": "Pack while that sir",
+            "tone": "Neutral",
+            "rate_of_speech": "854.09",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pack"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.9637",
+            "end_time": "2.9948",
+            "original_transcript": "ಅಲ್ಲಿ ಒಂದೊಂದ್ pack ಅಲ್ಲಿ ಎಷ್ಟ್ mention ಆಗಿದೆ",
+            "translated_transcript": "There is a single pack where there is a mention",
+            "tone": "Neutral",
+            "rate_of_speech": "320.86",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.0142",
+            "end_time": "3.0402",
+            "original_transcript": "ಒಂದ್ pack ಅಲ್ಲಿ two hundred",
+            "translated_transcript": "One pack where two hundred",
+            "tone": "Neutral",
+            "rate_of_speech": "192.31",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.0501",
+            "end_time": "3.1835",
+            "original_transcript": "ಅಂದ್ರೆ total four hundred four hundred total ಇರೋದು two hundred two hundred ಎರಡ್ box ಬಂದಿದೆ ಸಣ್ಣ",
+            "translated_transcript": "Andre Total Four Hundred Four Hundred Total Erodu Two Hundred Two Hundred Erad Box Comes Small",
+            "tone": "Sad",
+            "rate_of_speech": "120.00",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "andre",
+                "hundred",
+                "hundred",
+                "erodu",
+                "hundred",
+                "hundred erad",
+                "comes small"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.1952",
+            "end_time": "3.2811",
+            "original_transcript": "four hundred four hundred four hundred sticks ಇರೋದು ಎರಡು box ಬಂದಿದೆಯಾ",
+            "translated_transcript": "four hundred four hundred four hundred sticks is there two boxes",
+            "tone": "Neutral",
+            "rate_of_speech": "127.93",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.2927",
+            "end_time": "3.5468",
+            "original_transcript": "four hundred ದೆ total two hundred two hundred ದು ಎರಡ್ box ಬಂದಿದೆ total four hundred six ಬಂದಿರೋದು ಅದ್ರು ಮೇಲೆ MRP black ಮಾಡ್ಬಿಟ್ಟಿದಾರೆ ನಾನ್ ಅದ್ರು photo ನ share ಮಾಡಿದೀನಿ marker ಇಂದಾನೋ ಏನೋ black off ಮಾಡ್ಬಿಟ್ಟಿದಾರೆ ಅವ್ರು ಗೊತ್ತಾಗ್ಬಾರ್ದು ಅಂತ",
+            "translated_transcript": "four hundred de total two hundred two hundred du hundred du hundred du erad box has come total four hundred six have come to Adru make MRP black on Adru made a share of non adru photo's shareDini marker Indano something black off Avru Gottagbardu End",
+            "tone": "Sad",
+            "rate_of_speech": "180.98",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "du erad box",
+                "adru",
+                "mrp",
+                "adru",
+                "non adru photo 's sharedini marker",
+                "indano",
+                "avru gottagbardu"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.5563",
+            "end_time": "3.5675",
+            "original_transcript": "okay",
+            "translated_transcript": "ok",
+            "tone": "Neutral",
+            "rate_of_speech": "89.55",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.5865",
+            "end_time": "3.6178",
+            "original_transcript": "ಅದನ್ನ ನಮಿಗ್ ಕಳ್ಸ್ಕೊಟ್ಟಿದಾರೆ",
+            "translated_transcript": "ADAN NAMIG KALSKOTTIDARE",
+            "tone": "Neutral",
+            "rate_of_speech": "95.74",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "adan namig kalskottidare"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.6278",
+            "end_time": "3.8912",
+            "original_transcript": "ಈಗ ಹತ್ತ್ ರೂಪಾಯಿದು ಅವ್ರ್ಗ್ ಹೇಳುದ್ರೆ ಅವ್ರೇ ಹೇಳಿದ್ರು ನಿಮ್ ಕಡೆ ಇಂದ ಹತ್ತು ರೂಪಾಯಿ ಒಂದ್ packet sir ಅದು ನಿಮ್ಗೆ ನಾವ್ ಮತ್ತೆ contact ಮಾಡಿ ಅದ್ರು ಬಗ್ಗೆ ಮಾಹಿತಿ ತಿಳ್ಸ್ಕೊಡ್ತೀವಿ ಅಂತೇಳಿ ಹಂಗೆ complaint ನ ನಾವು forward ಮಾಡ್ತೀವಿ ನಮ್ team ಗೆ ಅಂತ ಹೇಳಿದ್ರು",
+            "translated_transcript": "Now, ten rupees from one packet sir that you can contact me again for information about Adru.",
+            "tone": "Neutral",
+            "rate_of_speech": "64.55",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "packet sir",
+                "adru"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.914",
+            "end_time": "4.1799",
+            "original_transcript": "ಎಷ್ಟ್ ದಿನ wait ಮಾಡೋಣ ನೋಡಿ ಆಗಸ್ಟ್ thirty first ಇವಾಗ ನಮ್ಗೆ ಇದ್ರೂ ಬಗ್ಗೆ ಏನು close ಮಾಡ್ತಿರ ಏನ್ ಸುಮ್ನೆ ಹಿಂಗೆ ಇಡ್ತೀರ complaint ಅನ್ನ ಏನ್ ಮಾಡ್ತೀರಾ ಅಂತ ನನ್ಗೆ ಮಾಹಿತಿ ಬೇಕು ನಾವ್ನ್ನ wait ಮಾಡಕ್ ಆಗಲ್ಲ ಬರುತ್ತಾ ಇಲ್ಲ ಇಲ್ಲ ನಮಿಗ್ cheat ಮಾಡಿದ್ರೆ ನೀವ್ amazon ಗೆ ನಾವ್",
+            "translated_transcript": "What a day let's wait see what's on August thirty first when we're not here close Modtir en sumne hinga idtira complaint an an en modthira end I need information now no wait modak is not coming no namig cheat madidre neev amazon to nav",
+            "tone": "Neutral",
+            "rate_of_speech": "169.23",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "august",
+                "modtir",
+                "sumne hinga idtira complaint",
+                "modthira end",
+                "namig cheat madidre neev amazon"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.1801",
+            "end_time": "4.4462",
+            "original_transcript": "contact ಮಾಡ್ಕೋಬೇಕಾ ಇಲ್ಲ ನಿಮ್ ITC product ಗೆ ಅಮೆಜಾನ್ ನಲ್ಲಿ value ಇಲ್ವಾ ನಿಮ್ಗೆ ಅಮೆಜಾನ್ ಅವ್ರ್ಗೆ ಏನು ಸಂಬಂಧನೇ ಇಲ್ವಾ ನೀವ್ ಅಮೇಜಾನ್ ಗೆ ITC products sale ಮಾಡಕ್ಕೆ authority ನೇ ಕೊಟ್ಟಿಲ್ವಾ ಏನ್ ಹೇಳಿ ಅಷ್ಟೇ",
+            "translated_transcript": "contact modkobeka no nim to ITC product on amazon value Ilva nim to Amazon Hour Related Ilva nev to Amazon to sell ITC products to Amazon What to say",
+            "tone": "Neutral",
+            "rate_of_speech": "108.99",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "contact modkobeka",
+                "itc",
+                "amazon value",
+                "ilva",
+                "amazon hour related ilva",
+                "amazon",
+                "itc",
+                "amazon"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.4497",
+            "end_time": "4.8632",
+            "original_transcript": "ಬೇಜಾರ್ ಆಗಿದೆ ನೀವ್ call list ನೋಡಿ sir ನಾನ್ ಯಾವ್ದ್ ಯಾವಾಗ್ call ಮಾಡಿದಿನೋ ಅಲ್ಲೆಲ್ಲ record ಆಗಿರುತ್ತೆ ನಾನು proof ಪ್ರಕಾರ ಮಾತಾಡೋನು ಆಯ್ತಾ amazon ಅಲ್ಲಿ ನಾಲಕ್ ವರ್ಷದಿಂದ ನಾನು ವ್ಯವಹಾರ ಮಾಡ್ತಾ ಇದೀನಿ ಆಯ್ತಾ ಅವ್ರು ನಮ್ಗೆ ಹೇಳಿದ್ರು sir ನಾವು ಏನ್ ಮಾಡಕ್ ಆಗೋದಿಲ್ಲ ನಾವ್ ಕಳ್ಸ್ಕೊಟ್ಟಿದೀವಿ ನೀವ್ ಏನಾದ್ರು ಇದ್ರೆ company ಅವ್ರ್ ಮಾತಾಡಿ ಅಂತ ಹೇಳಿದಾರೆ ಆ ನಾನು ಅದೇ ಕೆಲ್ಸ ಮಾಡಿದೀನಿ ಆ so ಹೇಳ್ತಿನಲ್ಲ",
+            "translated_transcript": "Bazar is Neve call list See sir non Yawad Yawag did any call there will be a record I speak according to proof Aatha amazon where I have been doing business for four years Iini Ayatha Avrau told us sir we are not a modak nav kalskoe Tatidevi Neev Enadru Idre company said the end of the conversation that I did the same Kelsa and that did not say so",
+            "tone": "Neutral",
+            "rate_of_speech": "169.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bazar",
+                "neve",
+                "sir non",
+                "yawad yawag",
+                "aatha",
+                "iini ayatha avrau",
+                "modak nav kalskoe",
+                "tatidevi neev enadru idre",
+                "kelsa"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.8706",
+            "end_time": "4.9152",
+            "original_transcript": "ಅದು delivery charge ಅಂತ ಅವ್ರ್ ತಗೊಂಡಿದ್ರೆ ವಿಚಾರ ಬೇರೆ ಇತ್ತು ಬಿಡಿ",
+            "translated_transcript": "Leave it was different at the end of delivery charge",
+            "tone": "Neutral",
+            "rate_of_speech": "224.63",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "delivery charge"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.9267",
+            "end_time": "4.9306",
+            "original_transcript": "ನಮ್ಗೆ",
+            "translated_transcript": "For us",
+            "tone": "Neutral",
+            "rate_of_speech": "502.09",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.9306",
+            "end_time": "5.0765",
+            "original_transcript": "ಅರ್ಥ ಆಗುತ್ತೆ ಅದು ನಿಮ್ MRP price ಅವ್ರು wrong mention ಮಾಡಿ ತಗೊಳೋದು ಅದಲ್ಲ it's an illegal act",
+            "translated_transcript": "It means that Nim MRP price is wrong and it's not an illegal act.",
+            "tone": "Sad",
+            "rate_of_speech": "96.00",
+            "emotion": "disapproval",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "nim mrp",
+                "illegal act"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.0851",
+            "end_time": "5.2527",
+            "original_transcript": "MRP crack off ಮಾಡಿದಾರೆ per stick ಅನ್ನೋದು mention ಆಗಿತ್ತು ಅದನ್ನ black off ಮಾಡಿದರೆ ಅವ್ರ್ photo ನು ನಾನ್ share ಮಾಡಿದಿನಿ ನಿಮ್ಗ ಅಲ್ಲಿ ಇದು reflect ಆಗೋದು",
+            "translated_transcript": "MRP crack off per stick was a mention of it if it was blacked off then you didn't share the photo where it would reflect",
+            "tone": "Neutral",
+            "rate_of_speech": "149.24",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mrp",
+                "n't share"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.2825",
+            "end_time": "5.3623",
+            "original_transcript": "ಆ sir ನಾನ್ ಇದ್ರೂ ಬಗ್ಗೆ ನಾನ್ ತಿಳ್ಬಿಟ್ಟು ನಾನ್ ಹೇಳ್ತಿನಿ ನಾನ್ ಎರಡ್ ನಿಮಿಷಕ್ಕೋಸ್ಕರ hold ಅಲ್ಲಿಕ್ಬೋದಾ sir ನಿಮ್ call",
+            "translated_transcript": "Don't know about that sir non idru non cactini non erad for a minute hold allikboda sir nim call",
+            "tone": "Neutral",
+            "rate_of_speech": "238.05",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir non idru non cactini non erad",
+                "minute hold allikboda sir nim"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.3715",
+            "end_time": "5.4187",
+            "original_transcript": "inform ಮಾಡ್ತೀನಿ ತೊಂದ್ರೆ ಆಗಿದೆ ಅಂತ",
+            "translated_transcript": "inform Modtini's trouble is the end",
+            "tone": "Neutral",
+            "rate_of_speech": "127.25",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "modtini",
+                "'s trouble"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.4848",
+            "end_time": "5.7608",
+            "original_transcript": "ಇಲ್ಲಾ ಅಂದ್ರೆ ನನ್ಗೆ ಯಾರ್ ಇದಾರೋ ಅವ್ರಿಗ್ ನಾನ್ ಮಾತಾಡಿ ಪರಿಹಾರ ಕೊಡ್ಬೇಕು ಅಷ್ಟೇ ಇಲ್ಲಾಂದ್ರೆ ನಾನೇ ಹೇಳ್ಬಿಡ್ತಿನಿ complaint close ಮಾಡ್ಬಿಡಿ ನಿಮ್ company ಅಂತೇಳಿ ಅಷ್ಟೇ okay",
+            "translated_transcript": "Illa Andre, me ar iaro, avrig non taladdi should give a solution, that's all Ilandre, I told him to close the complaint, let me close my company like that's okay.",
+            "tone": "Neutral",
+            "rate_of_speech": "108.70",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "illa andre",
+                "ar iaro",
+                "avrig non taladdi",
+                "ilandre",
+                "'s okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.7755",
+            "end_time": "5.784",
+            "original_transcript": "okay thank you",
+            "translated_transcript": "ok, thank you",
+            "tone": "Neutral",
+            "rate_of_speech": "352.25",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.0205",
+            "end_time": "8.3077",
+            "original_transcript": "line ಅಲ್ಲಿ ಇದಕ್ಕೋಸ್ಕರ ಧನ್ಯವಾದ sir hello ಕೃಷ್ಣ ಅವ್ರೆ ಆ sir ನೀವು amount ಎಷ್ಟ್ pay ಮಾಡಿರೋದು sir MRP fifty one double five rupees ಅದು pack two ten rupees two ten rupees ಅಂತ ಇದೆ ತಾನೇ two ten rupees sorry two ten sticks two ten sticks",
+            "translated_transcript": "line there thank you sir hello Krishna Avre that sir did you pay the amount sir MRP fifty one double five rupees that pack two ten rupees two ten rupees is ending itself two ten rupees sorry two ten sticks two ten sticks",
+            "tone": "Neutral",
+            "rate_of_speech": "149.75",
+            "emotion": "gratitude",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "sir hello",
+                "krishna avre",
+                "amount sir",
+                "mrp"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.3137",
+            "end_time": "8.5686",
+            "original_transcript": "so ಹತ್ತು ರೂಪಾಯಿ pack ನೀವ್ ಹೇಳ್ದರಿ twenty rupees pack ಗೆ one fifty five rupees sir one fifty rupee one fifty five rupees ನೀವು pay ಮಾಡಿದಿರಲ್ಲ so ಅದ್ರುದು proof I mean ನೀವು UP payment ಮಾಡಿದ್ರ ಇಲ್ಲ cash delivery ಕೊಟ್ರಾ sir ನೀವು",
+            "translated_transcript": "so ten rupees pack new money twenty rupees pack to one fifty five rupees sir one fifty rupee one fifty five rupees you didn't pay so that's proof I mean you did UP payment no cash delivery kotra sir you",
+            "tone": "Neutral",
+            "rate_of_speech": "156.87",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "rupees pack",
+                "new money",
+                "rupees pack",
+                "rupees sir",
+                "n't pay",
+                "'s proof",
+                "up",
+                "cash delivery kotra sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.5895",
+            "end_time": "8.6203",
+            "original_transcript": "ಇಲ್ಲ ನಾನೂ prepaid cash delivery ಕೊಟ್ಟಿಲ್ಲ prepaid",
+            "translated_transcript": "No I haven't given prepaid cash delivery prepaid",
+            "tone": "Neutral",
+            "rate_of_speech": "259.46",
+            "emotion": "disapproval",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "prepaid cash delivery prepaid"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.6748",
+            "end_time": "8.8468",
+            "original_transcript": "prepaid ಅಂದ್ರೆ wallet ಅಲ್ಲಿತ್ತು ನೀವ್ pay ಮಾಡ್ಬಿಟ್ರಾ card ಮುಖಾಂತರ okay so one fifty one fifty five rupees ನೀವ್ ಮಾಡಿದಿರಾ",
+            "translated_transcript": "prepaid andre wallet was there nev pay against modbitra card okay so one fifty one fifty five rupees did nev",
+            "tone": "Neutral",
+            "rate_of_speech": "116.28",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "prepaid andre wallet",
+                "nev pay",
+                "modbitra card okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.855",
+            "end_time": "8.8617",
+            "original_transcript": "ಹೌದೌದ್",
+            "translated_transcript": "Houdoud",
+            "tone": "Neutral",
+            "rate_of_speech": "149.63",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "houdoud"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.9222",
+            "end_time": "9.0422",
+            "original_transcript": "ಹೌದು but MRP ಲಿ ಇಲ್ಲಿ scratch ಮಾಡ್ಬಿಟ್ಟಿದಾರೆ sir so two ten rupees tax ಆ I mean pa most probably ಹತ್ತ ಹತ್ತ ರೂಪಾಯಿ ಆಗಿರ್ಬೋದು",
+            "translated_transcript": "Yes but MRP Li has scratched here sir so two ten rupees tax that I mean pa most probably ten hundred rupees more",
+            "tone": "Neutral",
+            "rate_of_speech": "191.67",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "mrp li",
+                "rupees tax"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "9.0498",
+            "end_time": "9.0503",
+            "original_transcript": "ಮತ್ತೆ",
+            "translated_transcript": "again",
+            "tone": "Neutral",
+            "rate_of_speech": "1935.48",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "9.0718",
+            "end_time": "9.3038",
+            "original_transcript": "one fifty MRP one eighty show ಮಾಡಿದಾರೆ ಅಲ್ಲಿ ಅದು photo ಬೇರೆ order place ಮಾಡ್ಬೇಕಾದ್ರೆ ಇತ್ತು ಅದು ಆ order details ಅಲ್ ಹೋದಾಗ ಆ photo ಆತರ ಬಂದಿದೆ ನಾನ್ pay ಮಾಡಿರೋ amount ತೋರುಸ್ತಾ ಇದೆ ಅದ್ರಲ್ಲಿ",
+            "translated_transcript": "one fifty MRP did one eighty show where it was a photo had to place a different order it was that order details Al went to that photo didn't pay did it amount Torusta is in Adrli",
+            "tone": "Neutral",
+            "rate_of_speech": "159.48",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mrp",
+                "eighty show",
+                "different order",
+                "order details",
+                "al",
+                "n't pay",
+                "torusta",
+                "adrli"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "9.3368",
+            "end_time": "9.4462",
+            "original_transcript": "ಸರ್ ಇವಾಗ same ಆಗಿರೋ photo ಕಳ್ಸಿದ್ರೆ ಇನ್ ಎಷ್ಟ್ ದಿವ್ಸ ಮಾಡ್ತಿರ ಅದ್ರಾಗೆ ನಾನು order details ಅಲ್ಲಿ share ಮಾಡಿದೀನಿ",
+            "translated_transcript": "Sir is the same as the photo of Kalsidre in Eht Divsa Modthira Adara I shared the order details there",
+            "tone": "Neutral",
+            "rate_of_speech": "182.93",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir",
+                "kalsidre",
+                "eht divsa modthira adara",
+                "order details"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "9.4567",
+            "end_time": "9.6313",
+            "original_transcript": "delivery sir ನೀವು photo ಕಳ್ಸಿದಿರ one fifty five rupees ಅದು pay ಮಾಡಿರೋ photo ಕಳ್ಸ್ಕೊಡಿ sir ನಾವ್ TV ಗೆ inform ಮಾಡ್ಬಿಟ್ಟು ನಿಮ್ status check ಮಾಡ್ಸ್ತಿವಿ sir okay ನಾ ನೀವ್ ನಾನ್ ನಿಮ್ಗೆ number ಹೇಳ್ತಿನಿ ನೀವ್ note ಮಾಡ್ಕೊಳಿ sir",
+            "translated_transcript": "delivery sir do you have a photo stolen one fifty five rupees did it pay for a photo that was paid for by Sir Nav TV and informed Nim status check modstivi sir okay na nev non nimge number said new note madkuli sir",
+            "tone": "Neutral",
+            "rate_of_speech": "251.91",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "delivery sir",
+                "sir nav",
+                "nim",
+                "status check modstivi sir okay na nev non nimge number",
+                "new note madkuli sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "9.651",
+            "end_time": "9.6648",
+            "original_transcript": "ಏನ್ number ಹೇಳಿ",
+            "translated_transcript": "Tell me what number",
+            "tone": "Neutral",
+            "rate_of_speech": "288.81",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "9.6716",
+            "end_time": "9.6875",
+            "original_transcript": "whatsapp number sir",
+            "translated_transcript": "whatsapp number cheese",
+            "tone": "Neutral",
+            "rate_of_speech": "189.27",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "whatsapp number cheese"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "9.7123",
+            "end_time": "9.8455",
+            "original_transcript": "ಅದು ನೀವು ಒಂದ್ screenshot ತೆ ಎತ್ತಿ ತೆಗ್ದಿದಿರಿ sir one fifty five rupees ನೀವ್ pay ಮಾಡಿದಿರಲ್ಲ",
+            "translated_transcript": "That's what you highlighted in a screenshot sir one fifty five rupees did not pay",
+            "tone": "Neutral",
+            "rate_of_speech": "112.64",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "screenshot sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "9.8605",
+            "end_time": "10.0117",
+            "original_transcript": "hello sir ಇದು screenshot payment screenshot ಇರುತ್ತಲ್ಲ sir",
+            "translated_transcript": "hello sir this is not a screenshot payment screenshot sir",
+            "tone": "Neutral",
+            "rate_of_speech": "66.15",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hello sir",
+                "screenshot payment screenshot sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "10.0276",
+            "end_time": "10.3077",
+            "original_transcript": "payment mode ದು screenshot ಹೆಂಗ್ ಬರುತ್ತೆ sir payment mode picture ಏನೇನೋ payment mode ಮಾಡ್ಬೇಕಂದ್ರೆ ಹೋಗ್ಬಿಡುತ್ತೆ ಅದು order details ಇವಾಗ pay ಆಗಿರೋದು order details ತೋರ್ಸುತ್ತೆ ನೀವ್ ಕೇಳ್ತಿರೋದು ಹೆಂಗಿದೆ ಅಂದ್ರೆ payment mode ದು ಅದು ಹೆಂಗ್ ಸಿಗುತ್ತೆ sir screenshot",
+            "translated_transcript": "payment mode du screenshot Heng comes sir payment mode picture something payment mode has to be done Kandre hogabudd it is pay when order details order details seem new did you hear Andre payment mode that gets hung sir screenshot",
+            "tone": "Neutral",
+            "rate_of_speech": "142.85",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "payment mode du screenshot",
+                "heng",
+                "sir payment mode picture",
+                "payment mode",
+                "kandre",
+                "order details order details",
+                "andre",
+                "payment mode",
+                "sir screenshot"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "10.3078",
+            "end_time": "10.3785",
+            "original_transcript": "order place ಮಾಡುದ್ರೆ ಅಮೇಜಾನ್ ಅಲ್ಲಿ so ನನ್ಗೆ ಅದ್ರು ಬಗ್ಗೆ ಅಷ್ಟು ಆ",
+            "translated_transcript": "order place on amazon so that's so much for me about adru",
+            "tone": "Neutral",
+            "rate_of_speech": "169.77",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "order place"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "10.3785",
+            "end_time": "10.394",
+            "original_transcript": "knowledge ಇಲ್ಲ but ಆದ್ರೆ",
+            "translated_transcript": "No knowledge but Adrae",
+            "tone": "Neutral",
+            "rate_of_speech": "258.06",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "adrae"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "10.4092",
+            "end_time": "10.588",
+            "original_transcript": "ಯಾವ್ದೋ order place ಮಾಡುದ್ರು ನೀವು prepaid ಮಾಡ್ರಿ ಅಂತ ಹೇಳ್ತಿದ್ರಲ್ಲ ಅಲ್ಲಿ ನಿಮ್ಗೆ wallet through you pay through cards ಅಂತ ಎಲ್ಲಾ ಇರುತ್ತಲ್ಲ ಅದು payment ಮಾಡಿರೋದು ಒಂದು screenshot ನಮ್ಗೆ ಕಳ್ಸ್ಕೊಡಿ sir",
+            "translated_transcript": "Please place an order if you did not say that you have a prepaid modri end where you have wallet through you pay through cards there is no end of it that you have made a payment A screenshot Please send us sir",
+            "tone": "Neutral",
+            "rate_of_speech": "240.42",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "please",
+                "prepaid modri end",
+                "please"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "10.608",
+            "end_time": "10.692",
+            "original_transcript": "ಅಂದ್ರೆ ಕೆಳಗಡೆ ಯಾವ್ ರೀತಿಯಲ್ payment ಮಾಡಿದಿರ ಅಂತ ಇರುತ್ತೆ ಅದು ಬೇಕು ಅಂತಿದೀರಾ",
+            "translated_transcript": "Andre has made some kind of payment down there will be an end to it.",
+            "tone": "Happy",
+            "rate_of_speech": "178.54",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "andre"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "10.7163",
+            "end_time": "10.7173",
+            "original_transcript": "ನೀವು",
+            "translated_transcript": "You",
+            "tone": "Neutral",
+            "rate_of_speech": "1000.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "10.7283",
+            "end_time": "10.945",
+            "original_transcript": "ಅದ್ರಲ್ಲಿ amount ಕಾಣ್ಸಲ್ಲ ನೋಡಿ ಮೇಲಿರೋದೇ amount ಮತ್ತೆ ಕೆಳಗಡೆ column ಅಲ್ಲಿ ಆ payment mode ಅಂತ ಇರುತ್ತೆ ಅದ್ರ payment mode ನೋಡಿ ಹೇಳ್ತ ಇದೀನಿ payment mode ಅಂತ ಇರುತ್ತೆ ಅದ್ರಲ್ಲಿ through debit card ಅಂತ ಇರುತ್ತೆ",
+            "translated_transcript": "Otherwise the amount does not appear, see above, the amount again in the bottom column where the payment mode ends, see the payment mode said, this is the end of the payment mode, the end of the payment mode is there, the end of the through debit card",
+            "tone": "Neutral",
+            "rate_of_speech": "221.54",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "otherwise",
+                "bottom column",
+                "payment mode ends",
+                "payment mode",
+                "payment mode",
+                "payment mode",
+                "debit card"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "10.9567",
+            "end_time": "10.9683",
+            "original_transcript": "ಹೌದು",
+            "translated_transcript": "Yes",
+            "tone": "Neutral",
+            "rate_of_speech": "85.84",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "10.9815",
+            "end_time": "11.1173",
+            "original_transcript": "ಆ last four numbers debit card ಎಲ್ಲ mention ಮಾಡಿರ್ತಾರೆ ಅದೆಲ್ಲ ನಾವ್ share ಮಾಡೋದಿಕ್ಕೆ ಆಗೋದಿಲ್ಲ sir ಯಾಕಂದ್ರೆ ಅವೆಲ್ಲಾ personal details ಇರ್ತಾವೆ",
+            "translated_transcript": "All mention of that last four numbers debit card was not shared by us sir Yakandre Avella personal details Irtawe",
+            "tone": "Neutral",
+            "rate_of_speech": "147.26",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "numbers debit card",
+                "yakandre avella",
+                "personal details",
+                "irtawe"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "11.1762",
+            "end_time": "11.3947",
+            "original_transcript": "details ಕಳ್ಸಿ ಅಂತ ಹೇಳ್ದೆ ಇಲ್ಲ sir ಅದು ನೀವು one fifty five rupees two packs ಗೆ pay ಮಾಡಿದಿರಾ ಅಂತ ಹೇಳ್ತಿದ್ರಲ್ಲ just ಅದು screenshot hide ಮಾಡ್ಬಿಟ್ಟು ಯಾವ್ದೋ personal details ಬರ್ತಿದೆ confidential ಅದೆಲ್ಲ ನೀವು scratch ಮಾಡ್ಬಿಟ್ಟು ನೀವ್ ಕಳ್ಸ್ಬೋದು just hide ಮಾಡ್ಬೋದಲ್ಲ",
+            "translated_transcript": "details did not say no sir that you paid for one fifty five rupees two packs did not end up just that screenshot hide something personal details was written confidential that's what you scratched and did not hide",
+            "tone": "Neutral",
+            "rate_of_speech": "173.93",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "screenshot hide",
+                "personal details"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "11.4053",
+            "end_time": "11.714",
+            "original_transcript": "hide ಮಾಡ್ಬಿಟ್ಟು ನೀವ್ photos ಕಳ್ಸಿ sir ಅದು ಆ ಅದ್ ಮತ್ತೆ ಅದು one fifty five rupees pay ಮಾಡಿರೋದು receipt ಇರುತ್ತಲ್ಲ sir ಇವಾಗ ನೀವ್ phone pay ಮಾಡುದ್ರುನು phone pay ಅಲ್ಲಿ ಒಂದು receipt ಅಂತ ಬರುತ್ತಲ್ಲ ಅದೇ ತರ ನಾನ್ ಹೇಳ್ತಾ ಇರೋದು just ಒಂದ್ screenshot ಕಳ್ಸ್ಕೊಡಿ sir",
+            "translated_transcript": "hide away new photos sir it was that ad again it was one fifty five rupees paid or there is no receipt sir now you have to pay phone pay where a receipt does not end there is no end of a receipt the same person didn't say irodu just a screenshot of the same guy",
+            "tone": "Neutral",
+            "rate_of_speech": "181.43",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "new photos sir",
+                "receipt sir",
+                "phone pay"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "11.7383",
+            "end_time": "11.7863",
+            "original_transcript": "ಅದು ದು",
+            "translated_transcript": "That's it",
+            "tone": "Neutral",
+            "rate_of_speech": "41.67",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "11.795",
+            "end_time": "11.8208",
+            "original_transcript": "okay ಇವಾಗ ತಾನೇ",
+            "translated_transcript": "It's okay when it's okay.",
+            "tone": "Neutral",
+            "rate_of_speech": "193.55",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "'s okay",
+                "'s okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "11.8335",
+            "end_time": "12.0303",
+            "original_transcript": "two ten rupees to ಆ ಅದು like two ten rupees to six pack ಗೆ ನೀವು one fifty five rupees pay ಮಾಡಿರೋದು okay",
+            "translated_transcript": "two ten rupees to that's like two ten rupees to six pack you paid one fifty five rupees okay",
+            "tone": "Neutral",
+            "rate_of_speech": "96.53",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "rupees okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "12.0658",
+            "end_time": "12.1402",
+            "original_transcript": "okay sir last week representative ಹೇಳ್ಬೋದಾಗಿತ್ತಲ್ಲ ಇಷ್ಟ್ ದಿವ್ಸ ಕಾಯ ಹೇಳಿ ನಮ್ಗೆ",
+            "translated_transcript": "okay sir last week representative don't tell us",
+            "tone": "Neutral",
+            "rate_of_speech": "107.65",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay sir",
+                "week representative"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "12.1478",
+            "end_time": "12.1645",
+            "original_transcript": "ನಾವ್",
+            "translated_transcript": "Nav",
+            "tone": "Neutral",
+            "rate_of_speech": "60.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "nav"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "12.1645",
+            "end_time": "12.4622",
+            "original_transcript": "ಮಾಡ್ತಿವಿ ಮಾಡ್ತಿವಿ forward ಮಾಡಿದೀವಿ ಅಂತ ಹೇಳುದ್ರು ಮತ್ತೆ sir ಇನ್ನೊಂದು ಇವಾಗ್ಲೇ last ಹೇಳ್ಬಿಡಿ ಇನ್ನ ಏನೇನ್ details ಕಳ್ಸ್ಬೇಕು ಅಂತ ಮತ್ತೆ ನಾನ್ call ಮಾಡೋದಿಲ್ಲ ಇವಾಗ್ details ಕಳ್ಸ್ಬಿಟ್ಟು ಇನ್ನೊಂದ್ ಎರಡ್ ದಿವ್ಸ ಬಿಟ್ಟು call ಮಾಡ್ತೀನಿ ಮತ್ತೆ ಅವಾಗ್ ಏನೇನ್ details ಕೇಳುದ್ರೆ ಚೆನ್ನಾಗಿರೋದಿಲ್ಲ sir this is the last and final",
+            "translated_transcript": "modtivi modtivi forward maddeevi end said again sir another evagley last say any details of the same name not called again evag details left another erad divsa left call modtiini again wag anain The details are not good sir this is the last and final",
+            "tone": "Neutral",
+            "rate_of_speech": "151.18",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "modtivi modtivi",
+                "maddeevi end",
+                "evag details",
+                "erad divsa",
+                "wag anain",
+                "good sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "12.467",
+            "end_time": "12.8202",
+            "original_transcript": "sir ನೀವ್ ಕಳ್ಸ್ಕೊಡಿ ನಾನು team ಜೊತೆ ಒಂದ್ ನಿಮಿಷ ಇವಾಗ ನೋಡಿ two ten sticks ದು ಆ pack ಎಷ್ಟಾಗುತ್ತೆ ಅಂತಾನೂ ನಾನು information ತಗೊಂತಿನಿ plus ನೀವು ಕಳ್ಸಿರೋದು photos team ಗೆ inform ಮಾಡ್ಬಿಟ್ಟು ನಾನು update ಕೇಳ್ತಿನಿ sir okay ನೀವ್ ಹಾಕಿಸ್ ಬೇಕಾದ್ photos ಕಳ್ಸ್ಕೊಡಿ okay",
+            "translated_transcript": "sir nev kalskodi when i am with the team for a minute see how much is that pack but i will give you information plus you will inform the photos team i will update sir okay nev hakis bakad photos kalskodi okay",
+            "tone": "Neutral",
+            "rate_of_speech": "118.92",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "sir nev kalskodi",
+                "photos team i",
+                "update sir okay nev hakis bakad photos kalskodi okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "12.8313",
+            "end_time": "12.9841",
+            "original_transcript": "ಅಲ್ಲಾ ಈಗೆಲ್ಲ already ಹಳೆ photo ಇದಾವಲ್ಲ sir ಈಗ ನಾವ್ payment ಅಷ್ಟೇ",
+            "translated_transcript": "Alla not already there is no old photo sir now now that's all we pay",
+            "tone": "Neutral",
+            "rate_of_speech": "98.16",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "alla",
+                "old photo sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "12.99",
+            "end_time": "13.1611",
+            "original_transcript": "repeat ಮಾಡಕ್ ಆಗೋದಿಲ್ಲ ಅಷ್ಟೇ ಇರುತ್ತಲ್ಲ already ಆಗಿರೋದು ಅದುನ್ follow up ಮಾಡಿ ಕೆಳಗಡೆ ಇರೋ",
+            "translated_transcript": "repeat is not a mod, it is not already there so follow up below",
+            "tone": "Neutral",
+            "rate_of_speech": "81.80",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "13.2767",
+            "end_time": "13.3657",
+            "original_transcript": "ಇಲ್ಲ sir ನೀವ್ ಕಳ್ಸ್ಕೊಡಿ ಆ ಏನಾದ್ರು details ಬೇಕಾಗಿತ್ತು ಅಂದ್ರೆ ನಾನೆ call ಮಾಡ್ತೀನಿ okay ನ",
+            "translated_transcript": "No sir Neve Kalskodi needed that something details Andre Nane call Maddini okay's",
+            "tone": "Neutral",
+            "rate_of_speech": "146.04",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "neve kalskodi",
+                "andre nane",
+                "maddini",
+                "okay 's"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "13.3833",
+            "end_time": "13.6852",
+            "original_transcript": "ಆ ನೋಡಿ ಸರ್ ಇದು last ಅಷ್ಟೇ ಮತ್ತೆ details ಅಂದ್ರೆ ಇರಕ್ chance ಇಲ್ಲ ಅದ್ರಲ್ಲಿ ಯಾಕಂದ್ರೆ payment ಇದೆ MRP ಇದೆ product photo ಇದೆ ಎಲ್ಲ ಇದೆ almost ಎಲ್ಲ ಬಂದಂಗ್ ಅನ್ಸುತ್ತೆ ನನ್ ಕಳ್ಸ್ಬಿಟ್ಟು ನಾನು ನಿಮ್ಗೆ ನಿಮ್ಗೆ ಅದಕ್ಕೆ ದಿವ್ಸ ಬಿಟ್ಟು call ಮಾಡ್ತೀನಿ ಇಲ್ಲ ನಿಮ್ಗೆ reach ಆದ್ಮೇಲೆ ನೀವೇ call ಮಾಡಿ",
+            "translated_transcript": "Look at that sir this is the last same again details Andre Irak chance there is no Adrli Yakandra payment is MRP is product photo is all there is almost all bandang unsutte me I leave you a diva for it and call you no reach Call yourself above",
+            "tone": "Neutral",
+            "rate_of_speech": "162.35",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "andre irak",
+                "adrli yakandra",
+                "mrp",
+                "product photo",
+                "bandang unsutte",
+                "call"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "13.792",
+            "end_time": "13.8468",
+            "original_transcript": "okay sir ಧನ್ಯವಾದ ಸರ್ ಕರೆಸ್ ನಿಮ್ ಶುಭ್",
+            "translated_transcript": "okay sir thank you sir Kares Nim Shubh",
+            "tone": "Neutral",
+            "rate_of_speech": "145.94",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay sir",
+                "kares nim shubh"
+            ]
+        }
+    ],
+    "translated_segments": "very good evening thank you for calling IC my name is calendar how can I help you Sir Namaste cheese There is already a complaint register complaint register number sir number complaint register complaint number Bakidre Khtini One minute I can check sir be there in a line sir is your mobile number itself Yes sir there is Krishna Awara sir Matadta Irodu okay sir register a complaint about those matches Haud sir it's still what it's status hasn't said anything now last wednesday call made again wednesday call modtivi end didwi we didn't mind yesterday Didn't Sir Nav Eeg wait Modok not Nav right now what we need to know about it is the end of the status Neiven Modthira no what Annodu we have no guarantee for it Information en Kodthira end a bit Let's say sir we ordered matches on amazon The fifth star Listen to the full sir amazon where matches made a fifth order for us to receive eight something that is a bare ten rupees to matches cost us one hundred and fifty five rupees to the earth match box to twenty rupees price to amazon awru non that photo was also shared by Avrii Awru Aur Heng Marta to so costly of that amazon avru nimm company item is the end i had made a complaint to Aur Avr Bakidre delivery charge end extra Tagoli that is not an issue but MRP mention one eighty rupees mention fifteen percent discount or sell us product for one fifty five See complaint about Nav Idro see one fifty five of twenty rupees item on one fifty five of the item Neev en Testira Antelidre photo All I put a screenshot of that again amazon du price photo I also shared Avru said statement such details as correct category So we had to call again we know details on all the quotes what evag did solve the problem for us no what did we say about evr last week madidre namg in a little time kodri end thanidre namg evag no longer wait Nim kaial or ilvo namgen refund coming no refunds coming from amazon what no action on the part of amazon does not take any action on aj avr There was four hundred six sir two hundred six and one batch where two hundred six were ok Pack while that sir There is a single pack where there is a mention One pack where two hundred Andre Total Four Hundred Four Hundred Total Erodu Two Hundred Two Hundred Erad Box Comes Small four hundred four hundred four hundred sticks is there two boxes four hundred de total two hundred two hundred du hundred du hundred du erad box has come total four hundred six have come to Adru make MRP black on Adru made a share of non adru photo's shareDini marker Indano something black off Avru Gottagbardu End ok ADAN NAMIG KALSKOTTIDARE Now, ten rupees from one packet sir that you can contact me again for information about Adru. What a day let's wait see what's on August thirty first when we're not here close Modtir en sumne hinga idtira complaint an an en modthira end I need information now no wait modak is not coming no namig cheat madidre neev amazon to nav contact modkobeka no nim to ITC product on amazon value Ilva nim to Amazon Hour Related Ilva nev to Amazon to sell ITC products to Amazon What to say Bazar is Neve call list See sir non Yawad Yawag did any call there will be a record I speak according to proof Aatha amazon where I have been doing business for four years Iini Ayatha Avrau told us sir we are not a modak nav kalskoe Tatidevi Neev Enadru Idre company said the end of the conversation that I did the same Kelsa and that did not say so Leave it was different at the end of delivery charge For us It means that Nim MRP price is wrong and it's not an illegal act. MRP crack off per stick was a mention of it if it was blacked off then you didn't share the photo where it would reflect Don't know about that sir non idru non cactini non erad for a minute hold allikboda sir nim call inform Modtini's trouble is the end Illa Andre, me ar iaro, avrig non taladdi should give a solution, that's all Ilandre, I told him to close the complaint, let me close my company like that's okay. ok, thank you line there thank you sir hello Krishna Avre that sir did you pay the amount sir MRP fifty one double five rupees that pack two ten rupees two ten rupees is ending itself two ten rupees sorry two ten sticks two ten sticks so ten rupees pack new money twenty rupees pack to one fifty five rupees sir one fifty rupee one fifty five rupees you didn't pay so that's proof I mean you did UP payment no cash delivery kotra sir you No I haven't given prepaid cash delivery prepaid prepaid andre wallet was there nev pay against modbitra card okay so one fifty one fifty five rupees did nev Houdoud Yes but MRP Li has scratched here sir so two ten rupees tax that I mean pa most probably ten hundred rupees more again one fifty MRP did one eighty show where it was a photo had to place a different order it was that order details Al went to that photo didn't pay did it amount Torusta is in Adrli Sir is the same as the photo of Kalsidre in Eht Divsa Modthira Adara I shared the order details there delivery sir do you have a photo stolen one fifty five rupees did it pay for a photo that was paid for by Sir Nav TV and informed Nim status check modstivi sir okay na nev non nimge number said new note madkuli sir Tell me what number whatsapp number cheese That's what you highlighted in a screenshot sir one fifty five rupees did not pay hello sir this is not a screenshot payment screenshot sir payment mode du screenshot Heng comes sir payment mode picture something payment mode has to be done Kandre hogabudd it is pay when order details order details seem new did you hear Andre payment mode that gets hung sir screenshot order place on amazon so that's so much for me about adru No knowledge but Adrae Please place an order if you did not say that you have a prepaid modri end where you have wallet through you pay through cards there is no end of it that you have made a payment A screenshot Please send us sir Andre has made some kind of payment down there will be an end to it. You Otherwise the amount does not appear, see above, the amount again in the bottom column where the payment mode ends, see the payment mode said, this is the end of the payment mode, the end of the payment mode is there, the end of the through debit card Yes All mention of that last four numbers debit card was not shared by us sir Yakandre Avella personal details Irtawe details did not say no sir that you paid for one fifty five rupees two packs did not end up just that screenshot hide something personal details was written confidential that's what you scratched and did not hide hide away new photos sir it was that ad again it was one fifty five rupees paid or there is no receipt sir now you have to pay phone pay where a receipt does not end there is no end of a receipt the same person didn't say irodu just a screenshot of the same guy That's it It's okay when it's okay. two ten rupees to that's like two ten rupees to six pack you paid one fifty five rupees okay okay sir last week representative don't tell us Nav modtivi modtivi forward maddeevi end said again sir another evagley last say any details of the same name not called again evag details left another erad divsa left call modtiini again wag anain The details are not good sir this is the last and final sir nev kalskodi when i am with the team for a minute see how much is that pack but i will give you information plus you will inform the photos team i will update sir okay nev hakis bakad photos kalskodi okay Alla not already there is no old photo sir now now that's all we pay repeat is not a mod, it is not already there so follow up below No sir Neve Kalskodi needed that something details Andre Nane call Maddini okay's Look at that sir this is the last same again details Andre Irak chance there is no Adrli Yakandra payment is MRP is product photo is all there is almost all bandang unsutte me I leave you a diva for it and call you no reach Call yourself above okay sir thank you sir Kares Nim Shubh ",
+    "speaker_a_segments": "very good evening thank you for calling IC my name is calendar how can I help you cheese complaint register number sir number complaint register One minute I can check sir be there in a line sir is your mobile number itself Krishna Awara sir Matadta Irodu okay sir register a complaint about those matches Haud Let's say ok There is a single pack where there is a mention four hundred four hundred four hundred sticks is there two boxes ok For us Don't know about that sir non idru non cactini non erad for a minute hold allikboda sir nim call inform Modtini's trouble is the end ok, thank you line there thank you sir hello Krishna Avre that sir did you pay the amount sir MRP fifty one double five rupees that pack two ten rupees two ten rupees is ending itself two ten rupees sorry two ten sticks two ten sticks so ten rupees pack new money twenty rupees pack to one fifty five rupees sir one fifty rupee one fifty five rupees you didn't pay so that's proof I mean you did UP payment no cash delivery kotra sir you prepaid andre wallet was there nev pay against modbitra card okay so one fifty one fifty five rupees did nev Yes but MRP Li has scratched here sir so two ten rupees tax that I mean pa most probably ten hundred rupees more again delivery sir do you have a photo stolen one fifty five rupees did it pay for a photo that was paid for by Sir Nav TV and informed Nim status check modstivi sir okay na nev non nimge number said new note madkuli sir whatsapp number cheese That's what you highlighted in a screenshot sir one fifty five rupees did not pay hello sir this is not a screenshot payment screenshot sir order place on amazon so that's so much for me about adru Please place an order if you did not say that you have a prepaid modri end where you have wallet through you pay through cards there is no end of it that you have made a payment A screenshot Please send us sir You Yes details did not say no sir that you paid for one fifty five rupees two packs did not end up just that screenshot hide something personal details was written confidential that's what you scratched and did not hide hide away new photos sir it was that ad again it was one fifty five rupees paid or there is no receipt sir now you have to pay phone pay where a receipt does not end there is no end of a receipt the same person didn't say irodu just a screenshot of the same guy That's it two ten rupees to that's like two ten rupees to six pack you paid one fifty five rupees okay Nav sir nev kalskodi when i am with the team for a minute see how much is that pack but i will give you information plus you will inform the photos team i will update sir okay nev hakis bakad photos kalskodi okay No sir Neve Kalskodi needed that something details Andre Nane call Maddini okay's okay sir thank you sir Kares Nim Shubh ",
+    "speaker_b_segments": "Sir Namaste There is already a complaint register complaint number Bakidre Khtini Yes sir there is sir it's still what it's status hasn't said anything now last wednesday call made again wednesday call modtivi end didwi we didn't mind yesterday Didn't Sir Nav Eeg wait Modok not Nav right now what we need to know about it is the end of the status Neiven Modthira no what Annodu we have no guarantee for it Information en Kodthira end a bit sir we ordered matches on amazon The fifth star Listen to the full sir amazon where matches made a fifth order for us to receive eight something that is a bare ten rupees to matches cost us one hundred and fifty five rupees to the earth match box to twenty rupees price to amazon awru non that photo was also shared by Avrii Awru Aur Heng Marta to so costly of that amazon avru nimm company item is the end i had made a complaint to Aur Avr Bakidre delivery charge end extra Tagoli that is not an issue but MRP mention one eighty rupees mention fifteen percent discount or sell us product for one fifty five See complaint about Nav Idro see one fifty five of twenty rupees item on one fifty five of the item Neev en Testira Antelidre photo All I put a screenshot of that again amazon du price photo I also shared Avru said statement such details as correct category So we had to call again we know details on all the quotes what evag did solve the problem for us no what did we say about evr last week madidre namg in a little time kodri end thanidre namg evag no longer wait Nim kaial or ilvo namgen refund coming no refunds coming from amazon what no action on the part of amazon does not take any action on aj avr There was four hundred six sir two hundred six and one batch where two hundred six were Pack while that sir One pack where two hundred Andre Total Four Hundred Four Hundred Total Erodu Two Hundred Two Hundred Erad Box Comes Small four hundred de total two hundred two hundred du hundred du hundred du erad box has come total four hundred six have come to Adru make MRP black on Adru made a share of non adru photo's shareDini marker Indano something black off Avru Gottagbardu End ADAN NAMIG KALSKOTTIDARE Now, ten rupees from one packet sir that you can contact me again for information about Adru. What a day let's wait see what's on August thirty first when we're not here close Modtir en sumne hinga idtira complaint an an en modthira end I need information now no wait modak is not coming no namig cheat madidre neev amazon to nav contact modkobeka no nim to ITC product on amazon value Ilva nim to Amazon Hour Related Ilva nev to Amazon to sell ITC products to Amazon What to say Bazar is Neve call list See sir non Yawad Yawag did any call there will be a record I speak according to proof Aatha amazon where I have been doing business for four years Iini Ayatha Avrau told us sir we are not a modak nav kalskoe Tatidevi Neev Enadru Idre company said the end of the conversation that I did the same Kelsa and that did not say so Leave it was different at the end of delivery charge It means that Nim MRP price is wrong and it's not an illegal act. MRP crack off per stick was a mention of it if it was blacked off then you didn't share the photo where it would reflect Illa Andre, me ar iaro, avrig non taladdi should give a solution, that's all Ilandre, I told him to close the complaint, let me close my company like that's okay. No I haven't given prepaid cash delivery prepaid Houdoud one fifty MRP did one eighty show where it was a photo had to place a different order it was that order details Al went to that photo didn't pay did it amount Torusta is in Adrli Sir is the same as the photo of Kalsidre in Eht Divsa Modthira Adara I shared the order details there Tell me what number payment mode du screenshot Heng comes sir payment mode picture something payment mode has to be done Kandre hogabudd it is pay when order details order details seem new did you hear Andre payment mode that gets hung sir screenshot No knowledge but Adrae Andre has made some kind of payment down there will be an end to it. Otherwise the amount does not appear, see above, the amount again in the bottom column where the payment mode ends, see the payment mode said, this is the end of the payment mode, the end of the payment mode is there, the end of the through debit card All mention of that last four numbers debit card was not shared by us sir Yakandre Avella personal details Irtawe It's okay when it's okay. okay sir last week representative don't tell us modtivi modtivi forward maddeevi end said again sir another evagley last say any details of the same name not called again evag details left another erad divsa left call modtiini again wag anain The details are not good sir this is the last and final Alla not already there is no old photo sir now now that's all we pay repeat is not a mod, it is not already there so follow up below Look at that sir this is the last same again details Andre Irak chance there is no Adrli Yakandra payment is MRP is product photo is all there is almost all bandang unsutte me I leave you a diva for it and call you no reach Call yourself above ",
+    "summary": "The customer is frustrated that they have not received a status update or resolution for their complaint, despite following up with Amazon multiple times. They are seeking information about the status of their complaint and want to know how to proceed. The customer also mentions that they have been doing business with Amazon for four years and has never experienced such poor service. They are considering contacting the Better Business Bureau or other consumer protection agencies if they do not receive a resolution soon. The customer is also frustrated that they were not informed of the status of their complaint and that they have to follow up repeatedly to get any information. They are also concerned that they were not provided with a refund or any other resolution for their issue.  The customer is asking for a call to be placed to the concerned team to know the status of the complaint.  They also want to know the number to which they can reach out over WhatsApp.  They have also shared a screenshot of the order details.  The customer is also asking for a refund of 10 rupees for a pack of 2 ten rupee sticks.  They also want to know the status of the refund.  The customer is also asking for a call from a senior representative.",
+    "speaker_a_summary": "The customer is calling in to register a complaint about a misleading description on a product he purchased. The product in question is a cigarette, with the description stating that there should be 4 400 sticks in a single pack, however, the customer has received two boxes with only two hundred sticks in each. The customer prepaid for the product on Modbitra card, however, he believes that he was charged too much for the product as there was an issue with the tax. The customer has sent a screenshot of the payment as evidence, however, the customer service representative is asking for more information which is not included in the screenshot, and is asking the customer to pay the correct amount and provide a receipt as proof of payment. The customer is getting frustrated with the process and the call ends with the customer being asked to wait a minute while the customer service representative checks with their team and updates the photos team about the issue.",
+    "speaker_b_summary": "The customer is upset with the delivery charges for their order on Amazon and the lack of updates on their complaint to customer service. They ordered matches that were sold by a third-party company through Amazon, but the order arrived with a misleading MRP (Maximum Retail Price) on the package. The customer is arguing that the product should have cost one hundred and fifty rupees, instead of the two hundred and fifty rupees they were charged with inclusive of delivery. They also believe that the product's actual price was misrepresented on the package, and they shared a screenshot of their order details to support their claim. The customer has been frustrated with Amazon's customer support, as they are not getting the assistance they need and are being passed around without any solutions. The customer wants to resolve the issue quickly and hopes to receive a refund for the excess charges.",
+    "cohere_points": "- Customer is frustrated with the service and complaints procedure\n- They are unhappy with the price they paid for a product from Amazon\n- They are looking for a full refund and want to know the status of their complaint\n- The customer wants to speak to a manager and is looking for a call back. \n- They have been disappointed with the service they have received.",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "1. Complaint registration process\n2. Delivery charge issue\n3. Price discrepancy on products\n4. Amazon order details\n5. Refund status inquiry\n6. Payment mode clarification\n7. Prepaid vs. cash delivery\n8. Check on payment receipt\n9. Verification of payment amount\n10. Inquiry about withheld personal details\n11. Resolution of payment discrepancy\n12. Follow-up on pending issues\n13. Update on complaint closure\n14. Customer service communication\n15. Request",
+    "Resolution": "The customer's issue does not seem to be resolved as there are still discrepancies regarding payment and product delivery details.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "No, the caller did not display empathy in the conversation.",
+    "Was there any profanity on the call": "No.",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 112.9609999999998,
+    "num_silences": 117
+}

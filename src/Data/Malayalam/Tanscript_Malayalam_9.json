@@ -1,0 +1,848 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0328",
+            "end_time": "0.085",
+            "original_transcript": "ലിംനിങ്ങ് വെൽക്കം ഐ ടി സി മലൂക്ക് ബത്തേക്ക് സായത കസത്തോ",
+            "translated_transcript": "LINNING WELKAM ITC MALUK BATHAKE SAYATHA KASATHO",
+            "tone": "Neutral",
+            "rate_of_speech": "134.23",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "linning welkam itc maluk bathake sayatha kasatho"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.0985",
+            "end_time": "0.1457",
+            "original_transcript": "മലയാളം ലാ യു ടോക്ക്",
+            "translated_transcript": "Malayalam La You Talk",
+            "tone": "Neutral",
+            "rate_of_speech": "84.81",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "malayalam",
+                "talk"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.1457",
+            "end_time": "0.215",
+            "original_transcript": "ഹോം യോൽ ട്രാൻസ്ഫർ കോൾ ഫോർ മലയാളം ഏജന്റ് മ മെ പ്ലസ് കോൾ ഓൺ ഹോൾഡ്",
+            "translated_transcript": "Home Yol Transfer Call For Malayalam Agent May Plus Call On Hold",
+            "tone": "Neutral",
+            "rate_of_speech": "173.08",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "yol transfer call",
+                "malayalam agent may",
+                "call",
+                "hold"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.231",
+            "end_time": "0.2625",
+            "original_transcript": "ഒ",
+            "translated_transcript": "O",
+            "tone": "Neutral",
+            "rate_of_speech": "31.73",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.2783",
+            "end_time": "0.352",
+            "original_transcript": "ഒക്കെ ബി ഓൺലൈൻ മാം ഗോയിംഗ് ടു ട്രാൻസ്ഫർ കോൾപ്പം മലയാളം ഏജന്റ്സ്",
+            "translated_transcript": "OKB Online Mom Going to Transfer Call Malayalam Agents",
+            "tone": "Neutral",
+            "rate_of_speech": "122.17",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "okb online",
+                "going",
+                "transfer call malayalam agents"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.4502",
+            "end_time": "1.4782",
+            "original_transcript": "താങ്ക്യു ഫോർ ബംഗ് ഓൺലൈൻ മാം ഹലോ",
+            "translated_transcript": "Thank You For Bang Online Mom Hello",
+            "tone": "Neutral",
+            "rate_of_speech": "250.00",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thank",
+                "bang online"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.4873",
+            "end_time": "1.4985",
+            "original_transcript": "ഹലോ",
+            "translated_transcript": "Hello.",
+            "tone": "Neutral",
+            "rate_of_speech": "89.42",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.5288",
+            "end_time": "1.5928",
+            "original_transcript": "സോ സോക് റൈറ്റ് മലയാളം ഏജന്റ്സ് ആർ ബിസി ഓൺ അനർ കോൾ സോ ഗി മി നമ്പർ ഇൻ തൃശൂർ ഡിസ്ട്രി",
+            "translated_transcript": "SO SOK RIGHT MALAYALAM AGENTS R BC ON UNDER CALL SO GI MI NUMBER IN THRISSUR DISTRICT",
+            "tone": "Happy",
+            "rate_of_speech": "265.69",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "so sok right malayalam agents r bc on under call so gi mi number in thrissur district"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.642",
+            "end_time": "1.6673",
+            "original_transcript": "ഐടി സപ്ലേഴ്സ്",
+            "translated_transcript": "IT Suppliers",
+            "tone": "Neutral",
+            "rate_of_speech": "78.90",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "it suppliers"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.6673",
+            "end_time": "1.675",
+            "original_transcript": "സോറി",
+            "translated_transcript": "Sorry",
+            "tone": "Sad",
+            "rate_of_speech": "130.43",
+            "emotion": "remorse",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "sorry"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.702",
+            "end_time": "1.7285",
+            "original_transcript": "യു ലുക്കിംഗ് ഫോർ സപ്ലൈ വിനോദ",
+            "translated_transcript": "Looking For Supply Entertainment",
+            "tone": "Neutral",
+            "rate_of_speech": "151.04",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "looking",
+                "entertainment"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.7285",
+            "end_time": "1.7593",
+            "original_transcript": "നമ്പർ ഐടിസി സപ്ലൈഴ്സ്",
+            "translated_transcript": "Number ITC Suppliers",
+            "tone": "Neutral",
+            "rate_of_speech": "97.30",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "number itc suppliers"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.7833",
+            "end_time": "1.838",
+            "original_transcript": "are you looking for supply of products ma'am",
+            "translated_transcript": "are you looking for a supply of good products",
+            "tone": "Happy",
+            "rate_of_speech": "164.68",
+            "emotion": "curiosity",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good products"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.8548",
+            "end_time": "1.869",
+            "original_transcript": "പാടേ",
+            "translated_transcript": "Pade",
+            "tone": "Neutral",
+            "rate_of_speech": "70.67",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pade"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.8782",
+            "end_time": "2.302",
+            "original_transcript": "സപ്ലൈ ഓഫ് ഐടി പ്രൊഡക്ട്സ് ഇൻ യർ ഷോപ്പ് ഡു വൺ ഡിംഗ് സോ ഡോ ഡിസ്ട്രബൂട്ടേഴ്സ് ഡിസ് സെയ്സ് റിക്സ്റ്റ് ഫോർവേഡ് മൈ കൺസേൺ ടീം സോർ കൺസേൺ ടീം കോൺടാക്ട് യു ഓൺ പ്രൊവൈഡഡ് കോൺടാക്ട് നമ്പർ ആൻഡ് ഇഫ് യു വടു നോട്ട് പ്രൈസ് ഓർ മാർജിൻ റിലേറ്റഡ് ഡിറ്റേഴ്സ് യുൻ ആസ്ക്ടു അസിസ്റ്റ് യു",
+            "translated_transcript": "Supply of IT Products in Ear Shop Du One Ding So Do Distributors Dis Size Rikst Forward My Concern Team Source Consen Team Contact U On Provided Contact Number and IF U Scar Note Price Our Margin Related Detectors One Asset Assist U",
+            "tone": "Neutral",
+            "rate_of_speech": "101.46",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "it products",
+                "ear",
+                "ding",
+                "distributors dis size rikst forward",
+                "team source consen team contact u",
+                "provided contact number",
+                "if u scar",
+                "price",
+                "margin related detectors",
+                "asset assist u"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.3135",
+            "end_time": "2.3215",
+            "original_transcript": "Okay",
+            "translated_transcript": "Alright",
+            "tone": "Neutral",
+            "rate_of_speech": "125.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "alright"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.3215",
+            "end_time": "2.3571",
+            "original_transcript": "okay give the number my number",
+            "translated_transcript": "ok give the number my number",
+            "tone": "Neutral",
+            "rate_of_speech": "168.22",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.3712",
+            "end_time": "2.405",
+            "original_transcript": "നമ്പർ ഓൾസോ",
+            "translated_transcript": "Number Olso",
+            "tone": "Neutral",
+            "rate_of_speech": "59.11",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "number olso"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.4165",
+            "end_time": "2.455",
+            "original_transcript": "സുന ഗുഡ്",
+            "translated_transcript": "Suna Good",
+            "tone": "Happy",
+            "rate_of_speech": "51.95",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "suna"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.455",
+            "end_time": "2.4751",
+            "original_transcript": "ടോക്കിംഗ് സന്ധ്യ ടോമി",
+            "translated_transcript": "Talking Dusk Tommy",
+            "tone": "Neutral",
+            "rate_of_speech": "148.88",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "dusk tommy"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.4907",
+            "end_time": "2.5135",
+            "original_transcript": "എസ് എ എൻ ഡി എച്ച് വായ",
+            "translated_transcript": "SANDH Mouth",
+            "tone": "Neutral",
+            "rate_of_speech": "87.66",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sandh mouth"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.524",
+            "end_time": "2.5478",
+            "original_transcript": "ടോണി",
+            "translated_transcript": "TONY",
+            "tone": "Neutral",
+            "rate_of_speech": "41.99",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "tony"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.5593",
+            "end_time": "2.5821",
+            "original_transcript": "ഒ എൻ വൈ",
+            "translated_transcript": "ONY",
+            "tone": "Neutral",
+            "rate_of_speech": "43.80",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ony"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.6218",
+            "end_time": "2.6852",
+            "original_transcript": "എൻ കോൺടാക്ട് യർ കോളിംഗ്",
+            "translated_transcript": "N Contact Air Calling",
+            "tone": "Neutral",
+            "rate_of_speech": "63.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "n contact"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.7005",
+            "end_time": "2.7505",
+            "original_transcript": "ഒക്കെ ടെൽ മി യർ സ്റ്റോർ നം ആൻഡ് അഡ്രസ് പിൻ കോഡ് മാം",
+            "translated_transcript": "OK Tell Me Air Store Name and Address Zip Code Mom",
+            "tone": "Neutral",
+            "rate_of_speech": "220.00",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "store name",
+                "address zip code"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.7642",
+            "end_time": "2.8208",
+            "original_transcript": "ഒക്കെ പിൻകോഡ്സ് ഒല്ലൂർ തൃശൂർ ഡിസ്ട്രിക്ട്",
+            "translated_transcript": "OK PINCODES OLLUR THRISSUR DISTRICT",
+            "tone": "Neutral",
+            "rate_of_speech": "88.24",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "pincodes ollur thrissur district"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.8352",
+            "end_time": "2.8538",
+            "original_transcript": "തൃശ്ശൂർ ഒക്കെ",
+            "translated_transcript": "Thrissur Oke",
+            "tone": "Neutral",
+            "rate_of_speech": "107.24",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thrissur oke"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.8672",
+            "end_time": "2.8738",
+            "original_transcript": "എ",
+            "translated_transcript": "A",
+            "tone": "Neutral",
+            "rate_of_speech": "150.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.8738",
+            "end_time": "2.8865",
+            "original_transcript": "ഒല്ലൂർ",
+            "translated_transcript": "Ollur",
+            "tone": "Neutral",
+            "rate_of_speech": "78.84",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ollur"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.9088",
+            "end_time": "2.922",
+            "original_transcript": "പിൻകോഡ് വാം",
+            "translated_transcript": "Pincode Warm",
+            "tone": "Happy",
+            "rate_of_speech": "151.71",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "pincode warm"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.9352",
+            "end_time": "3.0792",
+            "original_transcript": "ഒക്കെ ഒല്ലൂർ മീൻസ് ഇസ്സ് ഡിസ്ട്രിക്ട് നം ഒല്ലൂർ",
+            "translated_transcript": "OK OLLUR MEANS IS DISTRICT NO OLLUR",
+            "tone": "Neutral",
+            "rate_of_speech": "48.61",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ollur means is district no ollur"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.0967",
+            "end_time": "3.1067",
+            "original_transcript": "ഒലോസ്",
+            "translated_transcript": "Olos",
+            "tone": "Neutral",
+            "rate_of_speech": "100.17",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "olos"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.1067",
+            "end_time": "3.119",
+            "original_transcript": "ഫിഫ്റ്റി",
+            "translated_transcript": "Fifty",
+            "tone": "Neutral",
+            "rate_of_speech": "81.08",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "fifty"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.1322",
+            "end_time": "3.1501",
+            "original_transcript": "കാൻ യു സ്പെൽ ഇറ്റ് പ്ലീസ്",
+            "translated_transcript": "Can You Spell It Please",
+            "tone": "Neutral",
+            "rate_of_speech": "277.78",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "spell",
+                "please"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.1617",
+            "end_time": "3.1983",
+            "original_transcript": "ഒ ഡബിൾ എൽ ആർ",
+            "translated_transcript": "O Double LR",
+            "tone": "Neutral",
+            "rate_of_speech": "81.82",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "lr"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.2092",
+            "end_time": "3.2231",
+            "original_transcript": "ഒ ഡബിൾ എൻ",
+            "translated_transcript": "O Double N",
+            "tone": "Neutral",
+            "rate_of_speech": "214.54",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.2333",
+            "end_time": "3.249",
+            "original_transcript": "ആർ",
+            "translated_transcript": "R",
+            "tone": "Neutral",
+            "rate_of_speech": "63.83",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.28",
+            "end_time": "3.3955",
+            "original_transcript": "thank you so much and will you please tell me your name",
+            "translated_transcript": "thank you so much and will you please tell me your name",
+            "tone": "Neutral",
+            "rate_of_speech": "103.91",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.4167",
+            "end_time": "3.4575",
+            "original_transcript": "മൊയലൻസ് ഫാമിലി മാർച്ച്",
+            "translated_transcript": "The Moyalance Family March",
+            "tone": "Neutral",
+            "rate_of_speech": "98.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "moyalance",
+                "march"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.4702",
+            "end_time": "3.529",
+            "original_transcript": "കാൻ യു സ്പെല്ലി പീസ് എം എം",
+            "translated_transcript": "CAN U SPELLY PIECE MM",
+            "tone": "Neutral",
+            "rate_of_speech": "84.99",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "can u spelly piece mm"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.5448",
+            "end_time": "3.588",
+            "original_transcript": "എം എൽ എ",
+            "translated_transcript": "MLA",
+            "tone": "Neutral",
+            "rate_of_speech": "23.17",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mla"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.5941",
+            "end_time": "3.602",
+            "original_transcript": "എൽ എ",
+            "translated_transcript": "LA",
+            "tone": "Neutral",
+            "rate_of_speech": "127.66",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "la"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.6135",
+            "end_time": "3.6248",
+            "original_transcript": "എൻ എസ്",
+            "translated_transcript": "NS",
+            "tone": "Neutral",
+            "rate_of_speech": "88.11",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ns"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.6322",
+            "end_time": "3.654",
+            "original_transcript": "എൻ എസ് മാർട്ട്",
+            "translated_transcript": "NS Mart",
+            "tone": "Neutral",
+            "rate_of_speech": "91.53",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ns mart"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.6675",
+            "end_time": "3.6818",
+            "original_transcript": "ഫാമിലി മാർട്ട്",
+            "translated_transcript": "Family Mart",
+            "tone": "Neutral",
+            "rate_of_speech": "139.53",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mart"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.6875",
+            "end_time": "3.8295",
+            "original_transcript": "ഫാമിലി മാർട്ട് ഒക്കെ മാസ് താങ്ക് സോച്ച് ഫോർ ഗിവിംഗ് ദി ഡിസ് പ്രൊഡക്ട്ക്കി പ്രൊഡക്ട് യർ ലുക്കിങ് ഫർ സപ്ലൈ",
+            "translated_transcript": "FAMILY MART OK MASS THANK SOCH FOR GIVING THE DISH PRODUCT AIR LOOKING FOR SUPPLY",
+            "tone": "Neutral",
+            "rate_of_speech": "105.63",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "family mart",
+                "mass thank soch for giving the dish product air looking for supply"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.8295",
+            "end_time": "3.8968",
+            "original_transcript": "ഐ ബിസ്കറ്റ്സ്",
+            "translated_transcript": "Eye Biscuits",
+            "tone": "Neutral",
+            "rate_of_speech": "29.71",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "eye biscuits"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.8968",
+            "end_time": "3.9112",
+            "original_transcript": "ഓർ കോംപ്ലിറ്റ്",
+            "translated_transcript": "OR COMPLETE",
+            "tone": "Neutral",
+            "rate_of_speech": "139.53",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "or complete"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.9198",
+            "end_time": "3.9333",
+            "original_transcript": "ഓക്സ് വിഡോക്സ്",
+            "translated_transcript": "Ox Widox",
+            "tone": "Neutral",
+            "rate_of_speech": "148.15",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ox widox"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.9333",
+            "end_time": "3.9855",
+            "original_transcript": "വിഡോഡസ്റ്റ്",
+            "translated_transcript": "Widodust",
+            "tone": "Neutral",
+            "rate_of_speech": "19.17",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "widodust"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.0332",
+            "end_time": "4.0852",
+            "original_transcript": "ആശീർവാദ ആട്ട സൺഡ് ഇപി നൂഡിൾസ് ബിംഗോ സ്നാക്സ്",
+            "translated_transcript": "ASHEERVADA ATTA SUND EP NOODLES BINGO SNACKS",
+            "tone": "Neutral",
+            "rate_of_speech": "134.62",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "asheervada atta sund ep noodles bingo snacks"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.095",
+            "end_time": "4.1566",
+            "original_transcript": "ഒക്കെ ആൻ കാന്റിമെന്റ് ചോക്ലേറ്റ്സ് മൺഫസ് ഡിസ്കിറ്റ് വി",
+            "translated_transcript": "OK N Cantiment Chocolates Monface Disket V",
+            "tone": "Neutral",
+            "rate_of_speech": "113.51",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "n cantiment chocolates monface disket v"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.167",
+            "end_time": "4.1975",
+            "original_transcript": "ബിസ്കറ്റ് ഡാർക്ക് ഫാന്റസി",
+            "translated_transcript": "Biscuit Dark Fantasy",
+            "tone": "Neutral",
+            "rate_of_speech": "98.36",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "biscuit dark fantasy"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.2063",
+            "end_time": "4.3723",
+            "original_transcript": "ഡാർക്ക് ഫാന്റസി ആൻഡ് സെന്റ് ഫിഷ് ടീപി നൂഡിൾസ് ആന്റ് ഹാവ് ബിംഗോ സ്നാക്സ് ബിംഗോ പൊട്ടേറ്റോ ചീഫ്സ് തളളി ആൻഡ് മാഡുൾ",
+            "translated_transcript": "Dark Fantasy and Saint Fish Teepee Noodles and Haw Bingo Snacks Bingo Potatto Chiefs Skewers and Madule",
+            "tone": "Neutral",
+            "rate_of_speech": "102.42",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "dark fantasy",
+                "saint fish teepee noodles",
+                "haw bingo snacks bingo potatto chiefs skewers",
+                "madule"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.3723",
+            "end_time": "4.5532",
+            "original_transcript": "ആക്ച്വൽ പ്രോബ്ലം ഇസ് മൈൻസ് യെസ്റ്റർഡേ ടു പീപ്പിൾസ് കിംഗ് ഫ്രം ഐ ടി സി മണ്ണൂർ ഇൻഷു ഗീ നമ്പർ",
+            "translated_transcript": "Actual Problem Is Mines Yesterday to the People's King from ITC Mannur Inshu Gee Number",
+            "tone": "Neutral",
+            "rate_of_speech": "82.94",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "actual problem",
+                "mines yesterday",
+                "people 's king",
+                "itc mannur inshu gee number"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.5668",
+            "end_time": "4.6862",
+            "original_transcript": "നമ്പർ ഇസ് റോ നമ്പർബ്ലി",
+            "translated_transcript": "NUMBER IS ROW NUMBERBLI",
+            "tone": "Neutral",
+            "rate_of_speech": "33.52",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "number is row numberbli"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.7153",
+            "end_time": "4.7255",
+            "original_transcript": "ഹലോ",
+            "translated_transcript": "Hello.",
+            "tone": "Neutral",
+            "rate_of_speech": "98.52",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.9351",
+            "end_time": "4.95",
+            "original_transcript": "കോഴ്സിൽ പാലിക്കുന്നു",
+            "translated_transcript": "Adhering to the course",
+            "tone": "Neutral",
+            "rate_of_speech": "269.36",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "adhering"
+            ]
+        }
+    ],
+    "translated_segments": "LINNING WELKAM ITC MALUK BATHAKE SAYATHA KASATHO Malayalam La You Talk Home Yol Transfer Call For Malayalam Agent May Plus Call On Hold O OKB Online Mom Going to Transfer Call Malayalam Agents Thank You For Bang Online Mom Hello Hello. SO SOK RIGHT MALAYALAM AGENTS R BC ON UNDER CALL SO GI MI NUMBER IN THRISSUR DISTRICT IT Suppliers Sorry Looking For Supply Entertainment Number ITC Suppliers are you looking for a supply of good products Pade Supply of IT Products in Ear Shop Du One Ding So Do Distributors Dis Size Rikst Forward My Concern Team Source Consen Team Contact U On Provided Contact Number and IF U Scar Note Price Our Margin Related Detectors One Asset Assist U Alright ok give the number my number Number Olso Suna Good Talking Dusk Tommy SANDH Mouth TONY ONY N Contact Air Calling OK Tell Me Air Store Name and Address Zip Code Mom OK PINCODES OLLUR THRISSUR DISTRICT Thrissur Oke A Ollur Pincode Warm OK OLLUR MEANS IS DISTRICT NO OLLUR Olos Fifty Can You Spell It Please O Double LR O Double N R thank you so much and will you please tell me your name The Moyalance Family March CAN U SPELLY PIECE MM MLA LA NS NS Mart Family Mart FAMILY MART OK MASS THANK SOCH FOR GIVING THE DISH PRODUCT AIR LOOKING FOR SUPPLY Eye Biscuits OR COMPLETE Ox Widox Widodust ASHEERVADA ATTA SUND EP NOODLES BINGO SNACKS OK N Cantiment Chocolates Monface Disket V Biscuit Dark Fantasy Dark Fantasy and Saint Fish Teepee Noodles and Haw Bingo Snacks Bingo Potatto Chiefs Skewers and Madule Actual Problem Is Mines Yesterday to the People's King from ITC Mannur Inshu Gee Number NUMBER IS ROW NUMBERBLI Hello. Adhering to the course ",
+    "speaker_a_segments": "LINNING WELKAM ITC MALUK BATHAKE SAYATHA KASATHO Home Yol Transfer Call For Malayalam Agent May Plus Call On Hold O OKB Online Mom Going to Transfer Call Malayalam Agents Thank You For Bang Online Mom Hello SO SOK RIGHT MALAYALAM AGENTS R BC ON UNDER CALL SO GI MI NUMBER IN THRISSUR DISTRICT Sorry Looking For Supply Entertainment are you looking for a supply of good products Supply of IT Products in Ear Shop Du One Ding So Do Distributors Dis Size Rikst Forward My Concern Team Source Consen Team Contact U On Provided Contact Number and IF U Scar Note Price Our Margin Related Detectors One Asset Assist U Alright Suna Good SANDH Mouth N Contact Air Calling OK Tell Me Air Store Name and Address Zip Code Mom Thrissur Oke A Pincode Warm OK OLLUR MEANS IS DISTRICT NO OLLUR Olos Can You Spell It Please O Double N thank you so much and will you please tell me your name CAN U SPELLY PIECE MM LA NS Mart FAMILY MART OK MASS THANK SOCH FOR GIVING THE DISH PRODUCT AIR LOOKING FOR SUPPLY OR COMPLETE Ox Widox ASHEERVADA ATTA SUND EP NOODLES BINGO SNACKS OK N Cantiment Chocolates Monface Disket V Dark Fantasy and Saint Fish Teepee Noodles and Haw Bingo Snacks Bingo Potatto Chiefs Skewers and Madule Hello. Adhering to the course ",
+    "speaker_b_segments": "Malayalam La You Talk Hello. IT Suppliers Number ITC Suppliers Pade ok give the number my number Number Olso Talking Dusk Tommy TONY ONY OK PINCODES OLLUR THRISSUR DISTRICT Ollur Fifty O Double LR R The Moyalance Family March MLA NS Family Mart Eye Biscuits Widodust Biscuit Dark Fantasy Actual Problem Is Mines Yesterday to the People's King from ITC Mannur Inshu Gee Number NUMBER IS ROW NUMBERBLI ",
+    "summary": "The user is trying to get in contact with an agent from the ITC company in order to get information about the products they supply and the possibility of becoming a distributor for those products. They want the contact information for the ITC branch in Thrissur, in particular. The caller spells out their own name, \"Ollur\", and \"Family Mart\" before hanging up. The call was transferred from a Malayalam-speaking agent.",
+    "speaker_a_summary": "A customer is looking for a supply of IT products, chocolates, noodles, and snacks for their store in the Thrissur district. They are looking for distributors and the agent helps them by finding the contact for them. The agent asks for the pin code to provide the customer with the exact information they are looking for. The customer provides the information and the agent will get back to them with the details.",
+    "speaker_b_summary": "The text is a jumble of letters and numbers that is difficult to decipher. It appears the message is trying to convey the following: \"Hello, my number is also talking. The actual problem is mine. Yesterday, to the People's King, from ITC Mannur, my number is [number].\". The number might be related to some sort of issue or complaint the speaker has regarding ITC Mannur.",
+    "cohere_points": "-User is trying to get in touch with an agent to supply them with IT products but keeps getting transferred\n-Agent speaks Malayalam and helps the user find the district number and pin code of Thrissur\n-User asks for help spelling some of the names of products they are looking to supply and thanks the agent. \n-Finally, the user gives their contact number to the agent and asks to be transferred to the ITC Mannur branch.",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "1. Malayalam language translation\n2. IT products supply\n3. Contact number verification\n4. Ollur district pincode\n5. Family Mart products\n6. Supply of Entertainments\n7. Distributors of IT products\n8. Assistance with concerns\n9. Source consent team\n10. Asset assistance\n11. Contact details verification\n12. Spell \"Ollur\"\n13. Moyalance Family details\n14. Looking for a supply\n15. List of food",
+    "Resolution": "The customer's issue is not resolved based on the conversation provided.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "Yes, the caller displayed empathy by saying \"thank you so much\" and \"thank you for giving the dish product\" during the conversation.",
+    "Was there any profanity on the call": "No.",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 83.0740000000001,
+    "num_silences": 67
+}

@@ -1,0 +1,977 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0233",
+            "end_time": "0.2318",
+            "original_transcript": "Thank you for calling Hello Hello Hello Uh",
+            "translated_transcript": "Thank you for calling Hello Hello Hello Uh",
+            "tone": "Neutral",
+            "rate_of_speech": "38.37",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thank",
+                "hello hello hello uh"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.2526",
+            "end_time": "0.2918",
+            "original_transcript": "uh We",
+            "translated_transcript": "Uh, we",
+            "tone": "Neutral",
+            "rate_of_speech": "51.04",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "uh"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.292",
+            "end_time": "0.3237",
+            "original_transcript": "have a company for your product",
+            "translated_transcript": "have a company for your product",
+            "tone": "Neutral",
+            "rate_of_speech": "189.47",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.333",
+            "end_time": "0.3648",
+            "original_transcript": "sir Which language You go to WM",
+            "translated_transcript": "sir Which language you go to WM",
+            "tone": "Neutral",
+            "rate_of_speech": "219.90",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "wm"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.3768",
+            "end_time": "0.4143",
+            "original_transcript": "Please be online",
+            "translated_transcript": "Please be online",
+            "tone": "Neutral",
+            "rate_of_speech": "80.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "please"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.4237",
+            "end_time": "0.4292",
+            "original_transcript": "Yeah",
+            "translated_transcript": "Ja",
+            "tone": "Neutral",
+            "rate_of_speech": "181.82",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ja"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.4725",
+            "end_time": "0.4776",
+            "original_transcript": "I don't",
+            "translated_transcript": "I don't",
+            "tone": "Neutral",
+            "rate_of_speech": "388.35",
+            "emotion": "disapproval",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.479",
+            "end_time": "0.4792",
+            "original_transcript": "I",
+            "translated_transcript": "I",
+            "tone": "Neutral",
+            "rate_of_speech": "5454.55",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.4875",
+            "end_time": "0.4992",
+            "original_transcript": "like I",
+            "translated_transcript": "like I",
+            "tone": "Neutral",
+            "rate_of_speech": "171.43",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.5015",
+            "end_time": "0.5085",
+            "original_transcript": "don't",
+            "translated_transcript": "don't",
+            "tone": "Neutral",
+            "rate_of_speech": "142.86",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.6278",
+            "end_time": "0.6516",
+            "original_transcript": "it",
+            "translated_transcript": "it",
+            "tone": "Neutral",
+            "rate_of_speech": "41.96",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.661",
+            "end_time": "0.6808",
+            "original_transcript": "10,000",
+            "translated_transcript": "10 000",
+            "tone": "Neutral",
+            "rate_of_speech": "100.84",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.703",
+            "end_time": "0.7187",
+            "original_transcript": "A little",
+            "translated_transcript": "A little",
+            "tone": "Neutral",
+            "rate_of_speech": "127.80",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.7533",
+            "end_time": "0.8295",
+            "original_transcript": "I like to listen on your I'm sorry I want to say that",
+            "translated_transcript": "I like to listen to your I'm sorry I want to say that",
+            "tone": "Sad",
+            "rate_of_speech": "170.68",
+            "emotion": "remorse",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.8393",
+            "end_time": "0.968",
+            "original_transcript": "uh",
+            "translated_transcript": "ugh",
+            "tone": "Neutral",
+            "rate_of_speech": "7.77",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.983",
+            "end_time": "1.0121",
+            "original_transcript": "right",
+            "translated_transcript": "rechts",
+            "tone": "Neutral",
+            "rate_of_speech": "34.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.031",
+            "end_time": "1.1145",
+            "original_transcript": "I normally put it in the can",
+            "translated_transcript": "I normally put it in the can",
+            "tone": "Happy",
+            "rate_of_speech": "83.83",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.147",
+            "end_time": "1.283",
+            "original_transcript": "Uh",
+            "translated_transcript": "Ugh",
+            "tone": "Neutral",
+            "rate_of_speech": "7.35",
+            "emotion": "disgust",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ugh"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.2958",
+            "end_time": "1.7815",
+            "original_transcript": "details",
+            "translated_transcript": "dettagli",
+            "tone": "Neutral",
+            "rate_of_speech": "2.06",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.7853",
+            "end_time": "1.8683",
+            "original_transcript": "I didn't",
+            "translated_transcript": "I didn't",
+            "tone": "Neutral",
+            "rate_of_speech": "24.10",
+            "emotion": "disapproval",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.8832",
+            "end_time": "1.9452",
+            "original_transcript": "Ainu a DH a NVENU",
+            "translated_transcript": "Ainu to DH to NVENU",
+            "tone": "Neutral",
+            "rate_of_speech": "80.65",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ainu",
+                "dh",
+                "nvenu"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.9542",
+            "end_time": "1.9633",
+            "original_transcript": "OK",
+            "translated_transcript": "OK",
+            "tone": "Neutral",
+            "rate_of_speech": "109.09",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.9713",
+            "end_time": "2.0038",
+            "original_transcript": "but are you able to not need the one Is it",
+            "translated_transcript": "but you are able not to need the one is",
+            "tone": "Happy",
+            "rate_of_speech": "307.53",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.015",
+            "end_time": "2.3631",
+            "original_transcript": "OK I don't know Ok ok",
+            "translated_transcript": "OK I don't know Ok ok",
+            "tone": "Neutral",
+            "rate_of_speech": "17.23",
+            "emotion": "confusion",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.3801",
+            "end_time": "2.8273",
+            "original_transcript": "ok ok ok",
+            "translated_transcript": "ok ok ok",
+            "tone": "Neutral",
+            "rate_of_speech": "6.71",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok ok ok"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.8532",
+            "end_time": "3.0671",
+            "original_transcript": "PHE RIA WK",
+            "translated_transcript": "PHE RIA WK",
+            "tone": "Neutral",
+            "rate_of_speech": "14.02",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "phe ria wk"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.0865",
+            "end_time": "3.0988",
+            "original_transcript": "One minute",
+            "translated_transcript": "Una minuto",
+            "tone": "Neutral",
+            "rate_of_speech": "162.38",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "una"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.1102",
+            "end_time": "3.141",
+            "original_transcript": "The PO card please",
+            "translated_transcript": "The PO card please",
+            "tone": "Neutral",
+            "rate_of_speech": "129.73",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "po"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.1728",
+            "end_time": "3.1837",
+            "original_transcript": "Cut",
+            "translated_transcript": "Cuts",
+            "tone": "Neutral",
+            "rate_of_speech": "92.17",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "cuts"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.2186",
+            "end_time": "3.22",
+            "original_transcript": "Cut",
+            "translated_transcript": "Cuts",
+            "tone": "Neutral",
+            "rate_of_speech": "750.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "cuts"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.269",
+            "end_time": "3.288",
+            "original_transcript": "Yeah it is",
+            "translated_transcript": "Yeah, it's",
+            "tone": "Neutral",
+            "rate_of_speech": "105.26",
+            "emotion": "approval",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "yeah"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.3077",
+            "end_time": "3.3171",
+            "original_transcript": "four",
+            "translated_transcript": "kiln",
+            "tone": "Neutral",
+            "rate_of_speech": "105.45",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.346",
+            "end_time": "3.417",
+            "original_transcript": "area pin and Dana",
+            "translated_transcript": "area pin and Dana",
+            "tone": "Neutral",
+            "rate_of_speech": "56.32",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "area pin",
+                "dana"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.428",
+            "end_time": "3.5987",
+            "original_transcript": "at alternative mobile number or email",
+            "translated_transcript": "at alternative mobile number or email",
+            "tone": "Neutral",
+            "rate_of_speech": "35.16",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "alternative mobile number"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.6635",
+            "end_time": "3.7668",
+            "original_transcript": "Uh as as",
+            "translated_transcript": "Uh as as",
+            "tone": "Neutral",
+            "rate_of_speech": "29.03",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "uh"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.79",
+            "end_time": "3.8258",
+            "original_transcript": "a DH IHVEN",
+            "translated_transcript": "by DH IHVEN",
+            "tone": "Neutral",
+            "rate_of_speech": "83.68",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "dh ihven"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.826",
+            "end_time": "3.8558",
+            "original_transcript": "UENU Triple six",
+            "translated_transcript": "UENU Triple Six",
+            "tone": "Neutral",
+            "rate_of_speech": "100.50",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "uenu triple"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.8658",
+            "end_time": "3.8758",
+            "original_transcript": "Triple six",
+            "translated_transcript": "Triple six",
+            "tone": "Neutral",
+            "rate_of_speech": "199.67",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "triple"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.8842",
+            "end_time": "3.9095",
+            "original_transcript": "GOW at gmail.com",
+            "translated_transcript": "GOW at gmail.com",
+            "tone": "Neutral",
+            "rate_of_speech": "118.42",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "gow"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.9315",
+            "end_time": "3.9532",
+            "original_transcript": "GOW",
+            "translated_transcript": "GOW",
+            "tone": "Neutral",
+            "rate_of_speech": "46.12",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "gow"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.9605",
+            "end_time": "3.9817",
+            "original_transcript": "at Gmail.com",
+            "translated_transcript": "at Gmail.com",
+            "tone": "Neutral",
+            "rate_of_speech": "94.56",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "gmail.com"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.9926",
+            "end_time": "4.0673",
+            "original_transcript": "Uh G uh Triple six You know GOW no",
+            "translated_transcript": "Uh G uh Triple six You know GOW no",
+            "tone": "Neutral",
+            "rate_of_speech": "120.54",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "uh g",
+                "triple",
+                "gow"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.0808",
+            "end_time": "4.1235",
+            "original_transcript": "GWG double O",
+            "translated_transcript": "GWG double O",
+            "tone": "Neutral",
+            "rate_of_speech": "70.31",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "gwg",
+                "double o"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.1243",
+            "end_time": "4.1768",
+            "original_transcript": "NGO",
+            "translated_transcript": "NGO",
+            "tone": "Neutral",
+            "rate_of_speech": "19.05",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ngo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.1827",
+            "end_time": "4.2253",
+            "original_transcript": "W at the",
+            "translated_transcript": "W at the",
+            "tone": "Neutral",
+            "rate_of_speech": "70.31",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.2545",
+            "end_time": "4.4762",
+            "original_transcript": "A big uh uh matchbooks in the front A special non special Ok uh by the manufacturing they don't secure the",
+            "translated_transcript": "A big uh uh matchbooks in the front A special non special Ok uh by the manufacturing they don't secure the",
+            "tone": "Neutral",
+            "rate_of_speech": "94.74",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "big uh uh matchbooks",
+                "special non",
+                "ok"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.4898",
+            "end_time": "4.5088",
+            "original_transcript": "manufacturing Be",
+            "translated_transcript": "Manufacturing Be",
+            "tone": "Neutral",
+            "rate_of_speech": "105.36",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "manufacturing be"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.5323",
+            "end_time": "4.6025",
+            "original_transcript": "I like not being now",
+            "translated_transcript": "I like not being now",
+            "tone": "Neutral",
+            "rate_of_speech": "71.28",
+            "emotion": "love",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.6577",
+            "end_time": "4.6708",
+            "original_transcript": "Mm",
+            "translated_transcript": "Mm",
+            "tone": "Neutral",
+            "rate_of_speech": "75.85",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mm"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.6726",
+            "end_time": "4.7038",
+            "original_transcript": "But actually the little mecon in the list",
+            "translated_transcript": "But actually the little mecon in the list",
+            "tone": "Neutral",
+            "rate_of_speech": "256.55",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.7238",
+            "end_time": "4.767",
+            "original_transcript": "Hello sir AM special male AM specialist",
+            "translated_transcript": "Hello sir AM special male AM specialist",
+            "tone": "Neutral",
+            "rate_of_speech": "162.16",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "sir am",
+                "special male am specialist"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.7797",
+            "end_time": "4.8417",
+            "original_transcript": "Oh AM Special man If I should buy Bilal Match work Shiva",
+            "translated_transcript": "Oh AM Special man If I should buy Bilal Match work Shiva",
+            "tone": "Happy",
+            "rate_of_speech": "193.50",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "oh",
+                "special man",
+                "bilal match",
+                "shiva"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.861",
+            "end_time": "4.884",
+            "original_transcript": "and Bilal Match work of",
+            "translated_transcript": "and Bilal Match work of",
+            "tone": "Neutral",
+            "rate_of_speech": "217.39",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bilal match"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.895",
+            "end_time": "4.967",
+            "original_transcript": "uh Bilal Match work Shiva 626123",
+            "translated_transcript": "uh Bilal Match work Shiva 626123",
+            "tone": "Neutral",
+            "rate_of_speech": "83.35",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bilal match",
+                "shiva"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.9728",
+            "end_time": "5.0165",
+            "original_transcript": "for the BB",
+            "translated_transcript": "for the BB",
+            "tone": "Neutral",
+            "rate_of_speech": "68.70",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bb"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.1017",
+            "end_time": "5.124",
+            "original_transcript": "626123",
+            "translated_transcript": "626123",
+            "tone": "Neutral",
+            "rate_of_speech": "44.78",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.1316",
+            "end_time": "5.1553",
+            "original_transcript": "26123",
+            "translated_transcript": "26123",
+            "tone": "Neutral",
+            "rate_of_speech": "42.22",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.4008",
+            "end_time": "5.6547",
+            "original_transcript": "Ok and",
+            "translated_transcript": "Ok and",
+            "tone": "Neutral",
+            "rate_of_speech": "7.88",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.6667",
+            "end_time": "5.7232",
+            "original_transcript": "MRV 12 Ok",
+            "translated_transcript": "MRV 12 Ok",
+            "tone": "Neutral",
+            "rate_of_speech": "53.10",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "mrv",
+                "ok"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.7403",
+            "end_time": "5.7456",
+            "original_transcript": "you have",
+            "translated_transcript": "you have",
+            "tone": "Neutral",
+            "rate_of_speech": "376.18",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.7715",
+            "end_time": "5.7728",
+            "original_transcript": "a",
+            "translated_transcript": "a",
+            "tone": "Neutral",
+            "rate_of_speech": "759.49",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.7945",
+            "end_time": "5.8073",
+            "original_transcript": "OK",
+            "translated_transcript": "OK",
+            "tone": "Neutral",
+            "rate_of_speech": "77.92",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.8293",
+            "end_time": "5.9913",
+            "original_transcript": "Uh uh",
+            "translated_transcript": "Uh-uh",
+            "tone": "Neutral",
+            "rate_of_speech": "6.17",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "uh-uh"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.094",
+            "end_time": "6.1877",
+            "original_transcript": "ACH E RIA NE",
+            "translated_transcript": "BUT I'M NOT",
+            "tone": "Neutral",
+            "rate_of_speech": "32.03",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "but",
+                "not"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.2118",
+            "end_time": "6.2483",
+            "original_transcript": "what I do",
+            "translated_transcript": "wat ik doen",
+            "tone": "Neutral",
+            "rate_of_speech": "82.19",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "wat ik doen"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.2607",
+            "end_time": "6.271",
+            "original_transcript": "OK",
+            "translated_transcript": "OK",
+            "tone": "Neutral",
+            "rate_of_speech": "96.77",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.2945",
+            "end_time": "6.3351",
+            "original_transcript": "the car Is it",
+            "translated_transcript": "the car Is it",
+            "tone": "Neutral",
+            "rate_of_speech": "98.40",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.3485",
+            "end_time": "6.6683",
+            "original_transcript": "OK Ok ok",
+            "translated_transcript": "OK Ok Ok",
+            "tone": "Neutral",
+            "rate_of_speech": "9.38",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok ok"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.6722",
+            "end_time": "6.8221",
+            "original_transcript": "ok",
+            "translated_transcript": "ok",
+            "tone": "Neutral",
+            "rate_of_speech": "6.67",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.9043",
+            "end_time": "6.931",
+            "original_transcript": "We should we should",
+            "translated_transcript": "We should, we should",
+            "tone": "Neutral",
+            "rate_of_speech": "150.09",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.9955",
+            "end_time": "7.0733",
+            "original_transcript": "with my",
+            "translated_transcript": "con mi",
+            "tone": "Neutral",
+            "rate_of_speech": "25.70",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "con mi"
+            ]
+        }
+    ],
+    "translated_segments": "Thank you for calling Hello Hello Hello Uh Uh, we have a company for your product sir Which language you go to WM Please be online Ja I don't I like I don't it 10 000 A little I like to listen to your I'm sorry I want to say that ugh rechts I normally put it in the can Ugh dettagli I didn't Ainu to DH to NVENU OK but you are able not to need the one is OK I don't know Ok ok ok ok ok PHE RIA WK Una minuto The PO card please Cuts Cuts Yeah, it's kiln area pin and Dana at alternative mobile number or email Uh as as by DH IHVEN UENU Triple Six Triple six GOW at gmail.com GOW at Gmail.com Uh G uh Triple six You know GOW no GWG double O NGO W at the A big uh uh matchbooks in the front A special non special Ok uh by the manufacturing they don't secure the Manufacturing Be I like not being now Mm But actually the little mecon in the list Hello sir AM special male AM specialist Oh AM Special man If I should buy Bilal Match work Shiva and Bilal Match work of uh Bilal Match work Shiva 626123 for the BB 626123 26123 Ok and MRV 12 Ok you have a OK Uh-uh BUT I'M NOT wat ik doen OK the car Is it OK Ok Ok ok We should, we should con mi ",
+    "speaker_a_segments": "Thank you for calling Hello Hello Hello Uh Uh, we sir Which language you go to WM Please be online Ja I don't like I it I like to listen to your I'm sorry I want to say that rechts Ugh dettagli but you are able not to need the one is OK I don't know Ok ok ok ok ok Una minuto Cuts Yeah, it's kiln area pin and Dana at alternative mobile number or email by DH IHVEN Triple six GOW Uh G uh Triple six You know GOW no GWG double O W at the A big uh uh matchbooks in the front A special non special Ok uh by the manufacturing they don't secure the I like not being now Mm Hello sir AM special male AM specialist and Bilal Match work of for the BB 26123 Ok and a OK Uh-uh wat ik doen the car Is it OK Ok Ok ",
+    "speaker_b_segments": "have a company for your product I don't 10 000 A little ugh I normally put it in the can I didn't Ainu to DH to NVENU OK PHE RIA WK The PO card please Cuts Uh as as UENU Triple Six GOW at gmail.com at Gmail.com NGO Manufacturing Be But actually the little mecon in the list Oh AM Special man If I should buy Bilal Match work Shiva uh Bilal Match work Shiva 626123 626123 MRV 12 Ok you have BUT I'M NOT OK ok We should, we should con mi ",
+    "summary": "The customer wants to buy a product, however they are not happy with the quality of the product they have received previously and they would like to speak to a specialist about it. The specialist tries to understand the issue and suggests the best course of action which is to return the product and offer the customer a different model. The customer agrees and they both decide to proceed with the new model which is the Bilal Match Work Shiva and Bilal Match Work BB 626123 and MRV 12.",
+    "speaker_a_summary": "The caller is having trouble understanding the nature of the conversation, which appears to be related to a special match and a non-special match manufactured by a company. The recipient is trying to get the caller's name and number to discuss the details via other means, such as email or mobile phone.  The caller is only able to provide a non-functioning number, and after much confusion, both parties hang up without resolving the issue.  The name \"Bilal\" and the number \"BB 26123\" are the only other identifiable details mentioned during the call.  The language appears to be English, but the level of comprehension is not clear.  This call does not end with a sale or resolution, and it is unclear what motivated the call in the first place.  More conversation would be needed to get to the bottom of the issue.  This call may have been a telemarketer or a wrong number.  Unfortunately, many calls like this one happen every day and are a huge drain on time and resources.  This is an automated summary and is not a critique of the original conversation.  Let me know if I can help you with anything else!",
+    "speaker_b_summary": "The speaker is having trouble understanding what the information on their credit card statement means, and is frustrated that they are being charged for something they don't want. They are considering contacting the company, Gmail, and manufacturing plant, but is struggling to understand the issue.",
+    "cohere_points": "- Customer is calling about a product that they have ordered but they are not satisfied with the product and would like to get a refund.\n- Representative is trying to help the customer but the customer is unsure of the process and is also asking for a contact for a manager.\n- The customer is frustrated and is asking for a full refund and to cancel the order. \n- The representative offers to connect the customer with the customer service manager. \n- The customer is not satisfied with the service and is asking to speak to a higher manager. \n- The call ends abruptly and the issue is unresolved.",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "1. Thank you for calling\n2. Company for your product\n3. Which language\n4. Please be online\n5. I like to listen\n6. Sorry, I want to say\n7. Put it in\n8. I didn't\n9. The PO card\n10. Alternative mobile number\n11. Triple six\n12. Gmail.com\n13. Manufacturing\n14. Special man\n15. Match work Shiva",
+    "Resolution": "The customer issue is not resolved based on the conversation provided.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "No, the caller did not display empathy in this conversation.",
+    "Was there any profanity on the call": "No",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 75.06100000000002,
+    "num_silences": 77
+}

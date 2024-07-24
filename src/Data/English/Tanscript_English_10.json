@@ -1,0 +1,480 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0128",
+            "end_time": "0.059",
+            "original_transcript": "Thank you for calling ITC This is Rens How may I help you",
+            "translated_transcript": "Thank you for calling ITC This is Rens How can I help you",
+            "tone": "Neutral",
+            "rate_of_speech": "281.59",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thank",
+                "itc",
+                "rens"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.0857",
+            "end_time": "0.1397",
+            "original_transcript": "I mean I select",
+            "translated_transcript": "I mean I select",
+            "tone": "Sad",
+            "rate_of_speech": "74.05",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.149",
+            "end_time": "0.2678",
+            "original_transcript": "Mala Madu store China Market A B MA Coco's warm nickname Nickname",
+            "translated_transcript": "Mala Honey store China Market A B MA Coco's warm nickname Nickname",
+            "tone": "Happy",
+            "rate_of_speech": "100.98",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "mala honey",
+                "china market",
+                "ma coco",
+                "warm nickname",
+                "nickname"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.279",
+            "end_time": "0.4362",
+            "original_transcript": "Oh May I be the complaint that correct sir Or May of K sir",
+            "translated_transcript": "Oh May I be the complaint that correct sir Or May of K sir",
+            "tone": "Neutral",
+            "rate_of_speech": "89.07",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "oh may",
+                "may"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.4471",
+            "end_time": "0.4757",
+            "original_transcript": "Madu store China Market",
+            "translated_transcript": "Honey store China Market",
+            "tone": "Neutral",
+            "rate_of_speech": "140.27",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "honey",
+                "china market"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.4897",
+            "end_time": "0.5438",
+            "original_transcript": "Madu Store it up from K",
+            "translated_transcript": "Honey Store it up from K",
+            "tone": "Neutral",
+            "rate_of_speech": "110.74",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "honey store"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.5553",
+            "end_time": "0.7678",
+            "original_transcript": "Uh Manu said L a uh 1804 25 6 times four The phone the on only a number 10 TIG This paper WhatsApp called I a or is comic photo back",
+            "translated_transcript": "Uh Manu said L a uh 1804 25 6 times four The phone is on only a number 10 TIG This paper WhatsApp called I a or is comic photo back",
+            "tone": "Neutral",
+            "rate_of_speech": "145.88",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "uh manu",
+                "tig",
+                "whatsapp",
+                "comic photo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.7875",
+            "end_time": "0.8318",
+            "original_transcript": "May I have a concern A transfer",
+            "translated_transcript": "I may have a concern for a transfer",
+            "tone": "Neutral",
+            "rate_of_speech": "180.52",
+            "emotion": "caring",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.8607",
+            "end_time": "0.9093",
+            "original_transcript": "then by the king My concern And you know plan for KGO",
+            "translated_transcript": "then by the king My concern And you know a plan for KGO",
+            "tone": "Neutral",
+            "rate_of_speech": "267.03",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "kgo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.9202",
+            "end_time": "0.9317",
+            "original_transcript": "chicken",
+            "translated_transcript": "chicken",
+            "tone": "Sad",
+            "rate_of_speech": "86.83",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.036",
+            "end_time": "1.0428",
+            "original_transcript": "OK",
+            "translated_transcript": "OK",
+            "tone": "Neutral",
+            "rate_of_speech": "146.34",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.1165",
+            "end_time": "1.1213",
+            "original_transcript": "No",
+            "translated_transcript": "Ne",
+            "tone": "Neutral",
+            "rate_of_speech": "206.90",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ne"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.1323",
+            "end_time": "1.1421",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "101.87",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.1423",
+            "end_time": "1.261",
+            "original_transcript": "Hello Sam This is about 38 from a network and call disconnected Yeah So my call",
+            "translated_transcript": "Hello Sam This is about 38 from a network and call disconnected Yeah So my call",
+            "tone": "Neutral",
+            "rate_of_speech": "134.83",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hello sam",
+                "yeah"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.2735",
+            "end_time": "1.2835",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "100.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.2932",
+            "end_time": "1.6883",
+            "original_transcript": "uh to call me or other call so a to make WhatsApp number So aus may know WhatsApp photo share or your details of the which IM go So I make your check can for seven I So I go for a convenient This is Li I pay",
+            "translated_transcript": "uh to call me or other call so a to make a WhatsApp number So that you may know WhatsApp photo share or your details of which I go So I make your check can for seven I So I go for a convenient This is where I pay",
+            "tone": "Neutral",
+            "rate_of_speech": "123.99",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "whatsapp",
+                "whatsapp",
+                "photo share"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.6995",
+            "end_time": "2.0848",
+            "original_transcript": "number",
+            "translated_transcript": "nummer",
+            "tone": "Neutral",
+            "rate_of_speech": "2.60",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.127",
+            "end_time": "2.2",
+            "original_transcript": "It's really surprising to my customers after a product use the wrong",
+            "translated_transcript": "Ez bi rastî ecêb e ku xerîdarên min piştî ku hilberek xelet bikar tîne",
+            "tone": "Neutral",
+            "rate_of_speech": "191.78",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ez",
+                "bi rastî ecêb e ku xerîdarên min piştî ku hilberek xelet bikar tîne"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.2168",
+            "end_time": "2.4065",
+            "original_transcript": "Yeah she's done both of a product from the team to investigate Kart based 9606",
+            "translated_transcript": "Erê, ew her du hilberek ji tîmê lêkolîna Kart li ser bingeha 9606 pêk tîne",
+            "tone": "Neutral",
+            "rate_of_speech": "79.09",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "erê",
+                "du hilberek ji tîmê lêkolîna",
+                "kart",
+                "li ser bingeha",
+                "pêk tîne"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.4227",
+            "end_time": "2.4538",
+            "original_transcript": "9606",
+            "translated_transcript": "9606",
+            "tone": "Neutral",
+            "rate_of_speech": "32.10",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.462",
+            "end_time": "2.4788",
+            "original_transcript": "double 96",
+            "translated_transcript": "double 96",
+            "tone": "Neutral",
+            "rate_of_speech": "118.93",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.4933",
+            "end_time": "2.5145",
+            "original_transcript": "double 96",
+            "translated_transcript": "double 96",
+            "tone": "Neutral",
+            "rate_of_speech": "94.56",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.522",
+            "end_time": "2.5392",
+            "original_transcript": "Double 90",
+            "translated_transcript": "Doble 90",
+            "tone": "Neutral",
+            "rate_of_speech": "116.50",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "doble"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.5528",
+            "end_time": "2.6455",
+            "original_transcript": "double 99606 double 96 Double 90",
+            "translated_transcript": "double 99606 double 96 Double 90",
+            "tone": "Neutral",
+            "rate_of_speech": "64.75",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.7038",
+            "end_time": "2.9852",
+            "original_transcript": "Up to WhatsApp WhatsApp",
+            "translated_transcript": "Upp til WhatsApp WhatsApp",
+            "tone": "Neutral",
+            "rate_of_speech": "14.22",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "upp",
+                "whatsapp whatsapp"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.9893",
+            "end_time": "3.2108",
+            "original_transcript": "Ok",
+            "translated_transcript": "Ok",
+            "tone": "Neutral",
+            "rate_of_speech": "4.52",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.219",
+            "end_time": "3.6828",
+            "original_transcript": "OK The video photos be basically so I'm a team Come share king or invest So I get a process I saw like it sir I our executive of a call Karen it or a time putting it to up But I think you have got your convenient time like that So it up a packet collect I'm a concern A checker negative or I see some as a company who will get I'm up with the package to replace it",
+            "translated_transcript": "OK The video photos are basically so I'm a team Come share a king or invest So I get a process I saw like it if I'm our executive of a call Karen it or a time putting it up But I think you've got your convenient time like that So it up a packet collect I'm a concern A checker negative or I see some as a company who will get I'm up with the package to replace it",
+            "tone": "Neutral",
+            "rate_of_speech": "172.47",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "video photos",
+                "karen",
+                "convenient time"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.7171",
+            "end_time": "3.7822",
+            "original_transcript": "But it's really bad thing Yeah that was me And any",
+            "translated_transcript": "But it's a really bad thing Yeah that was me And any",
+            "tone": "Sad",
+            "rate_of_speech": "184.62",
+            "emotion": "disapproval",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "bad thing",
+                "yeah"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.8552",
+            "end_time": "3.9727",
+            "original_transcript": "experience my experience from the teams are request can get Check",
+            "translated_transcript": "la mia experiencia del equipo se richiesta se puede ver",
+            "tone": "Neutral",
+            "rate_of_speech": "85.09",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mia experiencia del equipo se richiesta se puede ver"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.9783",
+            "end_time": "4.2631",
+            "original_transcript": "is a packet tamper I'm going to pack tamper one So I'm good I check",
+            "translated_transcript": "is a packet tamper I'm going to pack tamper one So I'm good I check",
+            "tone": "Happy",
+            "rate_of_speech": "52.66",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "packet tamper",
+                "'m good"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.28",
+            "end_time": "4.3165",
+            "original_transcript": "she Could I send my base down with WhatsApp Probably",
+            "translated_transcript": "mi può inviare il mio base con WhatsApp",
+            "tone": "Sad",
+            "rate_of_speech": "219.18",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "mi può inviare il mio base",
+                "whatsapp"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.3283",
+            "end_time": "4.3742",
+            "original_transcript": "The numbers are about 9600 Yeah",
+            "translated_transcript": "The numbers are about 9600 Yeah",
+            "tone": "Neutral",
+            "rate_of_speech": "130.86",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "yeah"
+            ]
+        }
+    ],
+    "translated_segments": "Thank you for calling ITC This is Rens How can I help you I mean I select Mala Honey store China Market A B MA Coco's warm nickname Nickname Oh May I be the complaint that correct sir Or May of K sir Honey store China Market Honey Store it up from K Uh Manu said L a uh 1804 25 6 times four The phone is on only a number 10 TIG This paper WhatsApp called I a or is comic photo back I may have a concern for a transfer then by the king My concern And you know a plan for KGO chicken OK Ne Hallo Hello Sam This is about 38 from a network and call disconnected Yeah So my call Hallo uh to call me or other call so a to make a WhatsApp number So that you may know WhatsApp photo share or your details of which I go So I make your check can for seven I So I go for a convenient This is where I pay nummer Ez bi rastî ecêb e ku xerîdarên min piştî ku hilberek xelet bikar tîne Erê, ew her du hilberek ji tîmê lêkolîna Kart li ser bingeha 9606 pêk tîne 9606 double 96 double 96 Doble 90 double 99606 double 96 Double 90 Upp til WhatsApp WhatsApp Ok OK The video photos are basically so I'm a team Come share a king or invest So I get a process I saw like it if I'm our executive of a call Karen it or a time putting it up But I think you've got your convenient time like that So it up a packet collect I'm a concern A checker negative or I see some as a company who will get I'm up with the package to replace it But it's a really bad thing Yeah that was me And any la mia experiencia del equipo se richiesta se puede ver is a packet tamper I'm going to pack tamper one So I'm good I check mi può inviare il mio base con WhatsApp The numbers are about 9600 Yeah ",
+    "speaker_a_segments": "Thank you for calling ITC This is Rens How can I help you Oh May I be the complaint that correct sir Or May of K sir Honey Store it up from K I may have a concern for a transfer then by the king My concern And you know a plan for KGO Hello Sam This is about 38 from a network and call disconnected Yeah So my call Hallo uh to call me or other call so a to make a WhatsApp number So that you may know WhatsApp photo share or your details of which I go So I make your check can for seven I So I go for a convenient This is where I pay nummer Erê, ew her du hilberek ji tîmê lêkolîna Kart li ser bingeha 9606 pêk tîne double 96 Doble 90 Upp til WhatsApp WhatsApp Ok OK The video photos are basically so I'm a team Come share a king or invest So I get a process I saw like it if I'm our executive of a call Karen it or a time putting it up But I think you've got your convenient time like that So it up a packet collect I'm a concern A checker negative or I see some as a company who will get I'm up with the package to replace it la mia experiencia del equipo se richiesta se puede ver is a packet tamper I'm going to pack tamper one So I'm good I check The numbers are about 9600 Yeah ",
+    "speaker_b_segments": "I mean I select Mala Honey store China Market A B MA Coco's warm nickname Nickname Honey store China Market Uh Manu said L a uh 1804 25 6 times four The phone is on only a number 10 TIG This paper WhatsApp called I a or is comic photo back chicken OK Ne Hallo Ez bi rastî ecêb e ku xerîdarên min piştî ku hilberek xelet bikar tîne 9606 double 96 double 99606 double 96 Double 90 But it's a really bad thing Yeah that was me And any mi può inviare il mio base con WhatsApp ",
+    "summary": "The user calls Rens at ITC to sort out an issue with their order at the Honey Store in China Market. The user wants to know the status of their KGO chicken order which they placed with Manu. The call gets disconnected and they call again. The user wants to share photos via WhatsApp to help with the issue. The user wants to know when the package will be checked so they can pick it up. They are concerned that the package might be tampered with. The user informs Rens that they will send their ID via WhatsApp and the numbers they can be reached at are 96 and 99606.",
+    "speaker_a_summary": "The user calls ITC to report an issue with their transfer to another king and to request a call back via WhatsApp in order to provide photos of the current situation to resolve the issue. The user states that their experience with the team has been requested and can be verified, and expresses suspicion that the packet might have been tampered with, and they believe the company will help them out by getting a replacement package. The user then provides their WhatsApp number to the representative.",
+    "speaker_b_summary": "Mala honey store in China Market has the nickname Coco. Their phone number is 10 TIG. They can be reached via WhatsApp on the number 5061496006. Another number provided is 9606 but it is unclear if that is a double or not. The person on the other line said \"eh bi rastî ecêb e ku xerîdarên min piştî ku hilberek xelet bikar tîne\" which translates to \"I can send you a photo of the person who stole my phone.\" They also said \"ku hilberek xelet bikar tîne\" translates to \"who has my phone.\" The person is looking to locate their phone.",
+    "cohere_points": "- User is calling a company and wants to check the status of their package.\n- The user wants to share photos via WhatsApp to help with the issue. \n- The user will send their order number via WhatsApp.\n- The user wants to schedule a call to discuss the issue further. \n- The user wants to check the status of their shipment.",
+    "opening_comments": "Yes",
+    "closing_comments": "No",
+    "Topic": "1. ITC Customer Service\n2. Mala Honey Store\n3. China Market Complaints\n4. Nickname Preferences\n5. Phone Number Issues\n6. WhatsApp Communication\n7. Concerns Regarding Transfer\n8. Network Call Disconnection\n9. WhatsApp Photo Sharing\n10. Payment Related Queries\n11. Customer Feedback\n12. Package Replacement\n13. Tampered Package\n14. Executive Assistance\n15. Convenient Time Scheduling",
+    "Resolution": "Based on the conversation, the customer issue does not appear to be resolved as they are still expressing concerns about receiving a tampered package.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "No, the caller did not display empathy in the conversation provided.",
+    "Was there any profanity on the call": "No",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 59.15700000000004,
+    "num_silences": 55
+}

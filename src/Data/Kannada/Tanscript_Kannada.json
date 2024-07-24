@@ -1,0 +1,1068 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.2232",
+            "end_time": "0.2758",
+            "original_transcript": "good afternoon thank you for calling IC my name is Peer how can I help you today",
+            "translated_transcript": "good afternoon thank you for calling IC my name is Peer how can I help you today",
+            "tone": "Happy",
+            "rate_of_speech": "322.89",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good afternoon",
+                "ic",
+                "peer"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.2918",
+            "end_time": "0.3731",
+            "original_transcript": "yes sir good afternoon ಇದು ನಮ್ದು ಜೆಪಿ ನಗರ ಬೆಂಗಳೂರು you are comfortable",
+            "translated_transcript": "yes sir good afternoon This is Namdu JP Nagar Bangalore you are comfortable",
+            "tone": "Happy",
+            "rate_of_speech": "159.87",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "yes sir good afternoon",
+                "namdu jp nagar bangalore"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.3731",
+            "end_time": "0.3898",
+            "original_transcript": "in ಕನ್ನಡ",
+            "translated_transcript": "in Kannada",
+            "tone": "Neutral",
+            "rate_of_speech": "120.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "kannada"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.3898",
+            "end_time": "0.4002",
+            "original_transcript": "language",
+            "translated_transcript": "lingua",
+            "tone": "Neutral",
+            "rate_of_speech": "96.62",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.4092",
+            "end_time": "0.5095",
+            "original_transcript": "ತೆಲುಗು please be online i am transferring your call toada agent or telugu agent please be online",
+            "translated_transcript": "Telugu please be online i am transferring your call toada agent or telugu agent please be online",
+            "tone": "Neutral",
+            "rate_of_speech": "169.44",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "telugu",
+                "online i",
+                "call toada agent",
+                "telugu agent"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.6577",
+            "end_time": "0.6897",
+            "original_transcript": "ಕಲೆ ತಿನ್ನಕ್ ಬರ್ತಾರೆ",
+            "translated_transcript": "Kale Tinnak Barthare",
+            "tone": "Neutral",
+            "rate_of_speech": "93.70",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "kale tinnak barthare"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.0921",
+            "end_time": "1.1033",
+            "original_transcript": "ಅಶಾ",
+            "translated_transcript": "Asha",
+            "tone": "Neutral",
+            "rate_of_speech": "89.55",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "asha"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.1866",
+            "end_time": "1.2035",
+            "original_transcript": "ಇವರು ಇವರಲ್ಲ",
+            "translated_transcript": "These are not these",
+            "tone": "Neutral",
+            "rate_of_speech": "237.62",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.2858",
+            "end_time": "1.2952",
+            "original_transcript": "ಹ",
+            "translated_transcript": "ha",
+            "tone": "Neutral",
+            "rate_of_speech": "107.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.3578",
+            "end_time": "1.3735",
+            "original_transcript": "ಏನಿಕ್ಕೆ",
+            "translated_transcript": "For what",
+            "tone": "Neutral",
+            "rate_of_speech": "127.66",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.3845",
+            "end_time": "1.404",
+            "original_transcript": "hello",
+            "translated_transcript": "silav",
+            "tone": "Neutral",
+            "rate_of_speech": "51.28",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.4175",
+            "end_time": "1.4348",
+            "original_transcript": "ವಿಕ್ರಮ್",
+            "translated_transcript": "Vikram",
+            "tone": "Neutral",
+            "rate_of_speech": "57.75",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "vikram"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.4348",
+            "end_time": "1.4695",
+            "original_transcript": "ಮಾತಾಡ್ತಾ ಇದೆ ಹೇಳಿ sir ಏನ್ ಬೇಕು",
+            "translated_transcript": "Tell me what you need",
+            "tone": "Neutral",
+            "rate_of_speech": "144.23",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.481",
+            "end_time": "1.6383",
+            "original_transcript": "ಸರ್ ನಮ್ದು JP ನಗರ ಬೆಂಗಳೂರು ನಿಮ್ ಕಡೆ ಈ ಕಡೆ ಜಯನಗರ distributer ನಮ್ಮ shop ಗೆ ಬರೋದಿಲ್ಲ supply ನ ಕೊಡ್ತಾ ಇಲ್ಲ",
+            "translated_transcript": "Sir Namdu JP Nagar Bangalore Nim Kade Jayanagar distributer on this side does not come to our shop no supply code",
+            "tone": "Neutral",
+            "rate_of_speech": "133.47",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir namdu jp nagar bangalore nim kade jayanagar",
+                "supply code"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.6495",
+            "end_time": "1.7043",
+            "original_transcript": "okay so ನಿಮ್ ಅಗಡಿಗೆ ಯಾರ್ ನಮ್ದು salesman ಬರ್ತಾ ಇಲ್ಲ sir",
+            "translated_transcript": "okay so Nim agadi yar ar namdu salesman bertha no sir",
+            "tone": "Neutral",
+            "rate_of_speech": "200.61",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "nim",
+                "agadi yar ar namdu salesman bertha"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.7277",
+            "end_time": "1.854",
+            "original_transcript": "ಆ ಮೊದ್ಲು ಬೇರೆಯವ್ರಿದ್ರು but ಇವಾಗ change ಆಗಿದಾರೆ ಒಂದ್ two months ಇಂದ ಅವ್ರು",
+            "translated_transcript": "Before that it was different but now it changes from one to two months",
+            "tone": "Neutral",
+            "rate_of_speech": "110.83",
+            "emotion": "realization",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.8963",
+            "end_time": "1.905",
+            "original_transcript": "so ನೀವ್ ಯಾರಿಗೆ",
+            "translated_transcript": "so Neve for whom",
+            "tone": "Neutral",
+            "rate_of_speech": "460.65",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "neve"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.9073",
+            "end_time": "1.9123",
+            "original_transcript": "contact",
+            "translated_transcript": "contatto",
+            "tone": "Neutral",
+            "rate_of_speech": "200.67",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.9238",
+            "end_time": "1.9592",
+            "original_transcript": "distributor ಗೆ contact salesman ಗೆ contact",
+            "translated_transcript": "contact to distributor contact to salesman",
+            "tone": "Neutral",
+            "rate_of_speech": "169.81",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "distributor contact"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.9753",
+            "end_time": "2.1903",
+            "original_transcript": "ಸರ್ ಅವ್ರ್ ಇಬ್ರು call receive ಮಾಡಲ್ಲ ಸರಿಯಾಗಿ ಬರೋದಿಲ್ಲ supply ನು ಮಾಡಲ್ಲ ಬಂದಾಗ ಏನಂದ್ರು ಮಾತಾಡ್ತಾರೆ supply ಸರಿಯಾಗಿ ಬರ್ತಾ ಇಲ್ಲ ತುಂಬಾ ಇದ್ರಿಂದ problem ಇದೆ ನಮ್ಗೆ ನಮ್ದು wholesale shop",
+            "translated_transcript": "Sir Avar Ibru did not receive the call correctly did not arrive supply when he did not come, the supply was correct Bertha no so there is a problem for us wholesale shop",
+            "tone": "Neutral",
+            "rate_of_speech": "153.49",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir avar ibru",
+                "bertha",
+                "wholesale shop"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.2085",
+            "end_time": "2.3065",
+            "original_transcript": "ಆ wholesale shop ಮೊದ್ಲು ಬೇರೆ ಅವ್ರ ಹತ್ರ ತಗೊಂತ ಅವ್ರ್ ತುಂಬಾ ಚೆನ್ನಾಗ್ ಕೊಡ್ತಿದ supply ಎಲ್ಲಾ",
+            "translated_transcript": "Before that wholesale shop there is a different supply of goods from Chennai, all",
+            "tone": "Neutral",
+            "rate_of_speech": "142.86",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "wholesale shop",
+                "chennai"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.3238",
+            "end_time": "2.3278",
+            "original_transcript": "but",
+            "translated_transcript": "but",
+            "tone": "Neutral",
+            "rate_of_speech": "250.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.3278",
+            "end_time": "2.4837",
+            "original_transcript": "ಇವ್ರ್ change ಆದಾಗಿಂದ ಇವ್ರು ಬಾಯಿಗ್ ಬಂದಂಗೆಲ್ಲ ಮಾತಾಡ್ತಾರೆ ಒಂದು ಕೊಡೋದು ಒಂದ್ ಕೊಡಲ್ಲ supply ಸರಿಯಾಗಿ ಕೊಡಲ್ಲ ಒಂದ್ item ಇದ್ರೆ ಒಂದ್ item ಇರಲ್ಲ expiry item ಕೊಟ್ಬಿಡ್ತಾರೆ",
+            "translated_transcript": "Ivar change so Ivru Boyg Bandangella MadalaTare one Kododu One Not Given Supply Not Given Correctly One Item Idre One Item No Expiry Item Quotbidstar",
+            "tone": "Neutral",
+            "rate_of_speech": "160.41",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ivar",
+                "ivru boyg bandangella madalatare",
+                "kododu",
+                "correctly",
+                "item idre",
+                "item",
+                "expiry item quotbidstar"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.5001",
+            "end_time": "2.6322",
+            "original_transcript": "okay so ಹೊಸ ಮಾಡಿದ್ರೆ complaint ನ ತೊಗೊಳ್ತಿನಿ ನಿಮ್ ಕಡೆ ನಮ್ team",
+            "translated_transcript": "okay so our team on the new madidre complaint",
+            "tone": "Neutral",
+            "rate_of_speech": "68.18",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "new madidre complaint"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.6322",
+            "end_time": "2.6462",
+            "original_transcript": "ಗೆ inform ಮಾಡ್ತಿನಿ",
+            "translated_transcript": "inform Modtini",
+            "tone": "Neutral",
+            "rate_of_speech": "142.69",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "modtini"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.6522",
+            "end_time": "2.6895",
+            "original_transcript": "so ಇದು complaint register ಮಾಡಕ್ಕೆ ನಮ್ಗೆ ಸ್ವಲ್ಪ details",
+            "translated_transcript": "So here are some details for us to register a complaint",
+            "tone": "Neutral",
+            "rate_of_speech": "294.77",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.6895",
+            "end_time": "2.6985",
+            "original_transcript": "ಬೇಕು",
+            "translated_transcript": "need",
+            "tone": "Neutral",
+            "rate_of_speech": "110.91",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.7046",
+            "end_time": "3.1722",
+            "original_transcript": "ಆ ಕೊಡ್ತಿವಿ sir sir distributor ಬರ್ತಾನೆ ಇಲ್ಲಾ sir ಈ ಆಶೀರ್ವಾದ ರೀತಿ ನಮ್ದು wholesale ದುಕಾನ ದೊಡ್ದು but ನಿಮ್ item ಇಲ್ಲಾ ಅಂದ್ರೆ ಯಾವ್ ತರ ಇರುತ್ತೆ ಹೇಳಿ ಮೊದ್ಲಿಂದ ಮಾಡ್ತಾ ಇರೋದು ಇಲ್ಲ sir ಅವ್ರ್ call ಮಾಡುದ್ರೆ ಅವ್ರು ಏನಂದ್ರೆ ಅದ್ ಮಾತಾಡ್ತಾರೆ ನೀವು ನಾನ್ ನಾಲ್ಕು ಇಪ್ಪತ್ bag ಹೇಳಿರ್ತಿವಿ ಎರಡ್ bag ಕಳುಸ್ತಾರೆ ಸಾಕಿಲ್ಲ ಅನ್ನೋದು",
+            "translated_transcript": "Aa kodtivi sir distributor berthane illah sir this blessing is like our wholesale shop big but nimm item illah andre yav taruete tell me from the very beginning that didta irodu no sir awr call madaddre avru anandre ad matadtare na Four eighty bags of paper bags are not enough",
+            "tone": "Neutral",
+            "rate_of_speech": "106.95",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "aa",
+                "kodtivi sir distributor berthane illah sir",
+                "wholesale shop",
+                "nimm item illah andre yav taruete",
+                "didta irodu",
+                "sir awr",
+                "madaddre avru anandre",
+                "matadtare na",
+                "eighty bags",
+                "paper bags"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.1815",
+            "end_time": "3.4158",
+            "original_transcript": "so ನಾನ್ ಒಂದ್ complaint raise ಮಾಡ್ತಿನಿ ನಮ್ team ಗೆ inform ಮಾಡ್ತಿನಿ ಈ problem ಇದೆ ನಿಮ್ ಕಡೆ ಹತ್ರ so salesman visit ಆಗ್ತಿಲ್ಲ ಎರಡ್ month ಆಗಿದೆ ನಮ್ಗೆ visit ಆಗಿಲ್ಲ ಇನ್ನು",
+            "translated_transcript": "so non un complaint raise modtini num team to inform modtini of this problem there is a nimme side hatra so salesman visit agtila erad month is us not visited anymore",
+            "tone": "Neutral",
+            "rate_of_speech": "132.29",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "non un complaint",
+                "modtini num team",
+                "nimme side hatra",
+                "salesman visit agtila erad month"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.4275",
+            "end_time": "3.5348",
+            "original_transcript": "hello ಆ ಅದೇ sales ಮೇಲೆ ನಿಮ್ ಅಂಗಡಿಗೆ ಯಾವ್ದು visit ಮಾಡೇ ಇಲ್ಲ ಸರ್ ಎರಡ್ month ಅಂತ",
+            "translated_transcript": "hello what about those same sales do not visit the shop sir Erad the end of the month",
+            "tone": "Neutral",
+            "rate_of_speech": "167.70",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "shop sir",
+                "erad"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.5518",
+            "end_time": "4.0438",
+            "original_transcript": "ಇಲ್ಲ ಸರ್ ಬರೋದೇ ಇಲ್ಲ ಬಂದ್ರೆ respect ಕೊಡಲ್ಲ ಹಂಗೆ ಮಾತಾಡ್ತಾರೆ ಅವ್ರ್ಗೆಲ್ಲ ಯಾಕ್ distribute ಕೊಡ್ತಿರೋ ಅಂತಾನೆ ನನ್ಗೆ ಗೊತ್ತಿಲ್ಲ ನಿಮ್ಗೆ ಕೆಟ್ಟ ಹೆಸ್ರು ಬರುತ್ತೆ ಅವ್ರಿಗೆ ಸ್ವಲ್ಪ complaint raise ಮಾಡಿ ಆತರ behave ಮಾಡ್ಬಾರ್ದು ಅಂತ ಅವ್ರ ಹೆಸ್ರು ಗೊತ್ತಿಲ್ಲ sir ಅವ್ರು ಅದು ಹುಡ್ಗ ಬರ್ತಿದ್ದ ಆ ತುಂಬಾ behave ಮಾಡ್ತಾರೆ ಏನಂತ ಮಾತಾಡೋದು ನಾವ್ ಹಂಗೆ ಬರೋದು ನಾವ್ ಹಂಗೆ ಕೊಡೋದು ನಿಮ್ಗೆ ಇಷ್ಟ ಇದ್ರೆ ತಗೊಂಡಿಲ್ಲ ಅಂದ್ರೆ ಬೇಡ",
+            "translated_transcript": "No sir Barrode no no Bandra don't give respect to him talk about him or her to distribute it I don't know if you get a bad name raise a little complaint to Avrii raise a little complaint to him behave like he does not know sir avru That was the girl who had behaved so much, she said something that we had to say, we don't know how to give it to you, you don't like it Andre Bede",
+            "tone": "Neutral",
+            "rate_of_speech": "162.60",
+            "emotion": "disapproval",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "barrode",
+                "bandra",
+                "bad name",
+                "avrii",
+                "sir avru",
+                "andre bede"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.047",
+            "end_time": "4.2933",
+            "original_transcript": "ಆತರ ಎಲ್ಲಾ ಮಾತಾಡಂಗಿದ್ರೆ ನಾವು company ಮೇಲೇನೆ complaint ಮಾಡ್ಬೇಕಾಗುತ್ತೆ ಯಾಕಂದ್ರೆ ನಮ್ಗೆ supply ಇಲ್ಲಾ ಅಂದ್ರೆ ನಮ್ದು ದೊಡ್ಡದು ಅಂಗಡಿ ಎಲ್ಲಾ products sale ಮಾಡ್ತಿವಿ ಆ",
+            "translated_transcript": "Atar all Matadangidre we have to make a complaint about the company Yakandra us supply Ila Andre Namdu big shop all products sale modtivi",
+            "tone": "Neutral",
+            "rate_of_speech": "97.43",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "atar",
+                "matadangidre",
+                "yakandra",
+                "ila andre namdu",
+                "big shop",
+                "products sale modtivi"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.305",
+            "end_time": "4.3156",
+            "original_transcript": "ಅಶೋಕ್ ಅಂತ",
+            "translated_transcript": "Ashok End",
+            "tone": "Neutral",
+            "rate_of_speech": "187.79",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ashok"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.3585",
+            "end_time": "4.3586",
+            "original_transcript": "ಹೂಮ್",
+            "translated_transcript": "Hoom",
+            "tone": "Neutral",
+            "rate_of_speech": "6000.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hoom"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.406",
+            "end_time": "4.4535",
+            "original_transcript": "ಆ ಹೇಳಿ sir",
+            "translated_transcript": "Tell me that sir",
+            "tone": "Neutral",
+            "rate_of_speech": "84.21",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.4683",
+            "end_time": "4.4915",
+            "original_transcript": "ಆ ಅಶೋಕ್",
+            "translated_transcript": "That Ashok",
+            "tone": "Neutral",
+            "rate_of_speech": "86.39",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ashok"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.5345",
+            "end_time": "4.5408",
+            "original_transcript": "ಮಾನ್ಯತೆ",
+            "translated_transcript": "Acknowledgement",
+            "tone": "Neutral",
+            "rate_of_speech": "157.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "acknowledgement"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.5632",
+            "end_time": "4.575",
+            "original_transcript": "ಅಶೋಕ್",
+            "translated_transcript": "Ashok",
+            "tone": "Neutral",
+            "rate_of_speech": "84.51",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ashok"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.5873",
+            "end_time": "4.6052",
+            "original_transcript": "doctor ರೂಪ",
+            "translated_transcript": "doctor form",
+            "tone": "Neutral",
+            "rate_of_speech": "112.15",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "doctor form"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.615",
+            "end_time": "4.6328",
+            "original_transcript": "dot ರೂಪ",
+            "translated_transcript": "dot form",
+            "tone": "Neutral",
+            "rate_of_speech": "112.04",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "dot form"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.6415",
+            "end_time": "4.6765",
+            "original_transcript": "one double nine two at gmail dot com",
+            "translated_transcript": "one double nine two at gmail dot com",
+            "tone": "Neutral",
+            "rate_of_speech": "228.57",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "gmail dot com"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.689",
+            "end_time": "4.7218",
+            "original_transcript": "one double two at the rate gmail",
+            "translated_transcript": "one double two at the rate gmail",
+            "tone": "Neutral",
+            "rate_of_speech": "213.20",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "rate gmail"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.7218",
+            "end_time": "4.7262",
+            "original_transcript": "dot com",
+            "translated_transcript": "dot com",
+            "tone": "Neutral",
+            "rate_of_speech": "459.77",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "dot com"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.7583",
+            "end_time": "4.7897",
+            "original_transcript": "one double nine two at the rate gmail dot",
+            "translated_transcript": "one double nine two at the rate gmail dot",
+            "tone": "Neutral",
+            "rate_of_speech": "287.23",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "rate gmail dot"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.7897",
+            "end_time": "4.8105",
+            "original_transcript": "com",
+            "translated_transcript": "com",
+            "tone": "Neutral",
+            "rate_of_speech": "48.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.8221",
+            "end_time": "4.8635",
+            "original_transcript": "ಆ ನಿಮ್ದ್ ಹೆಸ್ರು ಆ ಇದು ಅಂಗಡಿ ಹೆಸರು ಏನ್ sir",
+            "translated_transcript": "That nimd name is that this is the name of the store",
+            "tone": "Neutral",
+            "rate_of_speech": "290.32",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "nimd name"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.8728",
+            "end_time": "4.9762",
+            "original_transcript": "ಚೌಡೇಶ್",
+            "translated_transcript": "Chaudesh",
+            "tone": "Neutral",
+            "rate_of_speech": "9.68",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "chaudesh"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.0058",
+            "end_time": "5.0212",
+            "original_transcript": "and address sir",
+            "translated_transcript": "and address sir",
+            "tone": "Neutral",
+            "rate_of_speech": "195.87",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "address sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.0388",
+            "end_time": "5.0785",
+            "original_transcript": "address JP ನಗರ್ second place",
+            "translated_transcript": "address JP Nagar second place",
+            "tone": "Neutral",
+            "rate_of_speech": "126.05",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "jp nagar"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.0927",
+            "end_time": "5.1025",
+            "original_transcript": "ಹ್ಮ್ ಹ್ಮ್",
+            "translated_transcript": "Hmm Hm",
+            "tone": "Neutral",
+            "rate_of_speech": "203.39",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hmm hm"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.117",
+            "end_time": "5.1603",
+            "original_transcript": "eighteenth nine ninth cross",
+            "translated_transcript": "eighteenth nine ninth cross",
+            "tone": "Neutral",
+            "rate_of_speech": "92.31",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.198",
+            "end_time": "5.2081",
+            "original_transcript": "okay",
+            "translated_transcript": "ok",
+            "tone": "Neutral",
+            "rate_of_speech": "98.52",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.2275",
+            "end_time": "5.277",
+            "original_transcript": "ಆ shop number two zero three one",
+            "translated_transcript": "That shop number two zero three one",
+            "tone": "Neutral",
+            "rate_of_speech": "141.41",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "shop number"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.3433",
+            "end_time": "5.405",
+            "original_transcript": "opposite five six double zero seven eight",
+            "translated_transcript": "opposite five six double zero seven eight",
+            "tone": "Neutral",
+            "rate_of_speech": "113.54",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "double zero"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.4243",
+            "end_time": "5.435",
+            "original_transcript": "okay",
+            "translated_transcript": "ok",
+            "tone": "Neutral",
+            "rate_of_speech": "93.60",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.4478",
+            "end_time": "5.634",
+            "original_transcript": "ಗೊತ್ತಿಲ್ಲ sir ಜಯನಗರ distributor ಅಂತಯ್ತು ಅದು ಹೊಸದಾಗಿ change ಆಗಿರೋದು two months ಇಂದ two months ಇಂದ ಸರಿಯಾಗಿ ಬರ್ತಾ ಇರ್ಲಿಲ್ಲ",
+            "translated_transcript": "I don't know sir Jayanagar distributor so if it will be a new change from two months to two months Bertha was not correct",
+            "tone": "Neutral",
+            "rate_of_speech": "128.91",
+            "emotion": "disapproval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "jayanagar",
+                "bertha"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.6425",
+            "end_time": "5.6912",
+            "original_transcript": "ಇಲ್ಲ distributor change ಆಗಿದ್ರೆ salesman change ಆಗಿದೆ actually",
+            "translated_transcript": "No distributor change is salesman change actually",
+            "tone": "Neutral",
+            "rate_of_speech": "143.79",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.6998",
+            "end_time": "5.8008",
+            "original_transcript": "distributor change ಆಗಿದಾರೆ ಮೊದ್ಲು ಈ ಕಡೆ distributor ಇದ್ರು ಅಲ್ಲಿನೋ ಯಾವ್ದೋ ಈ ಕಡೆ",
+            "translated_transcript": "Before the distributor changes, there is a distributor on this side or on this side",
+            "tone": "Neutral",
+            "rate_of_speech": "148.51",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "distributor changes"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.8107",
+            "end_time": "5.8798",
+            "original_transcript": "ಅವ್ರ್ ಚೆನ್ನಾಗ್ supply ಕೊಡ್ತಾ ಇದ್ರು ಒಂದ್ ಮೂರ್ ನಾಲ್ಕ್ ವರ್ಷದಿಂದ",
+            "translated_transcript": "Avr Chennai has been supplying Kodta Idru Un Moore for four years",
+            "tone": "Neutral",
+            "rate_of_speech": "173.49",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "avr chennai",
+                "kodta idru un moore"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.8895",
+            "end_time": "6.3063",
+            "original_transcript": "distributor change ಆಗುತ್ತೆ salesman distributor change ಆಗಿದಾರೆ ಅದಕ್ಕೋಸ್ಕರ ತುಂಬಾ problem ಆಗ್ತಾ ಇರೋದು ಆ salesman ಅಷ್ಟೇ ಅವ್ರ್ response ಏನು ಇಲ್ಲ sir ಅವ್ರು ಸುಮ್ನೆ ಏನೋ ಕಾಟಾಚಾರಕ್ಕೆ ಮಾಡಂಗೆ ಮಾಡ್ಬಿಡ್ತಾ ಇದಾರೆ but ಅದ್ರಿಂದ ನಿಮ್ಗೆ problem ಆಗುತ್ತೆ ಅಂತ ನಾವ್ ಹೇಳ್ತ ಇರೋದು ಯಾಕೆಂದ್ರೆ ನಮ್ಗೆ ಆಶೀರ್ವಾದ ಇಲ್ಲಾ ಅಂದ್ರೆ ಅದು sales ಆಗಲ್ಲ",
+            "translated_transcript": "distributor changes salesman distributor changes so much problem Agta Irodu that salesman has no response sir Avru Sumne is doing something for Katachar but from that it becomes a problem for you the end now said Irodu Yakendra us Blessings to Andre it's not sales",
+            "tone": "Neutral",
+            "rate_of_speech": "107.95",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "distributor changes salesman distributor changes",
+                "agta irodu",
+                "response sir",
+                "avru sumne",
+                "katachar",
+                "irodu yakendra",
+                "blessings",
+                "andre"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.3101",
+            "end_time": "6.4702",
+            "original_transcript": "correct ಹೂಮ್ ಹೌದು ಈ ತರ behave ಮಾಡೋದು ತುಂಬಾ rare behave ಮಾಡ್ತಾರೆ ಅವ್ರು",
+            "translated_transcript": "correct hum yes this person behaves very rare.",
+            "tone": "Happy",
+            "rate_of_speech": "50.00",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "hum yes",
+                "person behaves"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.4848",
+            "end_time": "6.5759",
+            "original_transcript": "ಸರಿ",
+            "translated_transcript": "OK",
+            "tone": "Neutral",
+            "rate_of_speech": "10.98",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.5761",
+            "end_time": "6.919",
+            "original_transcript": "ಆ ಆ okay wednesday wednesday ಅವ್ರು but ಕೇಳಿ ನೀವು complaint ಮಾಡಿರಿ",
+            "translated_transcript": "That's okay wednesday wednesday avru but ask you make a complaint",
+            "tone": "Neutral",
+            "rate_of_speech": "32.08",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "'s okay wednesday wednesday avru"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.9331",
+            "end_time": "6.983",
+            "original_transcript": "ವಿಜಯನಗರ ಅಧ್ಯಕ್ಷ",
+            "translated_transcript": "President of Vijayanagar",
+            "tone": "Neutral",
+            "rate_of_speech": "60.18",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "vijayanagar"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.9918",
+            "end_time": "7.0",
+            "original_transcript": "ಹಾ",
+            "translated_transcript": "Ha",
+            "tone": "Neutral",
+            "rate_of_speech": "122.45",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ha"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.0115",
+            "end_time": "7.0398",
+            "original_transcript": "ಆಯ್ತು ಸರ್ ಏನಂತ ಆಯ್ತು ಸರ್ ನೀವು",
+            "translated_transcript": "Select Sir Whatever Sir You",
+            "tone": "Neutral",
+            "rate_of_speech": "176.47",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "select sir",
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.0527",
+            "end_time": "7.11",
+            "original_transcript": "ಅದೇ ಜಯನಗರ distribute ಇವಾಗ change ಆಗಿರೋದು",
+            "translated_transcript": "Let the same Jayanagar distribute change",
+            "tone": "Neutral",
+            "rate_of_speech": "104.65",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "jayanagar"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.1187",
+            "end_time": "7.4848",
+            "original_transcript": "ಆ ಜಯನಗರ branch okay ಯಾಕೆಂದ್ರೆ supply ಇಲ್ಲ sir ಇವಾಗ್ ಬೇಕಂದ್ರೆ online ಅಲ್ಲಿ ತಗೋಳಕ್ ಆಗುತ್ತೆ ಎಲ್ಲಾನು but time supply ಇರಲ್ಲ ಅಂದ್ರೆ ನಮ್ಗೂ business ಕಮ್ಮಿ ಆಗುತ್ತೆ but ನಿಮ್ product ಇಲ್ಲಿ ತುಂಬಾ sale ಆಗುತ್ತೆ ಆಶೀರ್ವಾದ ಆ ನಿಮ್ಗೂ bad ಹೆಸ್ರು ಬರುತ್ತೆ ಆಶೀರ್ವಾದ supply ಕೊಡ್ತಾ ಇಲ್ಲ ಅಂತ",
+            "translated_transcript": "That Jayanagar branch okay Yakendra supply no sir Iwag Bakandre online where everyone but no time supply Andre gets business for us too but my product is on sale here too Blesser you get a bad name Blesser supply code No end",
+            "tone": "Sad",
+            "rate_of_speech": "114.70",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "jayanagar",
+                "yakendra",
+                "iwag bakandre",
+                "andre",
+                "blesser",
+                "bad name",
+                "blesser"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.4933",
+            "end_time": "7.5045",
+            "original_transcript": "okay",
+            "translated_transcript": "ok",
+            "tone": "Neutral",
+            "rate_of_speech": "89.69",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.5142",
+            "end_time": "7.5235",
+            "original_transcript": "ಹೂಮ್",
+            "translated_transcript": "Hoom",
+            "tone": "Neutral",
+            "rate_of_speech": "107.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hoom"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.559",
+            "end_time": "7.5877",
+            "original_transcript": "next week ಬರಕೆ ಹೇಳಿ ಸರ್ ಹಂಗೆ",
+            "translated_transcript": "next week Barake Tell Sir Hunge",
+            "tone": "Neutral",
+            "rate_of_speech": "209.30",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "barake",
+                "sir hunge"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.644",
+            "end_time": "7.6446",
+            "original_transcript": "ಹಾ",
+            "translated_transcript": "Ha",
+            "tone": "Neutral",
+            "rate_of_speech": "1538.46",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ha"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.6552",
+            "end_time": "7.7348",
+            "original_transcript": "ಸರಿ sir ಧನ್ಯವಾದ ಸರ್ ಗೆ ಸಂಪತ್ call ಮಾಡಿದ್ದೆ",
+            "translated_transcript": "Okay sir thank you sir I called Sampat",
+            "tone": "Neutral",
+            "rate_of_speech": "100.42",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay",
+                "sampat"
+            ]
+        }
+    ],
+    "translated_segments": "good afternoon thank you for calling IC my name is Peer how can I help you today yes sir good afternoon This is Namdu JP Nagar Bangalore you are comfortable in Kannada lingua Telugu please be online i am transferring your call toada agent or telugu agent please be online Kale Tinnak Barthare Asha These are not these ha For what silav Vikram Tell me what you need Sir Namdu JP Nagar Bangalore Nim Kade Jayanagar distributer on this side does not come to our shop no supply code okay so Nim agadi yar ar namdu salesman bertha no sir Before that it was different but now it changes from one to two months so Neve for whom contatto contact to distributor contact to salesman Sir Avar Ibru did not receive the call correctly did not arrive supply when he did not come, the supply was correct Bertha no so there is a problem for us wholesale shop Before that wholesale shop there is a different supply of goods from Chennai, all but Ivar change so Ivru Boyg Bandangella MadalaTare one Kododu One Not Given Supply Not Given Correctly One Item Idre One Item No Expiry Item Quotbidstar okay so our team on the new madidre complaint inform Modtini So here are some details for us to register a complaint need Aa kodtivi sir distributor berthane illah sir this blessing is like our wholesale shop big but nimm item illah andre yav taruete tell me from the very beginning that didta irodu no sir awr call madaddre avru anandre ad matadtare na Four eighty bags of paper bags are not enough so non un complaint raise modtini num team to inform modtini of this problem there is a nimme side hatra so salesman visit agtila erad month is us not visited anymore hello what about those same sales do not visit the shop sir Erad the end of the month No sir Barrode no no Bandra don't give respect to him talk about him or her to distribute it I don't know if you get a bad name raise a little complaint to Avrii raise a little complaint to him behave like he does not know sir avru That was the girl who had behaved so much, she said something that we had to say, we don't know how to give it to you, you don't like it Andre Bede Atar all Matadangidre we have to make a complaint about the company Yakandra us supply Ila Andre Namdu big shop all products sale modtivi Ashok End Hoom Tell me that sir That Ashok Acknowledgement Ashok doctor form dot form one double nine two at gmail dot com one double two at the rate gmail dot com one double nine two at the rate gmail dot com That nimd name is that this is the name of the store Chaudesh and address sir address JP Nagar second place Hmm Hm eighteenth nine ninth cross ok That shop number two zero three one opposite five six double zero seven eight ok I don't know sir Jayanagar distributor so if it will be a new change from two months to two months Bertha was not correct No distributor change is salesman change actually Before the distributor changes, there is a distributor on this side or on this side Avr Chennai has been supplying Kodta Idru Un Moore for four years distributor changes salesman distributor changes so much problem Agta Irodu that salesman has no response sir Avru Sumne is doing something for Katachar but from that it becomes a problem for you the end now said Irodu Yakendra us Blessings to Andre it's not sales correct hum yes this person behaves very rare. OK That's okay wednesday wednesday avru but ask you make a complaint President of Vijayanagar Ha Select Sir Whatever Sir You Let the same Jayanagar distribute change That Jayanagar branch okay Yakendra supply no sir Iwag Bakandre online where everyone but no time supply Andre gets business for us too but my product is on sale here too Blesser you get a bad name Blesser supply code No end ok Hoom next week Barake Tell Sir Hunge Ha Okay sir thank you sir I called Sampat ",
+    "speaker_a_segments": "good afternoon thank you for calling IC my name is Peer how can I help you today in Kannada Telugu please be online i am transferring your call toada agent or telugu agent please be online silav Tell me what you need okay so Nim agadi yar ar namdu salesman bertha no sir so Neve for whom contact to distributor contact to salesman but okay so our team on the new madidre complaint So here are some details for us to register a complaint so non un complaint raise modtini num team to inform modtini of this problem there is a nimme side hatra so salesman visit agtila erad month is us not visited anymore hello what about those same sales do not visit the shop sir Erad the end of the month Hoom Ashok dot form one double two at the rate gmail one double nine two at the rate gmail dot That nimd name is that this is the name of the store and address sir Hmm Hm ok ok No distributor change is salesman change actually OK Ha Select Sir Whatever Sir You ok Ha Okay sir thank you sir I called Sampat ",
+    "speaker_b_segments": "yes sir good afternoon This is Namdu JP Nagar Bangalore you are comfortable lingua Kale Tinnak Barthare Asha These are not these ha For what Vikram Sir Namdu JP Nagar Bangalore Nim Kade Jayanagar distributer on this side does not come to our shop no supply code Before that it was different but now it changes from one to two months contatto Sir Avar Ibru did not receive the call correctly did not arrive supply when he did not come, the supply was correct Bertha no so there is a problem for us wholesale shop Before that wholesale shop there is a different supply of goods from Chennai, all Ivar change so Ivru Boyg Bandangella MadalaTare one Kododu One Not Given Supply Not Given Correctly One Item Idre One Item No Expiry Item Quotbidstar inform Modtini need Aa kodtivi sir distributor berthane illah sir this blessing is like our wholesale shop big but nimm item illah andre yav taruete tell me from the very beginning that didta irodu no sir awr call madaddre avru anandre ad matadtare na Four eighty bags of paper bags are not enough No sir Barrode no no Bandra don't give respect to him talk about him or her to distribute it I don't know if you get a bad name raise a little complaint to Avrii raise a little complaint to him behave like he does not know sir avru That was the girl who had behaved so much, she said something that we had to say, we don't know how to give it to you, you don't like it Andre Bede Atar all Matadangidre we have to make a complaint about the company Yakandra us supply Ila Andre Namdu big shop all products sale modtivi Ashok End Tell me that sir That Ashok Acknowledgement doctor form one double nine two at gmail dot com dot com com Chaudesh address JP Nagar second place eighteenth nine ninth cross That shop number two zero three one opposite five six double zero seven eight I don't know sir Jayanagar distributor so if it will be a new change from two months to two months Bertha was not correct Before the distributor changes, there is a distributor on this side or on this side Avr Chennai has been supplying Kodta Idru Un Moore for four years distributor changes salesman distributor changes so much problem Agta Irodu that salesman has no response sir Avru Sumne is doing something for Katachar but from that it becomes a problem for you the end now said Irodu Yakendra us Blessings to Andre it's not sales correct hum yes this person behaves very rare. That's okay wednesday wednesday avru but ask you make a complaint President of Vijayanagar Let the same Jayanagar distribute change That Jayanagar branch okay Yakendra supply no sir Iwag Bakandre online where everyone but no time supply Andre gets business for us too but my product is on sale here too Blesser you get a bad name Blesser supply code No end Hoom next week Barake Tell Sir Hunge ",
+    "summary": "Peer from IC is assisting a customer, Vikram, with a product supply issue. The customer's wholesale shop is not being supplied with goods from Chennai, which is affecting their business. They used to get their supplies from a different distributor and are wondering why there have been changes. The customer would like to file a complaint regarding the issue as their shop, which is a big blessing, is not being properly supplied. The customer provides details of the problem and the name and address of their store. They also mention that the salesman no longer visits their shop. The customer is asked to file a complaint, and they provide contact information for Ashok. The call ends with the customer thanking Sampat.",
+    "speaker_a_summary": "The customer, whose name is Ashok, calls IC to speak to a Telugu-speaking agent in order to register a complaint. They used to have regular visits from a salesman, but that has stopped. Ashok provides their store name, address, and email, as well as the name of the distributor, in order to raise the issue and hopefully have the salesman resume his visits.  The agent, Peer, takes down the information and promises to look into it, ending the call by telling Ashok that they will be in touch with him shortly.  The information provided by Ashok will be forwarded to the appropriate team in order to handle the complaint and resume the needed services as soon as possible.  The call ends.",
+    "speaker_b_summary": "Namdu JP Nagar Bangalore is writing to complain about supply issues and disrespectful behaviour from Ivru Boyg Bandangella, their new distributor. Namdu says that they used to get supplies from Avr Chennai for four years, but now it has been changed and they are facing problems. Namdu says that they have not received supply for the past two months, and Ivru Boyg Bandangella does not supply correctly or on time. They ask to make a complaint to the President of Vijayanagar to change the Jayanagar distribute as they are facing issues with the new distributor. They ask for a supply code and also mention that they used to get supplies from Chennai which were better.",
+    "cohere_points": "- User is calling about wholesaler not receiving supplies from distributor.\n- Agent is filling a complaint on behalf of the user and providing contact information.\n- Agent is also transferring the call to a Telugu speaking agent.\n- Call is regarding irregular supply and disrespectful salesman.\n- Agent is helping user register a complaint.",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "1. Customer service call\n2. Language preferences\n3. Transferring calls\n4. Supply chain issues\n5. Complaint registration process\n6. Distributor and salesman relationship\n7. Wholesale shop operations\n8. Complaint handling procedures\n9. Contact details confirmation\n10. Store address details\n11. Salesman visit frequency\n12. Behavior and professionalism\n13. Email correspondence\n14. Problems with supply changes\n15. Future action plan",
+    "Resolution": "The customer's issue is not resolved as there are ongoing problems with supply and lack of response from the salesperson.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "Yes, the caller displayed empathy throughout the conversation by actively listening to the customer's concerns, acknowledging their frustrations, and offering solutions to help resolve their issues. The caller showed empathy through their understanding of the customer's challenges and willingness to assist in addressing them.",
+    "Was there any profanity on the call": "No",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 110.77400000000014,
+    "num_silences": 107
+}
