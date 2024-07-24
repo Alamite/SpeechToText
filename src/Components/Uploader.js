@@ -17,7 +17,7 @@ function Uploader({ startTime, clicked, onTimeUpdate, onSelectFile, audioFile })
     const [files, setFiles] = React.useState([]);
 
     useEffect(() => {
-        fecth('https://inscribe.3cctpl.co.in/api/files')   
+        fetch('https://inscribe.3cctpl.co.in/api/files')   
         // fetch('http://localhost:3001/api/files')
             .then(response => {
                 if (!response.ok) {
