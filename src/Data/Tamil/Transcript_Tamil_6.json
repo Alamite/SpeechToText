@@ -1,0 +1,882 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0435",
+            "end_time": "0.095",
+            "original_transcript": "Good morning thank you for calling I T C My name is Tanveer How can I help you",
+            "translated_transcript": "Good morning thank you for calling I T C My name is Tanveer How can I help you",
+            "tone": "Happy",
+            "rate_of_speech": "349.51",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "tanveer"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.1108",
+            "end_time": "0.1433",
+            "original_transcript": "நேத்து சீத்தா வட்டி பெட்டி வாங்குனேன் Sir",
+            "translated_transcript": "Yesterday I bought a Cheetha interest box Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "246.15",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "yesterday",
+                "cheetha",
+                "interest box",
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.1557",
+            "end_time": "0.1635",
+            "original_transcript": "Sorry Sorry",
+            "translated_transcript": "Pardon",
+            "tone": "Neutral",
+            "rate_of_speech": "127.66",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pardon"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.182",
+            "end_time": "0.1908",
+            "original_transcript": "Sorry Sorry",
+            "translated_transcript": "Pardon",
+            "tone": "Neutral",
+            "rate_of_speech": "113.42",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pardon"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.2135",
+            "end_time": "0.2343",
+            "original_transcript": "சீத்தப்பட்டி வாங்குனேன் Sir",
+            "translated_transcript": "I bought a sweet potato sir",
+            "tone": "Happy",
+            "rate_of_speech": "288.00",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "sweet potato sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.2457",
+            "end_time": "0.2948",
+            "original_transcript": "மலையாளம் language தமிழ் Language which language are comfortable",
+            "translated_transcript": "Malayalam language Tamil Language which language are comfortable",
+            "tone": "Happy",
+            "rate_of_speech": "162.66",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "malayalam",
+                "tamil language"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.3038",
+            "end_time": "0.314",
+            "original_transcript": "Sir",
+            "translated_transcript": "Cheesecake",
+            "tone": "Neutral",
+            "rate_of_speech": "98.20",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "cheesecake"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.3345",
+            "end_time": "0.3805",
+            "original_transcript": "which language you are comfortable Tamil Telugu மலையாளம் கன்னடா",
+            "translated_transcript": "which language you are comfortable Tamil Telugu Malayalam Canada",
+            "tone": "Happy",
+            "rate_of_speech": "195.65",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "tamil telugu malayalam canada"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.3928",
+            "end_time": "0.421",
+            "original_transcript": "தமிழ் தமிழ் தமிழ் Sir தமிழ் Sir",
+            "translated_transcript": "Tamil Tamil Tamil Sir Tamil Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "212.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "tamil tamil tamil sir tamil sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.4397",
+            "end_time": "0.4897",
+            "original_transcript": "Line please be online transferring your call to Tamil agent",
+            "translated_transcript": "Line please be online transferring your call to Tamil agent",
+            "tone": "Neutral",
+            "rate_of_speech": "200.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "tamil"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.4985",
+            "end_time": "0.5246",
+            "original_transcript": "தமிழ் Sir தமிழ் Sir",
+            "translated_transcript": "Tamil Sir Tamil Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "152.87",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "tamil sir tamil sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.5372",
+            "end_time": "0.567",
+            "original_transcript": "தமிழ் Agent call பண்ணா Be online",
+            "translated_transcript": "Tamil Agent call Banna Be online",
+            "tone": "Neutral",
+            "rate_of_speech": "201.01",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "tamil agent",
+                "banna be"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.5833",
+            "end_time": "0.5925",
+            "original_transcript": "ஆஹ்",
+            "translated_transcript": "Aah",
+            "tone": "Neutral",
+            "rate_of_speech": "109.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "aah"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.6173",
+            "end_time": "1.6253",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "125.26",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.6253",
+            "end_time": "1.6305",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "192.93",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.6333",
+            "end_time": "1.7125",
+            "original_transcript": "Sir வணக்கம் உங்க Call தமிழ் Agent க்கு transfer ஆயிருக்கு சொல்லுங்க என்ன Information தேவைப்படுது",
+            "translated_transcript": "Sir Hello, what information you need to transfer to your Call Tamil Agent",
+            "tone": "Neutral",
+            "rate_of_speech": "164.21",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir hello",
+                "call tamil agent"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.7363",
+            "end_time": "1.7793",
+            "original_transcript": "Sir நேத்து சீதா வட்டி வாங்குனேன் ஒரு ரூபாய் சீதா வத்தி பெட்டி வாங்குனேங்க",
+            "translated_transcript": "Sir Yesterday I bought Sita Interest One rupee Sita Vathi Box",
+            "tone": "Neutral",
+            "rate_of_speech": "255.81",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir yesterday",
+                "sita interest",
+                "sita vathi"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.7833",
+            "end_time": "1.7943",
+            "original_transcript": "Okay",
+            "translated_transcript": "Alright",
+            "tone": "Neutral",
+            "rate_of_speech": "90.91",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "alright"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.8116",
+            "end_time": "1.8677",
+            "original_transcript": "அதுல சிறுத்தையை வெட்டுற மாதிரி ஒரு தில்லு போட்டுருக்கீங்க",
+            "translated_transcript": "Then you need a model for cutting a leopard",
+            "tone": "Sad",
+            "rate_of_speech": "160.71",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.8737",
+            "end_time": "1.8856",
+            "original_transcript": "என்னது Sir",
+            "translated_transcript": "What is Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "250.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.9065",
+            "end_time": "1.955",
+            "original_transcript": "திருப்பைய கட்சில வெட்டுற மாதிரி ஒரு Still போட்டுக்கறீங்கல்ல",
+            "translated_transcript": "The turn-down model is not a Still competition",
+            "tone": "Neutral",
+            "rate_of_speech": "164.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "turn-down model"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.9618",
+            "end_time": "1.9718",
+            "original_transcript": "Okay",
+            "translated_transcript": "Alright",
+            "tone": "Neutral",
+            "rate_of_speech": "100.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "alright"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.9957",
+            "end_time": "2.1475",
+            "original_transcript": "அது அது அவசியம் இல்லாதது தானே அது வத்திப்பட்டிக்கும் அந்த சிறுத்தையை வெட்ட மாதிரி போறதுக்கும் என்ன சம்மந்தம் இருக்குன்னு கேக்குறதுக்கு தாங்க Phone பண்ணேன் வேற எதுவும் இல்லங்க",
+            "translated_transcript": "It is not necessary and it is not necessary, it is the only thing that I can do to put up with it, and there is nothing else I can do to bear it.",
+            "tone": "Neutral",
+            "rate_of_speech": "223.91",
+            "emotion": "disapproval",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.1572",
+            "end_time": "2.1705",
+            "original_transcript": "அப்படிங்களா",
+            "translated_transcript": "like that",
+            "tone": "Neutral",
+            "rate_of_speech": "150.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.1711",
+            "end_time": "2.1793",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "122.20",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.1945",
+            "end_time": "2.4057",
+            "original_transcript": "ஆமா அது வேற யாருன்னா இவன் மிருகவதை தடுப்பு சட்டக்காரன் எவனா பார்த்தான்னா உங்க மேல வழக்கு தொடர வாய்ப்பு இருக்குன்னு நான் யோசிச்சேன் அதுக்கு தான் உங்களுக்கு Phone பண்ணி சொன்னேன் வேற எதுவும் இல்ல",
+            "translated_transcript": "Yeah, anyone else, this animal prevention lawyer, who saw you have a chance to sue me and I thought that's why I phoned you and told you there was nothing else",
+            "tone": "Neutral",
+            "rate_of_speech": "146.80",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "yeah",
+                "animal prevention lawyer"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.4103",
+            "end_time": "2.5423",
+            "original_transcript": "அது சம்மந்தம் இல்லாத சீதா பைக்கும் வத்திட்டில இருக்கிற வத்தி குச்சி எடுத்து வத்திப்பில கிழிக்கிறதுக்கும் சம்மந்தமே இல்லையேன்னு தான் யோசிக்கிறேன் வேற எதுவும் இல்ல",
+            "translated_transcript": "There is nothing else I can think of if it does not agree with the Sita bag and the wadi stick that is on the watch and tear the veil.",
+            "tone": "Neutral",
+            "rate_of_speech": "227.27",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sita"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.5457",
+            "end_time": "2.605",
+            "original_transcript": "ம் கண்டிப்பா Sir நாங்க Team க்கு தெரிவிக்கிறோம் சீதா Fight வந்து",
+            "translated_transcript": "We would like to inform our team that Sita Fight is coming",
+            "tone": "Neutral",
+            "rate_of_speech": "202.25",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sita fight"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.605",
+            "end_time": "2.651",
+            "original_transcript": "புரியுதுங்களா நான் சொன்ன நான் சொன்னது உங்களுக்கு புரிஞ்சுதுங்களா புரிஞ்சது",
+            "translated_transcript": "Do you understand what I said, do you understand?",
+            "tone": "Neutral",
+            "rate_of_speech": "195.72",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.651",
+            "end_time": "2.681",
+            "original_transcript": "புரிஞ்சுது Sir அந்த Image நான் கூட பார்த்தேன்",
+            "translated_transcript": "Understood Sir That Image I even saw",
+            "tone": "Neutral",
+            "rate_of_speech": "233.20",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "understood sir",
+                "image"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.6883",
+            "end_time": "2.8447",
+            "original_transcript": "Okay வத்தி குச்சி எடுத்து நம்ம வச்சி குச்சியை கிழிச்சு Cigarette பத்து வைக்கிறோம் Stove பார்த்து வைக்கிறோம் அதுக்கும் இந்த இவரு சிறுத்தையை வெட்டுற மாதிரி இருக்கிற Stillக்கும் சம்மந்தமே இல்ல",
+            "translated_transcript": "Okay, take the stick and tear off our Vachi stick and put the Cigarette Ten on the stove and it's not okay with Still who has the model to cut these two leopards.",
+            "tone": "Neutral",
+            "rate_of_speech": "211.11",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay",
+                "vachi",
+                "cigarette ten"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.8527",
+            "end_time": "2.892",
+            "original_transcript": "அத சொல்றதுக்கு உங்களுக்கு Phone பண்ணேன் வேற எதுவும் இல்ல ஒரு",
+            "translated_transcript": "There is nothing else I can call you to say",
+            "tone": "Neutral",
+            "rate_of_speech": "254.24",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.892",
+            "end_time": "2.9227",
+            "original_transcript": "நிமிஷம் இது வந்து",
+            "translated_transcript": "The minute it arrived",
+            "tone": "Neutral",
+            "rate_of_speech": "130.43",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.9227",
+            "end_time": "2.93",
+            "original_transcript": "சீதா",
+            "translated_transcript": "Seetha",
+            "tone": "Neutral",
+            "rate_of_speech": "136.36",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "seetha"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.93",
+            "end_time": "3.0347",
+            "original_transcript": "Fight Okay ங்களா சீதா தான் அந்த Picture ல போட்ருக்குது அந்த சிறுத்தைன்னு சொன்னீங்க இல்லைங்களா அதுதான் பேரு சீதா",
+            "translated_transcript": "Fight Okay Gala Sita is the picture picture, didn't you tell that leopard, that's the name Sita?",
+            "tone": "Neutral",
+            "rate_of_speech": "162.42",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "fight okay",
+                "sita",
+                "picture picture",
+                "sita"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.0533",
+            "end_time": "3.2122",
+            "original_transcript": "ஆமா சீதா மட்டும் போட்டுக்கலாம் சீதா அது சம்மந்தம் இல்லாத பெயரா இருக்குன்னா உங்களுக்கு Phone பண்ணுங்க வேற தப்பா நினைக்காதீங்க தப்பா நினைக்காதீங்கன்னா",
+            "translated_transcript": "Yes Sita can only put Sita, is it a non-consensual name for you to make a phone, don't think about it, don't think about it?",
+            "tone": "Neutral",
+            "rate_of_speech": "157.40",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sita",
+                "sita",
+                "non-consensual name"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.2278",
+            "end_time": "3.2332",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "186.92",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.2332",
+            "end_time": "3.2883",
+            "original_transcript": "கண்டிப்பா Sir உங்களோட Feedback Team க்கு தெரிவிக்கிறேன் உங்க பேர்",
+            "translated_transcript": "Please let me know your feedback team",
+            "tone": "Neutral",
+            "rate_of_speech": "126.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "please",
+                "feedback team"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.3066",
+            "end_time": "3.3193",
+            "original_transcript": "என்னம்மா என்னம்மா",
+            "translated_transcript": "What is it?",
+            "tone": "Neutral",
+            "rate_of_speech": "236.53",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.324",
+            "end_time": "3.3492",
+            "original_transcript": "உங்க பேர் தெரிஞ்சுக்கலாமா Sir",
+            "translated_transcript": "Can you tell me your name, sir?",
+            "tone": "Neutral",
+            "rate_of_speech": "278.33",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.3598",
+            "end_time": "3.3957",
+            "original_transcript": "என் பெயர் லாரன்ஸ்மா என் பேர் லாரன்ஸ் எங்க",
+            "translated_transcript": "My name is Laurensma My name is Lawrence",
+            "tone": "Neutral",
+            "rate_of_speech": "223.15",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "laurensma",
+                "lawrence"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.3957",
+            "end_time": "3.405",
+            "original_transcript": "இருந்து பேசுறீங்க",
+            "translated_transcript": "You speak from",
+            "tone": "Neutral",
+            "rate_of_speech": "321.43",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.405",
+            "end_time": "3.4778",
+            "original_transcript": "Sir இந்த வத்தி குத்தி நான் கோயம்பேடு பக்கத்துல M M K ல இருந்து பேசுறேன்",
+            "translated_transcript": "Sir I will speak from M M M K la side of Coimbed",
+            "tone": "Neutral",
+            "rate_of_speech": "178.53",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir",
+                "m m m",
+                "coimbed"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.4912",
+            "end_time": "3.54",
+            "original_transcript": "அப்படிங்களா சரி Sir நான் கண்டிப்பா உங்களுடைய Feedback Teamக்கு தெரிவிக்கிறேன்",
+            "translated_transcript": "That's right Sir I will definitely report to your Feedback Team",
+            "tone": "Happy",
+            "rate_of_speech": "225.33",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "sir",
+                "feedback team"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.54",
+            "end_time": "3.7418",
+            "original_transcript": "Sir எதுனா ஒரு General லான பேர் எதுனா போடலாம் பப்பி குப்பி குப்பி வத்திப்பட்டி அப்படி இப்படி போடலாம் நீங்க சீதா பட்டின்னு வச்சி பெட்டியில அந்த திருத்தையை வெ வெட்றா மாதிரி ஒரு Still போட்டுக்கீங்க",
+            "translated_transcript": "Sir What can a General person put on a puffy bottle bottle sticker like this so you can put that patch in the pocket of Sita Patinnu and Vetra model for a Still competition",
+            "tone": "Neutral",
+            "rate_of_speech": "168.46",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "sir",
+                "general person",
+                "puffy bottle bottle sticker",
+                "sita patinnu",
+                "vetra"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.7483",
+            "end_time": "3.8017",
+            "original_transcript": "அவசியம் இல்லாதன்னு நான் நினைக்கிறேன் வேற எதுவும் தப்பா நினைக்காதீங்கன்னா",
+            "translated_transcript": "I don't think it's necessary, don't you think of anything else",
+            "tone": "Neutral",
+            "rate_of_speech": "206.19",
+            "emotion": "disapproval",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.8017",
+            "end_time": "3.8138",
+            "original_transcript": "கண்டிப்பா Sir உங்களுடைய",
+            "translated_transcript": "Definitely yours, sir.",
+            "tone": "Neutral",
+            "rate_of_speech": "246.58",
+            "emotion": "approval",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "definitely"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.8138",
+            "end_time": "3.8157",
+            "original_transcript": "Suggestion வந்து எங்க Concern team",
+            "translated_transcript": "Where does Suggestion come from Concern team",
+            "tone": "Neutral",
+            "rate_of_speech": "3818.18",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "suggestion"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.8157",
+            "end_time": "3.8712",
+            "original_transcript": "க்கு தெரிவிக்கிறேன் சரிங்களா",
+            "translated_transcript": "I would like to inform you.",
+            "tone": "Neutral",
+            "rate_of_speech": "108.11",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.8872",
+            "end_time": "3.9272",
+            "original_transcript": "ஆமா சரிங்க Thank you madam வேற",
+            "translated_transcript": "Yes please thank you madam",
+            "tone": "Neutral",
+            "rate_of_speech": "124.95",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.9272",
+            "end_time": "3.9583",
+            "original_transcript": "ஏதாவது Information தேவைப்படுதா Sir உங்களுக்கு",
+            "translated_transcript": "Do you need any information, sir?",
+            "tone": "Neutral",
+            "rate_of_speech": "192.51",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.976",
+            "end_time": "4.1693",
+            "original_transcript": "வேற எதுவும் இல்ல Madam எனக்கு இதுதான் நேத்துல இருந்து மனசுல பட்டுச்சு உங்ககிட்ட தான் வத்தி எடுத்து பார்த்தேன் இது சிறுத்தி வெட்டுற மாதிரி போட்டுக்கோங்க அது அவசியம் இல்லாததுன்னு நான் நினைச்சேன் அதுக்கு தான் Madam உங்களுக்கு Phone பண்ணேன் தப்பா நினைக்காதீங்கன்னா",
+            "translated_transcript": "Nothing else, ma'am, this is what I got from Nethula and I saw this leopard print. I thought it wasn't necessary. That's why I phoned you.",
+            "tone": "Neutral",
+            "rate_of_speech": "134.47",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "nethula",
+                "leopard print"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.1733",
+            "end_time": "4.2373",
+            "original_transcript": "கண்டிப்பா Sir Thank you sir thank you so much for your valuable suggestion Have a wonderful day Thank you",
+            "translated_transcript": "Definitely Sir Thank you sir thank you so much for your valuable suggestion Have a wonderful day Thank you",
+            "tone": "Happy",
+            "rate_of_speech": "296.80",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "definitely sir thank",
+                "valuable suggestion",
+                "have",
+                "wonderful day",
+                "thank"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.246",
+            "end_time": "4.3173",
+            "original_transcript": "Company க்கு சொல்லுங்க Madam company க்கு சொல்லுங்கன்னா Companyக்கு சொல்லுங்க இதுக்கு அவசியம் இல்லாதன்னு சொல்லுங்கன்னா",
+            "translated_transcript": "Tell Company Madam tell company Tell Company if this is not necessary",
+            "tone": "Neutral",
+            "rate_of_speech": "168.19",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.3282",
+            "end_time": "4.3392",
+            "original_transcript": "சரிங்க Sir",
+            "translated_transcript": "Reconcile Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "181.82",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "reconcile sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.348",
+            "end_time": "4.3865",
+            "original_transcript": "சரிங்க Thank you Madam வேற எதாவது",
+            "translated_transcript": "Thank you for something else, ma'am.",
+            "tone": "Neutral",
+            "rate_of_speech": "155.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thank"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.3865",
+            "end_time": "4.3973",
+            "original_transcript": "கேப்படுதா Sir",
+            "translated_transcript": "Do you ask Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "369.80",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.4172",
+            "end_time": "4.4451",
+            "original_transcript": "வேற எதுவும் இல்ல Madam வேற எதுவும் இல்ல Madam",
+            "translated_transcript": "Nothing else Madam Nothing else Madam",
+            "tone": "Neutral",
+            "rate_of_speech": "214.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.4451",
+            "end_time": "4.458",
+            "original_transcript": "Thank you sir thank you",
+            "translated_transcript": "Thank you sir thank you",
+            "tone": "Neutral",
+            "rate_of_speech": "389.11",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thank"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.458",
+            "end_time": "4.4625",
+            "original_transcript": "வேற எதுவும்",
+            "translated_transcript": "Nothing Else",
+            "tone": "Neutral",
+            "rate_of_speech": "444.44",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "else"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.4625",
+            "end_time": "4.4966",
+            "original_transcript": "இல்ல see have a wonderful day thank you",
+            "translated_transcript": "Have a wonderful day, thank you.",
+            "tone": "Happy",
+            "rate_of_speech": "175.70",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "have",
+                "wonderful day"
+            ]
+        }
+    ],
+    "translated_segments": "Good morning thank you for calling I T C My name is Tanveer How can I help you Yesterday I bought a Cheetha interest box Sir Pardon Pardon I bought a sweet potato sir Malayalam language Tamil Language which language are comfortable Cheesecake which language you are comfortable Tamil Telugu Malayalam Canada Tamil Tamil Tamil Sir Tamil Sir Line please be online transferring your call to Tamil agent Tamil Sir Tamil Sir Tamil Agent call Banna Be online Aah Hallo Hallo Sir Hello, what information you need to transfer to your Call Tamil Agent Sir Yesterday I bought Sita Interest One rupee Sita Vathi Box Alright Then you need a model for cutting a leopard What is Sir The turn-down model is not a Still competition Alright It is not necessary and it is not necessary, it is the only thing that I can do to put up with it, and there is nothing else I can do to bear it. like that Hallo Yeah, anyone else, this animal prevention lawyer, who saw you have a chance to sue me and I thought that's why I phoned you and told you there was nothing else There is nothing else I can think of if it does not agree with the Sita bag and the wadi stick that is on the watch and tear the veil. We would like to inform our team that Sita Fight is coming Do you understand what I said, do you understand? Understood Sir That Image I even saw Okay, take the stick and tear off our Vachi stick and put the Cigarette Ten on the stove and it's not okay with Still who has the model to cut these two leopards. There is nothing else I can call you to say The minute it arrived Seetha Fight Okay Gala Sita is the picture picture, didn't you tell that leopard, that's the name Sita? Yes Sita can only put Sita, is it a non-consensual name for you to make a phone, don't think about it, don't think about it? Hallo Please let me know your feedback team What is it? Can you tell me your name, sir? My name is Laurensma My name is Lawrence You speak from Sir I will speak from M M M K la side of Coimbed That's right Sir I will definitely report to your Feedback Team Sir What can a General person put on a puffy bottle bottle sticker like this so you can put that patch in the pocket of Sita Patinnu and Vetra model for a Still competition I don't think it's necessary, don't you think of anything else Definitely yours, sir. Where does Suggestion come from Concern team I would like to inform you. Yes please thank you madam Do you need any information, sir? Nothing else, ma'am, this is what I got from Nethula and I saw this leopard print. I thought it wasn't necessary. That's why I phoned you. Definitely Sir Thank you sir thank you so much for your valuable suggestion Have a wonderful day Thank you Tell Company Madam tell company Tell Company if this is not necessary Reconcile Sir Thank you for something else, ma'am. Do you ask Sir Nothing else Madam Nothing else Madam Thank you sir thank you Nothing Else Have a wonderful day, thank you. ",
+    "speaker_a_segments": "Good morning thank you for calling I T C My name is Tanveer How can I help you Pardon Malayalam language Tamil Language which language are comfortable which language you are comfortable Tamil Telugu Malayalam Canada Line please be online transferring your call to Tamil agent Tamil Agent call Banna Be online Hallo Sir Hello, what information you need to transfer to your Call Tamil Agent Alright What is Sir Alright like that We would like to inform our team that Sita Fight is coming Understood Sir That Image I even saw The minute it arrived Fight Okay Gala Sita is the picture picture, didn't you tell that leopard, that's the name Sita? Please let me know your feedback team Can you tell me your name, sir? You speak from That's right Sir I will definitely report to your Feedback Team Definitely yours, sir. I would like to inform you. Do you need any information, sir? Definitely Sir Thank you sir thank you so much for your valuable suggestion Have a wonderful day Thank you Reconcile Sir Do you ask Sir Thank you sir thank you Have a wonderful day, thank you. ",
+    "speaker_b_segments": "Yesterday I bought a Cheetha interest box Sir Pardon I bought a sweet potato sir Cheesecake Tamil Tamil Tamil Sir Tamil Sir Tamil Sir Tamil Sir Aah Hallo Sir Yesterday I bought Sita Interest One rupee Sita Vathi Box Then you need a model for cutting a leopard The turn-down model is not a Still competition It is not necessary and it is not necessary, it is the only thing that I can do to put up with it, and there is nothing else I can do to bear it. Hallo Yeah, anyone else, this animal prevention lawyer, who saw you have a chance to sue me and I thought that's why I phoned you and told you there was nothing else There is nothing else I can think of if it does not agree with the Sita bag and the wadi stick that is on the watch and tear the veil. Do you understand what I said, do you understand? Okay, take the stick and tear off our Vachi stick and put the Cigarette Ten on the stove and it's not okay with Still who has the model to cut these two leopards. There is nothing else I can call you to say Seetha Yes Sita can only put Sita, is it a non-consensual name for you to make a phone, don't think about it, don't think about it? Hallo What is it? My name is Laurensma My name is Lawrence Sir I will speak from M M M K la side of Coimbed Sir What can a General person put on a puffy bottle bottle sticker like this so you can put that patch in the pocket of Sita Patinnu and Vetra model for a Still competition I don't think it's necessary, don't you think of anything else Where does Suggestion come from Concern team Yes please thank you madam Nothing else, ma'am, this is what I got from Nethula and I saw this leopard print. I thought it wasn't necessary. That's why I phoned you. Tell Company Madam tell company Tell Company if this is not necessary Thank you for something else, ma'am. Nothing else Madam Nothing else Madam Nothing Else ",
+    "summary": "A customer calls the I T C with a complaint and is transferred to a Tamil-speaking agent. The customer explains that they bought a Sita Interest box and wants to know if they can use a different model for cutting a leopard print. The agent explains that it is not necessary for the competition and that they can use the provided stick and bag. The customer also mentions that they saw an animal prevention lawyer and wonders if they can sue the company. The agent offers to connect them with the feedback team, and the customer provides their valuable suggestion. The feedback team thanks the customer for their suggestion and assures them that it will be passed on to the concerned team. The customer and agent conclude the call with pleasantries.",
+    "speaker_a_summary": "The caller wants to know about an image of a movie poster for the film 'Sita' starring a leopard and wants to confirm that the film's name is indeed 'Sita'. The ITC employee will forward this feedback to the relevant team and informs the caller that they will receive a reply from the Feedback Team regarding their suggestion. The caller thanks the employee for their valuable suggestion and the conversation ends with good wishes and pleasantries.",
+    "speaker_b_summary": "The conversation is between a person who seems to be in a shop, and another person, who is probably their supervisor or manager and is called Lawrence. The person in the shop is calling to Lawrence about returning two items: a Sita interest box and a sweet potato, probably because they are not needed, and to ask for advice in regards to returning those items and getting a refund. The person in the shop also mentions a third item, a cheesecake, which they bought yesterday, and which has a Tamil name which is spelled out as \"Cheetha\".",
+    "cohere_points": "- User TANVEER is struggling to communicate with a customer service agent regarding leopard print cloth and cheesecake\n- He is transferred from one agent to another and has to reiterate his issue again and again. \n- Eventually, he is satisfied and thanks the agent for her help. \n- The key phrases are: user experience, customer service, confusion, issue repeating, feedback.",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "1. Customer Service Call\n2. Language Preference\n3. Purchase Inquiry\n4. Animal Print Model\n5. Feedback Team Report\n6. Sita Fight\n7. Feedback Team Contact\n8. General Information Request\n9. Leopard Name Discussion\n10. Call Transfer Process\n11. Suggestion for Patch\n12. Customer Feedback Collection\n13. Cultural Language Comfort\n14. Products and Models\n15. Company Policy Clarification",
+    "Resolution": "The issue does not appear to be resolved as there seems to be confusion and miscommunication throughout the conversation.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "No, the caller did not display empathy in the conversation provided.",
+    "Was there any profanity on the call": "No",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 839.178,
+    "num_silences": 45
+}

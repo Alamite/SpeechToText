@@ -1,0 +1,1900 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0238",
+            "end_time": "0.0727",
+            "original_transcript": "Thank you for calling I T How may I help you",
+            "translated_transcript": "Thank you for calling I T How can I help you",
+            "tone": "Neutral",
+            "rate_of_speech": "225.18",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thank"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.0857",
+            "end_time": "0.0932",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "133.04",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.1043",
+            "end_time": "0.139",
+            "original_transcript": "hello yes sir you have called to I T C How may I help you",
+            "translated_transcript": "hello yes sir you have called to I T C How can I help you",
+            "tone": "Neutral",
+            "rate_of_speech": "432.69",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hello yes sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.1436",
+            "end_time": "0.1717",
+            "original_transcript": "Sir Good afternoon sir",
+            "translated_transcript": "Sir Good afternoon cheese",
+            "tone": "Happy",
+            "rate_of_speech": "142.77",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "sir",
+                "good afternoon cheese"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.1717",
+            "end_time": "0.1845",
+            "original_transcript": "Good afternoon",
+            "translated_transcript": "Good afternoon",
+            "tone": "Happy",
+            "rate_of_speech": "156.05",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good afternoon"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.2042",
+            "end_time": "0.2503",
+            "original_transcript": "Sir Bingo",
+            "translated_transcript": "Sir Bingo",
+            "tone": "Neutral",
+            "rate_of_speech": "43.32",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir bingo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.2655",
+            "end_time": "0.2757",
+            "original_transcript": "Yes sir",
+            "translated_transcript": "Yes sir",
+            "tone": "Neutral",
+            "rate_of_speech": "196.72",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.2802",
+            "end_time": "0.306",
+            "original_transcript": "I T C I T C company",
+            "translated_transcript": "I T C I T C company",
+            "tone": "Neutral",
+            "rate_of_speech": "270.79",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "c company"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.3148",
+            "end_time": "0.3248",
+            "original_transcript": "Yes sir",
+            "translated_transcript": "Yes sir",
+            "tone": "Neutral",
+            "rate_of_speech": "200.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.349",
+            "end_time": "0.3783",
+            "original_transcript": "Sir அது Bingo",
+            "translated_transcript": "Sir It Bingo",
+            "tone": "Neutral",
+            "rate_of_speech": "102.27",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir",
+                "bingo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.3888",
+            "end_time": "0.4398",
+            "original_transcript": "How to use toil sir",
+            "translated_transcript": "How to use toil cheese",
+            "tone": "Neutral",
+            "rate_of_speech": "98.04",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "toil cheese"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.4498",
+            "end_time": "0.4657",
+            "original_transcript": "தமிழ்ங்க Sir",
+            "translated_transcript": "Tamil Nadu Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "189.27",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "tamil nadu sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.4768",
+            "end_time": "0.5708",
+            "original_transcript": "ஆ தமிழ் Okay Sir Please be online Sir Sir Sir wait wait wait தமிழ் Sir",
+            "translated_transcript": "ah Tamil Okay Sir Please be online Sir Sir Sir wait wait wait Tamil Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "159.57",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "tamil okay sir please",
+                "sir sir sir",
+                "tamil sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.587",
+            "end_time": "0.6475",
+            "original_transcript": "Okay How to use oil this product",
+            "translated_transcript": "Ok How to use oil this product",
+            "tone": "Neutral",
+            "rate_of_speech": "115.73",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.6803",
+            "end_time": "0.7137",
+            "original_transcript": "I didn't get you how to use",
+            "translated_transcript": "Jeg ikke får du hvordan bruke",
+            "tone": "Neutral",
+            "rate_of_speech": "180.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "jeg",
+                "ikke får du hvordan bruke"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.7222",
+            "end_time": "0.7403",
+            "original_transcript": "Oil oil",
+            "translated_transcript": "Oil oil",
+            "tone": "Neutral",
+            "rate_of_speech": "110.19",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "oil oil"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.7577",
+            "end_time": "0.7768",
+            "original_transcript": "How to use oil",
+            "translated_transcript": "How to use oil",
+            "tone": "Neutral",
+            "rate_of_speech": "208.51",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.7902",
+            "end_time": "0.8385",
+            "original_transcript": "Oil oil use sir",
+            "translated_transcript": "Oil oil use cheese",
+            "tone": "Neutral",
+            "rate_of_speech": "82.73",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "oil oil use cheese"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.9123",
+            "end_time": "0.9307",
+            "original_transcript": "சாயில் தான்",
+            "translated_transcript": "It's the shade",
+            "tone": "Neutral",
+            "rate_of_speech": "163.64",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.948",
+            "end_time": "1.04",
+            "original_transcript": "Sir you have called to I T C so I didn't get you what you are saying sir which means",
+            "translated_transcript": "Sir you have called to I T C so I don't get you what you are saying sir which means",
+            "tone": "Neutral",
+            "rate_of_speech": "217.39",
+            "emotion": "confusion",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.0543",
+            "end_time": "1.1035",
+            "original_transcript": "Oil means edible oil",
+            "translated_transcript": "Oil means edible oil",
+            "tone": "Neutral",
+            "rate_of_speech": "81.36",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "oil means edible oil"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.1386",
+            "end_time": "1.1608",
+            "original_transcript": "Sir beach product sir",
+            "translated_transcript": "Sir beach product cheese",
+            "tone": "Neutral",
+            "rate_of_speech": "180.32",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir",
+                "beach product cheese"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.1917",
+            "end_time": "1.2167",
+            "original_transcript": "Tengo",
+            "translated_transcript": "I have",
+            "tone": "Neutral",
+            "rate_of_speech": "80.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.2443",
+            "end_time": "1.3",
+            "original_transcript": "செடிமெறி",
+            "translated_transcript": "Sedimeri",
+            "tone": "Neutral",
+            "rate_of_speech": "17.96",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sedimeri"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.316",
+            "end_time": "1.3967",
+            "original_transcript": "oil oil",
+            "translated_transcript": "oil oil",
+            "tone": "Neutral",
+            "rate_of_speech": "24.79",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "oil oil"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.4231",
+            "end_time": "1.4491",
+            "original_transcript": "bingo is not an oil it's a snack",
+            "translated_transcript": "bingo is not an oil it's a snack",
+            "tone": "Neutral",
+            "rate_of_speech": "307.69",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.4723",
+            "end_time": "1.5568",
+            "original_transcript": "Snacks only using Sir Sir Us Using oil Sir அது Product க்கு",
+            "translated_transcript": "Snacks only using Sir Us Using oil Sir It Product",
+            "tone": "Neutral",
+            "rate_of_speech": "118.32",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "snacks",
+                "sir us",
+                "sir",
+                "product"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.5995",
+            "end_time": "1.6685",
+            "original_transcript": "Are you comfortable in Tamil language",
+            "translated_transcript": "Are you comfortable in Tamil language",
+            "tone": "Happy",
+            "rate_of_speech": "86.96",
+            "emotion": "curiosity",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "tamil"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.6837",
+            "end_time": "1.7111",
+            "original_transcript": "பாலமின் ஆயில்",
+            "translated_transcript": "Balamin Oil",
+            "tone": "Neutral",
+            "rate_of_speech": "72.73",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "balamin"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.7377",
+            "end_time": "1.7848",
+            "original_transcript": "Refined",
+            "translated_transcript": "Refined",
+            "tone": "Neutral",
+            "rate_of_speech": "21.21",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "refined"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.8363",
+            "end_time": "1.8713",
+            "original_transcript": "National",
+            "translated_transcript": "Nasional",
+            "tone": "Neutral",
+            "rate_of_speech": "28.59",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "nasional"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.9003",
+            "end_time": "1.9113",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "90.77",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.927",
+            "end_time": "2.0155",
+            "original_transcript": "Sir refund oil use பண்றது How to refund oil",
+            "translated_transcript": "How to refund oil",
+            "tone": "Neutral",
+            "rate_of_speech": "45.20",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "refund oil"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.0433",
+            "end_time": "2.0663",
+            "original_transcript": "Palm oil",
+            "translated_transcript": "Palm oil",
+            "tone": "Neutral",
+            "rate_of_speech": "86.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "palm oil"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.1005",
+            "end_time": "2.1551",
+            "original_transcript": "Sir I didn't get you sir I didn't get you what you are saying I didn't understand you",
+            "translated_transcript": "I don't get you sir I don't get you what you are saying I don't understand you",
+            "tone": "Neutral",
+            "rate_of_speech": "310.98",
+            "emotion": "confusion",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.1948",
+            "end_time": "2.2532",
+            "original_transcript": "Please be online if you are comfortable I can transfer to Tamil agent",
+            "translated_transcript": "Please be online if you are comfortable I can transfer to Tamil agent",
+            "tone": "Happy",
+            "rate_of_speech": "222.86",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "please",
+                "tamil"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.2723",
+            "end_time": "2.2948",
+            "original_transcript": "தமிழ் தமிழ்",
+            "translated_transcript": "Tamil Tamil",
+            "tone": "Neutral",
+            "rate_of_speech": "88.82",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "tamil tamil"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.3047",
+            "end_time": "2.3175",
+            "original_transcript": "ப்ளீஸ்",
+            "translated_transcript": "Bliss",
+            "tone": "Neutral",
+            "rate_of_speech": "77.82",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bliss"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.3503",
+            "end_time": "2.3895",
+            "original_transcript": "ஓ",
+            "translated_transcript": "Whoa",
+            "tone": "Neutral",
+            "rate_of_speech": "25.54",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "whoa"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.3985",
+            "end_time": "2.4883",
+            "original_transcript": "அவன் தான் என்ன அவனுக்கு நல்லா புரியுதாம் ஆனால் சூர்யா மகன் என்ன ஆயிடுதுன்னே சொல்ல மாட்டேங்கிறான்",
+            "translated_transcript": "He knows well what he is, but he does not say what the son of Surya will become.",
+            "tone": "Neutral",
+            "rate_of_speech": "200.37",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "surya"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.5255",
+            "end_time": "2.5617",
+            "original_transcript": "அமா கோட்டலக்கே பொறந்த மாதிரி",
+            "translated_transcript": "Ama Kotalakke Paranda Model",
+            "tone": "Neutral",
+            "rate_of_speech": "110.60",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ama kotalakke paranda model"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.5898",
+            "end_time": "2.6075",
+            "original_transcript": "அடுத்த",
+            "translated_transcript": "next",
+            "tone": "Neutral",
+            "rate_of_speech": "56.60",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.7405",
+            "end_time": "2.7702",
+            "original_transcript": "என்னன்ன போலம்பண்ணா",
+            "translated_transcript": "What is Polampanna?",
+            "tone": "Neutral",
+            "rate_of_speech": "101.07",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "polampanna"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.7808",
+            "end_time": "2.8337",
+            "original_transcript": "பணம் உங்களுக்கு என்ன சகாயம் செய்யணும்",
+            "translated_transcript": "What money can do for you",
+            "tone": "Neutral",
+            "rate_of_speech": "113.56",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.847",
+            "end_time": "2.8617",
+            "original_transcript": "Sir வணக்கம் Sir",
+            "translated_transcript": "Hello Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "136.52",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hello sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.869",
+            "end_time": "2.9008",
+            "original_transcript": "வணக்கம் நீங்க சொல்லுங்க உங்களுக்கு என்ன சகாயம் செய்யணும்",
+            "translated_transcript": "Hello, tell me what to do for you.",
+            "tone": "Neutral",
+            "rate_of_speech": "251.18",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.9123",
+            "end_time": "2.9328",
+            "original_transcript": "Sir அந்த பிங்கோல",
+            "translated_transcript": "Sir That Bingola",
+            "tone": "Neutral",
+            "rate_of_speech": "146.34",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir",
+                "bingola"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.9555",
+            "end_time": "2.967",
+            "original_transcript": "பிங்கல சொல்லுங்க",
+            "translated_transcript": "Say Bingala",
+            "tone": "Neutral",
+            "rate_of_speech": "173.91",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "say bingala"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.979",
+            "end_time": "3.06",
+            "original_transcript": "பிங்கல தேடிமேதி என்ன வருதுல்ல டிமேதி தேடிமேதி",
+            "translated_transcript": "Bingala Detimethi What Varatulla Detimethi",
+            "tone": "Neutral",
+            "rate_of_speech": "61.73",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bingala detimethi",
+                "varatulla detimethi"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.0727",
+            "end_time": "3.14",
+            "original_transcript": "தேதி மேடி எங்க Product இது Brand டே இல்லையே தேதிமேடி",
+            "translated_transcript": "Date Maddie Where Product This is Brand Day Not Date Maddie",
+            "tone": "Neutral",
+            "rate_of_speech": "163.41",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "date maddie",
+                "product",
+                "brand",
+                "date maddie"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.1985",
+            "end_time": "3.225",
+            "original_transcript": "Sato",
+            "translated_transcript": "Sato",
+            "tone": "Neutral",
+            "rate_of_speech": "37.74",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sato"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.235",
+            "end_time": "3.2652",
+            "original_transcript": "இப்ப என்ன பிரச்சனை இருக்குன்னு சொல்ல வந்தீங்க",
+            "translated_transcript": "You came to tell me what the problem is now.",
+            "tone": "Neutral",
+            "rate_of_speech": "331.49",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.2785",
+            "end_time": "3.3195",
+            "original_transcript": "Sir அது எந்த Oilல Use பண்றாங்க Sir",
+            "translated_transcript": "Sir do not use any oil sir",
+            "tone": "Neutral",
+            "rate_of_speech": "170.80",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir",
+                "oil sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.345",
+            "end_time": "3.4077",
+            "original_transcript": "அந்த Packet க்கு பின்னாடி அந்த இது எழுதவே இல்லையா உங்க",
+            "translated_transcript": "Don't you write this on the back of that packet?",
+            "tone": "Neutral",
+            "rate_of_speech": "159.53",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.4077",
+            "end_time": "3.467",
+            "original_transcript": "பேரு இருக்கு Sir Palm oil use பண்ற மாதிரி போட்ருக்காங்க",
+            "translated_transcript": "Where to buy Sir Palm oil use black sample from Potrukkanga",
+            "tone": "Neutral",
+            "rate_of_speech": "185.39",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "sir",
+                "palm oil use",
+                "black sample",
+                "potrukkanga"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.4777",
+            "end_time": "3.4997",
+            "original_transcript": "நீங்க உங்க பெயர் சொல்லுங்க முதல்ல",
+            "translated_transcript": "You are the first to say your name.",
+            "tone": "Neutral",
+            "rate_of_speech": "363.91",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.5137",
+            "end_time": "3.5788",
+            "original_transcript": "எங்க பெயர் வந்து நாகர்கோவில் நாகராஜன்",
+            "translated_transcript": "Where did the name Nagarajan come from?",
+            "tone": "Neutral",
+            "rate_of_speech": "107.44",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "nagarajan"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.6337",
+            "end_time": "3.6523",
+            "original_transcript": "என்ன ஒரு வாட்டி கூட சொல்லுங்க",
+            "translated_transcript": "Tell me what a guy.",
+            "tone": "Neutral",
+            "rate_of_speech": "268.10",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.6643",
+            "end_time": "3.687",
+            "original_transcript": "நாகர்கோவில் நாகராஜ்",
+            "translated_transcript": "Nagaraj in Nagarko",
+            "tone": "Neutral",
+            "rate_of_speech": "132.35",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "nagaraj",
+                "nagarko"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.6983",
+            "end_time": "3.7157",
+            "original_transcript": "நாகர்கோயில உங்க பெயரு",
+            "translated_transcript": "Your name is Nagarkoila",
+            "tone": "Neutral",
+            "rate_of_speech": "230.55",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "your",
+                "nagarkoila"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.7337",
+            "end_time": "3.7835",
+            "original_transcript": "நாகர்கோவில் நாகராஜ் Sir நாகர்கோவில் ஊரு",
+            "translated_transcript": "Nagaraj in Nagargo; Town in Nagargo",
+            "tone": "Neutral",
+            "rate_of_speech": "120.44",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "nagaraj",
+                "nagargo",
+                "nagargo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.805",
+            "end_time": "3.825",
+            "original_transcript": "என் பெயர் நாகராஜ்",
+            "translated_transcript": "My name is Nagaraj",
+            "tone": "Neutral",
+            "rate_of_speech": "200.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "nagaraj"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.839",
+            "end_time": "3.8643",
+            "original_transcript": "பேர் சொல்லுங்க பேர் நான் கேட்டேன் ஊர் பெயர்",
+            "translated_transcript": "Tell me the name of the town I heard.",
+            "tone": "Neutral",
+            "rate_of_speech": "355.03",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.8643",
+            "end_time": "3.889",
+            "original_transcript": "கேட்டேன் நாகராஜ் நாகராஜ்",
+            "translated_transcript": "Ketten Nagaraj Nagaraj",
+            "tone": "Neutral",
+            "rate_of_speech": "121.70",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ketten nagaraj nagaraj"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.9083",
+            "end_time": "3.9376",
+            "original_transcript": "சரி அப்ப உங்களுக்கு என்ன தெரியும்",
+            "translated_transcript": "Well, what do you know?",
+            "tone": "Neutral",
+            "rate_of_speech": "170.55",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "well"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.9508",
+            "end_time": "4.0083",
+            "original_transcript": "Sir இந்த Product வந்து எந்த Oilல Use பண்றாங்க Sir",
+            "translated_transcript": "Sir Do not buy this product and use any oil",
+            "tone": "Neutral",
+            "rate_of_speech": "173.91",
+            "emotion": "disapproval",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.0155",
+            "end_time": "4.0262",
+            "original_transcript": "அதுக்கு பின்னாடி",
+            "translated_transcript": "The background to it",
+            "tone": "Neutral",
+            "rate_of_speech": "374.41",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.0262",
+            "end_time": "4.0362",
+            "original_transcript": "தயாரிக்கிறாங்க",
+            "translated_transcript": "You are preparing",
+            "tone": "Neutral",
+            "rate_of_speech": "300.50",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.0468",
+            "end_time": "4.0742",
+            "original_transcript": "என்னென்ன Ingredients போட்டுருக்காங்களோ அந்த",
+            "translated_transcript": "What are the ingredients?",
+            "tone": "Neutral",
+            "rate_of_speech": "146.34",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.0742",
+            "end_time": "4.1468",
+            "original_transcript": "Ingredients Sir அதுல Palm Oil Palm oil போட்ருக்காங்க Sir அதுக்கு தான் கேட்கிறேன் Palm Oil தான் செய்றீங்களா",
+            "translated_transcript": "Ingredients Sir and Palm Oil Palm oil for sale Sir I'm asking if Palm Oil is what Palm Oil does",
+            "tone": "Neutral",
+            "rate_of_speech": "275.23",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ingredients sir",
+                "palm oil palm oil",
+                "sir",
+                "palm oil",
+                "palm oil"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.1568",
+            "end_time": "4.185",
+            "original_transcript": "அதுல Palm oil போட்டிருந்தா அதுல தான் செய்யும்",
+            "translated_transcript": "If you put palm oil in it, that's what it will do.",
+            "tone": "Neutral",
+            "rate_of_speech": "426.04",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "palm oil"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.1952",
+            "end_time": "4.3008",
+            "original_transcript": "சரிங்க Sir இல்ல இல்லல்ல அதுதான் Sir இப்ப Consumer courtல File பண்ணலான்னு இருக்கேன் அதுக்குதான்",
+            "translated_transcript": "No, sir, that's why I filed the Consumer Court today.",
+            "tone": "Neutral",
+            "rate_of_speech": "94.65",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "consumer court"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.3122",
+            "end_time": "4.3372",
+            "original_transcript": "என்ன File பண்றதுக்காக",
+            "translated_transcript": "What is File for?",
+            "tone": "Neutral",
+            "rate_of_speech": "160.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "file"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.3458",
+            "end_time": "4.4483",
+            "original_transcript": "இல்லைங்க Sir இந்த மாதிரி I T C ன்றது ஒரு International Company",
+            "translated_transcript": "No Sir This Model I T C is an International Company",
+            "tone": "Neutral",
+            "rate_of_speech": "107.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir",
+                "model",
+                "international company"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.4571",
+            "end_time": "4.4663",
+            "original_transcript": "Okay",
+            "translated_transcript": "Alright",
+            "tone": "Neutral",
+            "rate_of_speech": "108.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "alright"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.4877",
+            "end_time": "4.5413",
+            "original_transcript": "அது வந்து இந்த மாதிரி Refund செய்யலாம்",
+            "translated_transcript": "It can come and refund this model",
+            "tone": "Neutral",
+            "rate_of_speech": "130.43",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.5515",
+            "end_time": "4.5968",
+            "original_transcript": "சரி நீங்க வந்து உங்க Email I D சொல்லுங்க முதல்ல",
+            "translated_transcript": "Well, come and tell me your email address first.",
+            "tone": "Neutral",
+            "rate_of_speech": "198.53",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "well",
+                "email address"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.6103",
+            "end_time": "4.6683",
+            "original_transcript": "Email I D ங்களா நான் அந்த மாதிரி நான் ஒன்னும் எதுவுமே Use பண்றது இல்ல Sir",
+            "translated_transcript": "Email I D I'm like that I don't use anything Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "189.60",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "email",
+                "n't use",
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.679",
+            "end_time": "4.739",
+            "original_transcript": "Okay உங்களுக்கு ஒன்னு தெரியுமா இந்த Call record ஆயிட்டு இருக்கு சரிங்களா எனக்கு",
+            "translated_transcript": "Okay, do you know what this call record is for me?",
+            "tone": "Neutral",
+            "rate_of_speech": "183.33",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.739",
+            "end_time": "4.795",
+            "original_transcript": "அந்த Record ஆகட்டும் Sir உங்களுது நானும் Record பண்ணிட்டு தான் Sir இருக்கிறேன் அதுக்கு தான்",
+            "translated_transcript": "Let that be the Record Sir, you and I make the Record, Sir, that's why",
+            "tone": "Neutral",
+            "rate_of_speech": "267.78",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "record sir",
+                "record",
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.805",
+            "end_time": "4.8623",
+            "original_transcript": "அப்போ முதல்ல நீங்க செய்ய வேண்டியது எனக்கு அந்த Packet details உங்க detailsஉம் கொடுங்க",
+            "translated_transcript": "Then the first thing you have to do is give me those packet details",
+            "tone": "Neutral",
+            "rate_of_speech": "244.19",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "packet details"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.8867",
+            "end_time": "4.8872",
+            "original_transcript": "உங்கள அந்த",
+            "translated_transcript": "Those of you",
+            "tone": "Neutral",
+            "rate_of_speech": "6000.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.8872",
+            "end_time": "4.9048",
+            "original_transcript": "நீங்க இப்போ Details கொடுத்தீங்க",
+            "translated_transcript": "You just gave me the details.",
+            "tone": "Neutral",
+            "rate_of_speech": "339.62",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.9097",
+            "end_time": "4.9917",
+            "original_transcript": "இல்ல இல்ல அது வந்து என் Details நீங்க உங்க details கொடுங்க Sir நான் வந்து நான் Mail பண்றேன் உங்களுக்கு",
+            "translated_transcript": "No No It's Coming My Details You Give Me Your Details Sir I'll Come and I'll Mail You",
+            "tone": "Neutral",
+            "rate_of_speech": "219.47",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "coming",
+                "details",
+                "your details sir",
+                "'ll mail"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.006",
+            "end_time": "5.1027",
+            "original_transcript": "எங்க Mail I D வந்து I T C K நீங்க ஒரு நிமிஷம் நீங்க Email I D use பண்ணவே இல்ல Sir நீங்க எப்படி Mail பண்ணுவேன்",
+            "translated_transcript": "Where does Mail I D come I T C K you leave for a minute Email I D use No use Sir How to Make Mail",
+            "tone": "Neutral",
+            "rate_of_speech": "268.92",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "email",
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.1133",
+            "end_time": "5.1527",
+            "original_transcript": "நான் கடையில போய் பண்றேன் Browsing centerல போய் பண்றேன்",
+            "translated_transcript": "I go to the store and I go to the browsing center",
+            "tone": "Neutral",
+            "rate_of_speech": "304.96",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.1647",
+            "end_time": "5.2373",
+            "original_transcript": "அது முடியாது Sir உங்களுக்கு Complaint இருந்தா நீங்க உங்க Mail I D ல தான் Mail பண்ணனும் Mail I D சொல்லுங்க முதல்ல",
+            "translated_transcript": "It can't be Sir Do you have a Complaint? You are your Mail I D is the first to tell Mail I D",
+            "tone": "Neutral",
+            "rate_of_speech": "316.59",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "ca n't",
+                "sir",
+                "complaint"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.2373",
+            "end_time": "5.4931",
+            "original_transcript": "என்ன இப்படி வந்து எந்த Consumer க்கும் அப்படியெல்லாம் நீங்க சொல்லலைங்க Sir அந்த மாதிரி Rules கிடையாது நான் அது தான் கேக்குறேன் உங்ககிட்ட ஒரு Clearance letter வாங்கிட்டு நான் வந்து இது வந்து இது மாதிரி Form Use பண்றதுனால குழந்தைங்க சாப்பிட்டு வாந்தி வருது பசங்களுக்கு",
+            "translated_transcript": "If anything comes up like this and tells any Consumer anyway you don't have those kind of rules I will ask for it I bought a Clearance letter I came here and this is the sample Form Use if your child eats and vomits gums",
+            "tone": "Happy",
+            "rate_of_speech": "175.90",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "clearance",
+                "form",
+                "child eats",
+                "vomits gums"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.4995",
+            "end_time": "5.5585",
+            "original_transcript": "யாரோட பசங்களுக்கு",
+            "translated_transcript": "To someone else's lips",
+            "tone": "Neutral",
+            "rate_of_speech": "67.80",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "'s lips"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.5913",
+            "end_time": "5.6007",
+            "original_transcript": "யாரோட",
+            "translated_transcript": "To whom",
+            "tone": "Neutral",
+            "rate_of_speech": "214.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.6007",
+            "end_time": "5.6313",
+            "original_transcript": "பசங்களுக்கு என் பசங்களுக்கு தான் வருது",
+            "translated_transcript": "I feel sorry for my gums.",
+            "tone": "Sad",
+            "rate_of_speech": "195.65",
+            "emotion": "remorse",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.6427",
+            "end_time": "5.65",
+            "original_transcript": "அப்படியா",
+            "translated_transcript": "That's right.",
+            "tone": "Happy",
+            "rate_of_speech": "272.11",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.67",
+            "end_time": "5.7643",
+            "original_transcript": "Dailyயும் வாங்கி Dailyயும் வந்து அஞ்சு பேர் திண்றானுங்க",
+            "translated_transcript": "Buy the Daily and come and wait for a few people",
+            "tone": "Neutral",
+            "rate_of_speech": "116.63",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "buy"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.7737",
+            "end_time": "5.8385",
+            "original_transcript": "Daily வாண்டு இருக்காங்களா அப்ப இதுக்கு முன்னாடி Hospital போயிருப்பேனே",
+            "translated_transcript": "Do you have to go to the hospital before this?",
+            "tone": "Neutral",
+            "rate_of_speech": "154.28",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.8603",
+            "end_time": "5.9763",
+            "original_transcript": "Sir Palm oil use பண்ணா வந்து அது பிரச்சனை இருக்கும் அதுக்கு சொல்றேன் Refund oil use பண்ணா பிரச்சனை வராது அதுக்கு சொல்றேன்",
+            "translated_transcript": "Sir Palm oil use Banna will come and tell it will be a problem Refund oil use Banna will not be a problem",
+            "tone": "Neutral",
+            "rate_of_speech": "198.28",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir",
+                "palm oil use",
+                "banna",
+                "refund",
+                "oil use",
+                "banna"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.9843",
+            "end_time": "6.0168",
+            "original_transcript": "கேட்கறதுக்கு நீங்க பதில் சொல்லுங்க",
+            "translated_transcript": "Respond to what is asked.",
+            "tone": "Neutral",
+            "rate_of_speech": "153.77",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "respond"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.0288",
+            "end_time": "6.1081",
+            "original_transcript": "Sir நீங்க பதில் சொல்லுங்க Sir ன்னா என்கிட்ட கேள்வி கேட்டா நீங்க தான் பதில் சொல்லணும் அதுக்கு தான் Customer care",
+            "translated_transcript": "Sir you answer Sir Anna's question, it's up to you to answer it Customer care",
+            "tone": "Neutral",
+            "rate_of_speech": "189.12",
+            "emotion": "caring",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir",
+                "sir anna",
+                "customer"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.1242",
+            "end_time": "6.1555",
+            "original_transcript": "நாங்க கேக்குறதுக்கு நீங்களும் பதில் சொல்லல இல்லன்னா",
+            "translated_transcript": "Do you not respond to our request?",
+            "tone": "Neutral",
+            "rate_of_speech": "223.52",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.1555",
+            "end_time": "6.1955",
+            "original_transcript": "நீங்க அ சொல்லுங்க சொல்லுங்க Sir அ சொல்லுங்க Sir",
+            "translated_transcript": "Tell me, tell me Sir.",
+            "tone": "Neutral",
+            "rate_of_speech": "124.95",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.2053",
+            "end_time": "6.2472",
+            "original_transcript": "இப்ப எவ்ளோ எவ்ளோ Packet சாப்பிட்ற",
+            "translated_transcript": "How Much Packet to Eat Now",
+            "tone": "Neutral",
+            "rate_of_speech": "143.48",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "packet",
+                "eat"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.2578",
+            "end_time": "6.2912",
+            "original_transcript": "ஒரு நாளைக்கு Five packet சாப்பிடுறாங்க Sir",
+            "translated_transcript": "Eat five packets a day, sir.",
+            "tone": "Neutral",
+            "rate_of_speech": "180.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "eat"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.2992",
+            "end_time": "6.3232",
+            "original_transcript": "இப்ப Packet இருக்குங்களா உங்ககிட்ட",
+            "translated_transcript": "Do you have a packet now?",
+            "tone": "Neutral",
+            "rate_of_speech": "250.00",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.3375",
+            "end_time": "6.3655",
+            "original_transcript": "ஆ Packet என் கைல தான் Sir வச்சிருக்கேன்",
+            "translated_transcript": "Ah Packet I'll put it in my hand sir",
+            "tone": "Neutral",
+            "rate_of_speech": "321.62",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "packet",
+                "hand sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.3685",
+            "end_time": "6.5025",
+            "original_transcript": "நான் Complaint எடுக்கணும் எனக்கு அந்த Packet Details வேணும்னு எனக்கு எங்க Team க்கு சொல்ல வேண்டாமா உங்க பசங்களுக்கு வந்து வாந்தி எடுக்கிற Health issue வருதுன்னு அப்போ எனக்கு அது",
+            "translated_transcript": "I need to make a Complaint and I need those Packet Details and tell me where to Team? I get a Health issue that comes to your gums and vomits and then it's for me",
+            "tone": "Neutral",
+            "rate_of_speech": "261.19",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "complaint",
+                "packet details",
+                "team",
+                "health issue"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.5025",
+            "end_time": "6.5138",
+            "original_transcript": "வந்து ஒரு",
+            "translated_transcript": "Come and have one",
+            "tone": "Neutral",
+            "rate_of_speech": "352.94",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.5138",
+            "end_time": "6.5818",
+            "original_transcript": "Customerக்கு வந்து இப்படி ஆயிடுச்சுன்னா நாங்க வந்து அதுக்கு Resolution கொடுக்க வேணாமா அப்போ எங்களுக்கு அது Investigation",
+            "translated_transcript": "Come to the Customer and do it like this, we come and give it a Resolution, then it's us Investigation",
+            "tone": "Neutral",
+            "rate_of_speech": "294.05",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "customer",
+                "resolution"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.5818",
+            "end_time": "6.8487",
+            "original_transcript": "பண்றது அதுதான் Sir நான் வந்து இல்ல அது நான் Doctor கிட்ட இருக்க பசங்க வந்து வீட்ல சாப்பிடுறது Refund oil சாப்பிடுறாங்க அது சாப்பிடும்போது ஒன்னும் ஆகுதில்ல அதுல நாங்க Chips எல்லாம் வறோம் அதெல்லாம் ஒன்னும் ஆகுதில்ல இது இது சாப்பிடும்போது மட்டும் பசங்க Vomiting பண்றாங்க புரியல Regularஆ சாப்பிடனும்",
+            "translated_transcript": "That's what Sir I didn't come, that's what I came to see the Doctor and eat at home Refund oil when I eat it's not one and we come chips all it's not one This is only when you eat it Vomiting is not the only thing you can do when you eat it Let's eat",
+            "tone": "Neutral",
+            "rate_of_speech": "209.87",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir",
+                "refund",
+                "vomiting"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.8533",
+            "end_time": "6.9335",
+            "original_transcript": "அது புரியுது எனக்கு நீங்க சொல்றது நா எனக்கு புரியுது அதனால தான் எனக்கு அந்த Packet details உங்க",
+            "translated_transcript": "I understand what you're telling me, but I understand that's why I have those packet details",
+            "tone": "Neutral",
+            "rate_of_speech": "199.58",
+            "emotion": "approval",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "packet details"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.9335",
+            "end_time": "7.1573",
+            "original_transcript": "details பசங்களுக்கு பாத்தீங்கன்னா கையில எல்லாம் பாத்தீங்கன்னா அப்படியே Bubbles bubbles அந்த கொசு கடிச்ச மாதிரி வந்துடுது இது சாப்பிடும்போது அதனால தான் கேட்கிறோம் Palm oil Falm oil ல செஞ்ச Product னால தான் இந்த மாதிரி வருதுன்னு Hospitalல சொன்னாங்க",
+            "translated_transcript": "details Bubbles bubbles come in the form of mosquito bites when you eat this is why we ask for it Palm oil Falm oil The product comes out and tells the Hospital that this is the reason why it comes",
+            "tone": "Neutral",
+            "rate_of_speech": "178.70",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bubbles",
+                "mosquito bites",
+                "palm oil",
+                "falm"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.1693",
+            "end_time": "7.2293",
+            "original_transcript": "Okay Palm oil ல சாப்பிடுறதுனால தான் சொன்னாங்க",
+            "translated_transcript": "Okay, so I told you to eat palm oil.",
+            "tone": "Neutral",
+            "rate_of_speech": "150.00",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay",
+                "palm oil"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.2413",
+            "end_time": "7.2418",
+            "original_transcript": "ம்",
+            "translated_transcript": "M",
+            "tone": "Neutral",
+            "rate_of_speech": "2000.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.2835",
+            "end_time": "7.3288",
+            "original_transcript": "சரி அப்போ என்ன பேர் சொன்னீங்க நீங்க நாகராஜ் இல்லையா Sir",
+            "translated_transcript": "Well then what do you say you're not Nagaraj, sir?",
+            "tone": "Neutral",
+            "rate_of_speech": "220.59",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "well",
+                "nagaraj"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.3353",
+            "end_time": "7.3563",
+            "original_transcript": "ம் நாகராஜ் தான் Sir",
+            "translated_transcript": "M Nagaraj Than Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "190.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "nagaraj than sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.368",
+            "end_time": "7.42",
+            "original_transcript": "நாகராஜ் நான் Health related issue க்கு நான் இப்ப Complaint எடுக்க போறேன்",
+            "translated_transcript": "Nagaraj I am going to file a Complaint for Health related issue",
+            "tone": "Neutral",
+            "rate_of_speech": "230.70",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "nagaraj",
+                "complaint"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.4326",
+            "end_time": "7.6326",
+            "original_transcript": "நீங்க எடுங்க சரிங்க Sir நான் ஒன்னும் இல்ல உங்ககிட்ட பால தான் சேரணும்ன்னு Confirm பண்ணிட்டீங்க நாங்க Consumer Consumer இதுல போயிட்டு நாங்க ஒரு பசங்கள கூட்டிட்டு போயிட்டு ஒரு Complaint கொடுத்துட்டு வந்தர்றோம் அவ்வளவுதான் Sir",
+            "translated_transcript": "You are sorry Sir I did not have any of your milk and you confirmed that we were Consumer Consumer and we joined a community and made a complaint.",
+            "tone": "Sad",
+            "rate_of_speech": "145.00",
+            "emotion": "remorse",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "sir",
+                "consumer consumer"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.638",
+            "end_time": "7.6553",
+            "original_transcript": "ஒரு நிமிஷம்",
+            "translated_transcript": "One minute",
+            "tone": "Neutral",
+            "rate_of_speech": "115.27",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.6553",
+            "end_time": "7.6753",
+            "original_transcript": "நீங்க உங்க",
+            "translated_transcript": "You are yours",
+            "tone": "Neutral",
+            "rate_of_speech": "150.13",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.6753",
+            "end_time": "7.6954",
+            "original_transcript": "Mind ல அப்படியே Set பண்ணா",
+            "translated_transcript": "Mind The Same Set",
+            "tone": "Neutral",
+            "rate_of_speech": "199.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mind",
+                "set"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.6956",
+            "end_time": "7.9416",
+            "original_transcript": "அதனால எனக்கு திருத்த முடியாது அது உங்க Mindல நீங்க Set ஆக்கி வச்சிருக்கேன் எனக்கு வந்து இப்ப ஒரு Customer நான் இங்க நான் இதுக்கு உட்காருக்கறேன்னா எனக்கு வந்து நீங்க ஏதாவது சொன்னா அது எனக்கு Report பண்ணி Teamக்கு Inform பண்ணனும் Investigate பண்ணனும் அதுக்காக எனக்கு யாரு Call பண்றாங்க",
+            "translated_transcript": "So I can't edit it if it's your All I've set you up I came to me and now a Customer I'm sitting here if you came to me and you said something to me it Report to Team Inform and Investigate for it Send me a Call",
+            "tone": "Neutral",
+            "rate_of_speech": "195.12",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ca n't edit",
+                "customer",
+                "team inform",
+                "investigate",
+                "call"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.9416",
+            "end_time": "8.0336",
+            "original_transcript": "One minute Product Product ன்றது பாத்தீங்கன்னா Quality ய நான் ஒரு Oil தான் Use பண்ணனும் Sir அதுக்கு சொல்றேன்",
+            "translated_transcript": "One minute product is of great quality and I will tell you how to use an oil",
+            "tone": "Happy",
+            "rate_of_speech": "184.75",
+            "emotion": "admiration",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "minute product",
+                "great quality"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.0429",
+            "end_time": "8.0583",
+            "original_transcript": "One minute sir",
+            "translated_transcript": "One minute cheese",
+            "tone": "Neutral",
+            "rate_of_speech": "194.59",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "minute cheese"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.0688",
+            "end_time": "8.1083",
+            "original_transcript": "நீங்க பேசிட்டேனே இப்ப என்ன பேசிடுங்க",
+            "translated_transcript": "What are you talking about now?",
+            "tone": "Neutral",
+            "rate_of_speech": "151.90",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.1447",
+            "end_time": "8.1853",
+            "original_transcript": "இப்ப இப்ப என்ன Sir சொல்ல வர்றீங்க சொல்லுங்க Sir",
+            "translated_transcript": "Tell me what Sir to say now",
+            "tone": "Neutral",
+            "rate_of_speech": "172.13",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.1853",
+            "end_time": "8.2372",
+            "original_transcript": "சொல்ல வர்றது முதல்ல எனக்கு உங்க Detailsஉம் அந்த Packet",
+            "translated_transcript": "The first thing you want to tell me is your details about the packet.",
+            "tone": "Neutral",
+            "rate_of_speech": "270.01",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.2372",
+            "end_time": "8.2887",
+            "original_transcript": "details எங்க Details எல்லாம் உங்களுக்கு கொடுக்கணும்னு அவசியம் கிடையாது Sir உங்களுக்கு",
+            "translated_transcript": "Details Where Details You don't have to give everything Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "194.17",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "details",
+                "details",
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.3013",
+            "end_time": "8.3195",
+            "original_transcript": "அவசியம் இருக்கு Sir",
+            "translated_transcript": "Necessary Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "109.99",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "necessary sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.3295",
+            "end_time": "8.4262",
+            "original_transcript": "அவசியம் எல்லாம் அப்படி எல்லாம் கொடுக்க முடியாது நான் Consumerக்கு இதுல வந்து நான் Complaint பண்ணி அங்கேயே என் Full detail நான் கொடுத்துக்குறேன்",
+            "translated_transcript": "Necessarily everything can not be given everything like that I come to the Consumer and I make a Complaint and I will give my Full detail there",
+            "tone": "Happy",
+            "rate_of_speech": "279.26",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "necessarily",
+                "complaint",
+                "full detail"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.4355",
+            "end_time": "8.4755",
+            "original_transcript": "அதெல்லாம் நீங்க உங்க இஷ்டம் அது வந்து என்னால சொல்ல முடியாது",
+            "translated_transcript": "It's all about you and you can't tell me",
+            "tone": "Neutral",
+            "rate_of_speech": "225.09",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ca n't"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.482",
+            "end_time": "8.4888",
+            "original_transcript": "ம் எனக்கு",
+            "translated_transcript": "M for me",
+            "tone": "Neutral",
+            "rate_of_speech": "440.10",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.4888",
+            "end_time": "8.5108",
+            "original_transcript": "நீங்க Call பண்ணா நீங்க எங்க",
+            "translated_transcript": "Where are you calling?",
+            "tone": "Neutral",
+            "rate_of_speech": "181.82",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.5108",
+            "end_time": "8.5782",
+            "original_transcript": "Details நான் கேட்டது ஒரே ஒரு விஷயம் இது Formஷங்களான்னு கேட்டேன் அவ்வளவு தான்",
+            "translated_transcript": "Details The only thing I've heard is this is all I've heard",
+            "tone": "Neutral",
+            "rate_of_speech": "178.17",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "details"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.5882",
+            "end_time": "8.6207",
+            "original_transcript": "நான் என்ன சொன்னேன் உங்ககிட்ட அதுல என்னென்ன",
+            "translated_transcript": "What I told you was what happened to you",
+            "tone": "Neutral",
+            "rate_of_speech": "276.92",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.6207",
+            "end_time": "8.7785",
+            "original_transcript": "அது Packetல இருக்கற எண்ணெய்ல செய்றங்கன்னு சொன்னாங்க Okayங்க Sir என்னோட Confirmation clear ஆயிடுச்சு அவ்வளவுதான் Sir Okay Sir Bye Sir Okay Sir Bye Bye Bye bye",
+            "translated_transcript": "It's a packet of oil and I told you it was OK Sir Bye Sir Bye Sir Bye Bye Bye Bye Bye Bye Bye Bye Bye",
+            "tone": "Neutral",
+            "rate_of_speech": "164.71",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "sir bye sir bye sir bye bye bye bye bye bye bye bye bye"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.784",
+            "end_time": "8.7917",
+            "original_transcript": "bye bye",
+            "translated_transcript": "bye-bye",
+            "tone": "Neutral",
+            "rate_of_speech": "130.15",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        }
+    ],
+    "translated_segments": "Thank you for calling I T How can I help you Hallo hello yes sir you have called to I T C How can I help you Sir Good afternoon cheese Good afternoon Sir Bingo Yes sir I T C I T C company Yes sir Sir It Bingo How to use toil cheese Tamil Nadu Sir ah Tamil Okay Sir Please be online Sir Sir Sir wait wait wait Tamil Sir Ok How to use oil this product Jeg ikke får du hvordan bruke Oil oil How to use oil Oil oil use cheese It's the shade Sir you have called to I T C so I don't get you what you are saying sir which means Oil means edible oil Sir beach product cheese I have Sedimeri oil oil bingo is not an oil it's a snack Snacks only using Sir Us Using oil Sir It Product Are you comfortable in Tamil language Balamin Oil Refined Nasional Hallo How to refund oil Palm oil I don't get you sir I don't get you what you are saying I don't understand you Please be online if you are comfortable I can transfer to Tamil agent Tamil Tamil Bliss Whoa He knows well what he is, but he does not say what the son of Surya will become. Ama Kotalakke Paranda Model next What is Polampanna? What money can do for you Hello Sir Hello, tell me what to do for you. Sir That Bingola Say Bingala Bingala Detimethi What Varatulla Detimethi Date Maddie Where Product This is Brand Day Not Date Maddie Sato You came to tell me what the problem is now. Sir do not use any oil sir Don't you write this on the back of that packet? Where to buy Sir Palm oil use black sample from Potrukkanga You are the first to say your name. Where did the name Nagarajan come from? Tell me what a guy. Nagaraj in Nagarko Your name is Nagarkoila Nagaraj in Nagargo; Town in Nagargo My name is Nagaraj Tell me the name of the town I heard. Ketten Nagaraj Nagaraj Well, what do you know? Sir Do not buy this product and use any oil The background to it You are preparing What are the ingredients? Ingredients Sir and Palm Oil Palm oil for sale Sir I'm asking if Palm Oil is what Palm Oil does If you put palm oil in it, that's what it will do. No, sir, that's why I filed the Consumer Court today. What is File for? No Sir This Model I T C is an International Company Alright It can come and refund this model Well, come and tell me your email address first. Email I D I'm like that I don't use anything Sir Okay, do you know what this call record is for me? Let that be the Record Sir, you and I make the Record, Sir, that's why Then the first thing you have to do is give me those packet details Those of you You just gave me the details. No No It's Coming My Details You Give Me Your Details Sir I'll Come and I'll Mail You Where does Mail I D come I T C K you leave for a minute Email I D use No use Sir How to Make Mail I go to the store and I go to the browsing center It can't be Sir Do you have a Complaint? You are your Mail I D is the first to tell Mail I D If anything comes up like this and tells any Consumer anyway you don't have those kind of rules I will ask for it I bought a Clearance letter I came here and this is the sample Form Use if your child eats and vomits gums To someone else's lips To whom I feel sorry for my gums. That's right. Buy the Daily and come and wait for a few people Do you have to go to the hospital before this? Sir Palm oil use Banna will come and tell it will be a problem Refund oil use Banna will not be a problem Respond to what is asked. Sir you answer Sir Anna's question, it's up to you to answer it Customer care Do you not respond to our request? Tell me, tell me Sir. How Much Packet to Eat Now Eat five packets a day, sir. Do you have a packet now? Ah Packet I'll put it in my hand sir I need to make a Complaint and I need those Packet Details and tell me where to Team? I get a Health issue that comes to your gums and vomits and then it's for me Come and have one Come to the Customer and do it like this, we come and give it a Resolution, then it's us Investigation That's what Sir I didn't come, that's what I came to see the Doctor and eat at home Refund oil when I eat it's not one and we come chips all it's not one This is only when you eat it Vomiting is not the only thing you can do when you eat it Let's eat I understand what you're telling me, but I understand that's why I have those packet details details Bubbles bubbles come in the form of mosquito bites when you eat this is why we ask for it Palm oil Falm oil The product comes out and tells the Hospital that this is the reason why it comes Okay, so I told you to eat palm oil. M Well then what do you say you're not Nagaraj, sir? M Nagaraj Than Sir Nagaraj I am going to file a Complaint for Health related issue You are sorry Sir I did not have any of your milk and you confirmed that we were Consumer Consumer and we joined a community and made a complaint. One minute You are yours Mind The Same Set So I can't edit it if it's your All I've set you up I came to me and now a Customer I'm sitting here if you came to me and you said something to me it Report to Team Inform and Investigate for it Send me a Call One minute product is of great quality and I will tell you how to use an oil One minute cheese What are you talking about now? Tell me what Sir to say now The first thing you want to tell me is your details about the packet. Details Where Details You don't have to give everything Sir Necessary Sir Necessarily everything can not be given everything like that I come to the Consumer and I make a Complaint and I will give my Full detail there It's all about you and you can't tell me M for me Where are you calling? Details The only thing I've heard is this is all I've heard What I told you was what happened to you It's a packet of oil and I told you it was OK Sir Bye Sir Bye Sir Bye Bye Bye Bye Bye Bye Bye Bye Bye bye-bye ",
+    "speaker_a_segments": "Thank you for calling I T How can I help you hello yes sir you have called to I T C How can I help you Good afternoon Yes sir Yes sir Tamil Nadu Sir Jeg ikke får du hvordan bruke How to use oil Sir you have called to I T C so I don't get you what you are saying sir which means Sir beach product cheese bingo is not an oil it's a snack Are you comfortable in Tamil language Nasional Hallo I don't get you sir I don't get you what you are saying I don't understand you Please be online if you are comfortable I can transfer to Tamil agent Bliss What is Polampanna? What money can do for you Hello, tell me what to do for you. Say Bingala Date Maddie Where Product This is Brand Day Not Date Maddie You came to tell me what the problem is now. Don't you write this on the back of that packet? You are the first to say your name. Tell me what a guy. Your name is Nagarkoila Tell me the name of the town I heard. Well, what do you know? The background to it What are the ingredients? If you put palm oil in it, that's what it will do. What is File for? Alright Well, come and tell me your email address first. Okay, do you know what this call record is for me? Then the first thing you have to do is give me those packet details You just gave me the details. Where does Mail I D come I T C K you leave for a minute Email I D use No use Sir How to Make Mail It can't be Sir Do you have a Complaint? You are your Mail I D is the first to tell Mail I D To someone else's lips To whom That's right. Do you have to go to the hospital before this? Respond to what is asked. Do you not respond to our request? How Much Packet to Eat Now Do you have a packet now? I need to make a Complaint and I need those Packet Details and tell me where to Team? I get a Health issue that comes to your gums and vomits and then it's for me Come to the Customer and do it like this, we come and give it a Resolution, then it's us Investigation I understand what you're telling me, but I understand that's why I have those packet details Okay, so I told you to eat palm oil. Well then what do you say you're not Nagaraj, sir? Nagaraj I am going to file a Complaint for Health related issue One minute Mind The Same Set So I can't edit it if it's your All I've set you up I came to me and now a Customer I'm sitting here if you came to me and you said something to me it Report to Team Inform and Investigate for it Send me a Call One minute cheese What are you talking about now? The first thing you want to tell me is your details about the packet. Necessary Sir It's all about you and you can't tell me Where are you calling? What I told you was what happened to you bye-bye ",
+    "speaker_b_segments": "Hallo Sir Good afternoon cheese Sir Bingo I T C I T C company Sir It Bingo How to use toil cheese ah Tamil Okay Sir Please be online Sir Sir Sir wait wait wait Tamil Sir Ok How to use oil this product Oil oil Oil oil use cheese It's the shade Oil means edible oil I have Sedimeri oil oil Snacks only using Sir Us Using oil Sir It Product Balamin Oil Refined How to refund oil Palm oil Tamil Tamil Whoa He knows well what he is, but he does not say what the son of Surya will become. Ama Kotalakke Paranda Model next Hello Sir Sir That Bingola Bingala Detimethi What Varatulla Detimethi Sato Sir do not use any oil sir Where to buy Sir Palm oil use black sample from Potrukkanga Where did the name Nagarajan come from? Nagaraj in Nagarko Nagaraj in Nagargo; Town in Nagargo My name is Nagaraj Ketten Nagaraj Nagaraj Sir Do not buy this product and use any oil You are preparing Ingredients Sir and Palm Oil Palm oil for sale Sir I'm asking if Palm Oil is what Palm Oil does No, sir, that's why I filed the Consumer Court today. No Sir This Model I T C is an International Company It can come and refund this model Email I D I'm like that I don't use anything Sir Let that be the Record Sir, you and I make the Record, Sir, that's why Those of you No No It's Coming My Details You Give Me Your Details Sir I'll Come and I'll Mail You I go to the store and I go to the browsing center If anything comes up like this and tells any Consumer anyway you don't have those kind of rules I will ask for it I bought a Clearance letter I came here and this is the sample Form Use if your child eats and vomits gums I feel sorry for my gums. Buy the Daily and come and wait for a few people Sir Palm oil use Banna will come and tell it will be a problem Refund oil use Banna will not be a problem Sir you answer Sir Anna's question, it's up to you to answer it Customer care Tell me, tell me Sir. Eat five packets a day, sir. Ah Packet I'll put it in my hand sir Come and have one That's what Sir I didn't come, that's what I came to see the Doctor and eat at home Refund oil when I eat it's not one and we come chips all it's not one This is only when you eat it Vomiting is not the only thing you can do when you eat it Let's eat details Bubbles bubbles come in the form of mosquito bites when you eat this is why we ask for it Palm oil Falm oil The product comes out and tells the Hospital that this is the reason why it comes M M Nagaraj Than Sir You are sorry Sir I did not have any of your milk and you confirmed that we were Consumer Consumer and we joined a community and made a complaint. You are yours One minute product is of great quality and I will tell you how to use an oil Tell me what Sir to say now Details Where Details You don't have to give everything Sir Necessarily everything can not be given everything like that I come to the Consumer and I make a Complaint and I will give my Full detail there M for me Details The only thing I've heard is this is all I've heard It's a packet of oil and I told you it was OK Sir Bye Sir Bye Sir Bye Bye Bye Bye Bye Bye Bye Bye Bye ",
+    "summary": "The customer is calling in with a complaint about a product he purchased, which he believes may be causing him health issues. The customer support representative tries to help the customer, but the customer is difficult to understand and is very agitated. The customer support representative tries to get the customer to provide his personal details and the details of the product so they can process the complaint, but the customer becomes more upset and starts asking strange questions before hanging up.",
+    "speaker_a_summary": "The customer called in with a complaint about a product they purchased, but due to the language barrier (both the agent and customer are having trouble understanding each other's languages), neither can proceed with the proper protocol for filing a complaint. The call ends with both parties frustrated and no resolution.",
+    "speaker_b_summary": "Tamil consumer is lodging a complaint with ITC about their Bingo! snack product. He explains that he believes the oil used in the product is causing health issues and wants to know what oil is used and how to get a refund for the product. He is told by the representative that the oil is palm oil and that he should contact customer care for a refund. The consumer says that he has already contacted customer care and was unsatisfied with the response, and that he believes the product is of poor quality. The representative suggests that the consumer may be experiencing a reaction to an ingredient other than the oil, but the consumer is adamant that it is the oil that is causing the problem.  The call ends with the representative offering to pass along the consumer's complaint to the relevant department and the consumer providing his contact information.",
+    "cohere_points": "- The customer called ITC to understand how to use oil, thinking it was a product called Bingo\n- However, Bingo is a snack and not oil\n- The customer wants to file a complaint and get a refund for the product. \n- The agent tries to get details from the customer to process the refund but is unable to due to language barrier. \n- The customer wants to speak to a Tamil-speaking agent. \n- The call ends without any resolution. It was a call regarding a product issue and a potential refund. \n- The caller was confused and needed help understanding the issue. \n- The call ended without resolution due to a language barrier. \n- The customer was advised to seek further assistance through other channels.",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "1. Customer service communication\n2. Oil product inquiries\n3. Language barrier assistance\n4. Palm oil usage\n5. Product refund process\n6. Tamil language support\n7. Snack product clarification\n8. Consumer court filing\n9. Email contact details\n10. Health-related complaints\n11. Packet details required\n12. Product quality assurance\n13. Hospital visit recommendation\n14. Gastrointestinal issues\n15. Complaint resolution process",
+    "Resolution": "The customer's issue does not appear to be resolved as they are still experiencing health-related problems after consuming the product and seeking further assistance.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "No, the caller did not display empathy in the conversation.",
+    "Was there any profanity on the call": "No",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 1220.1250000000007,
+    "num_silences": 128
+}

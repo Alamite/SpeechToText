@@ -1,0 +1,1077 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0373",
+            "end_time": "0.0946",
+            "original_transcript": "Good afternoon Welcome to I T C அலோக் பக்கோம்",
+            "translated_transcript": "Good afternoon Welcome to I T C Alok Pakom",
+            "tone": "Happy",
+            "rate_of_speech": "157.02",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good afternoon",
+                "welcome",
+                "alok pakom"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.1162",
+            "end_time": "0.2118",
+            "original_transcript": "I am looking looking for yippee noodles in I T C products Okay",
+            "translated_transcript": "I'm looking for yippee noodles in I T C products Okay",
+            "tone": "Neutral",
+            "rate_of_speech": "114.96",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "yippee noodles",
+                "c products",
+                "okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.229",
+            "end_time": "0.272",
+            "original_transcript": "Okay I suggestion for",
+            "translated_transcript": "Alright Ik suggeser",
+            "tone": "Neutral",
+            "rate_of_speech": "69.77",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "alright ik"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.2868",
+            "end_time": "0.3657",
+            "original_transcript": "That the masala If you added the tea noodles masala",
+            "translated_transcript": "That the masala If you add the tea noodles masala",
+            "tone": "Neutral",
+            "rate_of_speech": "126.82",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "tea noodles masala"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.4302",
+            "end_time": "0.5077",
+            "original_transcript": "Sorry I am so sorry sir I am unable to understand sir apart from English which language are you comfortable sir",
+            "translated_transcript": "Sorry I am so sorry sir I am unable to understand sir apart from English which language are you comfortable sir",
+            "tone": "Sad",
+            "rate_of_speech": "270.97",
+            "emotion": "remorse",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "sorry",
+                "sorry sir",
+                "english",
+                "comfortable sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.5212",
+            "end_time": "0.6087",
+            "original_transcript": "Tamil Madam தமிழ் தமிழ் I will transfer your call for Tamil agent sir be online please your call also",
+            "translated_transcript": "Tamil Madam Tamil Tamil I will transfer your call for Tamil agent sir be online please your call also",
+            "tone": "Neutral",
+            "rate_of_speech": "217.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "tamil madam tamil tamil",
+                "tamil",
+                "agent sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.6302",
+            "end_time": "0.6891",
+            "original_transcript": "Sir may I place your call on hold so I can transfer your call sir please",
+            "translated_transcript": "Sir may I place your call on hold so I can transfer your call sir please",
+            "tone": "Neutral",
+            "rate_of_speech": "271.26",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir",
+                "call sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.7065",
+            "end_time": "0.7522",
+            "original_transcript": "ஓகேய்",
+            "translated_transcript": "OKAY",
+            "tone": "Neutral",
+            "rate_of_speech": "21.89",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.5835",
+            "end_time": "2.5928",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "106.95",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.5928",
+            "end_time": "2.6585",
+            "original_transcript": "Sir line ல இருந்ததுக்காக நன்றி சொல்லுங்க Sir என்ன Information தேவைப்படுது",
+            "translated_transcript": "Thank you for being on the line Sir What Information do I need",
+            "tone": "Neutral",
+            "rate_of_speech": "198.02",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thank",
+                "sir",
+                "information"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.6787",
+            "end_time": "2.7265",
+            "original_transcript": "Madam இட்லி Noodles நான் வாங்கி சாப்பிட்டேன் Madam",
+            "translated_transcript": "Madam Idli Noodles I bought and ate Madam",
+            "tone": "Neutral",
+            "rate_of_speech": "167.31",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "madam idli noodles"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.7373",
+            "end_time": "2.7472",
+            "original_transcript": "Okay",
+            "translated_transcript": "Alright",
+            "tone": "Neutral",
+            "rate_of_speech": "101.69",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "alright"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.7577",
+            "end_time": "3.0403",
+            "original_transcript": "அது வந்து அதோட Mutton gravy மாதிரி இருக்கு அது நானு நாங்க வந்து Pure vegetarian அதுனால மூக்கடலை வந்து மூக்கடலை வந்து நீங்க Gravy மாதிரி அந்த Yippee noodles ல நீங்க Add பண்ணீங்கன்னா மூக்கடலை Powder",
+            "translated_transcript": "It comes along with Mutton gravy and it's like I came to us Pure vegetarian then nosebleed come and go Gravy model Yippee noodles Add Paninanganna Noodles Powder",
+            "tone": "Neutral",
+            "rate_of_speech": "99.06",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "mutton",
+                "pure",
+                "gravy",
+                "yippee",
+                "paninanganna noodles powder"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.0463",
+            "end_time": "3.4278",
+            "original_transcript": "மூக்கடலை வந்து நீங்க மசாலாவா Add பண்ணீங்கன்னா அதுவே வந்து உங்களுக்கு Chicken gravy மாதிரி நல்ல ஒரு மசாலாவா இருக்கும் நீங்க இது அது வந்து நல்லது உடம்புக்கும் நல்லது மூக்கடல வந்து நீங்க Powder பண்ணி நீங்க அந்த Yippee noodles ல வந்து நிறைய Add பண்ணுங்க Madam ஏன்னா அது வந்து அந்த Gravy வந்து எப்படி இருக்குன்னா Yippee noodles சாப்பிடும்போது தக்கட்டுது ஒரு மாதிரி கிணறுது",
+            "translated_transcript": "Nasal come and go Masalava Add Panininganna that's the same and you'll have Chicken gravy sample good a masalava This will come and it will be good to eat Good to eat Good nostrils come and go Remove Powder to remove those Yippee noodles come out Add a lot Madam Why did it come and that Gravy came How is Yippee A Model Well That Stops When Eating Noodles",
+            "tone": "Happy",
+            "rate_of_speech": "180.87",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "nasal",
+                "masalava",
+                "panininganna",
+                "chicken gravy sample good",
+                "good nostrils",
+                "remove powder",
+                "yippee",
+                "gravy",
+                "yippee",
+                "model well",
+                "stops",
+                "eating noodles"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.4343",
+            "end_time": "3.7028",
+            "original_transcript": "மூக்கடலையை நீங்க போட்டீங்கன்னா Okay மூக்கடலை தானேன்னு சொல்லிட்டு நாங்க வாங்கி சாப்பிடலாம் என்னைக்கும் நல்லா Serve Serve பண்ண மாதிரி இருக்கும் இப்ப நீங்க மசாலா போட்டீங்கன்னா அது வந்து அந்த மசாலாவே வந்து திகட்டுது திகட்டுற மாதிரி இருக்கு திகட்டுது கிணறுது",
+            "translated_transcript": "Get rid of the nostrils Okay, we can buy the nostrils and eat them and I have a good Serve Serve color sample, now you have Masala Potinganna it comes and it comes with that spice and there is a terrified sample.",
+            "tone": "Happy",
+            "rate_of_speech": "156.42",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay",
+                "color sample",
+                "masala potinganna"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.7147",
+            "end_time": "3.7506",
+            "original_transcript": "இப்ப நீங்க மூக்கடலையை வந்து நீங்க",
+            "translated_transcript": "Now get out of your nostrils.",
+            "tone": "Neutral",
+            "rate_of_speech": "166.74",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.7545",
+            "end_time": "4.2532",
+            "original_transcript": "கொஞ்சம் மசாலாவா Use பண்ணனும் அதாவது Gravy மாதிரி Use பண்ணலாம் Use பண்ணீங்கன்னா உங்களுக்கே தெரியும்ல கறி கொழம்பு கறி குழம்பு மீன் குழம்புன்னு நிறைய பேரு தமிழ்நாட்டுல வந்து எல்லாம் சாப்பிடுறாங்க இல்லையா அத அதுக்கு வந்து நம்ம என்ன பண்ணுவோம் அந்த இஞ்சி மிளகாய்த்தூள் அப்பறம் எல்லாத்தையும் தூக்கி போடுவோம் அதனால வந்து காரம் அதிகமா இருக்குன்னு சாப்பிட மாட்டாங்க மிளகாய் தூள்லாம் இருந்தா மூக்கடையில நீங்க வந்து மூக்கடையில வந்து நீங்க வந்து நல்லா மசாலா மாதிரி ஒரு மூக்கடலை உப்பு மிளகாய் தூள் எல்லாம் போட்டாலே போதும் அதுலே வந்து",
+            "translated_transcript": "You can use a little bit of spice, like a gravy model. As you know, a lot of people come to Tamil Nadu to eat everything and come to it and what do we do? Let's throw all that ginger chili powder on the side so that you don't come and eat if there's too much spice, you can sprinkle chili powder to come out of your nose and come out of your nose and come out of your nose and come out of your nose like a nice spice sample a nostril salt chilli powder All you have to do is get there.",
+            "tone": "Happy",
+            "rate_of_speech": "208.56",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "gravy model",
+                "tamil nadu",
+                "ginger chili powder",
+                "chili powder",
+                "nostril salt chilli powder"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.2572",
+            "end_time": "4.5127",
+            "original_transcript": "ஒரு நல்ல காரம் இல்லாம சாப்பிடுற சாப்பிடுறதுக்கு எங்களுக்கு கொஞ்சம் Use ஆ இருக்கும் Madam ஏன்னா அது ரொம்ப காரமா இருக்கு அதுவும் கிணறுது அதனால தான் சொல்றேன் மூக்கடலை நீங்க Use பண்ணுங்க Madam அது நீங்க Use பண்றதுக்கான Valuable ஆ நான் சொல்றது மூக்கடலை",
+            "translated_transcript": "We will have a little use for eating without a good reason Madam why is it so expensive that's why I told you to use nostrils Madam it is valuable for money I say nostrils",
+            "tone": "Happy",
+            "rate_of_speech": "136.98",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good reason"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.544",
+            "end_time": "4.5657",
+            "original_transcript": "மூக்கடலைனா என்ன சம்",
+            "translated_transcript": "What is nasal congestion",
+            "tone": "Neutral",
+            "rate_of_speech": "184.62",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "nasal congestion"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.5841",
+            "end_time": "4.6838",
+            "original_transcript": "சென்னா Madam சென்னா சென்னா கிரிக்கெட் சென்னா சொல்லுவாங்க ஹிந்தி காரங்க எல்லாம் சென்னா சென்னா மாதிரி இருக்குமே மூக்கடலை",
+            "translated_transcript": "Senna Madam Senna Senna Cricket Senna Tell me Hindi Karanga Everything Senna Senna model will be nosebleed",
+            "tone": "Neutral",
+            "rate_of_speech": "170.57",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "senna madam senna senna cricket senna",
+                "hindi karanga",
+                "senna senna"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.6923",
+            "end_time": "4.7243",
+            "original_transcript": "சுண்டல் எல்லாம் செய்ய மாட்டாங்க மூக்கடலை",
+            "translated_transcript": "Chickpeas don't do everything nosebleeds",
+            "tone": "Neutral",
+            "rate_of_speech": "156.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "chickpeas"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.7388",
+            "end_time": "4.739",
+            "original_transcript": "ம்",
+            "translated_transcript": "M",
+            "tone": "Neutral",
+            "rate_of_speech": "6000.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.7603",
+            "end_time": "5.1487",
+            "original_transcript": "சுண்டல் செய்வாங்க Madam மூக்கடலை சுண்டல் செய்வாங்க சென்னா சுண்டல் ஹிந்திக்காரங்க எல்லாம் Use பண்ணுவாங்க Madam சென்னாய்ன்னு சொல்லுவாங்க சென்னா மூக்கடலை வந்து கருப்பு கடல இருக்கு Madam That is called for that ருத்ராட்சம் ருத்ராட்சம் மணி பார்த்திருக்கீங்களா உத்ராச்சம் குட்டி குட்டியா மணி மாதிரி இருக்குமே உத்ராச்சம் சிவன் கோயில்ல எல்லாம் போடுவாங்க குட்டி குட்டி மணி மாதிரி இருக்கும் அந்த மாதிரி தான் இருக்கும் மூக்கடலை சென்னான்னு சொல்லுவாங்க ஹிந்தில",
+            "translated_transcript": "Make chickpeas Madam nostrils make chickpeas Senna chickpeas Hindi everything Use Madam Chennai Tell me Senna nostrils come and there is a black sea Madam That is called for that Rudraksham Rudracham has you seen the hour of Rutratcham Uthracham Kuti Kutiya Mani Model Uthracham Sivan Koilla Anything Gutti Kutiya Mani Model is the same as the Nukkadala Senna in Hindi",
+            "tone": "Neutral",
+            "rate_of_speech": "157.07",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "senna",
+                "hindi",
+                "madam chennai",
+                "senna",
+                "black sea",
+                "rudraksham rudracham",
+                "rutratcham uthracham kuti kutiya mani model uthracham sivan koilla anything gutti kutiya mani model",
+                "nukkadala senna",
+                "hindi"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.1562",
+            "end_time": "5.4985",
+            "original_transcript": "அந்த Powder போட்டீங்கன்னா E P noodles வந்து Superரா இருக்கும் Madam Excellentஆ இருக்கும் ஒரு வேளை இது நான் சொன்னது வந்து உங்க Concent team க்கு போயி அது வந்து பெரிய Hit ஆயிடுச்சுன்னு வச்சுக்கோங்களேன் எனக்கு நீங்க Call பண்ணி Price பண்ணுங்க Madam ஏதாவது ஏதாவது ஒரு Gift voucher ஓ இல்ல ஏதாவது ஒரு Price ஓ இல்ல ஏதாவது ஒரு Couponன ஏதாவது குடுங்க Okay ங்களா",
+            "translated_transcript": "That Powder Tournament E P noodles will come and be Superraw Madam Excellentah maybe this is what I said come to your Concent team and it will come and hit the big hit hair and give me a Call Make a Price Madam something a Gift voucher Oh no something a Price O no Do something family okay with a coupon",
+            "tone": "Neutral",
+            "rate_of_speech": "178.18",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "powder",
+                "e p",
+                "superraw madam excellentah",
+                "concent",
+                "big hit hair",
+                "call",
+                "price madam",
+                "gift voucher",
+                "oh",
+                "price",
+                "family okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.5127",
+            "end_time": "5.844",
+            "original_transcript": "ஏன்னா மூக்கடலை வந்து அந்த அளவுக்கு Successful ஆன ஒரு Product Mam நிறைய Battery எல்லாம் பண்ணுவாங்க மூக்கடலை சென்னான்றது வந்து ஒரு Proton சென்னா அப்படின்றது வந்து ஒரு Proton நான் சொல்றேன் அந்த மூக்கடலை வந்து ஒரு Proton தேங்காய் நாற ஒரு Proton னு அந்த மாதிரி இது இருக்கு இல்லையா அந்த நிறைய Nuts லயே நிறைய Proton எல்லாம் இருக்கு",
+            "translated_transcript": "Why the nostril came and became so Successful a Product Mam a lot of Battery to do everything The nostril said a Proton Senna came like that came a Proton I would say that the nostril came and a Proton came to the nostril and a Proton coconut cracker a Proton Nun that model this is there or not that lot of Nuts There's a lot of Proton and everything",
+            "tone": "Happy",
+            "rate_of_speech": "211.27",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "product mam",
+                "battery",
+                "proton senna",
+                "proton",
+                "proton",
+                "proton",
+                "coconut cracker",
+                "proton nun",
+                "nuts",
+                "proton"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.8485",
+            "end_time": "6.2596",
+            "original_transcript": "Basic Proton வந்து கோதுமைன்னு சொல்லுவாங்க கோதுமையில கூட Proton இருக்கு Proton தான் வந்து நம்ம உடம்புக்கு வந்து தேவையான Energy எல்லாம் கொடுக்கும் Current மாதிரி நம்ம உடம்புல கொடுக்கும் நிறைய பேர் நினைக்கிறாங்க Proton சாப்பிட்டாலே அதாவது மூக்கடலை சாப்பிட்டாலே பல் கூச்சம் வரும் அப்படின்னு நினைக்கிறாங்க அது அது தப்பு நம்ம உடம்புல ஏதாவது ஒரு Virus Act ஆனாதான் பல் கூச்சம் வரும் இவங்க ஜல்லுன்னு Cool drinks குடிக்கிறாங்க பல் கூச்சம் வந்துச்சு அப்படின்னு",
+            "translated_transcript": "Basic Proton comes and says wheat contains Proton even in wheat Proton comes to our body and gives us all the energy it needs Current model Many people think that eating Proton means eating a nostril makes teeth squeak Do you think it is a Virus Act in our body and then the teeth are shy and this is when you drink cool drinks, you get teething?",
+            "tone": "Neutral",
+            "rate_of_speech": "162.96",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "proton",
+                "wheat contains",
+                "proton",
+                "proton",
+                "current",
+                "proton",
+                "teeth squeak",
+                "virus",
+                "cool drinks"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.264",
+            "end_time": "6.7585",
+            "original_transcript": "பல் கூச்சத்துக்கும் பல் கூச்சத்துக்கும் நம்ம வந்து சாப்பிடுறதுக்கும் ஒரு பிரச்சனையும் இல்ல உடம்புல இருக்க Virus தான் அந்த மொத்தம் நம்ம உடம்புல எழுவத்தி ரெண்டாயிரம் Nerve Nerve system இருக்கு அதுல ஒரு Five hundred nerve நரம்பு வந்து நம்ம வயித்துல இருந்து நம்ம Toothக்கு Connect ஆகுது அந்த Toothக்கு Connect ஆகற அந்த Nerve systemக்கு வந்து Injury ஆயிடுச்சுன்னாதான் அந்த பல் கூச்சம் எல்லாம் வரும் அதுக்கும் மசாலா Product க்கும் சம்மந்தம் இல்ல ஆனால் நீங்க வந்து இந்த மாதிரி",
+            "translated_transcript": "So that toothache and teething are not a problem for us to come and eat and eat, it is the Virus that builds up in our body and has forty thousand Nerve Nerve systems so that a Five hundred nerve nerve comes from our stomach and connects to our Tooth and connects to that Tooth The Injury came to that Nerve system and that tooth squeak is the only thing that comes with it and the Spice Product does not agree but you come and look like this",
+            "tone": "Neutral",
+            "rate_of_speech": "177.95",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "virus",
+                "nerve nerve",
+                "nerve nerve",
+                "tooth",
+                "tooth",
+                "injury",
+                "nerve",
+                "tooth squeak",
+                "spice product"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.7633",
+            "end_time": "7.0726",
+            "original_transcript": "Chilli வந்து அதிகமா Use பண்ணீங்கன்னா பல குத்தம் வர்றதுக்கு Chances அதிகம் அதனால அது வந்து Stomachக்கு வந்து நல்லது கிடையாது அதனால நீங்க மூக்கடலை கொஞ்சம் Use பண்றதுக்கு Try பண்ணுங்க ஏன்னா அது Proton தான் நல்லா உடம்புக்கும் Energy யா இருக்கும் noodles you have to make the சென்னா mice",
+            "translated_transcript": "Chilli comes more and more Use Panininganna Chances of getting many shots so it comes and comes to Stomach and it doesn't feel good so try to use some nostrils Why is it Proton good for body and energy noodles you have to make the senna mice",
+            "tone": "Happy",
+            "rate_of_speech": "151.94",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "chilli",
+                "panininganna chances",
+                "stomach",
+                "proton",
+                "energy noodles",
+                "senna mice"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.0812",
+            "end_time": "7.1945",
+            "original_transcript": "It will give the good taste and good gravy for customers அவ்வளவுதான் Madam சொல்லிட்டேன்",
+            "translated_transcript": "It will give the good taste and good gravy for customers That's all Madam said",
+            "tone": "Happy",
+            "rate_of_speech": "132.33",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good taste",
+                "good gravy"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.2226",
+            "end_time": "7.25",
+            "original_transcript": "Comment சொல்லிட்டேன் Madam அவ்வளவுதான்",
+            "translated_transcript": "I told you, Madam, that's all.",
+            "tone": "Neutral",
+            "rate_of_speech": "219.38",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.2593",
+            "end_time": "7.5792",
+            "original_transcript": "Sir இது Nonveg product எதுவுமே கிடையாது Sir இது வந்து Vegetarian ங்களா Sir நீங்க Mutton gravy chicken gravy ன்னு சொன்னீங்க இது ரெண்டு Gravyயும் இதுல கிடையாது நாங்க வந்து Noodle cake குடுக்கறோம் அப்பறம் மசாலா கொடுக்குறோம் அந்த மசாலா அந்த மாதிரி Non-veg gravy சம்மந்தப்பட்டதோ இல்ல Veget gravy சம்மந்தப்பட்டதோ நாங்க Sorry Mutton Chicken அத Use பண்ல Okay ங்களா",
+            "translated_transcript": "Sir this is not a Nonveg product Sir this is vegetarian Sir please leave Mutton gravy chicken gravy this is Rendu Gravy and none of this we will come and drink Noodle cake and give spices on the other side of that spice that kind of non-veg gravy is not allowed Veget Sorry Mutton Chicken Don't Use Gravy Okay",
+            "tone": "Sad",
+            "rate_of_speech": "184.46",
+            "emotion": "remorse",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "sir",
+                "nonveg",
+                "sir",
+                "sir",
+                "mutton",
+                "gravy chicken gravy",
+                "rendu gravy",
+                "noodle",
+                "non-veg gravy",
+                "veget sorry mutton",
+                "gravy okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.5998",
+            "end_time": "7.963",
+            "original_transcript": "இல்ல நீங்க Chicken gravy mutton gravy ன்னு நான் சொல்லியே நான் சொன்னது வந்து நீங்க மூக்கடலையை மூக்கடலைன்றது ஏன் நீங்க Consider பண்ணலன்னு நீங்க இப்ப நான் கேட்கிறேன் நீங்க மூக்கடல ஏன் நீங்க Consider பண்ணல அப்படின்னு தான் நான் கேட்கிறேன் மூக்கடலை நல்லது தானே சாப்பிடலாம்ல நல்லது தானே அது அத ஏன் நீங்க Consider பண்ணல இப்போ ஒரு வீட்ல பேரம் பேட்டிங்க எல்லாம் என்ன சாப்பிடுவாங்க மூக்கடலை தான் சாப்பிடுவாங்க அதை நீங்க Consider பண்ண மாட்டேங்கறீங்க",
+            "translated_transcript": "Home You Chicken gravy mutton gravy What I said I said come and leave the nostrils come and go Why do you have nosebleeds Consider the nostrils why you should go away Now I'm asking why are you nosebleeds good to eat yourself Well, that's good, that's why you should consider now a home bargain, what to eat is nosebleed to eat, don't consider it",
+            "tone": "Happy",
+            "rate_of_speech": "178.98",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "chicken gravy mutton gravy",
+                "consider",
+                "well"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.9658",
+            "end_time": "8.428",
+            "original_transcript": "எல்லா தாத்தா பாட்டிங்களும் Suggest பண்றதே மூக்கடலை தான் சென்னா தான் ஏதாவது Nuts தான் அந்த Item தான் Suggest பண்ணுவாங்க மூக்கடலையை நீங்க ஏன் Powder பண்ணி போட்டா ஏன் மசாலாவா இருக்காது ஏன் நீங்க அத நீங்க எடுத்துக்க மாட்டேங்கறீங்க அதை நீங்க to consider that you have to consider இந்த சென்னாவ வந்து நீங்க Consider பண்ணுங்க அதாவது மூக்கடல powderஐ போடுங்க நீங்க noodles ல போடுங்க Taste வரலன்னா என்னை கேளுங்க எல்லாரும் விரும்பி சாப்பிடுவாங்க இது தான் என்னோட Suggestion இதுக்கு Price பண்ணா Price பண்ணுங்க எனக்கு",
+            "translated_transcript": "All grandparents Suggest Nasal Sena is something Nuts is that Item Suggest to get rid of nosebleeds Why Powder should not be spicy Why don't you take it and take it away to consider that you have to consider that you have to consider this Senna Come and consider, that is, put the nostril powder, you can put the noodles Taste, please ask me, everyone wants to eat it, this is my Suggestion Price for it Price for me",
+            "tone": "Neutral",
+            "rate_of_speech": "170.94",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "suggest nasal sena",
+                "nuts",
+                "item suggest",
+                "powder",
+                "senna",
+                "nostril powder",
+                "taste",
+                "suggestion price",
+                "price"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.4313",
+            "end_time": "8.5373",
+            "original_transcript": "ஒரு லட்சம் ரூபாய் prize கூட குடுங்க அதை பத்தி நான் கவலைப்படல இருந்தாலும் நீங்க முதல்ல அந்த மூக்கடலை Powder வந்து நீங்க add பண்ணுங்க Madam",
+            "translated_transcript": "One lakh rupees prize even for the family and I don't care if you don't care if you come first add that Nosebleed Powder and go away Madam",
+            "tone": "Neutral",
+            "rate_of_speech": "264.19",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "lakh rupees prize",
+                "n't care",
+                "n't care",
+                "nosebleed powder"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.5466",
+            "end_time": "8.6582",
+            "original_transcript": "Sir ஒரு நிமிஷம் நான் உங்க Suggestion வேணா தெரிய வைக்கிறேன் ஆனா Implement பண்றோம்ன்னு நாங்க உங்களுக்கு சொல்லல Sir அதுக்கப்பறம் நாங்க ஒரு லட்சம் ரூபாய் Voucher கூட நாங்க",
+            "translated_transcript": "Sir for a minute I will let you know your Suggestion but we will not tell you that we are working on Implement Sir we will also give you a Lakh Rupees Voucher",
+            "tone": "Neutral",
+            "rate_of_speech": "295.96",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir",
+                "suggestion",
+                "implement sir",
+                "lakh rupees voucher"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.6633",
+            "end_time": "8.8988",
+            "original_transcript": "தரப்போறதுக்கு இல்ல இல்ல எனக்கு ஒரு லட்சம் ரூபாய் என்றதெல்லாம் எனக்கு ஒண்ணுமே கிடையாது அதெல்லாம் எனக்கு Pocketல போடுற மணி மாதிரி தான் அது அந்த மாதிரி குருமா கதையெல்லாம் எனக்கு நான் பேச மாட்டேன் Price எல்லாம் நான் வாங்க மாட்டேன் எனக்கு குர்மா கதையும் பிடிக்காது எனக்கு Price கதையும் பிடிக்காது ஒரு படத்துல நடிச்சாலே ஆறு லட்சம் பத்து லட்சம் கொடுக்குறாங்கன்ன",
+            "translated_transcript": "I don't have one, I don't have one, I don't have a single one. It's a pattern of hours to put in my pocket, it's like that Guru story I won't talk to me Price I won't buy everything I don't like Kurma story Price I don't like the story. Six lakh ten lakhs is worth a film.",
+            "tone": "Neutral",
+            "rate_of_speech": "246.28",
+            "emotion": "disapproval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "guru",
+                "wo n't talk",
+                "price",
+                "wo n't",
+                "kurma",
+                "price"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.9032",
+            "end_time": "9.144",
+            "original_transcript": "சும்மா ஒரு Acting ஒரு dance ஆடுனாலே பத்து லட்சம் ரூபாய் சினிமால அதெல்லாம் வேற கதை நான் சொல்றத மட்டும் நீங்க புரிஞ்சுக்கோங்க ஏதாச்சும் added for சென்னா மூக்கடலை Powder போடுங்க அவ்வளவுதான் noodles எல்லாம் மூக்கடலை Powder போடுங்க அவ்வளவுதான் வேற Statement ஏ இல்ல புரியுதுங்களா Thank you madam",
+            "translated_transcript": "Just an Acting and a dance for ten lakhs of rupees to the cinema and all that other story I'm just telling you to understand is something added for Senna Nosebleed Powder that's enough to put noodles Everything else to put Nosebleed Powder Statement A No Thank you madam",
+            "tone": "Neutral",
+            "rate_of_speech": "203.46",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "senna nosebleed powder",
+                "nosebleed powder statement",
+                "thank"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "9.1568",
+            "end_time": "9.1642",
+            "original_transcript": "Sir நீங்க",
+            "translated_transcript": "Sir you",
+            "tone": "Neutral",
+            "rate_of_speech": "272.73",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "9.2248",
+            "end_time": "9.2958",
+            "original_transcript": "கையில கூட Call பண்ணிருந்தீங்களா Sir Lion dates Suggestion கொடுக்கணும்ன்னு சொல்லி",
+            "translated_transcript": "I even called Sir Lion dates and asked me to give me a suggestion",
+            "tone": "Neutral",
+            "rate_of_speech": "197.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir lion"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "9.313",
+            "end_time": "9.7772",
+            "original_transcript": "இல்ல இல்ல அது நான் Research center நான் வந்து இதுல இருக்கேன் Medicalல இருக்கேன் Medical ல வந்து Casual labourரா இருக்கேன் Research பண்றதுதான் என்னோட Hobby அதனால நான் Research பண்ணிட்டு We have to convert the call அதனால Call பண்ணேன் இதுக்கு க்கு call பண்ணேன் Planக்கு Call பண்ணா உங்களுக்கு போயிடுச்சு Line சரி அதான் சரி Okay அப்பறமா தான் யோசிச்சேன் சரி Okay I have to expect your best wishes அப்படின்னு நெனச்சேன் இப்ப என்னடான்னா நீங்க மூக்கலைல Powder எல்லாம் இப்ப noodles ல போட மாட்டோம் அப்படின்னு சொல்றீங்க",
+            "translated_transcript": "No, it's not that I came to Research center and I was here Medical I came to Medical I was Casual labor Research is my hobby so I did Research We have to convert the call so I called this I called this I called to Plan Call you call to call you to call you to call you to the line. Okay, okay then that's it. I think okay Okay I have to expect your best wishes so I can't wait for you now and tell me that you are not going to put the powder in the nose anymore.",
+            "tone": "Neutral",
+            "rate_of_speech": "217.59",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "research center",
+                "casual",
+                "labor research",
+                "call",
+                "okay",
+                "okay",
+                "ca n't"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "9.7825",
+            "end_time": "9.8417",
+            "original_transcript": "சரி Okay பரவாயில்ல இருக்கட்டும்",
+            "translated_transcript": "Okay. Okay, let's be okay.",
+            "tone": "Neutral",
+            "rate_of_speech": "84.51",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay",
+                "okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "9.8527",
+            "end_time": "9.8827",
+            "original_transcript": "நான் உங்களுடைய Suggestion team க்கு தெரிவிக்கிறேன்",
+            "translated_transcript": "I will inform your Suggestion team",
+            "tone": "Neutral",
+            "rate_of_speech": "199.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "suggestion"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "9.8853",
+            "end_time": "10.0708",
+            "original_transcript": "இல்ல இல்ல எங்க தாத்தா பாட்டி எல்லாம் வந்து மூக்கடலை தான் Madam எங்க வீட்ல எல்லாம் வேர்க்கடலை மூக்கடலை அப்புறம் உறச்சைக்கடலை அப்புறம் வந்து முந்திரி பருப்பு இதெல்லாம் தான் சாப்பிட சொல்லுவாங்க மொச்சை காராமணி",
+            "translated_transcript": "Home Home Where Grandparents Everything Comes and Nosebleeds Madam Where at Home Everything Peanuts Nosebumps Else Cakes Cashew nuts All this is Mocha Karamani",
+            "tone": "Neutral",
+            "rate_of_speech": "129.37",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "comes",
+                "nosebleeds madam",
+                "peanuts nosebumps else cakes cashew",
+                "mocha karamani"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "10.077",
+            "end_time": "10.4725",
+            "original_transcript": "பாசிப்பருப்பு துவரம் பருப்பு எல்லாம் கொடுப்பாங்க துவரம் பருப்பு தெரியுமா உங்களுக்கு சாம்பார்ல போடுவாங்களே அதை வேக வச்சு எங்க பாட்டி தாத்தா எல்லாம் கொடுப்பாங்க அதை தான் சாப்பிடணும்னுவாங்க அந்த மாதிரி நீங்க சொல்லணும் மூக்கடலை தான் நீங்க சாப்பிடணும் மூக்கடலை தான் நீங்க இட்லி Noodles ல போடணும் அப்படி சொல்லணும் நீங்க அப்பதான் வந்து நீங்க Develop ஆவீங்க அதை விட்டு மசாலா Chilli powder போடுறது அதெல்லாம் போட்டு மசாலா மாதிரி குடுத்தீங்கன்னா குழந்தைங்க எல்லாம் சாப்பிடாது எங்களுக்கும் பிடிக்கல Okay",
+            "translated_transcript": "Do you know what you want to eat, do you know what? Flounder, do you know what? Why don't you eat it? That's why you put Idly Noodles and you say so you come and go Develop and leave it Spice Chilli powder and put it all in and drink a sample of spices Baby doesn't eat everything We like it Okay",
+            "tone": "Neutral",
+            "rate_of_speech": "156.76",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "flounder",
+                "idly noodles",
+                "develop",
+                "spice chilli",
+                "baby",
+                "okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "10.4813",
+            "end_time": "10.5555",
+            "original_transcript": "Okay okay okay thank you thank you thank you madam Thank you for valuable time madam எங்களுக்கு நிறைய",
+            "translated_transcript": "Okay okay okay thank you thank you thank you madam Thank you for valuable time madam a lot of us",
+            "tone": "Neutral",
+            "rate_of_speech": "269.66",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay",
+                "okay okay",
+                "thank",
+                "valuable time madam"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "10.58",
+            "end_time": "10.5863",
+            "original_transcript": "Product ஆ",
+            "translated_transcript": "Produkt B",
+            "tone": "Neutral",
+            "rate_of_speech": "315.79",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "produkt"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "10.6073",
+            "end_time": "10.651",
+            "original_transcript": "Okay okay madam சொல்லுங்க சொல்லுங்க",
+            "translated_transcript": "Okay, ma'am, tell me.",
+            "tone": "Neutral",
+            "rate_of_speech": "91.64",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "10.6708",
+            "end_time": "10.6877",
+            "original_transcript": "Madam Sir",
+            "translated_transcript": "Madame Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "118.81",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "madame sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "10.6895",
+            "end_time": "10.7143",
+            "original_transcript": "நீங்க எங்க இருந்து பேசுறீங்க Sir",
+            "translated_transcript": "Where are you speaking from, sir?",
+            "tone": "Neutral",
+            "rate_of_speech": "241.61",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "10.7267",
+            "end_time": "10.7593",
+            "original_transcript": "நான் வந்து பொன்னேரி Madam திருவள்ளூர்",
+            "translated_transcript": "I came and Bonneri Madam Thiruvallur",
+            "tone": "Neutral",
+            "rate_of_speech": "183.67",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bonneri madam thiruvallur"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "10.7693",
+            "end_time": "10.8087",
+            "original_transcript": "பொன்னேரி இதுக்கு முன்னாடி கூட நீங்க ரொம்ப தடவை Call",
+            "translated_transcript": "Call Bonneri a lot of times before this",
+            "tone": "Neutral",
+            "rate_of_speech": "203.30",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "call bonneri"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "10.8087",
+            "end_time": "10.824",
+            "original_transcript": "பண்ணி எல்லா Productக்கும்",
+            "translated_transcript": "Pani for All Products",
+            "tone": "Neutral",
+            "rate_of_speech": "260.87",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pani",
+                "products"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "10.824",
+            "end_time": "10.8465",
+            "original_transcript": "Suggestion கொடுத்துட்டு இருக்கீங்க Sir",
+            "translated_transcript": "Please make a suggestion, sir.",
+            "tone": "Neutral",
+            "rate_of_speech": "222.39",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "please"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "10.852",
+            "end_time": "11.176",
+            "original_transcript": "ஆமா நான் Product வந்து share பண்றது அதுக்கு தானே நீங்க Comments ன்னு சொல்றீங்க Suggestion ன்னு சொல்றீங்க Feedback ன்னு நீங்க ஒரு Statement வைக்கறீங்கன்னா அந்த Product பத்தி கருத்து சொல்லணும்னு தானே நீங்க Feedback வைக்கிறீங்க அப்போ கருத்து சொன்னா மட்டும் நீங்க அத நல்லா கேட்டுட்டு ரசிச்சுட்டு Okay அப்படி இப்படின்னு ஆன்னு சொல்லிட்டு அப்பறம் நீங்க Escape ஆயிடுறீங்க அதுக்காக நீங்க Customerக்கு வந்து நீங்க ஒரு At least ஒரு Price பண்றதுல",
+            "translated_transcript": "Yes, I came to share the product and share it You are the one who works for it Comments to it Suggestion You leave a statement You leave a statement to comment on that product paragraph and you leave feedback yourself, then just leave a comment and ask for it and enjoy Okay, so just say this and go there and try Escape and come to the Customer for at least one price.",
+            "tone": "Neutral",
+            "rate_of_speech": "225.31",
+            "emotion": "joy",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "comments",
+                "suggestion",
+                "product paragraph",
+                "okay",
+                "customer"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "11.179",
+            "end_time": "11.5248",
+            "original_transcript": "ஒரு Honor பண்றதில்ல எதுவுமே செய்றதே இல்ல So அண்ணா ஒரு Believeness இருக்கு என்னன்னா கடவுள் நம்மள வந்து ஏதோ ஒரு விதத்துல நம்ம வந்து இப்ப நான் உங்களுக்கு Call பண்ணி நான் சொல்லிட்டேன் மூக்கடலை வந்து கண்டிப்பா Hippy noodlesல போடுதுன்னு ஒருவேளை அது Click ஆகி நீங்க நாளைக்கே மூக்கடலையே வச்சு Yippy Noodles பண்ணிட்டீங்கன்னு வச்சுக்கோங்களேன் அந்த Price எல்லாம் யாருக்கு வரும் எனக்கு தானே வரும் நாளைக்கே நான் Marketingல பெரிய ஆள் ஆயிடலாமே",
+            "translated_transcript": "An honor doesn't do anything so Anna has a Believeness I know God came to us in some way and now I called you and I told you to come and put Hippy noodles on the nose and maybe it will click I'm going to make Yippy Noodles for tomorrow and I'm going to pay that price to whoever comes to me I can be a big marketing person for the day that comes",
+            "tone": "Neutral",
+            "rate_of_speech": "213.98",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "anna",
+                "believeness",
+                "god",
+                "hippy",
+                "yippy noodles"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "11.575",
+            "end_time": "11.9562",
+            "original_transcript": "இல்ல நாளைக்கு Marketing ல கூட பெரிய ஆள் ஆகலாம் அம்பானி மாதிரி ஆகலாம் அதானி மாதிரி ஆகலாம் பெரிய டாடா பிர்லா மாதிரி கூட ஆகலாம் ஏன்னா அந்த மூக்கடலைன்றது அதுல நிறைய Proton இருக்கு இந்தியாவிலேயே வா லேயே வந்து மூக்கடலை தான் வந்து Battery பண்ண முடியும் Battery வந்து சாதாரணமா பண்ண முடியாது நம்ப Battery use பண்ணனும் Bio battery வந்து மூக்கடலை தான் அதுலதான் Heavy Proton நூற்றி அறுபத்தி இரண்டு Proton இருக்கு மூக்கடலைல",
+            "translated_transcript": "Marketing at home can become too big a man Ambani can become a model Adani can become a big model Tata Birla can be a big model Why is that nostril there is a lot of Proton come to India and the nostril can come and paint Battery is normal Can't believe Battery use Bio battery comes from nostrils and that's why Heavy Proton has one hundred and sixty-two Protons in the nostril",
+            "tone": "Neutral",
+            "rate_of_speech": "191.53",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "ambani",
+                "adani",
+                "big model",
+                "tata birla",
+                "big model",
+                "proton",
+                "india",
+                "battery",
+                "ca",
+                "battery",
+                "bio",
+                "proton",
+                "protons"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "11.9593",
+            "end_time": "12.4265",
+            "original_transcript": "அதன் மூலமா அந்த மூக்கடலை தான் எனக்கு எனக்கு கூட Proton வந்து எப்படி நம்ம வந்து Battery யா பண்றதுன்னு யோசிச்சேன் அப்பதான் தெரிஞ்சுச்சு எனக்கு மூக்கடலைன்னுட்டு மூக்கடையில இருந்து Battery கண்டுபிடிக்க முடியும்னா மூக்கடலில இருந்து மசாலாவும் போடுங்க எல்லாருக்கும் IP Noodles குடுங்க எல்லாரு சாப்பிடட்டும் You have to interest to eat எல்லா குழந்தைகளும் சாப்பிடுவாங்க பாரம்பரியத்த கிடைப்பாங்க எனக்கும் Government வேலை கஷ்டமா இருக்கும் அதுக்காக எனக்கு Government வேலை வேணும்னா நான் நீங்க மூக்கடலை மூக்கடைலல I Noodles போட்டுதான் ஆகணும் Okay ங்களா",
+            "translated_transcript": "That's why I got that nosebleed, I even got Proton and I thought about how we came and worked on Battery, so I knew if I could find Battery in my nostril and everyone ate IP Noodles to put spice from the nostril. You have to interest to eat all the kids have a traditional way to eat I have a government job so I need a government job so I can't get rid of the nosebleed I just put noodles on it Okay",
+            "tone": "Happy",
+            "rate_of_speech": "179.80",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "proton",
+                "battery",
+                "battery",
+                "ip noodles",
+                "traditional way",
+                "government job",
+                "government job",
+                "ca n't",
+                "okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "12.4378",
+            "end_time": "12.5157",
+            "original_transcript": "Okay madam thank you thank you Thank you for valuable time madam",
+            "translated_transcript": "Okay madam thank you thank you thank you for valuable time madam",
+            "tone": "Neutral",
+            "rate_of_speech": "154.18",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay",
+                "valuable time madam"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "12.5313",
+            "end_time": "12.5443",
+            "original_transcript": "Yes சொல்லுங்க Madam",
+            "translated_transcript": "Say yes, ma'am.",
+            "tone": "Neutral",
+            "rate_of_speech": "231.07",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "say"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "12.55",
+            "end_time": "12.5822",
+            "original_transcript": "வேற ஏதாச்சும் Information தேவைப்படுதா உங்களுக்கு",
+            "translated_transcript": "Do you need any other information",
+            "tone": "Neutral",
+            "rate_of_speech": "186.63",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "12.5933",
+            "end_time": "12.7297",
+            "original_transcript": "இல்ல இல்ல உங்க கிட்ட பேசுறதுக்கே வந்து We have prepared என்னோட B P patient எல்லாம் இருந்ததெல்லாம் இப்ப B P எல்லாம் குறைஞ்சுடுச்சு உங்க கிட்ட பேசுறது Thank you madam",
+            "translated_transcript": "I came to talk to you at home and we have prepared everything for me B P patient now B P will talk to you about everything Thank you madam",
+            "tone": "Neutral",
+            "rate_of_speech": "220.02",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thank"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "12.736",
+            "end_time": "12.7547",
+            "original_transcript": "அப்படிங்களா சரி Thank",
+            "translated_transcript": "That's okay Thank you",
+            "tone": "Neutral",
+            "rate_of_speech": "214.09",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "'s okay",
+                "thank"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "12.7547",
+            "end_time": "12.7727",
+            "original_transcript": "you Thank you for",
+            "translated_transcript": "thank you for",
+            "tone": "Neutral",
+            "rate_of_speech": "166.82",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "12.7727",
+            "end_time": "12.8075",
+            "original_transcript": "calling I T C Have a wonderful day Thank you",
+            "translated_transcript": "Calling I T C Have a wonderful day Thank you",
+            "tone": "Happy",
+            "rate_of_speech": "286.94",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "have",
+                "wonderful day",
+                "thank"
+            ]
+        }
+    ],
+    "translated_segments": "Good afternoon Welcome to I T C Alok Pakom I'm looking for yippee noodles in I T C products Okay Alright Ik suggeser That the masala If you add the tea noodles masala Sorry I am so sorry sir I am unable to understand sir apart from English which language are you comfortable sir Tamil Madam Tamil Tamil I will transfer your call for Tamil agent sir be online please your call also Sir may I place your call on hold so I can transfer your call sir please OKAY Hallo Thank you for being on the line Sir What Information do I need Madam Idli Noodles I bought and ate Madam Alright It comes along with Mutton gravy and it's like I came to us Pure vegetarian then nosebleed come and go Gravy model Yippee noodles Add Paninanganna Noodles Powder Nasal come and go Masalava Add Panininganna that's the same and you'll have Chicken gravy sample good a masalava This will come and it will be good to eat Good to eat Good nostrils come and go Remove Powder to remove those Yippee noodles come out Add a lot Madam Why did it come and that Gravy came How is Yippee A Model Well That Stops When Eating Noodles Get rid of the nostrils Okay, we can buy the nostrils and eat them and I have a good Serve Serve color sample, now you have Masala Potinganna it comes and it comes with that spice and there is a terrified sample. Now get out of your nostrils. You can use a little bit of spice, like a gravy model. As you know, a lot of people come to Tamil Nadu to eat everything and come to it and what do we do? Let's throw all that ginger chili powder on the side so that you don't come and eat if there's too much spice, you can sprinkle chili powder to come out of your nose and come out of your nose and come out of your nose and come out of your nose like a nice spice sample a nostril salt chilli powder All you have to do is get there. We will have a little use for eating without a good reason Madam why is it so expensive that's why I told you to use nostrils Madam it is valuable for money I say nostrils What is nasal congestion Senna Madam Senna Senna Cricket Senna Tell me Hindi Karanga Everything Senna Senna model will be nosebleed Chickpeas don't do everything nosebleeds M Make chickpeas Madam nostrils make chickpeas Senna chickpeas Hindi everything Use Madam Chennai Tell me Senna nostrils come and there is a black sea Madam That is called for that Rudraksham Rudracham has you seen the hour of Rutratcham Uthracham Kuti Kutiya Mani Model Uthracham Sivan Koilla Anything Gutti Kutiya Mani Model is the same as the Nukkadala Senna in Hindi That Powder Tournament E P noodles will come and be Superraw Madam Excellentah maybe this is what I said come to your Concent team and it will come and hit the big hit hair and give me a Call Make a Price Madam something a Gift voucher Oh no something a Price O no Do something family okay with a coupon Why the nostril came and became so Successful a Product Mam a lot of Battery to do everything The nostril said a Proton Senna came like that came a Proton I would say that the nostril came and a Proton came to the nostril and a Proton coconut cracker a Proton Nun that model this is there or not that lot of Nuts There's a lot of Proton and everything Basic Proton comes and says wheat contains Proton even in wheat Proton comes to our body and gives us all the energy it needs Current model Many people think that eating Proton means eating a nostril makes teeth squeak Do you think it is a Virus Act in our body and then the teeth are shy and this is when you drink cool drinks, you get teething? So that toothache and teething are not a problem for us to come and eat and eat, it is the Virus that builds up in our body and has forty thousand Nerve Nerve systems so that a Five hundred nerve nerve comes from our stomach and connects to our Tooth and connects to that Tooth The Injury came to that Nerve system and that tooth squeak is the only thing that comes with it and the Spice Product does not agree but you come and look like this Chilli comes more and more Use Panininganna Chances of getting many shots so it comes and comes to Stomach and it doesn't feel good so try to use some nostrils Why is it Proton good for body and energy noodles you have to make the senna mice It will give the good taste and good gravy for customers That's all Madam said I told you, Madam, that's all. Sir this is not a Nonveg product Sir this is vegetarian Sir please leave Mutton gravy chicken gravy this is Rendu Gravy and none of this we will come and drink Noodle cake and give spices on the other side of that spice that kind of non-veg gravy is not allowed Veget Sorry Mutton Chicken Don't Use Gravy Okay Home You Chicken gravy mutton gravy What I said I said come and leave the nostrils come and go Why do you have nosebleeds Consider the nostrils why you should go away Now I'm asking why are you nosebleeds good to eat yourself Well, that's good, that's why you should consider now a home bargain, what to eat is nosebleed to eat, don't consider it All grandparents Suggest Nasal Sena is something Nuts is that Item Suggest to get rid of nosebleeds Why Powder should not be spicy Why don't you take it and take it away to consider that you have to consider that you have to consider this Senna Come and consider, that is, put the nostril powder, you can put the noodles Taste, please ask me, everyone wants to eat it, this is my Suggestion Price for it Price for me One lakh rupees prize even for the family and I don't care if you don't care if you come first add that Nosebleed Powder and go away Madam Sir for a minute I will let you know your Suggestion but we will not tell you that we are working on Implement Sir we will also give you a Lakh Rupees Voucher I don't have one, I don't have one, I don't have a single one. It's a pattern of hours to put in my pocket, it's like that Guru story I won't talk to me Price I won't buy everything I don't like Kurma story Price I don't like the story. Six lakh ten lakhs is worth a film. Just an Acting and a dance for ten lakhs of rupees to the cinema and all that other story I'm just telling you to understand is something added for Senna Nosebleed Powder that's enough to put noodles Everything else to put Nosebleed Powder Statement A No Thank you madam Sir you I even called Sir Lion dates and asked me to give me a suggestion No, it's not that I came to Research center and I was here Medical I came to Medical I was Casual labor Research is my hobby so I did Research We have to convert the call so I called this I called this I called to Plan Call you call to call you to call you to call you to the line. Okay, okay then that's it. I think okay Okay I have to expect your best wishes so I can't wait for you now and tell me that you are not going to put the powder in the nose anymore. Okay. Okay, let's be okay. I will inform your Suggestion team Home Home Where Grandparents Everything Comes and Nosebleeds Madam Where at Home Everything Peanuts Nosebumps Else Cakes Cashew nuts All this is Mocha Karamani Do you know what you want to eat, do you know what? Flounder, do you know what? Why don't you eat it? That's why you put Idly Noodles and you say so you come and go Develop and leave it Spice Chilli powder and put it all in and drink a sample of spices Baby doesn't eat everything We like it Okay Okay okay okay thank you thank you thank you madam Thank you for valuable time madam a lot of us Produkt B Okay, ma'am, tell me. Madame Sir Where are you speaking from, sir? I came and Bonneri Madam Thiruvallur Call Bonneri a lot of times before this Pani for All Products Please make a suggestion, sir. Yes, I came to share the product and share it You are the one who works for it Comments to it Suggestion You leave a statement You leave a statement to comment on that product paragraph and you leave feedback yourself, then just leave a comment and ask for it and enjoy Okay, so just say this and go there and try Escape and come to the Customer for at least one price. An honor doesn't do anything so Anna has a Believeness I know God came to us in some way and now I called you and I told you to come and put Hippy noodles on the nose and maybe it will click I'm going to make Yippy Noodles for tomorrow and I'm going to pay that price to whoever comes to me I can be a big marketing person for the day that comes Marketing at home can become too big a man Ambani can become a model Adani can become a big model Tata Birla can be a big model Why is that nostril there is a lot of Proton come to India and the nostril can come and paint Battery is normal Can't believe Battery use Bio battery comes from nostrils and that's why Heavy Proton has one hundred and sixty-two Protons in the nostril That's why I got that nosebleed, I even got Proton and I thought about how we came and worked on Battery, so I knew if I could find Battery in my nostril and everyone ate IP Noodles to put spice from the nostril. You have to interest to eat all the kids have a traditional way to eat I have a government job so I need a government job so I can't get rid of the nosebleed I just put noodles on it Okay Okay madam thank you thank you thank you for valuable time madam Say yes, ma'am. Do you need any other information I came to talk to you at home and we have prepared everything for me B P patient now B P will talk to you about everything Thank you madam That's okay Thank you thank you for Calling I T C Have a wonderful day Thank you ",
+    "speaker_a_segments": "Good afternoon Welcome to I T C Alok Pakom I'm looking for yippee noodles in I T C products Okay Alright Ik suggeser That the masala If you add the tea noodles masala Sorry I am so sorry sir I am unable to understand sir apart from English which language are you comfortable sir Tamil Madam Tamil Tamil I will transfer your call for Tamil agent sir be online please your call also Sir may I place your call on hold so I can transfer your call sir please OKAY Hallo Madam Idli Noodles I bought and ate Madam It comes along with Mutton gravy and it's like I came to us Pure vegetarian then nosebleed come and go Gravy model Yippee noodles Add Paninanganna Noodles Powder Nasal come and go Masalava Add Panininganna that's the same and you'll have Chicken gravy sample good a masalava This will come and it will be good to eat Good to eat Good nostrils come and go Remove Powder to remove those Yippee noodles come out Add a lot Madam Why did it come and that Gravy came How is Yippee A Model Well That Stops When Eating Noodles Get rid of the nostrils Okay, we can buy the nostrils and eat them and I have a good Serve Serve color sample, now you have Masala Potinganna it comes and it comes with that spice and there is a terrified sample. Now get out of your nostrils. You can use a little bit of spice, like a gravy model. As you know, a lot of people come to Tamil Nadu to eat everything and come to it and what do we do? Let's throw all that ginger chili powder on the side so that you don't come and eat if there's too much spice, you can sprinkle chili powder to come out of your nose and come out of your nose and come out of your nose and come out of your nose like a nice spice sample a nostril salt chilli powder All you have to do is get there. We will have a little use for eating without a good reason Madam why is it so expensive that's why I told you to use nostrils Madam it is valuable for money I say nostrils Senna Madam Senna Senna Cricket Senna Tell me Hindi Karanga Everything Senna Senna model will be nosebleed Chickpeas don't do everything nosebleeds Make chickpeas Madam nostrils make chickpeas Senna chickpeas Hindi everything Use Madam Chennai Tell me Senna nostrils come and there is a black sea Madam That is called for that Rudraksham Rudracham has you seen the hour of Rutratcham Uthracham Kuti Kutiya Mani Model Uthracham Sivan Koilla Anything Gutti Kutiya Mani Model is the same as the Nukkadala Senna in Hindi That Powder Tournament E P noodles will come and be Superraw Madam Excellentah maybe this is what I said come to your Concent team and it will come and hit the big hit hair and give me a Call Make a Price Madam something a Gift voucher Oh no something a Price O no Do something family okay with a coupon Why the nostril came and became so Successful a Product Mam a lot of Battery to do everything The nostril said a Proton Senna came like that came a Proton I would say that the nostril came and a Proton came to the nostril and a Proton coconut cracker a Proton Nun that model this is there or not that lot of Nuts There's a lot of Proton and everything Basic Proton comes and says wheat contains Proton even in wheat Proton comes to our body and gives us all the energy it needs Current model Many people think that eating Proton means eating a nostril makes teeth squeak Do you think it is a Virus Act in our body and then the teeth are shy and this is when you drink cool drinks, you get teething? So that toothache and teething are not a problem for us to come and eat and eat, it is the Virus that builds up in our body and has forty thousand Nerve Nerve systems so that a Five hundred nerve nerve comes from our stomach and connects to our Tooth and connects to that Tooth The Injury came to that Nerve system and that tooth squeak is the only thing that comes with it and the Spice Product does not agree but you come and look like this Chilli comes more and more Use Panininganna Chances of getting many shots so it comes and comes to Stomach and it doesn't feel good so try to use some nostrils Why is it Proton good for body and energy noodles you have to make the senna mice It will give the good taste and good gravy for customers That's all Madam said I told you, Madam, that's all. Home You Chicken gravy mutton gravy What I said I said come and leave the nostrils come and go Why do you have nosebleeds Consider the nostrils why you should go away Now I'm asking why are you nosebleeds good to eat yourself Well, that's good, that's why you should consider now a home bargain, what to eat is nosebleed to eat, don't consider it All grandparents Suggest Nasal Sena is something Nuts is that Item Suggest to get rid of nosebleeds Why Powder should not be spicy Why don't you take it and take it away to consider that you have to consider that you have to consider this Senna Come and consider, that is, put the nostril powder, you can put the noodles Taste, please ask me, everyone wants to eat it, this is my Suggestion Price for it Price for me One lakh rupees prize even for the family and I don't care if you don't care if you come first add that Nosebleed Powder and go away Madam I don't have one, I don't have one, I don't have a single one. It's a pattern of hours to put in my pocket, it's like that Guru story I won't talk to me Price I won't buy everything I don't like Kurma story Price I don't like the story. Six lakh ten lakhs is worth a film. Just an Acting and a dance for ten lakhs of rupees to the cinema and all that other story I'm just telling you to understand is something added for Senna Nosebleed Powder that's enough to put noodles Everything else to put Nosebleed Powder Statement A No Thank you madam Sir you No, it's not that I came to Research center and I was here Medical I came to Medical I was Casual labor Research is my hobby so I did Research We have to convert the call so I called this I called this I called to Plan Call you call to call you to call you to call you to the line. Okay, okay then that's it. I think okay Okay I have to expect your best wishes so I can't wait for you now and tell me that you are not going to put the powder in the nose anymore. Okay. Okay, let's be okay. Home Home Where Grandparents Everything Comes and Nosebleeds Madam Where at Home Everything Peanuts Nosebumps Else Cakes Cashew nuts All this is Mocha Karamani Do you know what you want to eat, do you know what? Flounder, do you know what? Why don't you eat it? That's why you put Idly Noodles and you say so you come and go Develop and leave it Spice Chilli powder and put it all in and drink a sample of spices Baby doesn't eat everything We like it Okay Okay okay okay thank you thank you thank you madam Thank you for valuable time madam a lot of us Okay, ma'am, tell me. Madame Sir I came and Bonneri Madam Thiruvallur Pani for All Products Yes, I came to share the product and share it You are the one who works for it Comments to it Suggestion You leave a statement You leave a statement to comment on that product paragraph and you leave feedback yourself, then just leave a comment and ask for it and enjoy Okay, so just say this and go there and try Escape and come to the Customer for at least one price. An honor doesn't do anything so Anna has a Believeness I know God came to us in some way and now I called you and I told you to come and put Hippy noodles on the nose and maybe it will click I'm going to make Yippy Noodles for tomorrow and I'm going to pay that price to whoever comes to me I can be a big marketing person for the day that comes Marketing at home can become too big a man Ambani can become a model Adani can become a big model Tata Birla can be a big model Why is that nostril there is a lot of Proton come to India and the nostril can come and paint Battery is normal Can't believe Battery use Bio battery comes from nostrils and that's why Heavy Proton has one hundred and sixty-two Protons in the nostril That's why I got that nosebleed, I even got Proton and I thought about how we came and worked on Battery, so I knew if I could find Battery in my nostril and everyone ate IP Noodles to put spice from the nostril. You have to interest to eat all the kids have a traditional way to eat I have a government job so I need a government job so I can't get rid of the nosebleed I just put noodles on it Okay Okay madam thank you thank you thank you for valuable time madam Say yes, ma'am. I came to talk to you at home and we have prepared everything for me B P patient now B P will talk to you about everything Thank you madam thank you for ",
+    "speaker_b_segments": "Thank you for being on the line Sir What Information do I need Alright What is nasal congestion M Sir this is not a Nonveg product Sir this is vegetarian Sir please leave Mutton gravy chicken gravy this is Rendu Gravy and none of this we will come and drink Noodle cake and give spices on the other side of that spice that kind of non-veg gravy is not allowed Veget Sorry Mutton Chicken Don't Use Gravy Okay Sir for a minute I will let you know your Suggestion but we will not tell you that we are working on Implement Sir we will also give you a Lakh Rupees Voucher I even called Sir Lion dates and asked me to give me a suggestion I will inform your Suggestion team Produkt B Where are you speaking from, sir? Call Bonneri a lot of times before this Please make a suggestion, sir. Do you need any other information That's okay Thank you Calling I T C Have a wonderful day Thank you ",
+    "summary": "Alok Pakom from Chennai calls the ITC customer support to tell them that his wife bought Yippee noodles, which caused him nosebleeds. He explains that the problem is the masala, which is too spicy and causes a reaction in his nostrils. He suggests that the company should do something about it, like maybe adding less spice, and offers to test it for free since he is a research scientist. He is passed on to a Tamil-speaking representative, who understands his explanation better. He goes on to explain that the problem is the powder used in the noodles, which is too spicy, and that this is a widespread problem that many people experience with the product. He offers suggestions for resolving the issue, and expresses his appreciation for the customer support team. He is eventually passed to a supervisor, who also listens to his explanation and offers to pass his suggestions on to the relevant team. The caller then goes on to give an elaborate and humorous theory about the cause of his nosebleeds, which is unrelated to the product, and suggests that ITC should make a product that capitalizes on the nostril powder. He offers to test this product as well.",
+    "speaker_a_summary": "Alok Pakom from ITC is looking for Yippee noodles in ITC products and would like to suggest that the masala tea noodles masala. He speaks Tamil and would like to speak to a Tamil agent. He has bought and eaten the Idly Noodles and has experienced nostrils, a vegetarian side effect. He suggests using the powder from the nostrils to remove the nostrils that come from the Yippee noodles. He also suggests that the reason the product is so expensive is because it is made of chickpeas, which is a costly ingredient. He offers suggestions for improvement and feedback. The call is then transferred to a BP patient who works at a research center and is knowledgeable about the product. They discuss the ingredients and suggest that the customer consider leaving feedback and comments on the product. The call ends with the customer thanking the agent and wishing them well.",
+    "speaker_b_summary": "The narrator is on the phone with a customer who wants to know what ingredients are in a vegetarian product called \"Rendu Gravy.\" The customer keeps interjecting that the product cannot contain any non-vegetarian ingredients, specifically referring to chicken and mutton gravy. The customer is also offered a voucher worth INR 1 lakh as an incentive to provide a suggestion to the company, albeit with the caveat that the narrator's role is just to relay the suggestion to the relevant team. The call becomes tense as the customer repeatedly asks for suggestions and the narrator's inability to provide them becomes apparent. The call eventually ends with the customer asking to be connected to the ITC (perhaps a company?) and thanking them.",
+    "cohere_points": "- A customer calls in to report that their vegetarian Yippee noodles caused them to have a nosebleed.\n- The customer describes the product and its ingredients, including the gravy and the spices.\n- They explain the issue and asks for an explanation, and asks for a solution. \n- The customer also offers suggestions to improve the product. \n- The call is transferred to a Tamil-speaking agent, but the customer and agent have difficulty understanding each other. \n- The call ends without a resolution, and the customer is offered a gift voucher as compensation.",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "1. Yippee noodles\n2. Language preference\n3. Tamil agent\n4. Masala suggestions\n5. Nasal congestion\n6. Noodle flavors\n7. Energy noodles\n8. Spice preferences\n9. Proton content\n10. Tooth sensitivity\n11. Non-veg products\n12. Nosebleed prevention\n13. Home remedies\n14. Cultural preferences\n15. Customer feedback",
+    "Resolution": "The customer issue is not resolved as the conversation seems to involve confusion and misunderstandings related to noodle products and nasal health.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "Yes, the caller displayed empathy through their responses such as \"Sorry I am so sorry sir I am unable to understand sir,\" \"Okay, let's be okay,\" \"Thank you for valuable time madam,\" and \"Thank you thank you thank you for valuable time madam.\" These phrases show a level of understanding, courtesy, and appreciation for the caller's time and needs.",
+    "Was there any profanity on the call": "No.",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 938.7430000000006,
+    "num_silences": 117
+}

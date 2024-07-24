@@ -1,0 +1,1588 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0373",
+            "end_time": "0.0428",
+            "original_transcript": "எம்மா",
+            "translated_transcript": "Emma",
+            "tone": "Neutral",
+            "rate_of_speech": "182.37",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "emma"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.053",
+            "end_time": "0.0587",
+            "original_transcript": "ம்ம்",
+            "translated_transcript": "Mm",
+            "tone": "Neutral",
+            "rate_of_speech": "176.99",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mm"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.0887",
+            "end_time": "0.1387",
+            "original_transcript": "Good evening thank you for calling I T C my name is how can I help you",
+            "translated_transcript": "Good evening thank you for calling I T C my name is how can I help you",
+            "tone": "Happy",
+            "rate_of_speech": "340.11",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good evening"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.1656",
+            "end_time": "0.1746",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "111.11",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.183",
+            "end_time": "0.2065",
+            "original_transcript": "Good evening ma'am how can I help you tell me",
+            "translated_transcript": "Good evening ma'am how can I help you tell me",
+            "tone": "Happy",
+            "rate_of_speech": "425.23",
+            "emotion": "curiosity",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good evening ma'am"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.2883",
+            "end_time": "0.3483",
+            "original_transcript": "நல்லாவே இல்ல Sir ரொம்போ ஆயிட்டு இருக்கு",
+            "translated_transcript": "Not well. Sir Rombo Aittu",
+            "tone": "Neutral",
+            "rate_of_speech": "83.33",
+            "emotion": "disapproval",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir rombo aittu"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.3678",
+            "end_time": "0.3687",
+            "original_transcript": "மலையாளம்",
+            "translated_transcript": "Malayalam",
+            "tone": "Neutral",
+            "rate_of_speech": "1176.47",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "malayalam"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.3978",
+            "end_time": "0.3992",
+            "original_transcript": "Sir",
+            "translated_transcript": "Cheesecake",
+            "tone": "Neutral",
+            "rate_of_speech": "750.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "cheesecake"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.417",
+            "end_time": "0.4463",
+            "original_transcript": "Language மலையாளம் தமிழ் தெலுங்கு",
+            "translated_transcript": "Language Malayalam Tamil Telugu",
+            "tone": "Neutral",
+            "rate_of_speech": "136.36",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "language malayalam tamil telugu"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.4592",
+            "end_time": "0.4625",
+            "original_transcript": "தமிழ்",
+            "translated_transcript": "Tamil",
+            "tone": "Neutral",
+            "rate_of_speech": "298.51",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "tamil"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.477",
+            "end_time": "0.5567",
+            "original_transcript": "Okay please line பேரு தமிழ் Transfer",
+            "translated_transcript": "Okay please line Beru Tamil Transfer",
+            "tone": "Neutral",
+            "rate_of_speech": "75.31",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay",
+                "beru tamil transfer"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.4063",
+            "end_time": "1.4122",
+            "original_transcript": "ஆ",
+            "translated_transcript": "ah",
+            "tone": "Neutral",
+            "rate_of_speech": "170.94",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.3617",
+            "end_time": "2.3675",
+            "original_transcript": "ம்ம்",
+            "translated_transcript": "Mm",
+            "tone": "Neutral",
+            "rate_of_speech": "170.94",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mm"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.3875",
+            "end_time": "2.414",
+            "original_transcript": "Hello Hello",
+            "translated_transcript": "Hallo Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "75.52",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.4195",
+            "end_time": "2.4295",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "99.83",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.4768",
+            "end_time": "2.4922",
+            "original_transcript": "எப்படி உதவி பண்றோம்",
+            "translated_transcript": "How to help",
+            "tone": "Neutral",
+            "rate_of_speech": "195.87",
+            "emotion": "caring",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.4922",
+            "end_time": "2.4993",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "139.21",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.5042",
+            "end_time": "2.5163",
+            "original_transcript": "சொல்லுங்க Madam",
+            "translated_transcript": "Tell me, madam.",
+            "tone": "Neutral",
+            "rate_of_speech": "246.91",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.5395",
+            "end_time": "2.6475",
+            "original_transcript": "Sir இது Sunfish drunk fast biscuit நல்லாவே இல்ல Sir ரொம்ப Melt ஆயிட்டது Cream சுத்தமா Taste இல்ல Sir",
+            "translated_transcript": "Sir This Sunfish drunk fast biscuit is not good Sir Tom Melt Cream Clean Taste Not Good Sir",
+            "tone": "Sad",
+            "rate_of_speech": "166.64",
+            "emotion": "disapproval",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "sir",
+                "sunfish",
+                "fast biscuit",
+                "sir tom melt cream clean taste",
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.6475",
+            "end_time": "2.671",
+            "original_transcript": "எந்த எந்த Biscuit",
+            "translated_transcript": "Any Biscuit",
+            "tone": "Neutral",
+            "rate_of_speech": "85.17",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "biscuit"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.6895",
+            "end_time": "2.69",
+            "original_transcript": "Sir",
+            "translated_transcript": "Cheesecake",
+            "tone": "Neutral",
+            "rate_of_speech": "2000.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "cheesecake"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.7068",
+            "end_time": "2.7287",
+            "original_transcript": "Sun piece ல எந்த Biscuit Madam",
+            "translated_transcript": "Sun Piece No Biscuit Madam",
+            "tone": "Neutral",
+            "rate_of_speech": "229.01",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sun piece",
+                "biscuit madam"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.7472",
+            "end_time": "2.765",
+            "original_transcript": "Chocolate Sir",
+            "translated_transcript": "Chocolate Cheese",
+            "tone": "Neutral",
+            "rate_of_speech": "112.25",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "chocolate cheese"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.7698",
+            "end_time": "2.7897",
+            "original_transcript": "பேர் சொல்லுங்க Madam பூரா",
+            "translated_transcript": "Please tell me Madame Pura",
+            "tone": "Neutral",
+            "rate_of_speech": "252.10",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "please",
+                "madame pura"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.8103",
+            "end_time": "2.8195",
+            "original_transcript": "Thanks",
+            "translated_transcript": "Grazie",
+            "tone": "Neutral",
+            "rate_of_speech": "109.09",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "grazie"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.8195",
+            "end_time": "2.8875",
+            "original_transcript": "Sir Chocolate Madam சொல்லுங்க Madam",
+            "translated_transcript": "Sir Chocolate Madam, tell me, ma'am.",
+            "tone": "Neutral",
+            "rate_of_speech": "88.21",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir chocolate madam"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.9043",
+            "end_time": "2.9143",
+            "original_transcript": "சொல்றேன் Sir",
+            "translated_transcript": "I'll tell you, sir.",
+            "tone": "Neutral",
+            "rate_of_speech": "399.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.9143",
+            "end_time": "2.9543",
+            "original_transcript": "Bounce வருது வருது",
+            "translated_transcript": "Bounce Regrets",
+            "tone": "Neutral",
+            "rate_of_speech": "50.02",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "bounce"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.9678",
+            "end_time": "3.017",
+            "original_transcript": "ஆ Drunk fast Choco Cream Sir",
+            "translated_transcript": "Drunk fast Choco Cream Cheese",
+            "tone": "Sad",
+            "rate_of_speech": "101.69",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "drunk",
+                "choco cream cheese"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.0275",
+            "end_time": "3.0393",
+            "original_transcript": "என்ன madam",
+            "translated_transcript": "What madam",
+            "tone": "Neutral",
+            "rate_of_speech": "168.78",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.0637",
+            "end_time": "3.1008",
+            "original_transcript": "for choco cream",
+            "translated_transcript": "for choco cream",
+            "tone": "Neutral",
+            "rate_of_speech": "80.72",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "choco cream"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.1097",
+            "end_time": "3.137",
+            "original_transcript": "dark fantasy choco cream",
+            "translated_transcript": "dark fantasy chocolate cream",
+            "tone": "Neutral",
+            "rate_of_speech": "146.34",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "dark fantasy chocolate cream"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.1517",
+            "end_time": "3.1577",
+            "original_transcript": "ஆ",
+            "translated_transcript": "ah",
+            "tone": "Neutral",
+            "rate_of_speech": "166.67",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.1577",
+            "end_time": "3.17",
+            "original_transcript": "ஆமா Sir",
+            "translated_transcript": "Ama Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "162.38",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ama sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.1813",
+            "end_time": "3.2013",
+            "original_transcript": "என்ன உடம்பு",
+            "translated_transcript": "What is sick",
+            "tone": "Sad",
+            "rate_of_speech": "150.00",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.2247",
+            "end_time": "3.2295",
+            "original_transcript": "Sir",
+            "translated_transcript": "Cheesecake",
+            "tone": "Neutral",
+            "rate_of_speech": "206.19",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "cheesecake"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.2353",
+            "end_time": "3.2558",
+            "original_transcript": "என்ன Problem இருக்குது",
+            "translated_transcript": "What is the problem",
+            "tone": "Neutral",
+            "rate_of_speech": "194.96",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.2782",
+            "end_time": "3.324",
+            "original_transcript": "Biscuitல என்ன Issue இருக்கு Madam",
+            "translated_transcript": "What's the issue with Biscuit Madam",
+            "tone": "Neutral",
+            "rate_of_speech": "130.91",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "biscuit madam"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.3438",
+            "end_time": "3.3532",
+            "original_transcript": "sideல",
+            "translated_transcript": "sideways",
+            "tone": "Neutral",
+            "rate_of_speech": "107.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.3712",
+            "end_time": "3.4003",
+            "original_transcript": "என்ன என்ன Problem இருக்கு உங்க Biscuitல",
+            "translated_transcript": "What's the problem with your Biscuit?",
+            "tone": "Neutral",
+            "rate_of_speech": "205.71",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "biscuit"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.4173",
+            "end_time": "3.5506",
+            "original_transcript": "Biscuitலயா ரொம்ப Melt ஆயிட்டு இருக்குது Cream மேல சுத்தமா Tasteயே இல்ல Sir குழந்தைகளுக்கு வாங்குன Family pack Three Three into hundred gram",
+            "translated_transcript": "Biscuit Roll Melt Butter Cream Top Pure Taste Sir Kids Family pack Three Three into hundred gram",
+            "tone": "Neutral",
+            "rate_of_speech": "127.50",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "biscuit roll melt butter cream top pure taste sir kids",
+                "family pack"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.5506",
+            "end_time": "3.5598",
+            "original_transcript": "Okay",
+            "translated_transcript": "Alright",
+            "tone": "Neutral",
+            "rate_of_speech": "109.09",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "alright"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.5821",
+            "end_time": "3.6163",
+            "original_transcript": "Sir சொல்லுங்க சொல்லுங்க Madam கேக்குது சொல்லுங்க",
+            "translated_transcript": "Please tell me, sir, tell me what.",
+            "tone": "Neutral",
+            "rate_of_speech": "204.88",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "please"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.6275",
+            "end_time": "3.7245",
+            "original_transcript": "அதான் Family pack வைக்குனேன் வாங்குனேன் பசங்களுக்கு கொடுத்தேன் நல்லாவே இல்லன்னாங்க சரி சாப்பிட்டு பார்த்தேன் நல்லாவே இல்ல",
+            "translated_transcript": "That's why I put a family pack I bought it I gave it to the glutes but it wasn't good so I ate and saw it wasn't good",
+            "tone": "Happy",
+            "rate_of_speech": "288.61",
+            "emotion": "disappointment",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "family pack",
+                "n't good",
+                "n't good"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.735",
+            "end_time": "3.7607",
+            "original_transcript": "எங்க இருந்து வருதுங்க packet",
+            "translated_transcript": "Where did the packet come from?",
+            "tone": "Neutral",
+            "rate_of_speech": "233.92",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.7805",
+            "end_time": "3.7892",
+            "original_transcript": "Sir",
+            "translated_transcript": "Cheesecake",
+            "tone": "Neutral",
+            "rate_of_speech": "115.38",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "cheesecake"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.7963",
+            "end_time": "3.8131",
+            "original_transcript": "Madam கேக்குதுங்களா Madam",
+            "translated_transcript": "Madam Kekudangala Madam",
+            "tone": "Neutral",
+            "rate_of_speech": "178.22",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "madam kekudangala madam"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.8131",
+            "end_time": "3.8525",
+            "original_transcript": "நீங்க நகர் நகர் நகர்ல வாங்குன Sir",
+            "translated_transcript": "You buy Nagar Nagar Nagarla Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "152.54",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "nagar nagar nagarla sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.8525",
+            "end_time": "3.8793",
+            "original_transcript": "கேக்குதுங்களா Madam Call உங்களுக்கு",
+            "translated_transcript": "Please Madame Call You",
+            "tone": "Neutral",
+            "rate_of_speech": "149.07",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "please madame call"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.9001",
+            "end_time": "3.9568",
+            "original_transcript": "அதாவது ஒரு Voice நல்லா வருது ஒரு Voice கொஞ்சம் விட்டு வருது Sir அவ்ளோதான் Sir",
+            "translated_transcript": "That is, a Voice is good, a Voice is a little left, Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "229.34",
+            "emotion": "admiration",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "voice",
+                "voice",
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.9568",
+            "end_time": "3.9767",
+            "original_transcript": "இப்ப கேக்குதுங்களா",
+            "translated_transcript": "Please ask now.",
+            "tone": "Neutral",
+            "rate_of_speech": "151.26",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "please"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.986",
+            "end_time": "4.0033",
+            "original_transcript": "ஆ இப்ப கேக்குதுங்க",
+            "translated_transcript": "Oh wait now.",
+            "tone": "Neutral",
+            "rate_of_speech": "173.24",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "oh"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.0033",
+            "end_time": "4.0561",
+            "original_transcript": "Sir இது Three hundred grams வாங்குறீங்களா Full pack",
+            "translated_transcript": "Sir This Is Three Hundred Grams Full Pack",
+            "tone": "Happy",
+            "rate_of_speech": "151.42",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "sir",
+                "hundred grams",
+                "pack"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.0717",
+            "end_time": "4.1108",
+            "original_transcript": "Family பா Three into hundred grams",
+            "translated_transcript": "Family pa Three into hundred grams",
+            "tone": "Neutral",
+            "rate_of_speech": "153.26",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "family pa"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.1268",
+            "end_time": "4.2267",
+            "original_transcript": "Three two hundred grams okay Packetல எவ்ளோ மூணு Packet வருது இல்லைங்களா Madam",
+            "translated_transcript": "Three two hundred grams okay Packet is not enough, Madam",
+            "tone": "Neutral",
+            "rate_of_speech": "100.17",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "grams okay",
+                "packet"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.2402",
+            "end_time": "4.2495",
+            "original_transcript": "ஆமா Sir",
+            "translated_transcript": "Ama Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "214.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ama sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.2495",
+            "end_time": "4.2995",
+            "original_transcript": "எல்லாத்துலயும் Same issue வந்து இருக்கு ஒரே Packetல அப்படி வருங்களா Problem",
+            "translated_transcript": "All the same issues come with the same package. Problem",
+            "tone": "Neutral",
+            "rate_of_speech": "200.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "problem"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.3185",
+            "end_time": "4.5291",
+            "original_transcript": "அதாவது வந்து ஒரு Packet பசங்க ரெண்டாவது Packet வந்து சாப்பிடல சரி வச்சிட்டாங்க எங்க வீட்டுக்காரர் ஒன்னு சாப்பிட்டாரு நானும் ஒன்னு சாப்பிட்டு பார்க்கறேன் ஆனா ஒரு ரெண்டு Biscuit எடுத்து சாப்பிட்டா நல்லா இல்ல ஒரு Packet fullஆ அப்படியே இருக்கு இரண்டாவது Packet தான் பேர்பா காலியாசி பேர் பாதி இருக்கு",
+            "translated_transcript": "That is to say, come and eat a Packet Bassana Renta Packet and eat well where the housekeeper ate one and I will eat one but I will eat one but I will take a Redu Biscuit and eat well a Packet is not good. Existence",
+            "tone": "Sad",
+            "rate_of_speech": "218.37",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "packet bassana renta packet",
+                "housekeeper ate",
+                "redu biscuit",
+                "packet",
+                "existence"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.5378",
+            "end_time": "4.5638",
+            "original_transcript": "ரெண்டு Packet Same issue இருக்கு Madam",
+            "translated_transcript": "There is a similar issue for Rendu Packet Madam",
+            "tone": "Neutral",
+            "rate_of_speech": "346.15",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "similar issue",
+                "rendu packet madam"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.5838",
+            "end_time": "4.5963",
+            "original_transcript": "ஆமா Sir",
+            "translated_transcript": "Ama Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "160.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ama sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.6091",
+            "end_time": "4.645",
+            "original_transcript": "அது Taste இல்லன்னு சொல்றீங்களா Okay madam கண்டிப்பா மன்னிக்கணும்",
+            "translated_transcript": "It doesn't taste good, okay, ma'am, I'm sorry.",
+            "tone": "Happy",
+            "rate_of_speech": "223.26",
+            "emotion": "remorse",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "n't taste good"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.6498",
+            "end_time": "4.7225",
+            "original_transcript": "Taste இல்ல அதாவது ரொம்ப Melt ஆயிட்டு இருக்குது Biscuit வந்து அதாவது Ecase date கூட பார்த்தேன் நானு",
+            "translated_transcript": "There is no taste, so there is a lot of Melt, Biscuit came and I saw the Ecase date too.",
+            "tone": "Neutral",
+            "rate_of_speech": "275.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "melt",
+                "biscuit",
+                "ecase"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.7265",
+            "end_time": "4.7336",
+            "original_transcript": "Okay",
+            "translated_transcript": "Alright",
+            "tone": "Neutral",
+            "rate_of_speech": "139.21",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "alright"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.7378",
+            "end_time": "4.7668",
+            "original_transcript": "அதாவது வந்து",
+            "translated_transcript": "That is to say, come",
+            "tone": "Neutral",
+            "rate_of_speech": "172.31",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.7762",
+            "end_time": "4.8215",
+            "original_transcript": "Two thousand forty February twenty nine வரைக்கும் இருக்கு",
+            "translated_transcript": "Two thousand forty until February twenty nine",
+            "tone": "Neutral",
+            "rate_of_speech": "154.41",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "february"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.8242",
+            "end_time": "4.83",
+            "original_transcript": "Okay",
+            "translated_transcript": "Alright",
+            "tone": "Neutral",
+            "rate_of_speech": "171.92",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "alright"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.8348",
+            "end_time": "4.9015",
+            "original_transcript": "Packet வந்து Thirteen May twenty three ன்னு இருக்கு",
+            "translated_transcript": "Packet arrives for Thirteen May twenty three",
+            "tone": "Neutral",
+            "rate_of_speech": "105.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "packet",
+                "may"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.9055",
+            "end_time": "5.1283",
+            "original_transcript": "சரிங்க Madam Okay madam கண்டிப்பா மன்னைக்கு Issue இருக்கு இந்த Productல உங்களுக்கு எத ஒரு Product Market க்கு வர முடியாது Quality check ஆயிட்டா Market க்கு வரது So உங்களுக்கு இந்த Issue இருக்குன்னு சொல்றீங்களே நான் கண்டிப்பா பண்றேன் அந்த Biscuits இருக்கா Madam ரெண்டு பாக்கட்லயும்",
+            "translated_transcript": "Sorry Madam Okay madam there is an issue for you This Product cannot come to any Product Market Quality check Coming to Aita Market So tell me you have this Issue and I will definitely work those Biscuits Madam Rende Bakadlyum",
+            "tone": "Neutral",
+            "rate_of_speech": "183.98",
+            "emotion": "remorse",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sorry madam okay",
+                "product",
+                "product market quality",
+                "coming",
+                "aita market",
+                "biscuits madam rende bakadlyum"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.1403",
+            "end_time": "5.157",
+            "original_transcript": "ஆ இருக்கு Sir",
+            "translated_transcript": "Ah there is Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "240.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.157",
+            "end_time": "5.1795",
+            "original_transcript": "Okay உங்க பேர் சொல்லுங்க Madam",
+            "translated_transcript": "Okay, tell me your name, ma'am.",
+            "tone": "Neutral",
+            "rate_of_speech": "266.86",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.1993",
+            "end_time": "5.215",
+            "original_transcript": "T M P S",
+            "translated_transcript": "T M P S",
+            "tone": "Neutral",
+            "rate_of_speech": "255.32",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.2247",
+            "end_time": "5.2336",
+            "original_transcript": "T M",
+            "translated_transcript": "T M",
+            "tone": "Neutral",
+            "rate_of_speech": "222.63",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.2513",
+            "end_time": "5.2653",
+            "original_transcript": "பிரியா",
+            "translated_transcript": "Priya",
+            "tone": "Neutral",
+            "rate_of_speech": "71.34",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "priya"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.2653",
+            "end_time": "5.313",
+            "original_transcript": "பிரியா Okay Email I D இருக்கா madam உங்களுக்கு",
+            "translated_transcript": "Priya Okay Email I D Ida madam to you",
+            "tone": "Neutral",
+            "rate_of_speech": "188.88",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "priya okay email",
+                "d ida"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.325",
+            "end_time": "5.3363",
+            "original_transcript": "Sir email",
+            "translated_transcript": "Ser e-mail",
+            "tone": "Neutral",
+            "rate_of_speech": "176.73",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ser"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.3363",
+            "end_time": "5.3505",
+            "original_transcript": "I D இருக்குங்களா",
+            "translated_transcript": "Are there any I D's?",
+            "tone": "Neutral",
+            "rate_of_speech": "352.94",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.3655",
+            "end_time": "5.3888",
+            "original_transcript": "Email I D இல்ல Sir",
+            "translated_transcript": "Email I D No Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "214.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "email",
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.3888",
+            "end_time": "5.4125",
+            "original_transcript": "சரிங்க இது சொல்லுங்க P R A Y",
+            "translated_transcript": "Tell me this, P R A Y",
+            "tone": "Neutral",
+            "rate_of_speech": "295.57",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "p r"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.4312",
+            "end_time": "5.4323",
+            "original_transcript": "எத்தனை",
+            "translated_transcript": "How many",
+            "tone": "Neutral",
+            "rate_of_speech": "1690.14",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.4413",
+            "end_time": "5.466",
+            "original_transcript": "ஆமா Sir P R I Y A",
+            "translated_transcript": "Yes Sir P R I Y A",
+            "tone": "Neutral",
+            "rate_of_speech": "283.98",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir p r"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.4726",
+            "end_time": "5.4997",
+            "original_transcript": "Okay Address சொல்லுங்க Madam உங்களுது",
+            "translated_transcript": "Please give me your address, ma'am.",
+            "tone": "Neutral",
+            "rate_of_speech": "222.09",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "please"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.5255",
+            "end_time": "5.54",
+            "original_transcript": "Address ஆ Sir",
+            "translated_transcript": "Adresse b Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "206.90",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "adresse",
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.5472",
+            "end_time": "5.5475",
+            "original_transcript": "Yes",
+            "translated_transcript": "Ja",
+            "tone": "Neutral",
+            "rate_of_speech": "2857.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ja"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.5708",
+            "end_time": "5.582",
+            "original_transcript": "Okay",
+            "translated_transcript": "Alright",
+            "tone": "Neutral",
+            "rate_of_speech": "89.55",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "alright"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.6022",
+            "end_time": "5.6205",
+            "original_transcript": "ஆ",
+            "translated_transcript": "ah",
+            "tone": "Neutral",
+            "rate_of_speech": "54.55",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.633",
+            "end_time": "5.6575",
+            "original_transcript": "Three bar forty two",
+            "translated_transcript": "Three bar forty two",
+            "tone": "Neutral",
+            "rate_of_speech": "163.27",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.6706",
+            "end_time": "5.6966",
+            "original_transcript": "Three forty two",
+            "translated_transcript": "Three forty two",
+            "tone": "Neutral",
+            "rate_of_speech": "115.38",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.7095",
+            "end_time": "5.7275",
+            "original_transcript": "பள்ளி பெற்றோர்",
+            "translated_transcript": "School parents",
+            "tone": "Neutral",
+            "rate_of_speech": "111.21",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "school parents"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.737",
+            "end_time": "5.7528",
+            "original_transcript": "ஓர் நிமிஷம் விடும்",
+            "translated_transcript": "It'll take a minute.",
+            "tone": "Neutral",
+            "rate_of_speech": "252.63",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.86",
+            "end_time": "5.8795",
+            "original_transcript": "பள்ளி பட் ரோடு",
+            "translated_transcript": "School Butt Road",
+            "tone": "Neutral",
+            "rate_of_speech": "153.98",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "butt"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.8988",
+            "end_time": "5.9202",
+            "original_transcript": "புதுப்பேட்டை நகிரி",
+            "translated_transcript": "Pudupettai Nagiri",
+            "tone": "Neutral",
+            "rate_of_speech": "93.75",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pudupettai nagiri"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.9528",
+            "end_time": "5.9662",
+            "original_transcript": "அது",
+            "translated_transcript": "it",
+            "tone": "Neutral",
+            "rate_of_speech": "75.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.9763",
+            "end_time": "6.0017",
+            "original_transcript": "நகரி",
+            "translated_transcript": "Nagari",
+            "tone": "Neutral",
+            "rate_of_speech": "39.45",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "nagari"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.0133",
+            "end_time": "6.0701",
+            "original_transcript": "ம் புதுப்பேட்டை நகரி சித்தூர் district ஆந்திர பிரதேஷ் Sir",
+            "translated_transcript": "Muppettai Nagar Chittoor district Andhra Pradesh Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "123.17",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "muppettai nagar chittoor",
+                "andhra pradesh sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.0833",
+            "end_time": "6.0882",
+            "original_transcript": "ஆம்",
+            "translated_transcript": "Yes",
+            "tone": "Neutral",
+            "rate_of_speech": "206.90",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.1042",
+            "end_time": "6.1196",
+            "original_transcript": "சித்தூர்",
+            "translated_transcript": "Chittoor",
+            "tone": "Neutral",
+            "rate_of_speech": "64.59",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "chittoor"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.1377",
+            "end_time": "6.1722",
+            "original_transcript": "ஆமா Sir சித்தூர் district",
+            "translated_transcript": "Ama Sir Chittoor district",
+            "tone": "Neutral",
+            "rate_of_speech": "116.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ama sir chittoor"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.1997",
+            "end_time": "6.2211",
+            "original_transcript": "ஆந்திரப்பிரதேஷ் இல்லீங்களா",
+            "translated_transcript": "Andhra Pradesh Illingala",
+            "tone": "Neutral",
+            "rate_of_speech": "139.64",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "andhra pradesh illingala"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.2312",
+            "end_time": "6.2438",
+            "original_transcript": "ஆமா Sir",
+            "translated_transcript": "Ama Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "157.69",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ama sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.2438",
+            "end_time": "6.2595",
+            "original_transcript": "PIN code சொல்லுங்க",
+            "translated_transcript": "Give me the PIN code.",
+            "tone": "Neutral",
+            "rate_of_speech": "319.15",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pin"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.2706",
+            "end_time": "6.3045",
+            "original_transcript": "PIN code வந்து Five one seven",
+            "translated_transcript": "PIN code arrived at Five one seven",
+            "tone": "Neutral",
+            "rate_of_speech": "206.90",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pin"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.3113",
+            "end_time": "6.3316",
+            "original_transcript": "five one seven",
+            "translated_transcript": "five one seven",
+            "tone": "Neutral",
+            "rate_of_speech": "147.54",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.344",
+            "end_time": "6.3885",
+            "original_transcript": "five nine five nine zero",
+            "translated_transcript": "five nine five nine zero",
+            "tone": "Neutral",
+            "rate_of_speech": "112.40",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.3978",
+            "end_time": "6.4608",
+            "original_transcript": "Okay madam Packet பின்னாடி ஒரு Batch code number சொல்றீங்களா",
+            "translated_transcript": "Okay madam Tell me a Batch code number in the background of Packet",
+            "tone": "Neutral",
+            "rate_of_speech": "206.35",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay",
+                "batch",
+                "code number",
+                "packet"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.4753",
+            "end_time": "6.5153",
+            "original_transcript": "Batch co Sir",
+            "translated_transcript": "Batch co Cheese",
+            "tone": "Neutral",
+            "rate_of_speech": "74.97",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "batch",
+                "cheese"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.5327",
+            "end_time": "6.5468",
+            "original_transcript": "ம்ம்",
+            "translated_transcript": "Mm",
+            "tone": "Neutral",
+            "rate_of_speech": "70.59",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mm"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.5815",
+            "end_time": "6.5993",
+            "original_transcript": "Eight nine",
+            "translated_transcript": "Eight-nine",
+            "tone": "Neutral",
+            "rate_of_speech": "56.13",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "eight-nine"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.626",
+            "end_time": "6.6465",
+            "original_transcript": "எயிட் நைன்",
+            "translated_transcript": "Aid Nine",
+            "tone": "Neutral",
+            "rate_of_speech": "97.48",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.6601",
+            "end_time": "6.6887",
+            "original_transcript": "One zero one",
+            "translated_transcript": "One zero one",
+            "tone": "Neutral",
+            "rate_of_speech": "105.20",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.6948",
+            "end_time": "6.7046",
+            "original_transcript": "zero one",
+            "translated_transcript": "zero one",
+            "tone": "Neutral",
+            "rate_of_speech": "203.74",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.7372",
+            "end_time": "6.747",
+            "original_transcript": "ஹலோ",
+            "translated_transcript": "Hello",
+            "tone": "Neutral",
+            "rate_of_speech": "101.69",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.7813",
+            "end_time": "6.7923",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "90.91",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.8033",
+            "end_time": "6.8422",
+            "original_transcript": "is",
+            "translated_transcript": "is",
+            "tone": "Neutral",
+            "rate_of_speech": "25.76",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        }
+    ],
+    "translated_segments": "Emma Mm Good evening thank you for calling I T C my name is how can I help you Hallo Good evening ma'am how can I help you tell me Not well. Sir Rombo Aittu Malayalam Cheesecake Language Malayalam Tamil Telugu Tamil Okay please line Beru Tamil Transfer ah Mm Hallo Hallo Hallo How to help Hallo Tell me, madam. Sir This Sunfish drunk fast biscuit is not good Sir Tom Melt Cream Clean Taste Not Good Sir Any Biscuit Cheesecake Sun Piece No Biscuit Madam Chocolate Cheese Please tell me Madame Pura Grazie Sir Chocolate Madam, tell me, ma'am. I'll tell you, sir. Bounce Regrets Drunk fast Choco Cream Cheese What madam for choco cream dark fantasy chocolate cream ah Ama Sir What is sick Cheesecake What is the problem What's the issue with Biscuit Madam sideways What's the problem with your Biscuit? Biscuit Roll Melt Butter Cream Top Pure Taste Sir Kids Family pack Three Three into hundred gram Alright Please tell me, sir, tell me what. That's why I put a family pack I bought it I gave it to the glutes but it wasn't good so I ate and saw it wasn't good Where did the packet come from? Cheesecake Madam Kekudangala Madam You buy Nagar Nagar Nagarla Sir Please Madame Call You That is, a Voice is good, a Voice is a little left, Sir Please ask now. Oh wait now. Sir This Is Three Hundred Grams Full Pack Family pa Three into hundred grams Three two hundred grams okay Packet is not enough, Madam Ama Sir All the same issues come with the same package. Problem That is to say, come and eat a Packet Bassana Renta Packet and eat well where the housekeeper ate one and I will eat one but I will eat one but I will take a Redu Biscuit and eat well a Packet is not good. Existence There is a similar issue for Rendu Packet Madam Ama Sir It doesn't taste good, okay, ma'am, I'm sorry. There is no taste, so there is a lot of Melt, Biscuit came and I saw the Ecase date too. Alright That is to say, come Two thousand forty until February twenty nine Alright Packet arrives for Thirteen May twenty three Sorry Madam Okay madam there is an issue for you This Product cannot come to any Product Market Quality check Coming to Aita Market So tell me you have this Issue and I will definitely work those Biscuits Madam Rende Bakadlyum Ah there is Sir Okay, tell me your name, ma'am. T M P S T M Priya Priya Okay Email I D Ida madam to you Ser e-mail Are there any I D's? Email I D No Sir Tell me this, P R A Y How many Yes Sir P R I Y A Please give me your address, ma'am. Adresse b Sir Ja Alright ah Three bar forty two Three forty two School parents It'll take a minute. School Butt Road Pudupettai Nagiri it Nagari Muppettai Nagar Chittoor district Andhra Pradesh Sir Yes Chittoor Ama Sir Chittoor district Andhra Pradesh Illingala Ama Sir Give me the PIN code. PIN code arrived at Five one seven five one seven five nine five nine zero Okay madam Tell me a Batch code number in the background of Packet Batch co Cheese Mm Eight-nine Aid Nine One zero one zero one Hello Hallo is ",
+    "speaker_a_segments": "Emma Mm Hallo Not well. Sir Rombo Aittu Cheesecake Tamil Hallo Hallo Sir This Sunfish drunk fast biscuit is not good Sir Tom Melt Cream Clean Taste Not Good Sir Cheesecake Chocolate Cheese Grazie I'll tell you, sir. Drunk fast Choco Cream Cheese for choco cream Ama Sir Cheesecake sideways Biscuit Roll Melt Butter Cream Top Pure Taste Sir Kids Family pack Three Three into hundred gram That's why I put a family pack I bought it I gave it to the glutes but it wasn't good so I ate and saw it wasn't good Cheesecake You buy Nagar Nagar Nagarla Sir That is, a Voice is good, a Voice is a little left, Sir Oh wait now. Family pa Three into hundred grams Ama Sir That is to say, come and eat a Packet Bassana Renta Packet and eat well where the housekeeper ate one and I will eat one but I will eat one but I will take a Redu Biscuit and eat well a Packet is not good. Existence Ama Sir There is no taste, so there is a lot of Melt, Biscuit came and I saw the Ecase date too. That is to say, come Two thousand forty until February twenty nine Packet arrives for Thirteen May twenty three Ah there is Sir T M P S Priya Ser e-mail Email I D No Sir How many Yes Sir P R I Y A Adresse b Sir Alright ah Three bar forty two School parents Pudupettai Nagiri Muppettai Nagar Chittoor district Andhra Pradesh Sir Ama Sir Chittoor district Ama Sir PIN code arrived at Five one seven five nine five nine zero Batch co Cheese Mm Eight-nine One zero one ",
+    "speaker_b_segments": "Good evening thank you for calling I T C my name is how can I help you Good evening ma'am how can I help you tell me Malayalam Language Malayalam Tamil Telugu Okay please line Beru Tamil Transfer ah Mm Hallo Hallo How to help Tell me, madam. Any Biscuit Sun Piece No Biscuit Madam Please tell me Madame Pura Sir Chocolate Madam, tell me, ma'am. Bounce Regrets What madam dark fantasy chocolate cream ah What is sick What is the problem What's the issue with Biscuit Madam What's the problem with your Biscuit? Alright Please tell me, sir, tell me what. Where did the packet come from? Madam Kekudangala Madam Please Madame Call You Please ask now. Sir This Is Three Hundred Grams Full Pack Three two hundred grams okay Packet is not enough, Madam All the same issues come with the same package. Problem There is a similar issue for Rendu Packet Madam It doesn't taste good, okay, ma'am, I'm sorry. Alright Alright Sorry Madam Okay madam there is an issue for you This Product cannot come to any Product Market Quality check Coming to Aita Market So tell me you have this Issue and I will definitely work those Biscuits Madam Rende Bakadlyum Okay, tell me your name, ma'am. T M Priya Okay Email I D Ida madam to you Are there any I D's? Tell me this, P R A Y Please give me your address, ma'am. Ja Three forty two It'll take a minute. School Butt Road it Nagari Yes Chittoor Andhra Pradesh Illingala Give me the PIN code. five one seven Okay madam Tell me a Batch code number in the background of Packet Aid Nine zero one Hello Hallo is ",
+    "summary": "The customer wants to complain about a cheesecake they bought because it is not tasting good and is melting fast. The customer wants to know if they will get a refund for the product. The customer is then asked to provide their personal details like address, ID, email etc so that the customer service can take appropriate action and let the customer know via mail.",
+    "speaker_a_summary": "Emma and Rombo have a problematic pack of biscuits. They describe the packaging and the taste, and they will not buy it again. They discuss other options of biscuits to buy and eat. Rombo gives feedback on the product and wants to inform the company, Priya Ser, via email. The pack of biscuits was bought in Nagari, in the Chittoor district of Andhra Pradesh.",
+    "speaker_b_summary": "A customer calls ITC to complain about poor taste and issues with a chocolate cream biscuit packet she bought. The customer support representative takes the complaint and collects information about the issue, including the location, package weight, and batch code of the product, and promises to look into the issue and work on improving the biscuit quality in the future.",
+    "cohere_points": "- A customer is calling about a cheesecake packet they bought that is of low quality\n- The customer support asks them for the packet details and takes note of the issue \n- They will look into the issue and provide a solution soon \n\n</br>\n\n- Address, email and batch code are collected to identify the customer \n- The packet they bought is not up to market quality standards \n- The customer support will take immediate action on the issue \n",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "1. Customer service assistance\n2. Biscuit quality issue\n3. Cheese flavor preference\n4. Language preferences\n5. Product feedback\n6. No taste in biscuits\n7. Family pack purchase\n8. Quality check procedure\n9. Address verification process\n10. Email correspondence\n11. Batch code identification\n12. Transfer call request\n13. Malfunctioning product\n14. Inadequate packaging\n15. Customer contact details",
+    "Resolution": "The customer's issue regarding the unsatisfactory taste of the biscuits has been acknowledged, and the customer service representative has promised to address the problem by ensuring quality check for the product in the market.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "Yes, the caller displayed empathy. Emma showed empathy when she apologized to the customer for the issues with the biscuits, assured the customer that she would work on resolving the problem, and asked for the customer's name and address to follow up on the issue.",
+    "Was there any profanity on the call": "No.",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 591.7280000000003,
+    "num_silences": 87
+}
