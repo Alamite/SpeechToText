@@ -32,8 +32,8 @@ function HomePage() {
 
     const handleRun = () => {
         if (selectedFile) {
-            const apiUrl = `https://inscribe.3cctpl.co.in//api/files/${selectedFile.folder}/${selectedFile.file}`;
-            // const apiUrl = `http://localhost:3001/api/files/${selectedFile.folder}/${selectedFile.file}`;
+            // const apiUrl = `https://inscribe.3cctpl.co.in//api/files/${selectedFile.folder}/${selectedFile.file}`;
+            const apiUrl = `http://localhost:3001/api/files/${selectedFile.folder}/${selectedFile.file}`;
             var jsonUrl = apiUrl.replace('.mp3', '.json');
             jsonUrl = jsonUrl.replace('Audio', 'Transcript');
             // console.log('Fetching JSON file:', apiUrl);
