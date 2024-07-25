@@ -1,0 +1,790 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0262",
+            "end_time": "0.0828",
+            "original_transcript": "Good evening thank you for calling ITC My name is Sharad How may I assist you",
+            "translated_transcript": "Good evening thank you for calling ITC My name is Sharad How can I assist you",
+            "tone": "Happy",
+            "rate_of_speech": "282.44",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good evening",
+                "itc",
+                "sharad"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.1008",
+            "end_time": "0.1268",
+            "original_transcript": "Hello IC company",
+            "translated_transcript": "Hello IC company",
+            "tone": "Neutral",
+            "rate_of_speech": "115.38",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hello ic"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.1428",
+            "end_time": "0.1668",
+            "original_transcript": "sir how can I assist you",
+            "translated_transcript": "see how I can help you",
+            "tone": "Neutral",
+            "rate_of_speech": "249.83",
+            "emotion": "caring",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.1883",
+            "end_time": "0.2018",
+            "original_transcript": "हो",
+            "translated_transcript": "Yes",
+            "tone": "Neutral",
+            "rate_of_speech": "74.17",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.2207",
+            "end_time": "0.2475",
+            "original_transcript": "मराठी मी बोलू शकता",
+            "translated_transcript": "I can speak Marathi",
+            "tone": "Neutral",
+            "rate_of_speech": "148.98",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "marathi"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.2575",
+            "end_time": "0.2996",
+            "original_transcript": "I don't know marathi you are okay with English Hindi",
+            "translated_transcript": "I don't know Marathi you are okay with English Hindi",
+            "tone": "Neutral",
+            "rate_of_speech": "237.15",
+            "emotion": "confusion",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "marathi",
+                "english hindi"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.3135",
+            "end_time": "0.348",
+            "original_transcript": "विज्ञान होऊ शकतो",
+            "translated_transcript": "Science can be",
+            "tone": "Neutral",
+            "rate_of_speech": "86.96",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.3593",
+            "end_time": "0.3695",
+            "original_transcript": "So please",
+            "translated_transcript": "So please",
+            "tone": "Neutral",
+            "rate_of_speech": "196.40",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.3695",
+            "end_time": "0.3733",
+            "original_transcript": "wait",
+            "translated_transcript": "wait",
+            "tone": "Neutral",
+            "rate_of_speech": "262.01",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.3733",
+            "end_time": "0.5276",
+            "original_transcript": "for that sir I don't know मराठी so you will get a call from there you can you are you okay with English हिंदी",
+            "translated_transcript": "for that sir I don't know Marathi so you will get a call from there you can you are you okay with English Hindi",
+            "tone": "Neutral",
+            "rate_of_speech": "155.51",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "marathi",
+                "english hindi"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.5436",
+            "end_time": "0.6247",
+            "original_transcript": "हांजी बिलकुल आप आपको क्या जानकारी चाहिए",
+            "translated_transcript": "Hanji Bilkul Aap Apko Kya Jankari Fan",
+            "tone": "Neutral",
+            "rate_of_speech": "86.40",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hanji bilkul aap apko kya jankari fan"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.763",
+            "end_time": "0.7842",
+            "original_transcript": "आपली कंपनी का",
+            "translated_transcript": "Why your company",
+            "tone": "Neutral",
+            "rate_of_speech": "141.73",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.7978",
+            "end_time": "0.8035",
+            "original_transcript": "महाराष्ट्र में",
+            "translated_transcript": "IN MAHARASHTRA",
+            "tone": "Neutral",
+            "rate_of_speech": "352.94",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "in maharashtra"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.8905",
+            "end_time": "0.9182",
+            "original_transcript": "किस चीज के लिए details चाहिए",
+            "translated_transcript": "Kiss Cheese Ke Liae details Fans",
+            "tone": "Neutral",
+            "rate_of_speech": "216.87",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "kiss cheese ke liae",
+                "fans"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.9388",
+            "end_time": "1.0303",
+            "original_transcript": "माल बेचने के वास्ते",
+            "translated_transcript": "Mal Bachne Ke Vaste",
+            "tone": "Neutral",
+            "rate_of_speech": "43.72",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mal bachne ke vaste"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.0413",
+            "end_time": "1.4236",
+            "original_transcript": "distribution ship request register contact particular area requirement availability",
+            "translated_transcript": "distribution ship request register contact particular area requirement availability",
+            "tone": "Neutral",
+            "rate_of_speech": "23.54",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "distribution ship request register contact",
+                "particular area requirement availability"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.4393",
+            "end_time": "1.4397",
+            "original_transcript": "हम्म",
+            "translated_transcript": "Hamm",
+            "tone": "Neutral",
+            "rate_of_speech": "3157.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hamm"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.4667",
+            "end_time": "1.5097",
+            "original_transcript": "मुझे आपका details चाहिए आपका नाम बता दीजिये",
+            "translated_transcript": "Muzhe Apka details Chahiye Apka Naam Bata Dijiye",
+            "tone": "Neutral",
+            "rate_of_speech": "186.05",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "muzhe apka",
+                "chahiye apka naam bata dijiye"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.5262",
+            "end_time": "1.5847",
+            "original_transcript": "देवीलाल किराणा",
+            "translated_transcript": "Devilal Kirana",
+            "tone": "Neutral",
+            "rate_of_speech": "34.18",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "devilal kirana"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.6248",
+            "end_time": "1.7295",
+            "original_transcript": "देवीलाल किराणा",
+            "translated_transcript": "Devilal Kirana",
+            "tone": "Neutral",
+            "rate_of_speech": "19.11",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "devilal kirana"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.7393",
+            "end_time": "1.7812",
+            "original_transcript": "Sir आप wholesaler",
+            "translated_transcript": "Sir Up Wholesaler",
+            "tone": "Neutral",
+            "rate_of_speech": "71.71",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir up wholesaler"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.7983",
+            "end_time": "1.822",
+            "original_transcript": "I wholesaler",
+            "translated_transcript": "The wholesaler",
+            "tone": "Neutral",
+            "rate_of_speech": "84.57",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.8502",
+            "end_time": "1.8643",
+            "original_transcript": "आपका नाम",
+            "translated_transcript": "Your name",
+            "tone": "Neutral",
+            "rate_of_speech": "141.18",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "your"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.8856",
+            "end_time": "1.95",
+            "original_transcript": "रतनपडू पाटील",
+            "translated_transcript": "Ratanpadu Patil",
+            "tone": "Neutral",
+            "rate_of_speech": "31.08",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ratanpadu patil"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.9662",
+            "end_time": "2.0242",
+            "original_transcript": "रतीलाल शेनपडू पाटील",
+            "translated_transcript": "Ratilal Shenpadu Patil",
+            "tone": "Neutral",
+            "rate_of_speech": "51.74",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ratilal shenpadu patil"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.2083",
+            "end_time": "2.2267",
+            "original_transcript": "दुकान का नाम",
+            "translated_transcript": "Shop Ka Naam",
+            "tone": "Neutral",
+            "rate_of_speech": "163.64",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ka naam"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.242",
+            "end_time": "2.2807",
+            "original_transcript": "दुकान का नाम देवीलाल किराणा",
+            "translated_transcript": "Shop Ka Nam Devilal Grocery",
+            "tone": "Neutral",
+            "rate_of_speech": "129.37",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ka nam devilal"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.3102",
+            "end_time": "2.3532",
+            "original_transcript": "जेवलाल किराणा",
+            "translated_transcript": "JEVALAL GROCERY",
+            "tone": "Neutral",
+            "rate_of_speech": "46.51",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "jevalal grocery"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.3722",
+            "end_time": "2.3881",
+            "original_transcript": "पूरा address",
+            "translated_transcript": "full address",
+            "tone": "Happy",
+            "rate_of_speech": "125.13",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "full address"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.423",
+            "end_time": "2.4908",
+            "original_transcript": "A poster",
+            "translated_transcript": "A poster",
+            "tone": "Neutral",
+            "rate_of_speech": "29.49",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.501",
+            "end_time": "2.5686",
+            "original_transcript": "तालुका अंबाळनेर जिल्हा जळगाव महाराष्ट्र",
+            "translated_transcript": "Taluka Ambalner District Jalgaon Maharashtra",
+            "tone": "Neutral",
+            "rate_of_speech": "73.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "taluka ambalner",
+                "jalgaon maharashtra"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.5865",
+            "end_time": "2.601",
+            "original_transcript": "काय आहे sir",
+            "translated_transcript": "What is Sir",
+            "tone": "Neutral",
+            "rate_of_speech": "207.13",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.6595",
+            "end_time": "2.682",
+            "original_transcript": "एक पोट रनायची",
+            "translated_transcript": "ONE STOMACH RUNNY",
+            "tone": "Neutral",
+            "rate_of_speech": "133.43",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "one stomach runny"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.7035",
+            "end_time": "2.7198",
+            "original_transcript": "spelling",
+            "translated_transcript": "spelling",
+            "tone": "Neutral",
+            "rate_of_speech": "61.22",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.7283",
+            "end_time": "2.7683",
+            "original_transcript": "हे अंमळनेर तालुका",
+            "translated_transcript": "This Amlner Taluka",
+            "tone": "Neutral",
+            "rate_of_speech": "74.97",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "amlner taluka"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.7835",
+            "end_time": "2.8135",
+            "original_transcript": "इसका district आहे जळगाव",
+            "translated_transcript": "Iska district is Jalgaon",
+            "tone": "Neutral",
+            "rate_of_speech": "133.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "iska",
+                "jalgaon"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.8265",
+            "end_time": "2.8318",
+            "original_transcript": "जळगाव",
+            "translated_transcript": "Jalgaon",
+            "tone": "Neutral",
+            "rate_of_speech": "186.92",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "jalgaon"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.8508",
+            "end_time": "2.8662",
+            "original_transcript": "महाराष्ट्र",
+            "translated_transcript": "MAHARASHTRA",
+            "tone": "Neutral",
+            "rate_of_speech": "65.22",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "maharashtra"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.9631",
+            "end_time": "2.9852",
+            "original_transcript": "और pin code बताइये",
+            "translated_transcript": "Other pin code lights",
+            "tone": "Neutral",
+            "rate_of_speech": "181.68",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "pin code lights"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.019",
+            "end_time": "3.1012",
+            "original_transcript": "अ PIN code अ योगेश pin code number काय आहे",
+            "translated_transcript": "What is a PIN code A Yogesh pin code number",
+            "tone": "Neutral",
+            "rate_of_speech": "121.68",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pin",
+                "yogesh",
+                "pin code number"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.1363",
+            "end_time": "3.2208",
+            "original_transcript": "बेचाळीस चोपन्न zero एक four two",
+            "translated_transcript": "forty-five zero one four two",
+            "tone": "Neutral",
+            "rate_of_speech": "59.16",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "forty-five zero"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.2283",
+            "end_time": "3.24",
+            "original_transcript": "four two",
+            "translated_transcript": "four two",
+            "tone": "Neutral",
+            "rate_of_speech": "171.43",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.2678",
+            "end_time": "3.2778",
+            "original_transcript": "five",
+            "translated_transcript": "fiv",
+            "tone": "Neutral",
+            "rate_of_speech": "100.17",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.2778",
+            "end_time": "3.2873",
+            "original_transcript": "four",
+            "translated_transcript": "kiln",
+            "tone": "Neutral",
+            "rate_of_speech": "105.08",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.3075",
+            "end_time": "3.3265",
+            "original_transcript": "four to five four",
+            "translated_transcript": "four to five four",
+            "tone": "Neutral",
+            "rate_of_speech": "210.53",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.3388",
+            "end_time": "3.3462",
+            "original_transcript": "हा",
+            "translated_transcript": "This",
+            "tone": "Neutral",
+            "rate_of_speech": "136.36",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.3462",
+            "end_time": "3.3585",
+            "original_transcript": "zero one",
+            "translated_transcript": "zero one",
+            "tone": "Neutral",
+            "rate_of_speech": "162.38",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.4013",
+            "end_time": "3.4623",
+            "original_transcript": "Four two five four zero one",
+            "translated_transcript": "Four two five four zero one",
+            "tone": "Neutral",
+            "rate_of_speech": "98.36",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.4728",
+            "end_time": "3.5333",
+            "original_transcript": "Four two five four zero one correct",
+            "translated_transcript": "Four two five four zero one correct",
+            "tone": "Neutral",
+            "rate_of_speech": "115.67",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.5525",
+            "end_time": "3.6071",
+            "original_transcript": "Four two five four zero one",
+            "translated_transcript": "Four two five four zero one",
+            "tone": "Neutral",
+            "rate_of_speech": "109.76",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.6878",
+            "end_time": "3.7253",
+            "original_transcript": "product product distribution",
+            "translated_transcript": "product product distribution",
+            "tone": "Neutral",
+            "rate_of_speech": "80.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "product product distribution"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.7367",
+            "end_time": "3.7441",
+            "original_transcript": "जी",
+            "translated_transcript": "G",
+            "tone": "Neutral",
+            "rate_of_speech": "133.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.7441",
+            "end_time": "3.7512",
+            "original_transcript": "sir",
+            "translated_transcript": "cheese",
+            "tone": "Neutral",
+            "rate_of_speech": "142.52",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.7602",
+            "end_time": "3.8943",
+            "original_transcript": "details mention करके team को share करो details team के तरफ से confirmation",
+            "translated_transcript": "If you mention details to the team, share the details of the team to confirm",
+            "tone": "Neutral",
+            "rate_of_speech": "111.80",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.9103",
+            "end_time": "3.9365",
+            "original_transcript": "availability येतो ठीक आहे",
+            "translated_transcript": "Availability comes OK",
+            "tone": "Neutral",
+            "rate_of_speech": "114.58",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "availability"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.945",
+            "end_time": "3.9583",
+            "original_transcript": "ठीक आहे sir",
+            "translated_transcript": "All right, sir.",
+            "tone": "Happy",
+            "rate_of_speech": "224.72",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.9671",
+            "end_time": "4.004",
+            "original_transcript": "और कुछ जानकारी चाहिए क्या लाभ आपको",
+            "translated_transcript": "What are the benefits of being a little conscious fan?",
+            "tone": "Neutral",
+            "rate_of_speech": "271.37",
+            "emotion": "curiosity",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "conscious fan"
+            ]
+        }
+    ],
+    "translated_segments": "Good evening thank you for calling ITC My name is Sharad How can I assist you Hello IC company see how I can help you Yes I can speak Marathi I don't know Marathi you are okay with English Hindi Science can be So please wait for that sir I don't know Marathi so you will get a call from there you can you are you okay with English Hindi Hanji Bilkul Aap Apko Kya Jankari Fan Why your company IN MAHARASHTRA Kiss Cheese Ke Liae details Fans Mal Bachne Ke Vaste distribution ship request register contact particular area requirement availability Hamm Muzhe Apka details Chahiye Apka Naam Bata Dijiye Devilal Kirana Devilal Kirana Sir Up Wholesaler The wholesaler Your name Ratanpadu Patil Ratilal Shenpadu Patil Shop Ka Naam Shop Ka Nam Devilal Grocery JEVALAL GROCERY full address A poster Taluka Ambalner District Jalgaon Maharashtra What is Sir ONE STOMACH RUNNY spelling This Amlner Taluka Iska district is Jalgaon Jalgaon MAHARASHTRA Other pin code lights What is a PIN code A Yogesh pin code number forty-five zero one four two four two fiv kiln four to five four This zero one Four two five four zero one Four two five four zero one correct Four two five four zero one product product distribution G cheese If you mention details to the team, share the details of the team to confirm Availability comes OK All right, sir. What are the benefits of being a little conscious fan? ",
+    "speaker_a_segments": "Good evening thank you for calling ITC My name is Sharad How can I assist you see how I can help you I don't know Marathi you are okay with English Hindi Science can be So please for that sir I don't know Marathi so you will get a call from there you can you are you okay with English Hindi Hanji Bilkul Aap Apko Kya Jankari Fan Kiss Cheese Ke Liae details Fans distribution ship request register contact particular area requirement availability Muzhe Apka details Chahiye Apka Naam Bata Dijiye Devilal Kirana Sir Up Wholesaler Your name Shop Ka Naam JEVALAL GROCERY full address What is Sir spelling Jalgaon Other pin code lights four two fiv four to five four This Four two five four zero one Four two five four zero one correct product product distribution cheese If you mention details to the team, share the details of the team to confirm Availability comes OK All right, sir. What are the benefits of being a little conscious fan? ",
+    "speaker_b_segments": "Hello IC company Yes I can speak Marathi wait Why your company IN MAHARASHTRA Mal Bachne Ke Vaste Hamm Devilal Kirana The wholesaler Ratanpadu Patil Ratilal Shenpadu Patil Shop Ka Nam Devilal Grocery A poster Taluka Ambalner District Jalgaon Maharashtra ONE STOMACH RUNNY This Amlner Taluka Iska district is Jalgaon MAHARASHTRA What is a PIN code A Yogesh pin code number forty-five zero one four two kiln zero one Four two five four zero one G ",
+    "summary": "The caller, Yogesh, is enquiring about distributing cheese in his area. He is asked to provide his details, including name, shop name, address, and pin code. He provides his name as Ratanpadu Patil, and the shop name is Devilal Grocery. The address is A poster Taluka Ambalner District Jalgaon Maharashtra with the pin code of 415410. They discuss the availability of distribution for cheese products before Yogesh asks about the benefits of being a little conscious fan. The call ends with the representative assuring Yogesh that the details will be shared with the team and they will get back to him with availability.",
+    "speaker_a_summary": "The caller, who speaks only Marathi, wants to know the availability of Danone brand cheese products for distribution. Sharad, who doesn't speak Marathi, confirms that the caller will be transferred to someone who can help them. The caller provides their name, the name and address of their shop, and the correct product and postal code details. Sharad confirms this information and informs the caller that the availability of the products can be confirmed by the distribution team.",
+    "speaker_b_summary": "A Marathi speaking customer from Maharashtra contacts an IC company to provide information about a poster they are selling. The poster is named Devilal Grocery and it belongs to a shop owned by a wholesaler named Ratanpadu Patil. The customer provides the details of the address and the district of the shop and also shares the pin code of the area which is 450125.",
+    "cohere_points": "- Caller is from ITC and is helping a company called IC with a shipment request\n- Call is occurring in India as the language is Marathi and the caller is named Sharad\n- The wholesaler's name is Ratanpadu Patil and their shop is named Devilal Grocery\n- The address given is in the Ambalner Taluka district of Jalgaon, Maharashtra\n- The caller is asking for the product distribution details of cheese to be shared with the team to confirm availability.",
+    "opening_comments": "Yes",
+    "closing_comments": "No",
+    "Topic": "1. Company Introduction\n2. Language Preference\n3. Geographic Location\n4. Customer Service\n5. Marathi Speaking\n6. English and Hindi\n7. Wholesaler Information\n8. Shop Details\n9. Grocery Store\n10. Business Contact Information\n11. Location Specifics\n12. Pin Code Explanation\n13. Product Distribution\n14. Team Communication\n15. Benefits of Consciousness",
+    "Resolution": "The customer's issue seems to be in progress as the assistant is gathering details and planning to share them with the team to confirm availability, but the issue has not been fully resolved yet.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "Yes, the caller displayed empathy when they responded with \"All right, sir\" at the end of the conversation, showing attentiveness and consideration towards the customer.",
+    "Was there any profanity on the call": "No",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 93.76299999999979,
+    "num_silences": 85
+}

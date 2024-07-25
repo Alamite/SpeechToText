@@ -1,0 +1,825 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0705",
+            "end_time": "0.1152",
+            "original_transcript": "Thank you for calling RTC My name is vikram how may I help you today",
+            "translated_transcript": "Thank you for calling RTC My name is vikram how can I help you today",
+            "tone": "Neutral",
+            "rate_of_speech": "335.95",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thank",
+                "rtc"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.135",
+            "end_time": "0.2753",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "7.13",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.2838",
+            "end_time": "0.3173",
+            "original_transcript": "ITC ITC foot division",
+            "translated_transcript": "ITC ITC Football Division",
+            "tone": "Neutral",
+            "rate_of_speech": "119.40",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "itc itc",
+                "football division"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.3293",
+            "end_time": "0.3367",
+            "original_transcript": "हा",
+            "translated_transcript": "This",
+            "tone": "Neutral",
+            "rate_of_speech": "136.36",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.3498",
+            "end_time": "0.3685",
+            "original_transcript": "ITC limited sir",
+            "translated_transcript": "ITC limited cheese",
+            "tone": "Neutral",
+            "rate_of_speech": "160.57",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "itc"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.3841",
+            "end_time": "0.3973",
+            "original_transcript": "RTC",
+            "translated_transcript": "RTC",
+            "tone": "Neutral",
+            "rate_of_speech": "75.85",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "rtc"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.4068",
+            "end_time": "0.4265",
+            "original_transcript": "ITC",
+            "translated_transcript": "ITC",
+            "tone": "Neutral",
+            "rate_of_speech": "50.80",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "itc"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.4355",
+            "end_time": "0.4528",
+            "original_transcript": "ITC मतलब",
+            "translated_transcript": "ITC Means",
+            "tone": "Neutral",
+            "rate_of_speech": "115.27",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "itc means"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.4732",
+            "end_time": "0.4955",
+            "original_transcript": "Indian Tobacco Company",
+            "translated_transcript": "Indian Tobacco Company",
+            "tone": "Neutral",
+            "rate_of_speech": "134.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "tobacco"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.5048",
+            "end_time": "0.517",
+            "original_transcript": "Indian",
+            "translated_transcript": "Indisch",
+            "tone": "Neutral",
+            "rate_of_speech": "82.19",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "indisch"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.526",
+            "end_time": "0.5507",
+            "original_transcript": "Indian Tobacco Company",
+            "translated_transcript": "Indian Tobacco Company",
+            "tone": "Neutral",
+            "rate_of_speech": "121.54",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "tobacco"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.5632",
+            "end_time": "0.5746",
+            "original_transcript": "Tobacco",
+            "translated_transcript": "Tabak",
+            "tone": "Neutral",
+            "rate_of_speech": "87.08",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "tabak"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.585",
+            "end_time": "0.596",
+            "original_transcript": "हां",
+            "translated_transcript": "Ha",
+            "tone": "Neutral",
+            "rate_of_speech": "90.91",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ha"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.6045",
+            "end_time": "0.754",
+            "original_transcript": "sir actually food division",
+            "translated_transcript": "cheese actually food division",
+            "tone": "Neutral",
+            "rate_of_speech": "26.76",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "food division"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.782",
+            "end_time": "0.8927",
+            "original_transcript": "product",
+            "translated_transcript": "prodotto",
+            "tone": "Neutral",
+            "rate_of_speech": "9.03",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.9236",
+            "end_time": "1.0215",
+            "original_transcript": "Hello sir brand related",
+            "translated_transcript": "Hello sir brand related",
+            "tone": "Neutral",
+            "rate_of_speech": "40.88",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir brand"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.1227",
+            "end_time": "1.1703",
+            "original_transcript": "तो उसमे ऊपर लिखा है",
+            "translated_transcript": "He wrote it over the top",
+            "tone": "Neutral",
+            "rate_of_speech": "125.87",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.1805",
+            "end_time": "1.4613",
+            "original_transcript": "अ almond",
+            "translated_transcript": "a almond",
+            "tone": "Neutral",
+            "rate_of_speech": "7.12",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.493",
+            "end_time": "1.5305",
+            "original_transcript": "एक दोन दो दिन खाने के बाद क्या हो गया",
+            "translated_transcript": "One Two Two Din Khaane Khaen Kad Kya Ho Gaya",
+            "tone": "Neutral",
+            "rate_of_speech": "266.67",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "din khaane khaen kad kya ho gaya"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.541",
+            "end_time": "1.593",
+            "original_transcript": "मतलब आज रोटी बना के खाते",
+            "translated_transcript": "Matlab Aaj Roti Bana Ke Account",
+            "tone": "Neutral",
+            "rate_of_speech": "115.35",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "matlab aaj roti bana ke account"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.6027",
+            "end_time": "1.6171",
+            "original_transcript": "अच्छा okay okay",
+            "translated_transcript": "Acha okay okay",
+            "tone": "Neutral",
+            "rate_of_speech": "207.13",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "acha",
+                "okay okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.632",
+            "end_time": "1.6818",
+            "original_transcript": "test करू का",
+            "translated_transcript": "Why test",
+            "tone": "Neutral",
+            "rate_of_speech": "40.12",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.691",
+            "end_time": "1.6983",
+            "original_transcript": "Okay",
+            "translated_transcript": "Alright",
+            "tone": "Neutral",
+            "rate_of_speech": "136.05",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "alright"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.707",
+            "end_time": "1.7323",
+            "original_transcript": "वैसा biscuit का taste",
+            "translated_transcript": "Vaisa biscuit to taste",
+            "tone": "Neutral",
+            "rate_of_speech": "157.79",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "vaisa"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.7483",
+            "end_time": "1.9551",
+            "original_transcript": "कि आपको हमारा product में experience हो रहा है क्योंकि हमारा product का market में आने से पहले ही उसका quality manufacturing complete check होने के बाद ही market में आता है sir",
+            "translated_transcript": "If you have experience in Hamara product, be sure to check if you have seen this product in the market, quality manufacturing complete check Yes, if this product is in the market now sir",
+            "tone": "Happy",
+            "rate_of_speech": "164.40",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "hamara",
+                "complete check"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.0",
+            "end_time": "2.3393",
+            "original_transcript": "आदमी भेज देता है और उधर phone करके एक बार आदमी आदमी",
+            "translated_transcript": "Aadmi Bhej Deta Hai and Borrow a Bar Aadmi Aadmi",
+            "tone": "Neutral",
+            "rate_of_speech": "29.47",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "aadmi bhej deta hai",
+                "borrow",
+                "aadmi aadmi"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.3433",
+            "end_time": "2.362",
+            "original_transcript": "quality",
+            "translated_transcript": "kualitas",
+            "tone": "Neutral",
+            "rate_of_speech": "53.57",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.4465",
+            "end_time": "2.597",
+            "original_transcript": "आपकी तरफ से complaint raise करूँगा तो complaint raise करने के लिए मेरे पास available है sir",
+            "translated_transcript": "If you raise a complaint, raise a complaint and raise a complaint, your pass is available sir.",
+            "tone": "Neutral",
+            "rate_of_speech": "112.94",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "available sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.6187",
+            "end_time": "3.0928",
+            "original_transcript": "details details complaint raise concern team check check packet collect कर check",
+            "translated_transcript": "details details complaint raise concern team check packet collect tax check",
+            "tone": "Neutral",
+            "rate_of_speech": "23.20",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "details details complaint",
+                "concern team check packet",
+                "tax check"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.1982",
+            "end_time": "3.2358",
+            "original_transcript": "कृष्णा मांजरे",
+            "translated_transcript": "Krishna Manjare",
+            "tone": "Neutral",
+            "rate_of_speech": "53.10",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "krishna manjare"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.2473",
+            "end_time": "3.2811",
+            "original_transcript": "कृष्णा मांजरे",
+            "translated_transcript": "Krishna Manjare",
+            "tone": "Neutral",
+            "rate_of_speech": "59.11",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "krishna manjare"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.2898",
+            "end_time": "3.354",
+            "original_transcript": "और sir उसमे ऊपर लिखा है काजू और आलमंड",
+            "translated_transcript": "Aur sir usme upper write hai cashew aur almond",
+            "tone": "Neutral",
+            "rate_of_speech": "140.22",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "aur",
+                "sir usme",
+                "hai cashew aur almond"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.3675",
+            "end_time": "3.551",
+            "original_transcript": "brand के ऊपर",
+            "translated_transcript": "Brand K Upper",
+            "tone": "Neutral",
+            "rate_of_speech": "16.35",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "brand k upper"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.569",
+            "end_time": "3.5798",
+            "original_transcript": "okay",
+            "translated_transcript": "ok",
+            "tone": "Neutral",
+            "rate_of_speech": "92.31",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.5947",
+            "end_time": "4.0337",
+            "original_transcript": "same same same",
+            "translated_transcript": "samma samma",
+            "tone": "Neutral",
+            "rate_of_speech": "4.56",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "samma samma"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.0407",
+            "end_time": "4.1077",
+            "original_transcript": "तो तुम्हारा आदमी बतायेगा भाई कौनसा फरक क्या है",
+            "translated_transcript": "That you are Aadmi Batayega Bhai Kaunsa Farak Kya Hai",
+            "tone": "Neutral",
+            "rate_of_speech": "149.25",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "aadmi batayega bhai kaunsa farak kya hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.1171",
+            "end_time": "4.1967",
+            "original_transcript": "काजू बदाम आप तुम्हारा आदमी बता देंगे",
+            "translated_transcript": "Cashew Almonds Aap Tumhara Aadmi Bata Denge",
+            "tone": "Neutral",
+            "rate_of_speech": "88.03",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "cashew almonds aap tumhara aadmi bata denge"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.2162",
+            "end_time": "4.2392",
+            "original_transcript": "कोई बात नहीं sir हम",
+            "translated_transcript": "No, no, sir.",
+            "tone": "Neutral",
+            "rate_of_speech": "130.43",
+            "emotion": "disapproval",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.2575",
+            "end_time": "4.6133",
+            "original_transcript": "complaint हमने already register six o'clock तक time office",
+            "translated_transcript": "complaint We already register six o'clock at the time office",
+            "tone": "Neutral",
+            "rate_of_speech": "28.10",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "time office"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.1055",
+            "end_time": "5.1473",
+            "original_transcript": "तो बोला ठीक आहे तो शिला हो",
+            "translated_transcript": "It's okay to talk, it's cool.",
+            "tone": "Happy",
+            "rate_of_speech": "143.43",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "'s okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.156",
+            "end_time": "5.4468",
+            "original_transcript": "return return return",
+            "translated_transcript": "return return return",
+            "tone": "Neutral",
+            "rate_of_speech": "10.32",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "return return return"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.4722",
+            "end_time": "5.8385",
+            "original_transcript": "लिखा है और check करो कपडासा वैसा खोल दिया वैसा का निकला कपडा निकला shirt निकला बराबर",
+            "translated_transcript": "Write Hai Aur Check Clothing Vaisa Khol Dia Vaisa Ka Nikla Dress Nikla Shirt Nikla",
+            "tone": "Neutral",
+            "rate_of_speech": "40.95",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hai aur",
+                "clothing vaisa khol dia vaisa ka nikla dress nikla shirt nikla"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.847",
+            "end_time": "5.8683",
+            "original_transcript": "कपडा खा उगाय ना",
+            "translated_transcript": "Don't eat clothes.",
+            "tone": "Neutral",
+            "rate_of_speech": "140.62",
+            "emotion": "disapproval",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.8768",
+            "end_time": "5.8857",
+            "original_transcript": "हम्म",
+            "translated_transcript": "Hamm",
+            "tone": "Neutral",
+            "rate_of_speech": "112.99",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hamm"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.9285",
+            "end_time": "5.9317",
+            "original_transcript": "related",
+            "translated_transcript": "correlati",
+            "tone": "Neutral",
+            "rate_of_speech": "315.79",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.3445",
+            "end_time": "6.3583",
+            "original_transcript": "return",
+            "translated_transcript": "returna",
+            "tone": "Neutral",
+            "rate_of_speech": "72.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.3902",
+            "end_time": "6.3948",
+            "original_transcript": "Hi",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "214.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.3948",
+            "end_time": "6.4053",
+            "original_transcript": "साकी",
+            "translated_transcript": "Saki",
+            "tone": "Neutral",
+            "rate_of_speech": "95.24",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "saki"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.4208",
+            "end_time": "6.4723",
+            "original_transcript": "तो कपडा return दे दिया बोले तो मतलब की आपको नया कपडा खरीद कर देती है",
+            "translated_transcript": "He returns the clothes, he says, he pays the tax on the purchase of new clothes.",
+            "tone": "Neutral",
+            "rate_of_speech": "310.78",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "new clothes"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.4915",
+            "end_time": "6.496",
+            "original_transcript": "उसके",
+            "translated_transcript": "Uske",
+            "tone": "Neutral",
+            "rate_of_speech": "221.40",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "uske"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.5066",
+            "end_time": "6.5085",
+            "original_transcript": "तागे",
+            "translated_transcript": "Tage",
+            "tone": "Neutral",
+            "rate_of_speech": "540.54",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "tage"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.5248",
+            "end_time": "6.5498",
+            "original_transcript": "अच्छा ठीक आहे",
+            "translated_transcript": "Acha is ok",
+            "tone": "Neutral",
+            "rate_of_speech": "120.00",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "acha"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.5953",
+            "end_time": "6.8153",
+            "original_transcript": "Okay sir call back",
+            "translated_transcript": "Okay sir call back",
+            "tone": "Neutral",
+            "rate_of_speech": "18.18",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.3162",
+            "end_time": "7.7191",
+            "original_transcript": "investigation",
+            "translated_transcript": "Inquiry",
+            "tone": "Neutral",
+            "rate_of_speech": "2.48",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "inquiry"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.7308",
+            "end_time": "7.8706",
+            "original_transcript": "एक बार झूठ पर आ",
+            "translated_transcript": "Pull on a bar stool",
+            "tone": "Neutral",
+            "rate_of_speech": "35.76",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pull"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.8745",
+            "end_time": "8.2747",
+            "original_transcript": "executive sample collect",
+            "translated_transcript": "executive sample collection",
+            "tone": "Neutral",
+            "rate_of_speech": "7.50",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "executive sample collection"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.2818",
+            "end_time": "8.7005",
+            "original_transcript": "complaint raise",
+            "translated_transcript": "raise a complaint",
+            "tone": "Neutral",
+            "rate_of_speech": "7.17",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.9055",
+            "end_time": "8.9493",
+            "original_transcript": "बहुत बहुत धन्यवाद sir आप ITC संपकी आप दिन",
+            "translated_transcript": "Thank you very much sir Aap ITC Ending Aap Day",
+            "tone": "Neutral",
+            "rate_of_speech": "228.14",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "thank",
+                "aap itc ending aap"
+            ]
+        }
+    ],
+    "translated_segments": "Thank you for calling RTC My name is vikram how can I help you today Hallo ITC ITC Football Division This ITC limited cheese RTC ITC ITC Means Indian Tobacco Company Indisch Indian Tobacco Company Tabak Ha cheese actually food division prodotto Hello sir brand related He wrote it over the top a almond One Two Two Din Khaane Khaen Kad Kya Ho Gaya Matlab Aaj Roti Bana Ke Account Acha okay okay Why test Alright Vaisa biscuit to taste If you have experience in Hamara product, be sure to check if you have seen this product in the market, quality manufacturing complete check Yes, if this product is in the market now sir Aadmi Bhej Deta Hai and Borrow a Bar Aadmi Aadmi kualitas If you raise a complaint, raise a complaint and raise a complaint, your pass is available sir. details details complaint raise concern team check packet collect tax check Krishna Manjare Krishna Manjare Aur sir usme upper write hai cashew aur almond Brand K Upper ok samma samma That you are Aadmi Batayega Bhai Kaunsa Farak Kya Hai Cashew Almonds Aap Tumhara Aadmi Bata Denge No, no, sir. complaint We already register six o'clock at the time office It's okay to talk, it's cool. return return return Write Hai Aur Check Clothing Vaisa Khol Dia Vaisa Ka Nikla Dress Nikla Shirt Nikla Don't eat clothes. Hamm correlati returna Hallo Saki He returns the clothes, he says, he pays the tax on the purchase of new clothes. Uske Tage Acha is ok Okay sir call back Inquiry Pull on a bar stool executive sample collection raise a complaint Thank you very much sir Aap ITC Ending Aap Day ",
+    "speaker_a_segments": "Thank you for calling RTC My name is vikram how can I help you today Hallo ITC ITC Football Division This ITC limited cheese ITC Indian Tobacco Company Indian Tobacco Company Ha cheese actually food division prodotto Hello sir brand related One Two Two Din Khaane Khaen Kad Kya Ho Gaya Acha okay okay Alright If you have experience in Hamara product, be sure to check if you have seen this product in the market, quality manufacturing complete check Yes, if this product is in the market now sir If you raise a complaint, raise a complaint and raise a complaint, your pass is available sir. details details complaint raise concern team check packet collect tax check Krishna Manjare ok No, no, sir. complaint We already register six o'clock at the time office Hamm correlati Saki He returns the clothes, he says, he pays the tax on the purchase of new clothes. Tage Acha is ok Okay sir call back Inquiry executive sample collection raise a complaint Thank you very much sir Aap ITC Ending Aap Day ",
+    "speaker_b_segments": "RTC ITC Means Indisch Tabak He wrote it over the top a almond Matlab Aaj Roti Bana Ke Account Why test Vaisa biscuit to taste Aadmi Bhej Deta Hai and Borrow a Bar Aadmi Aadmi kualitas Krishna Manjare Aur sir usme upper write hai cashew aur almond Brand K Upper samma samma That you are Aadmi Batayega Bhai Kaunsa Farak Kya Hai Cashew Almonds Aap Tumhara Aadmi Bata Denge It's okay to talk, it's cool. return return return Write Hai Aur Check Clothing Vaisa Khol Dia Vaisa Ka Nikla Dress Nikla Shirt Nikla Don't eat clothes. returna Hallo Uske Pull on a bar stool ",
+    "summary": "Vikram from ITC (Indian Tobacco Company) Foods Division is calling regarding a complaint about a product experience. The product apparently has a writing at the top which reads 'almond'. The caller wants to know if this is a food division product, and if it's of good quality. Vikram assures the caller that the product is of good quality, and that if he sees any issues with it, he should raise a complaint. The caller informs Vikram that he already did so, and that he received a callback, but he is not satisfied with the response, so he called again. The caller also mentions an issue with returning clothes he bought, and Vikram offers to connect him with the respective team, but the caller prefers to speak to a certain 'Krishna Manjare' first about the brand of cashew and almonds, before deciding to raise the complaint. The call ends with the caller thanking ITC and ending the call.",
+    "speaker_a_summary": "Vikram from RTC called ITC to inquire about a complaint he made regarding their product. The product seems to have been of low quality, and Vikram is told to raise a complaint, collect the packet, and check the tax details. It is then revealed that the complaint has already been registered and is under investigation.",
+    "speaker_b_summary": "A person is writing on a almond matlab and talking to another person. They discuss the differences between cashews and almonds, and the other person suggests trying biscuits and discussing the result. The first person writes \"RTC ITC\" and asks the other person to check their clothing and pull up a bar stool. There are some misunderstandings and incorrect translations indicated in the text, likely resulting from the use of an AI model for generating the text.",
+    "cohere_points": "- Vikram from ITC speaks to a customer complaining about a food division product containing a writing error and unsatisfactory packaging\n- Customer is told to raise a complaint and provided with complaints department details\n- Other issues such as returns and inquiries are also discussed \n- Call ends with an appreciation of the ITC and a promise to call back.",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "1. RTC Customer Service\n2. ITC Football Division\n3. ITC Indian Tobacco Company\n4. Food Division Products\n5. Brand Communication\n6. Customer Complaints\n7. Quality Check\n8. Market Presence\n9. Product Experience\n10. Manufacturing Standards\n11. Complaint Resolution\n12. Product Inquiries\n13. Brand Identity\n14. Return Policy\n15. Taxation and Payments",
+    "Resolution": "The customer issue is not fully resolved as there are still ongoing discussions about complaints, sample collection, and returning clothes.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "No.",
+    "Was there any profanity on the call": "No.",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 133.40199999999976,
+    "num_silences": 145
+}

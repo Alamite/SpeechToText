@@ -1,0 +1,491 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0",
+            "end_time": "0.0072",
+            "original_transcript": "हम्म",
+            "translated_transcript": "Hamm",
+            "tone": "Neutral",
+            "rate_of_speech": "139.53",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hamm"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0803",
+            "end_time": "0.103",
+            "original_transcript": "Good afternoon thank you for calling ITC",
+            "translated_transcript": "Good afternoon thank you for calling ITC",
+            "tone": "Happy",
+            "rate_of_speech": "309.05",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good afternoon",
+                "itc"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.103",
+            "end_time": "0.1068",
+            "original_transcript": "धन्यवाद",
+            "translated_transcript": "Thank you",
+            "tone": "Neutral",
+            "rate_of_speech": "521.74",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thank"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.1695",
+            "end_time": "0.1752",
+            "original_transcript": "Good",
+            "translated_transcript": "Goed",
+            "tone": "Neutral",
+            "rate_of_speech": "176.47",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "goed"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.1762",
+            "end_time": "0.2143",
+            "original_transcript": "afternoon जी good afternoon",
+            "translated_transcript": "afternoon G good afternoon",
+            "tone": "Happy",
+            "rate_of_speech": "104.80",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good afternoon"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.2243",
+            "end_time": "0.2748",
+            "original_transcript": "match box",
+            "translated_transcript": "matchbox",
+            "tone": "Neutral",
+            "rate_of_speech": "19.81",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.286",
+            "end_time": "0.3195",
+            "original_transcript": "कौनसा माच बघ नाम क्या बताया",
+            "translated_transcript": "Watch Kaunsa Mach Naam Kya Bataya",
+            "tone": "Neutral",
+            "rate_of_speech": "179.02",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "watch kaunsa mach naam kya bataya"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.34",
+            "end_time": "0.378",
+            "original_transcript": "match box",
+            "translated_transcript": "matchbox",
+            "tone": "Neutral",
+            "rate_of_speech": "26.30",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.3978",
+            "end_time": "0.406",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "122.45",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.4245",
+            "end_time": "0.461",
+            "original_transcript": "sir",
+            "translated_transcript": "cheese",
+            "tone": "Neutral",
+            "rate_of_speech": "27.40",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.4778",
+            "end_time": "0.55",
+            "original_transcript": "अच्छा sheep हा SHIP sheep",
+            "translated_transcript": "ACHA SHEEP THIS SHIP SHEEP",
+            "tone": "Neutral",
+            "rate_of_speech": "69.28",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "acha sheep this ship sheep"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.5725",
+            "end_time": "0.728",
+            "original_transcript": "division complaint match box",
+            "translated_transcript": "division complaint match box",
+            "tone": "Neutral",
+            "rate_of_speech": "25.72",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "division complaint"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.7432",
+            "end_time": "0.953",
+            "original_transcript": "मुझे एक replacement delivery delivery करके कम से कम एक हफ्ता हो",
+            "translated_transcript": "How to make a replacement delivery or an installment",
+            "tone": "Neutral",
+            "rate_of_speech": "42.89",
+            "emotion": "confusion",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "replacement delivery"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.977",
+            "end_time": "1.4458",
+            "original_transcript": "replacement match box replacement match box",
+            "translated_transcript": "replacement match box replacement match box",
+            "tone": "Neutral",
+            "rate_of_speech": "12.80",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "box replacement"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.4578",
+            "end_time": "1.5263",
+            "original_transcript": "status जानना चाहता हूँ",
+            "translated_transcript": "status Janna Fan Hoop",
+            "tone": "Neutral",
+            "rate_of_speech": "58.39",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "janna fan hoop"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.5377",
+            "end_time": "1.6181",
+            "original_transcript": "number",
+            "translated_transcript": "nummer",
+            "tone": "Neutral",
+            "rate_of_speech": "12.42",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.6372",
+            "end_time": "1.6668",
+            "original_transcript": "कंबरे नंबर",
+            "translated_transcript": "NUMBER OF BELTS",
+            "tone": "Neutral",
+            "rate_of_speech": "101.12",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "number of belts"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.6793",
+            "end_time": "1.7243",
+            "original_transcript": "number बचाव या pin number बचाव",
+            "translated_transcript": "number save this pin number",
+            "tone": "Neutral",
+            "rate_of_speech": "111.15",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pin number"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.7418",
+            "end_time": "2.0455",
+            "original_transcript": "complaint replacement replacement के लिए sir",
+            "translated_transcript": "Complaint replacement replacement",
+            "tone": "Neutral",
+            "rate_of_speech": "9.88",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "complaint",
+                "replacement replacement"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.0623",
+            "end_time": "2.4985",
+            "original_transcript": "okay okay no problem",
+            "translated_transcript": "okay okay no problem",
+            "tone": "Neutral",
+            "rate_of_speech": "9.17",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.8382",
+            "end_time": "5.2303",
+            "original_transcript": "Line पे रहने के लिए धन्यवाद अशोक जी बोलिये sir",
+            "translated_transcript": "Line Pay Rahne Ke Lie Thank you Ashok Ji Boliye sir",
+            "tone": "Neutral",
+            "rate_of_speech": "28.05",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pay rahne ke lie thank",
+                "ashok ji boliye"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.2485",
+            "end_time": "5.2931",
+            "original_transcript": "मतलब भेजा क्या delete हो चूका है",
+            "translated_transcript": "Meaning Bheja Kya Delete Yes Chuka Hai",
+            "tone": "Neutral",
+            "rate_of_speech": "156.77",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "meaning bheja kya delete",
+                "chuka hai"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.3105",
+            "end_time": "5.3307",
+            "original_transcript": "sir already हो ना",
+            "translated_transcript": "sir already yes no",
+            "tone": "Neutral",
+            "rate_of_speech": "198.51",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.3431",
+            "end_time": "5.4836",
+            "original_transcript": "अशोक गोड",
+            "translated_transcript": "ASHOK SWEET",
+            "tone": "Happy",
+            "rate_of_speech": "14.23",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ashok sweet"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.495",
+            "end_time": "5.4963",
+            "original_transcript": "नाही",
+            "translated_transcript": "No",
+            "tone": "Neutral",
+            "rate_of_speech": "759.49",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.5023",
+            "end_time": "5.511",
+            "original_transcript": "नाही",
+            "translated_transcript": "No",
+            "tone": "Neutral",
+            "rate_of_speech": "115.38",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.521",
+            "end_time": "5.5242",
+            "original_transcript": "नाही",
+            "translated_transcript": "No",
+            "tone": "Neutral",
+            "rate_of_speech": "315.79",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.5373",
+            "end_time": "5.5533",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "62.43",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.576",
+            "end_time": "5.7202",
+            "original_transcript": "किसको delivery मिला नहीं मिला तो मैं call करता",
+            "translated_transcript": "Kisco delivery doesn't get it, he calls me",
+            "tone": "Neutral",
+            "rate_of_speech": "55.49",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "kisco"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.7328",
+            "end_time": "5.8968",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "6.10",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.921",
+            "end_time": "6.0071",
+            "original_transcript": "discuss कर call back करता हूँ",
+            "translated_transcript": "Discuss Call Back Hoo",
+            "tone": "Neutral",
+            "rate_of_speech": "46.43",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "discuss call",
+                "hoo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.0168",
+            "end_time": "6.372",
+            "original_transcript": "sorry",
+            "translated_transcript": "sorryl",
+            "tone": "Neutral",
+            "rate_of_speech": "2.82",
+            "emotion": "remorse",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.3838",
+            "end_time": "6.4038",
+            "original_transcript": "ठीक आहे ठीक आहे",
+            "translated_transcript": "Okay. Okay.",
+            "tone": "Neutral",
+            "rate_of_speech": "99.92",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay",
+                "okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.8247",
+            "end_time": "6.9883",
+            "original_transcript": "ठीक है sir आप निश्चिंत रहिये हमारे team के साथ discuss करके आपको call back करके inform करता हूँ okay thank you so much अशोक जी call करने के लिए आपका दिन शुभ हो",
+            "translated_transcript": "Well sir be sure to discuss the team and inform you, okay, thank you so much Ashok ji call back and tell me happy day.",
+            "tone": "Happy",
+            "rate_of_speech": "152.77",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "well",
+                "ashok",
+                "happy day"
+            ]
+        }
+    ],
+    "translated_segments": "Hamm Good afternoon thank you for calling ITC Thank you Goed afternoon G good afternoon matchbox Watch Kaunsa Mach Naam Kya Bataya matchbox Hallo cheese ACHA SHEEP THIS SHIP SHEEP division complaint match box How to make a replacement delivery or an installment replacement match box replacement match box status Janna Fan Hoop nummer NUMBER OF BELTS number save this pin number Complaint replacement replacement okay okay no problem Line Pay Rahne Ke Lie Thank you Ashok Ji Boliye sir Meaning Bheja Kya Delete Yes Chuka Hai sir already yes no ASHOK SWEET No No No Hallo Kisco delivery doesn't get it, he calls me Hallo Discuss Call Back Hoo sorryl Okay. Okay. Well sir be sure to discuss the team and inform you, okay, thank you so much Ashok ji call back and tell me happy day. ",
+    "speaker_a_segments": "Hamm Good afternoon thank you for calling ITC afternoon G good afternoon Watch Kaunsa Mach Naam Kya Bataya cheese ACHA SHEEP THIS SHIP SHEEP nummer Complaint replacement replacement Line Pay Rahne Ke Lie Thank you Ashok Ji Boliye sir sir already yes no ASHOK SWEET No No Discuss Call Back Hoo Okay. Okay. Well sir be sure to discuss the team and inform you, okay, thank you so much Ashok ji call back and tell me happy day. ",
+    "speaker_b_segments": "Thank you Goed matchbox matchbox Hallo division complaint match box How to make a replacement delivery or an installment replacement match box replacement match box status Janna Fan Hoop NUMBER OF BELTS number save this pin number okay okay no problem Meaning Bheja Kya Delete Yes Chuka Hai No Hallo Kisco delivery doesn't get it, he calls me Hallo sorryl ",
+    "summary": "A customer is frustrated with their experience trying to get a replacement for a matchbox they ordered from ITC. They were redirected multiple times, and were never able to speak to a representative who could help them with the issue. They are awaiting a call back from a team leader to discuss the issue and find a solution.",
+    "speaker_a_summary": "Ashok called ITC's customer service inquiring about replacing a product he bought from them. He was told that his issue will be addressed by the concerned team and they will call him back regarding the same.",
+    "speaker_b_summary": "Matchbox wants to know the status of a replacement for a matchbox.  They want to know if it has been shipped yet.  They also want to know if they can get a refund.  They are also confused about their order and if it is complete.  They also want to know if they can get a different product instead.  They are also frustrated that the delivery service cannot seem to locate them correctly.  They ask for their order to be deleted and refunded in full.  They are not satisfied with the support they are receiving.  They are also curious if they can get a discount on their next purchase if this order is resolved quickly.  They provide their phone number, email, and other details to help resolve this issue.  They also want to know if they are on the list for a product giveaway.  They are also asking for their original order to be prioritized and processed.  They also want to ensure this.  They are also asking for a status update.  They are also asking for a confirmation of this.  They are also asking for a ticket to be opened for this.  They are also asking for a refund in the event that this cannot be delivered.",
+    "cohere_points": "- Ashok is having trouble with their Matchbox and is looking for a replacement\n- They have called a company to discuss the issue and are waiting for a callback. \n- The callback never came so they left a message to call them back. \n- They are frustrated with the lack of response and are hoping for a resolution soon. \n- They hope to have a happy day once this is resolved.",
+    "opening_comments": "Yes",
+    "closing_comments": "No",
+    "Topic": "1. Good afternoon greetings\n2. Customer service calls\n3. Replacement delivery process\n4. Complaint handling\n5. Phone etiquette\n6. Matchbox product queries\n7. Satisfaction follow-up\n8. Issue resolution steps\n9. Thanking customers\n10. Acknowledging feedback\n11. Confirming details\n12. Replacing faulty items\n13. Checking order status\n14. Providing assistance\n15. Ensuring customer satisfaction",
+    "Resolution": "The customer issue is not resolved yet as the conversation is still ongoing and involves discussing the matter with the team for a resolution.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "No, the caller did not display empathy in the conversation provided.",
+    "Was there any profanity on the call": "No",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 65.16900000000027,
+    "num_silences": 68
+}
