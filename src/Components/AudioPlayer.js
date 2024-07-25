@@ -10,8 +10,8 @@ function Player({ selectedFile, startTime, clicked, onTimeUpdate }) {
 
     useEffect(() => {
         if (selectedFile) {
-            // const apiUrl = `https://inscribe.3cctpl.co.in//api/files/${selectedFile.folder}/${selectedFile.file}`;
-            const apiUrl = `http://localhost:3001/api/files/${selectedFile.folder}/${selectedFile.file}`;
+            const apiUrl = `https://inscribe.3cctpl.co.in//api/files/${selectedFile.folder}/${selectedFile.file}`;
+            // const apiUrl = `http://localhost:3001/api/files/${selectedFile.folder}/${selectedFile.file}`;
             const mp3Url = apiUrl.replace('.json', '.mp3');
 
             fetch(mp3Url)
