@@ -1,0 +1,2221 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0753",
+            "end_time": "0.1223",
+            "original_transcript": "thank you for calling my name is how may I help you today",
+            "translated_transcript": "thank you for calling my name is how I can help you today",
+            "tone": "Neutral",
+            "rate_of_speech": "276.50",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.1406",
+            "end_time": "0.1515",
+            "original_transcript": "হ্যালো",
+            "translated_transcript": "Hello",
+            "tone": "Neutral",
+            "rate_of_speech": "92.17",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.299",
+            "end_time": "0.318",
+            "original_transcript": "এই বাংলায় বলতো",
+            "translated_transcript": "He would say this in Bengal.",
+            "tone": "Neutral",
+            "rate_of_speech": "316.07",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bengal"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.3301",
+            "end_time": "0.5773",
+            "original_transcript": "agent available call transfer call transfer",
+            "translated_transcript": "agent available call transfer call transfer",
+            "tone": "Neutral",
+            "rate_of_speech": "24.28",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "available call"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.6698",
+            "end_time": "0.6927",
+            "original_transcript": "বলে",
+            "translated_transcript": "says",
+            "tone": "Neutral",
+            "rate_of_speech": "43.76",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.7045",
+            "end_time": "0.7125",
+            "original_transcript": "তো এটা",
+            "translated_transcript": "So it's",
+            "tone": "Neutral",
+            "rate_of_speech": "250.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.7125",
+            "end_time": "0.7508",
+            "original_transcript": "থেকে phone করে লাগিয়ে",
+            "translated_transcript": "By phone",
+            "tone": "Neutral",
+            "rate_of_speech": "52.20",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.7792",
+            "end_time": "0.7978",
+            "original_transcript": "কোথায়",
+            "translated_transcript": "Where",
+            "tone": "Neutral",
+            "rate_of_speech": "53.62",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.8785",
+            "end_time": "0.9073",
+            "original_transcript": "ব্যাপার",
+            "translated_transcript": "matter",
+            "tone": "Neutral",
+            "rate_of_speech": "34.68",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.3708",
+            "end_time": "1.3933",
+            "original_transcript": "না বলছে যে",
+            "translated_transcript": "No says",
+            "tone": "Neutral",
+            "rate_of_speech": "88.95",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.4595",
+            "end_time": "1.4633",
+            "original_transcript": "হু",
+            "translated_transcript": "Hoo",
+            "tone": "Neutral",
+            "rate_of_speech": "259.74",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hoo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.5418",
+            "end_time": "1.5518",
+            "original_transcript": "যা",
+            "translated_transcript": "which",
+            "tone": "Neutral",
+            "rate_of_speech": "100.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.5518",
+            "end_time": "1.5606",
+            "original_transcript": "হইছে",
+            "translated_transcript": "Happening",
+            "tone": "Neutral",
+            "rate_of_speech": "113.42",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "happening"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.5738",
+            "end_time": "1.719",
+            "original_transcript": "থাকার জন্য ধন্যবাদ শুনতে পাচ্ছেন আপনি",
+            "translated_transcript": "Thank you for staying, you can hear",
+            "tone": "Neutral",
+            "rate_of_speech": "48.23",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thank"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.754",
+            "end_time": "1.755",
+            "original_transcript": "চৌধুরী",
+            "translated_transcript": "Chowdhury",
+            "tone": "Neutral",
+            "rate_of_speech": "983.61",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "chowdhury"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.8408",
+            "end_time": "1.8687",
+            "original_transcript": "আমি customer কথা বলছি",
+            "translated_transcript": "I am talking about customer",
+            "tone": "Neutral",
+            "rate_of_speech": "179.53",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.8856",
+            "end_time": "1.9017",
+            "original_transcript": "বলছি",
+            "translated_transcript": "Guys",
+            "tone": "Neutral",
+            "rate_of_speech": "62.50",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "guys"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.0912",
+            "end_time": "2.0957",
+            "original_transcript": "sir আমি call করেছিলাম",
+            "translated_transcript": "sir I called",
+            "tone": "Neutral",
+            "rate_of_speech": "669.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.114",
+            "end_time": "2.129",
+            "original_transcript": "এখন কি করবো",
+            "translated_transcript": "What to do now",
+            "tone": "Neutral",
+            "rate_of_speech": "266.67",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.199",
+            "end_time": "2.2178",
+            "original_transcript": "বলুন মানে আপনার দোকানের দোকানের নাম বলুন",
+            "translated_transcript": "Say means say the name of your store store",
+            "tone": "Neutral",
+            "rate_of_speech": "477.88",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "say",
+                "store store"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.2388",
+            "end_time": "2.2441",
+            "original_transcript": "ও তো",
+            "translated_transcript": "And so",
+            "tone": "Neutral",
+            "rate_of_speech": "376.18",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.2441",
+            "end_time": "2.3578",
+            "original_transcript": "গুরুপদ চৌধুরী",
+            "translated_transcript": "GURUPAD CHOUDHURY",
+            "tone": "Neutral",
+            "rate_of_speech": "17.59",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "gurupad choudhury"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.3795",
+            "end_time": "2.4322",
+            "original_transcript": "চৌধুরী",
+            "translated_transcript": "Chowdhury",
+            "tone": "Neutral",
+            "rate_of_speech": "18.99",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "chowdhury"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.4445",
+            "end_time": "2.4782",
+            "original_transcript": "DH",
+            "translated_transcript": "DH",
+            "tone": "Neutral",
+            "rate_of_speech": "29.69",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "dh"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.4972",
+            "end_time": "2.6133",
+            "original_transcript": "U",
+            "translated_transcript": "U",
+            "tone": "Neutral",
+            "rate_of_speech": "8.61",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.6328",
+            "end_time": "2.6806",
+            "original_transcript": "হ্যাঁ ওটা ওই দোকানের নামে নামে একই ওই নামে যে বিল হয়",
+            "translated_transcript": "Yeah, that's the same name in the name of the shop that's the bill.",
+            "tone": "Neutral",
+            "rate_of_speech": "292.78",
+            "emotion": "approval",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "yeah"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.6968",
+            "end_time": "2.74",
+            "original_transcript": "ওই নামে হয় ঠিক আছে আপনার দোকানের address টা কিভাবে বলবেন",
+            "translated_transcript": "That name is okay how to tell the address of your store",
+            "tone": "Neutral",
+            "rate_of_speech": "277.99",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.751",
+            "end_time": "2.7805",
+            "original_transcript": "হ্যাঁ রামডিহা R A M",
+            "translated_transcript": "YES RAMDIHA R A M",
+            "tone": "Neutral",
+            "rate_of_speech": "169.40",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "yes ramdiha r",
+                "a m"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.7917",
+            "end_time": "2.813",
+            "original_transcript": "রাম",
+            "translated_transcript": "Ram",
+            "tone": "Neutral",
+            "rate_of_speech": "46.91",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ram"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.8385",
+            "end_time": "2.874",
+            "original_transcript": "RAM DIHA",
+            "translated_transcript": "RAM BREATHES",
+            "tone": "Neutral",
+            "rate_of_speech": "56.31",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ram breathes"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.8931",
+            "end_time": "3.0",
+            "original_transcript": "R",
+            "translated_transcript": "R",
+            "tone": "Neutral",
+            "rate_of_speech": "9.36",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.0128",
+            "end_time": "3.045",
+            "original_transcript": "ব্যাঙ্ক",
+            "translated_transcript": "Bank",
+            "tone": "Neutral",
+            "rate_of_speech": "31.10",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.0648",
+            "end_time": "3.0742",
+            "original_transcript": "বাঁকুড়া",
+            "translated_transcript": "Bent",
+            "tone": "Neutral",
+            "rate_of_speech": "107.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bent"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.0895",
+            "end_time": "3.0948",
+            "original_transcript": "বাঁকুড়া",
+            "translated_transcript": "Bent",
+            "tone": "Neutral",
+            "rate_of_speech": "186.92",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bent"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.1288",
+            "end_time": "3.149",
+            "original_transcript": "বাঁকুড়া West Bengal",
+            "translated_transcript": "Bend West Bengal",
+            "tone": "Neutral",
+            "rate_of_speech": "148.64",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bengal"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.1662",
+            "end_time": "3.2118",
+            "original_transcript": "West Bengal সাত দুই দুই এক চার এক",
+            "translated_transcript": "West Bengal seven two two one four one",
+            "tone": "Neutral",
+            "rate_of_speech": "175.18",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bengal"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.2175",
+            "end_time": "3.2475",
+            "original_transcript": "সাত দুই দুই এক চার এক এক",
+            "translated_transcript": "seven two two one four one one",
+            "tone": "Neutral",
+            "rate_of_speech": "233.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.2475",
+            "end_time": "3.2592",
+            "original_transcript": "চার এক",
+            "translated_transcript": "Four-one",
+            "tone": "Neutral",
+            "rate_of_speech": "85.71",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "four-one"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.274",
+            "end_time": "3.3712",
+            "original_transcript": "ধন্যবাদ sir pack details টা বলে দিন sir pack মানে আপনার packet এর মধ্যে এটা print batch number বলুন sir",
+            "translated_transcript": "Thank you sir pack tell me details sir pack means print batch number in your packet sir",
+            "tone": "Neutral",
+            "rate_of_speech": "174.96",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thank",
+                "sir pack",
+                "details sir pack",
+                "print batch number",
+                "packet sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.423",
+            "end_time": "3.4407",
+            "original_transcript": "packet এর উল্টো দিকে",
+            "translated_transcript": "The reverse side of the packet",
+            "tone": "Neutral",
+            "rate_of_speech": "339.62",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "reverse side"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.4537",
+            "end_time": "3.4707",
+            "original_transcript": "উল্টা দিকে একটা",
+            "translated_transcript": "One on the upside.",
+            "tone": "Neutral",
+            "rate_of_speech": "235.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.5001",
+            "end_time": "3.523",
+            "original_transcript": "batch number number টা হচ্ছে",
+            "translated_transcript": "Getting the batch number",
+            "tone": "Neutral",
+            "rate_of_speech": "175.05",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "batch number"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.5603",
+            "end_time": "3.5778",
+            "original_transcript": "two six",
+            "translated_transcript": "two six",
+            "tone": "Neutral",
+            "rate_of_speech": "114.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.5878",
+            "end_time": "3.604",
+            "original_transcript": "two six",
+            "translated_transcript": "two six",
+            "tone": "Neutral",
+            "rate_of_speech": "123.71",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.6185",
+            "end_time": "3.6298",
+            "original_transcript": "এ",
+            "translated_transcript": "A",
+            "tone": "Neutral",
+            "rate_of_speech": "88.37",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.6387",
+            "end_time": "3.6488",
+            "original_transcript": "হম",
+            "translated_transcript": "Hum",
+            "tone": "Neutral",
+            "rate_of_speech": "98.52",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hum"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.6768",
+            "end_time": "3.707",
+            "original_transcript": "M",
+            "translated_transcript": "M",
+            "tone": "Neutral",
+            "rate_of_speech": "33.17",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.7197",
+            "end_time": "3.8483",
+            "original_transcript": "ধন্যবাদ তারপর একটা time punch করা হবে",
+            "translated_transcript": "Thanks then a time punch will be made",
+            "tone": "Neutral",
+            "rate_of_speech": "62.18",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "thanks",
+                "time punch"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.8675",
+            "end_time": "3.8817",
+            "original_transcript": "zero one",
+            "translated_transcript": "zero one",
+            "tone": "Neutral",
+            "rate_of_speech": "141.34",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.8937",
+            "end_time": "3.9678",
+            "original_transcript": "ধন্যবাদ একটা নিচু check করুন manufacturing date টা কি আছে",
+            "translated_transcript": "Thanks, please check the manufacturing date.",
+            "tone": "Neutral",
+            "rate_of_speech": "80.88",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "thanks"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.9931",
+            "end_time": "4.0402",
+            "original_transcript": "five July পাঁচই July",
+            "translated_transcript": "five July Five July",
+            "tone": "Neutral",
+            "rate_of_speech": "85.08",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "july",
+                "july"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.0488",
+            "end_time": "4.0695",
+            "original_transcript": "July",
+            "translated_transcript": "Juli",
+            "tone": "Neutral",
+            "rate_of_speech": "48.39",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "juli"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.0888",
+            "end_time": "4.0973",
+            "original_transcript": "তেইশ",
+            "translated_transcript": "TEISH",
+            "tone": "Neutral",
+            "rate_of_speech": "117.88",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "teish"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.1102",
+            "end_time": "4.129",
+            "original_transcript": "MRP টা কি আছে",
+            "translated_transcript": "What is MRP",
+            "tone": "Neutral",
+            "rate_of_speech": "159.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mrp"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.1502",
+            "end_time": "4.2022",
+            "original_transcript": "expiry হচ্ছে দু তারিখ October দু তারিখ",
+            "translated_transcript": "Expiry Date October Date",
+            "tone": "Neutral",
+            "rate_of_speech": "76.90",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "expiry date october date"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.2155",
+            "end_time": "4.2443",
+            "original_transcript": "ঠিক আছে আর MRP টা কি আছে",
+            "translated_transcript": "Okay, what's up with MRP?",
+            "tone": "Neutral",
+            "rate_of_speech": "173.31",
+            "emotion": "curiosity",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay",
+                "mrp"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.267",
+            "end_time": "4.2866",
+            "original_transcript": "two five six",
+            "translated_transcript": "two five six",
+            "tone": "Neutral",
+            "rate_of_speech": "152.54",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.2958",
+            "end_time": "4.3085",
+            "original_transcript": "পাঁচ কেজি না",
+            "translated_transcript": "Not five kilos",
+            "tone": "Neutral",
+            "rate_of_speech": "236.22",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.3268",
+            "end_time": "4.3418",
+            "original_transcript": "পাঁচ কেজি",
+            "translated_transcript": "Five kg",
+            "tone": "Neutral",
+            "rate_of_speech": "133.19",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.3518",
+            "end_time": "4.4408",
+            "original_transcript": "ধন্যবাদ তো এর মধ্যে আপনার তিতার test আছে না জমা জমা আছে কি",
+            "translated_transcript": "Thank you so you don't have a bitter test in it.",
+            "tone": "Neutral",
+            "rate_of_speech": "123.57",
+            "emotion": "gratitude",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "thank",
+                "bitter test"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.4583",
+            "end_time": "4.4707",
+            "original_transcript": "হ্যাঁ বলুন",
+            "translated_transcript": "Say yes",
+            "tone": "Neutral",
+            "rate_of_speech": "162.38",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "say"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.4805",
+            "end_time": "4.4808",
+            "original_transcript": "কি",
+            "translated_transcript": "What",
+            "tone": "Neutral",
+            "rate_of_speech": "2857.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.5171",
+            "end_time": "4.7665",
+            "original_transcript": "problem হচ্ছে তেঁতো হচ্ছে এক নম্বর আর দু নম্বর হচ্ছে যে ওরকম ঢেলা ঢেলা বেরোচ্ছে মানে ময়দাকে ময়দা ময়দাতে যেমন জল পেয়ে গেছে ময়দ জল পেয়ে গেছে জল পেয়ে যাওয়ার পর যেমন ময়দাটা শক্ত হয়ে যায়",
+            "translated_transcript": "The problem is that number one and number two is that pouring out like this means that the dough has got water in the dough, the dough has got water after it gets water as the dough hardens",
+            "tone": "Neutral",
+            "rate_of_speech": "152.41",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "dough hardens"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.7843",
+            "end_time": "4.8003",
+            "original_transcript": "পাটালির মতো",
+            "translated_transcript": "Like Patali",
+            "tone": "Neutral",
+            "rate_of_speech": "125.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "patali"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.8003",
+            "end_time": "4.9097",
+            "original_transcript": "মাল",
+            "translated_transcript": "goods",
+            "tone": "Neutral",
+            "rate_of_speech": "9.15",
+            "emotion": "admiration",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.9097",
+            "end_time": "4.9216",
+            "original_transcript": "গুলো বেরিয়ে যাচ্ছে",
+            "translated_transcript": "They're coming out.",
+            "tone": "Neutral",
+            "rate_of_speech": "250.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.935",
+            "end_time": "5.05",
+            "original_transcript": "ও আপনার একটা আর আছে UID number check করুন ওটা বলুন",
+            "translated_transcript": "And you have another UID number, check that.",
+            "tone": "Neutral",
+            "rate_of_speech": "69.57",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "uid"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.1055",
+            "end_time": "5.1257",
+            "original_transcript": "J N",
+            "translated_transcript": "JN",
+            "tone": "Neutral",
+            "rate_of_speech": "49.55",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "jn"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.1543",
+            "end_time": "5.178",
+            "original_transcript": "K N",
+            "translated_transcript": "KN",
+            "tone": "Neutral",
+            "rate_of_speech": "42.28",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "kn"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.2018",
+            "end_time": "5.216",
+            "original_transcript": "আবার এ",
+            "translated_transcript": "Again A",
+            "tone": "Neutral",
+            "rate_of_speech": "141.18",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.2257",
+            "end_time": "5.2393",
+            "original_transcript": "সেল",
+            "translated_transcript": "Cell",
+            "tone": "Neutral",
+            "rate_of_speech": "73.26",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "cell"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.2497",
+            "end_time": "5.2593",
+            "original_transcript": "আর",
+            "translated_transcript": "R",
+            "tone": "Neutral",
+            "rate_of_speech": "103.63",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.271",
+            "end_time": "5.2808",
+            "original_transcript": "আর",
+            "translated_transcript": "R",
+            "tone": "Neutral",
+            "rate_of_speech": "101.69",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.291",
+            "end_time": "5.2973",
+            "original_transcript": "কে",
+            "translated_transcript": "who",
+            "tone": "Neutral",
+            "rate_of_speech": "157.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.3107",
+            "end_time": "5.3168",
+            "original_transcript": "কে",
+            "translated_transcript": "who",
+            "tone": "Neutral",
+            "rate_of_speech": "162.16",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.3307",
+            "end_time": "5.4002",
+            "original_transcript": "DDS দিল্লির D",
+            "translated_transcript": "DDS Delhi D",
+            "tone": "Neutral",
+            "rate_of_speech": "43.16",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "dds delhi d"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.424",
+            "end_time": "5.4383",
+            "original_transcript": "double Double D তারপর",
+            "translated_transcript": "double Double D then",
+            "tone": "Neutral",
+            "rate_of_speech": "279.39",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.4523",
+            "end_time": "5.4643",
+            "original_transcript": "Yes",
+            "translated_transcript": "Ja",
+            "tone": "Neutral",
+            "rate_of_speech": "83.45",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ja"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.478",
+            "end_time": "5.5188",
+            "original_transcript": "s for Singapore F for France",
+            "translated_transcript": "s for Singapore F for France",
+            "tone": "Neutral",
+            "rate_of_speech": "146.88",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "singapore",
+                "france"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.5377",
+            "end_time": "5.5407",
+            "original_transcript": "তাহলে এটা হচ্ছে আপনার",
+            "translated_transcript": "Then this is yours",
+            "tone": "Neutral",
+            "rate_of_speech": "1333.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.743",
+            "end_time": "5.8152",
+            "original_transcript": "তাইতো ধন্যবাদ একটা pack আছে না",
+            "translated_transcript": "Thankfully, there is no pack.",
+            "tone": "Neutral",
+            "rate_of_speech": "69.27",
+            "emotion": "joy",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "thankfully"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.85",
+            "end_time": "5.8571",
+            "original_transcript": "কি আছে",
+            "translated_transcript": "What's in",
+            "tone": "Neutral",
+            "rate_of_speech": "279.72",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.8586",
+            "end_time": "5.8915",
+            "original_transcript": "একটা আর packet আছে না আপনার কাছে",
+            "translated_transcript": "You don't have another packet.",
+            "tone": "Neutral",
+            "rate_of_speech": "152.28",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.9077",
+            "end_time": "5.9267",
+            "original_transcript": "অন্য প্যাকেট আছে",
+            "translated_transcript": "There are other packets",
+            "tone": "Neutral",
+            "rate_of_speech": "210.34",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.9503",
+            "end_time": "6.0485",
+            "original_transcript": "যার মধ্যে problem ছিল ওটা বলুন বলুন",
+            "translated_transcript": "Tell me what the problem was",
+            "tone": "Neutral",
+            "rate_of_speech": "61.11",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.1743",
+            "end_time": "6.2237",
+            "original_transcript": "অন্য হচ্ছে batch number two six",
+            "translated_transcript": "The other is batch number two six",
+            "tone": "Neutral",
+            "rate_of_speech": "141.84",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "batch number"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.2522",
+            "end_time": "6.2655",
+            "original_transcript": "two six",
+            "translated_transcript": "two six",
+            "tone": "Neutral",
+            "rate_of_speech": "150.19",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.2743",
+            "end_time": "6.2806",
+            "original_transcript": "same আছে",
+            "translated_transcript": "there is the same",
+            "tone": "Neutral",
+            "rate_of_speech": "631.58",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.2806",
+            "end_time": "6.333",
+            "original_transcript": "কি",
+            "translated_transcript": "What",
+            "tone": "Neutral",
+            "rate_of_speech": "19.10",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.3488",
+            "end_time": "6.3737",
+            "original_transcript": "two six AM",
+            "translated_transcript": "two six AM",
+            "tone": "Neutral",
+            "rate_of_speech": "120.72",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.3837",
+            "end_time": "6.4015",
+            "original_transcript": "হ্যাঁ হ্যাঁ তারপর",
+            "translated_transcript": "Yes, yes, then",
+            "tone": "Neutral",
+            "rate_of_speech": "168.22",
+            "emotion": "approval",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.4167",
+            "end_time": "6.4383",
+            "original_transcript": "AM এর পর two",
+            "translated_transcript": "Two after AM",
+            "tone": "Neutral",
+            "rate_of_speech": "138.57",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.4482",
+            "end_time": "6.4485",
+            "original_transcript": "two",
+            "translated_transcript": "two",
+            "tone": "Neutral",
+            "rate_of_speech": "3000.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.4878",
+            "end_time": "6.4887",
+            "original_transcript": "two",
+            "translated_transcript": "two",
+            "tone": "Neutral",
+            "rate_of_speech": "1176.47",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.5087",
+            "end_time": "6.561",
+            "original_transcript": "time টা হচ্ছে",
+            "translated_transcript": "It's time",
+            "tone": "Neutral",
+            "rate_of_speech": "38.20",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "'s time"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.5782",
+            "end_time": "6.6456",
+            "original_transcript": "fifteen fifty four one five five four",
+            "translated_transcript": "fifteen fifty four one five five four",
+            "tone": "Neutral",
+            "rate_of_speech": "103.73",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.6693",
+            "end_time": "6.687",
+            "original_transcript": "five four",
+            "translated_transcript": "fivefour",
+            "tone": "Neutral",
+            "rate_of_speech": "56.60",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.7058",
+            "end_time": "6.7298",
+            "original_transcript": "আচ্ছা আপনার check",
+            "translated_transcript": "Well, your check",
+            "tone": "Neutral",
+            "rate_of_speech": "125.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "well"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.7298",
+            "end_time": "6.7328",
+            "original_transcript": "করুন",
+            "translated_transcript": "Do",
+            "tone": "Neutral",
+            "rate_of_speech": "333.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.8763",
+            "end_time": "6.8848",
+            "original_transcript": "ঠিক আছে",
+            "translated_transcript": "OK",
+            "tone": "Neutral",
+            "rate_of_speech": "117.65",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.9152",
+            "end_time": "6.9295",
+            "original_transcript": "C",
+            "translated_transcript": "C",
+            "tone": "Neutral",
+            "rate_of_speech": "69.85",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.9446",
+            "end_time": "6.9925",
+            "original_transcript": "এক মিনিটে কলকাতা",
+            "translated_transcript": "Kolkata in a minute",
+            "tone": "Neutral",
+            "rate_of_speech": "83.62",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "kolkata"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.0117",
+            "end_time": "7.0487",
+            "original_transcript": "G for Goa",
+            "translated_transcript": "G for Goa",
+            "tone": "Neutral",
+            "rate_of_speech": "81.08",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "goa"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.0637",
+            "end_time": "7.0723",
+            "original_transcript": "M",
+            "translated_transcript": "M",
+            "tone": "Neutral",
+            "rate_of_speech": "115.61",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.085",
+            "end_time": "7.0982",
+            "original_transcript": "for Mumbai",
+            "translated_transcript": "for Mumbai",
+            "tone": "Neutral",
+            "rate_of_speech": "151.90",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "mumbai"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.1168",
+            "end_time": "7.1688",
+            "original_transcript": "Five",
+            "translated_transcript": "Five",
+            "tone": "Neutral",
+            "rate_of_speech": "19.23",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.1927",
+            "end_time": "7.2023",
+            "original_transcript": "E",
+            "translated_transcript": "E",
+            "tone": "Neutral",
+            "rate_of_speech": "103.27",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.2133",
+            "end_time": "7.228",
+            "original_transcript": "for elephant",
+            "translated_transcript": "for elephant",
+            "tone": "Neutral",
+            "rate_of_speech": "136.36",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.2462",
+            "end_time": "7.256",
+            "original_transcript": "S",
+            "translated_transcript": "S",
+            "tone": "Neutral",
+            "rate_of_speech": "101.69",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.2718",
+            "end_time": "7.2848",
+            "original_transcript": "for Singapore",
+            "translated_transcript": "para Singapura",
+            "tone": "Neutral",
+            "rate_of_speech": "153.85",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "singapura"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.2966",
+            "end_time": "7.3071",
+            "original_transcript": "B",
+            "translated_transcript": "B",
+            "tone": "Neutral",
+            "rate_of_speech": "95.24",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.3167",
+            "end_time": "7.3331",
+            "original_transcript": "B for বোম্বাই",
+            "translated_transcript": "B for Bombay",
+            "tone": "Neutral",
+            "rate_of_speech": "182.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bombay"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.3565",
+            "end_time": "7.393",
+            "original_transcript": "R R for Rajasthan",
+            "translated_transcript": "R R for Rajasthan",
+            "tone": "Neutral",
+            "rate_of_speech": "109.64",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "r r",
+                "rajasthan"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.4023",
+            "end_time": "7.4113",
+            "original_transcript": "হম",
+            "translated_transcript": "Hum",
+            "tone": "Neutral",
+            "rate_of_speech": "111.32",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hum"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.4363",
+            "end_time": "7.4546",
+            "original_transcript": "ঠিক আছে ধন্যবাদ জানি দেওয়ার জন্য",
+            "translated_transcript": "Ok thanks for letting me know",
+            "tone": "Neutral",
+            "rate_of_speech": "327.27",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ok"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.4962",
+            "end_time": "7.5038",
+            "original_transcript": "ঠিক আছে",
+            "translated_transcript": "OK",
+            "tone": "Neutral",
+            "rate_of_speech": "130.15",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.5145",
+            "end_time": "7.553",
+            "original_transcript": "আপনি বললাম কি দুটা আছে না",
+            "translated_transcript": "Did you say there aren't two?",
+            "tone": "Neutral",
+            "rate_of_speech": "155.84",
+            "emotion": "curiosity",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.5773",
+            "end_time": "7.6983",
+            "original_transcript": "হ্যাঁ তিন পিস পিস ওই একই লটারি মাল",
+            "translated_transcript": "Yeah three piece piece that same lottery stuff",
+            "tone": "Neutral",
+            "rate_of_speech": "66.12",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "yeah",
+                "piece piece",
+                "lottery stuff"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.7075",
+            "end_time": "7.7195",
+            "original_transcript": "না না আপনি",
+            "translated_transcript": "No no you",
+            "tone": "Neutral",
+            "rate_of_speech": "250.00",
+            "emotion": "disapproval",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.7195",
+            "end_time": "7.7223",
+            "original_transcript": "বললেন",
+            "translated_transcript": "said",
+            "tone": "Neutral",
+            "rate_of_speech": "355.03",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.7315",
+            "end_time": "7.7873",
+            "original_transcript": "আপনি দুটা packet টা replace করেছিলাম তাইতো",
+            "translated_transcript": "You replaced the two packets.",
+            "tone": "Neutral",
+            "rate_of_speech": "89.58",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.8193",
+            "end_time": "8.0532",
+            "original_transcript": "এটা হচ্ছে আমার কথা শুনুন যেটা customer এর বাড়িতে চলে গেছে সেগুলো এখন তো আসেনি সেগুলোর number এগুলো নয় তো একই date এ একই date এ যে মালগুলো এসেছিলো",
+            "translated_transcript": "This is, listen to me, the goods that went to the customer's house did not arrive now, these are not the number of those, but the goods that arrived on the same date on the same date",
+            "tone": "Neutral",
+            "rate_of_speech": "158.23",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "customer 's house"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.0686",
+            "end_time": "8.0726",
+            "original_transcript": "সেই",
+            "translated_transcript": "That",
+            "tone": "Neutral",
+            "rate_of_speech": "250.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.0726",
+            "end_time": "8.1893",
+            "original_transcript": "date এর মধ্যে তিন পিস নতুন মাল দোকানে পরে আছে তার মধ্যে দু পিসের আমি বললাম",
+            "translated_transcript": "Three pieces of new goods are later in the store by date, two of which I said",
+            "tone": "Neutral",
+            "rate_of_speech": "145.71",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "new goods"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.2075",
+            "end_time": "8.2918",
+            "original_transcript": "হয়তো এই তিন পিসের মধ্যে বেরোতেও পারে আবার নাও বেরোতে পারে ভালোও বেরোতে পারে খারাপও বেরোতে পারে",
+            "translated_transcript": "Maybe in these three pieces, it can work out again, it can go out well, it can turn out bad, it can come out bad.",
+            "tone": "Sad",
+            "rate_of_speech": "296.44",
+            "emotion": "optimism",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.324",
+            "end_time": "8.4788",
+            "original_transcript": "এক্ষুনি আমি বুঝতে পারছি না আপনার কথাটা আপনার কাছে আপনি যে আছে না একটা customer আপনি দুটো package টা replace করে দেন তাই তো",
+            "translated_transcript": "Right now I don't understand what you're saying to you that you don't have a customer. You replace two packages so",
+            "tone": "Happy",
+            "rate_of_speech": "135.63",
+            "emotion": "confusion",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "right"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.5032",
+            "end_time": "8.513",
+            "original_transcript": "হা",
+            "translated_transcript": "ha",
+            "tone": "Neutral",
+            "rate_of_speech": "101.87",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.527",
+            "end_time": "8.5505",
+            "original_transcript": "replace করা হবে",
+            "translated_transcript": "will be replaced",
+            "tone": "Neutral",
+            "rate_of_speech": "127.57",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.5595",
+            "end_time": "8.636",
+            "original_transcript": "আমি বললাম না যে যার customer এর গোলমাল হয়েছে তাকে ফোন করতে",
+            "translated_transcript": "I didn't say to call the customer who had the noise",
+            "tone": "Neutral",
+            "rate_of_speech": "143.85",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.6543",
+            "end_time": "8.8935",
+            "original_transcript": "হ্যাঁ আপনি যদি customer face করবেন issue টা আপনাকে আপনি inform করে দেবেন নিজে call করে complaint raise করে দিন এখনই আপনার কাছে যে problem packet আছে না ওটা আপনার দুটা আছে না তিনটা আছে",
+            "translated_transcript": "Yes, if you do customer face the issue you will inform you yourself by calling and raising a complaint. Now the problem packet you do not have, you have two or three.",
+            "tone": "Neutral",
+            "rate_of_speech": "133.81",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "problem packet"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.9505",
+            "end_time": "9.0477",
+            "original_transcript": "সেটা হচ্ছে দুটো দুজন ব্যাক্তি নিয়ে গেছে দুটো replace হবে",
+            "translated_transcript": "That is, two people have been taken away, two will be replaced.",
+            "tone": "Neutral",
+            "rate_of_speech": "123.52",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "9.0898",
+            "end_time": "9.0933",
+            "original_transcript": "নতুন দিয়ে",
+            "translated_transcript": "With new",
+            "tone": "Neutral",
+            "rate_of_speech": "574.16",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "9.1071",
+            "end_time": "9.1571",
+            "original_transcript": "দিয়েছি ওটা customer এর বাড়িতে চলে গেছে তবেই তো ওরা বুঝতে",
+            "translated_transcript": "I gave it to the customer's house only then they would understand",
+            "tone": "Neutral",
+            "rate_of_speech": "240.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "customer 's house"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "9.1571",
+            "end_time": "9.3627",
+            "original_transcript": "পারছি",
+            "translated_transcript": "I can",
+            "tone": "Neutral",
+            "rate_of_speech": "9.73",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "9.3685",
+            "end_time": "9.6648",
+            "original_transcript": "ঠিক আছে আবার কেন customer বলছে আপনি বলে দেবেন",
+            "translated_transcript": "Well, again you will tell me why the customer is saying",
+            "tone": "Neutral",
+            "rate_of_speech": "37.12",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "well"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "9.667",
+            "end_time": "10.0328",
+            "original_transcript": "আমাদের ওইটা ওইটা বেরিয়ে গেছে ওগুলো বলছি",
+            "translated_transcript": "We've got it out of here, I'm telling you",
+            "tone": "Neutral",
+            "rate_of_speech": "24.60",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "10.0448",
+            "end_time": "10.3307",
+            "original_transcript": "ঠিক আছে আপনি একটা নতুন প্যাকেট টা দিয়ে দিন হ্যাঁ দিয়ে দেবেন আমি আপনাকে replace করছি আবার customer call করবে customer আপনি call করবেন হ্যাঁ",
+            "translated_transcript": "Okay you give me a new packet and give me yes I'm replacing you customer will call again customer will call you will call yes",
+            "tone": "Neutral",
+            "rate_of_speech": "87.46",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay",
+                "new packet"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "10.3423",
+            "end_time": "10.4722",
+            "original_transcript": "হ্যা কি বলুন",
+            "translated_transcript": "Say yes",
+            "tone": "Neutral",
+            "rate_of_speech": "15.40",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "say"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "10.4847",
+            "end_time": "10.5057",
+            "original_transcript": "nine four seven four",
+            "translated_transcript": "nine four seven four",
+            "tone": "Neutral",
+            "rate_of_speech": "190.48",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "10.5173",
+            "end_time": "10.54",
+            "original_transcript": "four seven four",
+            "translated_transcript": "four seven four",
+            "tone": "Neutral",
+            "rate_of_speech": "132.26",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "10.5485",
+            "end_time": "10.5668",
+            "original_transcript": "one nine zero",
+            "translated_transcript": "one nine zero",
+            "tone": "Neutral",
+            "rate_of_speech": "163.49",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "10.5732",
+            "end_time": "10.5913",
+            "original_transcript": "one nine zero",
+            "translated_transcript": "one nine zero",
+            "tone": "Neutral",
+            "rate_of_speech": "165.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "10.601",
+            "end_time": "10.6083",
+            "original_transcript": "five",
+            "translated_transcript": "fiv",
+            "tone": "Neutral",
+            "rate_of_speech": "136.05",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "10.6083",
+            "end_time": "10.6183",
+            "original_transcript": "seven five",
+            "translated_transcript": "seven five",
+            "tone": "Neutral",
+            "rate_of_speech": "200.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "10.6377",
+            "end_time": "10.7068",
+            "original_transcript": "seven five",
+            "translated_transcript": "seven five",
+            "tone": "Neutral",
+            "rate_of_speech": "28.92",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "10.718",
+            "end_time": "10.907",
+            "original_transcript": "এটা মাল্ট জিন নয় এটা ওই শুদ্ধ চাকি আটা এক কেজি করে লবণ free",
+            "translated_transcript": "It's not malt gin it's that pure chili flour made with a kilo of salt free",
+            "tone": "Happy",
+            "rate_of_speech": "84.66",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "malt gin",
+                "pure chili flour"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "10.9405",
+            "end_time": "11.0167",
+            "original_transcript": "পাঁচ কেজির সাথে এক কেজি লবণ free",
+            "translated_transcript": "One kg of salt with five kg",
+            "tone": "Neutral",
+            "rate_of_speech": "91.88",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "11.043",
+            "end_time": "11.0775",
+            "original_transcript": "আচ্ছা আপনার whatsapp number টা note করুন",
+            "translated_transcript": "Please note your whatsapp number.",
+            "tone": "Neutral",
+            "rate_of_speech": "144.93",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "please",
+                "whatsapp number"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "11.1047",
+            "end_time": "11.2038",
+            "original_transcript": "আমার whatsapp number nine double zero কোম্পানি বলুন",
+            "translated_transcript": "Tell me whatsapp number nine double zero company",
+            "tone": "Neutral",
+            "rate_of_speech": "80.69",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "whatsapp number",
+                "double zero company"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "11.2196",
+            "end_time": "11.2602",
+            "original_transcript": "nine six zero",
+            "translated_transcript": "nine six zero",
+            "tone": "Neutral",
+            "rate_of_speech": "74.07",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "11.2952",
+            "end_time": "11.3218",
+            "original_transcript": "nine six zero six",
+            "translated_transcript": "nine six zero six",
+            "tone": "Neutral",
+            "rate_of_speech": "150.09",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "11.3528",
+            "end_time": "11.3738",
+            "original_transcript": "nine nine six",
+            "translated_transcript": "nine nine six",
+            "tone": "Neutral",
+            "rate_of_speech": "142.86",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "11.3885",
+            "end_time": "11.4115",
+            "original_transcript": "nine nine six",
+            "translated_transcript": "nine nine six",
+            "tone": "Neutral",
+            "rate_of_speech": "130.34",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "11.4247",
+            "end_time": "11.4465",
+            "original_transcript": "nine nine zero",
+            "translated_transcript": "nine nine zero",
+            "tone": "Neutral",
+            "rate_of_speech": "137.40",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "11.4562",
+            "end_time": "11.4688",
+            "original_transcript": "nine nine",
+            "translated_transcript": "nine nine",
+            "tone": "Neutral",
+            "rate_of_speech": "157.69",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "11.4688",
+            "end_time": "11.4765",
+            "original_transcript": "zero",
+            "translated_transcript": "Null",
+            "tone": "Neutral",
+            "rate_of_speech": "130.43",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "null"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "11.5008",
+            "end_time": "11.6397",
+            "original_transcript": "আমি একটা জিনিস জানতে চাই স্যার এখনই তো পাঁচ কেজি প্যাকেট আছে না কত কেজি আটাটা শেষ শেষ আছে",
+            "translated_transcript": "I want to know one thing sir right now so I don't have a five-kilogram packet. How many kilos of dough are last",
+            "tone": "Neutral",
+            "rate_of_speech": "165.65",
+            "emotion": "curiosity",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "thing sir",
+                "five-kilogram packet"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "11.6665",
+            "end_time": "11.7676",
+            "original_transcript": "কত কত কেজি তো এখনো শেষ আছে পাঁচ কেজি পাঁচ কেজি পো আছে না use করা হচ্ছে already",
+            "translated_transcript": "How many kilos are there yet to run out? Five kg five kg poo is not being used already",
+            "tone": "Neutral",
+            "rate_of_speech": "187.81",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "kg poo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "11.8153",
+            "end_time": "11.8848",
+            "original_transcript": "না ওই যে মালটা নেওয়া হয়েছে তাতে কতটা বেঁচে আছে আমার কাছে তাই তো",
+            "translated_transcript": "No, I don't know how much of the money that was taken has survived.",
+            "tone": "Neutral",
+            "rate_of_speech": "201.39",
+            "emotion": "confusion",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "12.1172",
+            "end_time": "12.3128",
+            "original_transcript": "ওইটা বলছি sir আমি আপনাকে যেটা বললাম না দুটা দুটা প্যাকেটের মধ্যে কতটা শেষ পাঁচ কেজি কতটা আছে মানে চার কেজি আছে",
+            "translated_transcript": "I tell you that sir what I didn't tell you is how much the last five kilos are in two packets means there are four kilos",
+            "tone": "Neutral",
+            "rate_of_speech": "132.88",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "packets means"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "12.3205",
+            "end_time": "12.3742",
+            "original_transcript": "না পাঁচ কেজি ফুল ফুল পাঁচ কেজি যে দুটো আমি বললাম এখন",
+            "translated_transcript": "Not five kilos of flowers five kilos of flowers that two I said now",
+            "tone": "Neutral",
+            "rate_of_speech": "260.79",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "12.4093",
+            "end_time": "12.4693",
+            "original_transcript": "ঠিক আছে আপনি এক কাজ করুন আপনি",
+            "translated_transcript": "Well you do one thing you",
+            "tone": "Neutral",
+            "rate_of_speech": "100.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "well"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "12.4848",
+            "end_time": "12.495",
+            "original_transcript": "ঠিক আছে",
+            "translated_transcript": "OK",
+            "tone": "Neutral",
+            "rate_of_speech": "98.36",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "12.4992",
+            "end_time": "12.6367",
+            "original_transcript": "ঠিক আছে packet আপনি back side এ আটটা photo আপনি তিনটা photo click করুন এখন আপনি line এ থাকবেন দু minute call টা রাখতে পারি hold এর মধ্যে",
+            "translated_transcript": "Okay packet you click eight photos on the back side, you click three photos now you are on the line I can put the two minute call in hold",
+            "tone": "Neutral",
+            "rate_of_speech": "210.91",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay",
+                "back side"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "12.6462",
+            "end_time": "12.6873",
+            "original_transcript": "ঠিক আছে রাখুন না",
+            "translated_transcript": "Don't put it right",
+            "tone": "Happy",
+            "rate_of_speech": "97.21",
+            "emotion": "disapproval",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "12.8107",
+            "end_time": "12.8348",
+            "original_transcript": "কাটা হবে",
+            "translated_transcript": "will be cut",
+            "tone": "Neutral",
+            "rate_of_speech": "124.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "12.8818",
+            "end_time": "12.8953",
+            "original_transcript": "না এখানে",
+            "translated_transcript": "Not here",
+            "tone": "Neutral",
+            "rate_of_speech": "148.15",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "12.9417",
+            "end_time": "12.9527",
+            "original_transcript": "কাটা যায়",
+            "translated_transcript": "Can be cut",
+            "tone": "Neutral",
+            "rate_of_speech": "273.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "12.9613",
+            "end_time": "12.9687",
+            "original_transcript": "হুম",
+            "translated_transcript": "Hum",
+            "tone": "Neutral",
+            "rate_of_speech": "136.36",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hum"
+            ]
+        }
+    ],
+    "translated_segments": "thank you for calling my name is how I can help you today Hello He would say this in Bengal. agent available call transfer call transfer says So it's By phone Where matter No says Hoo which Happening Thank you for staying, you can hear Chowdhury I am talking about customer Guys sir I called What to do now Say means say the name of your store store And so GURUPAD CHOUDHURY Chowdhury DH U Yeah, that's the same name in the name of the shop that's the bill. That name is okay how to tell the address of your store YES RAMDIHA R A M Ram RAM BREATHES R Bank Bent Bent Bend West Bengal West Bengal seven two two one four one seven two two one four one one Four-one Thank you sir pack tell me details sir pack means print batch number in your packet sir The reverse side of the packet One on the upside. Getting the batch number two six two six A Hum M Thanks then a time punch will be made zero one Thanks, please check the manufacturing date. five July Five July Juli TEISH What is MRP Expiry Date October Date Okay, what's up with MRP? two five six Not five kilos Five kg Thank you so you don't have a bitter test in it. Say yes What The problem is that number one and number two is that pouring out like this means that the dough has got water in the dough, the dough has got water after it gets water as the dough hardens Like Patali goods They're coming out. And you have another UID number, check that. JN KN Again A Cell R R who who DDS Delhi D double Double D then Ja s for Singapore F for France Then this is yours Thankfully, there is no pack. What's in You don't have another packet. There are other packets Tell me what the problem was The other is batch number two six two six there is the same What two six AM Yes, yes, then Two after AM two two It's time fifteen fifty four one five five four fivefour Well, your check Do OK C Kolkata in a minute G for Goa M for Mumbai Five E for elephant S para Singapura B B for Bombay R R for Rajasthan Hum Ok thanks for letting me know OK Did you say there aren't two? Yeah three piece piece that same lottery stuff No no you said You replaced the two packets. This is, listen to me, the goods that went to the customer's house did not arrive now, these are not the number of those, but the goods that arrived on the same date on the same date That Three pieces of new goods are later in the store by date, two of which I said Maybe in these three pieces, it can work out again, it can go out well, it can turn out bad, it can come out bad. Right now I don't understand what you're saying to you that you don't have a customer. You replace two packages so ha will be replaced I didn't say to call the customer who had the noise Yes, if you do customer face the issue you will inform you yourself by calling and raising a complaint. Now the problem packet you do not have, you have two or three. That is, two people have been taken away, two will be replaced. With new I gave it to the customer's house only then they would understand I can Well, again you will tell me why the customer is saying We've got it out of here, I'm telling you Okay you give me a new packet and give me yes I'm replacing you customer will call again customer will call you will call yes Say yes nine four seven four four seven four one nine zero one nine zero fiv seven five seven five It's not malt gin it's that pure chili flour made with a kilo of salt free One kg of salt with five kg Please note your whatsapp number. Tell me whatsapp number nine double zero company nine six zero nine six zero six nine nine six nine nine six nine nine zero nine nine Null I want to know one thing sir right now so I don't have a five-kilogram packet. How many kilos of dough are last How many kilos are there yet to run out? Five kg five kg poo is not being used already No, I don't know how much of the money that was taken has survived. I tell you that sir what I didn't tell you is how much the last five kilos are in two packets means there are four kilos Not five kilos of flowers five kilos of flowers that two I said now Well you do one thing you OK Okay packet you click eight photos on the back side, you click three photos now you are on the line I can put the two minute call in hold Don't put it right will be cut Not here Can be cut Hum ",
+    "speaker_a_segments": "thank you for calling my name is how I can help you today Hello agent available call transfer call transfer says So it's Where Hoo Happening Thank you for staying, you can hear I am talking about customer sir I called Say means say the name of your store store And so That name is okay how to tell the address of your store Ram Bent Bend West Bengal seven two two one four one one Thank you sir pack tell me details sir pack means print batch number in your packet sir One on the upside. two six Hum Thanks then a time punch will be made Thanks, please check the manufacturing date. Juli What is MRP Okay, what's up with MRP? Not five kilos Thank you so you don't have a bitter test in it. What goods And you have another UID number, check that. KN Cell R who double Double D then Ja s for Singapore F for France Thankfully, there is no pack. You don't have another packet. Tell me what the problem was two six there is the same Yes, yes, then two fivefour Well, your check OK Kolkata in a minute G for Goa for Mumbai for elephant para Singapura B for Bombay R R for Rajasthan Hum Ok thanks for letting me know Did you say there aren't two? No no you You replaced the two packets. That Right now I don't understand what you're saying to you that you don't have a customer. You replace two packages so Yes, if you do customer face the issue you will inform you yourself by calling and raising a complaint. Now the problem packet you do not have, you have two or three. With new I can Well, again you will tell me why the customer is saying Okay you give me a new packet and give me yes I'm replacing you customer will call again customer will call you will call yes four seven four one nine zero fiv seven five Please note your whatsapp number. nine six zero nine nine six nine nine zero Null I want to know one thing sir right now so I don't have a five-kilogram packet. How many kilos of dough are last How many kilos are there yet to run out? Five kg five kg poo is not being used already I tell you that sir what I didn't tell you is how much the last five kilos are in two packets means there are four kilos Well you do one thing you Okay packet you click eight photos on the back side, you click three photos now you are on the line I can put the two minute call in hold Can be cut Hum ",
+    "speaker_b_segments": "He would say this in Bengal. By phone matter No says which Chowdhury Guys What to do now GURUPAD CHOUDHURY Chowdhury DH U Yeah, that's the same name in the name of the shop that's the bill. YES RAMDIHA R A M RAM BREATHES R Bank Bent West Bengal seven two two one four one Four-one The reverse side of the packet Getting the batch number two six A M zero one five July Five July TEISH Expiry Date October Date two five six Five kg Say yes The problem is that number one and number two is that pouring out like this means that the dough has got water in the dough, the dough has got water after it gets water as the dough hardens Like Patali They're coming out. JN Again A R who DDS Delhi D Then this is yours What's in There are other packets The other is batch number two six What two six AM Two after AM two It's time fifteen fifty four one five five four Do C M Five E S B OK Yeah three piece piece that same lottery stuff said This is, listen to me, the goods that went to the customer's house did not arrive now, these are not the number of those, but the goods that arrived on the same date on the same date Three pieces of new goods are later in the store by date, two of which I said Maybe in these three pieces, it can work out again, it can go out well, it can turn out bad, it can come out bad. ha will be replaced I didn't say to call the customer who had the noise That is, two people have been taken away, two will be replaced. I gave it to the customer's house only then they would understand We've got it out of here, I'm telling you Say yes nine four seven four one nine zero seven five It's not malt gin it's that pure chili flour made with a kilo of salt free One kg of salt with five kg Tell me whatsapp number nine double zero company nine six zero six nine nine six nine nine No, I don't know how much of the money that was taken has survived. Not five kilos of flowers five kilos of flowers that two I said now OK Don't put it right will be cut Not here ",
+    "summary": "The customer is calling about a problem with a packet they bought from the store. The agent asks for details about the packet, such as the print batch number, manufacturing date, and MRP. The customer says that the dough in the packet has gotten hard and is pouring out, and that they have another UID number that they can check. The agent asks if the customer has another packet, and the customer says that they do not. The agent then tells the customer that they will need to replace the packet, and that the customer should call again if they have any further issues. The customer also inquires about the remaining quantity of dough from the batch, but the agent does not have the information at hand. The agent asks the customer to send photos of the packet for further assistance and to put the call on hold.",
+    "speaker_a_summary": "The customer is calling in with an issue regarding a missing batch number and MRP on their packet of flour. The customer service representative tries to gather information about the issue, including the store name and address, the manufacturing date, and the UID number on the packet. The representative informs the customer that they will need to replace the packet as it is not up to standard, and that the customer should receive a new packet shortly. The representative then tries to clarify the issue with the missing batch number and MRP, and determines that there are four kilos of product left in the two packets. The customer is informed that they will need to provide photos of the back of the packet to determine the issue.  The call is then put on hold.",
+    "speaker_b_summary": "The goods that went to a customer's house haven't arrived, so the speaker is discussing what to do about it with a shop owner named Gurupad Chowdhury. They discuss replacing the two worst packets and offering the customer a discount, and also try to work out who is at fault, whether it is the supplier or the delivery person. The speaker also tries to work out how much money they have lost in the process.",
+    "cohere_points": "- Agent is helping a customer with a problem with a packet they purchased and is trying to troubleshoot the issue over the phone\n- Customer is explaining the issue and what is occurring with the product and the agent is trying to provide solutions\n- The agent is trying to get the customer to send photos of the product and batch number to try and solve the issue\n- The customer is being difficult and keeps interrupting the agent, wanting immediate resolution \n- The agent is trying to get the customer to explain the issue clearly and provide all necessary information in order to resolve the issue. \n- The call ends with the agent asking the customer to send photos of the product and the customer agreeing, but the customer is unclear if they will call back or not.  \n\nLet me know if there is anything else I can help you with regarding this call.",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "1. Customer Service Interaction\n2. Customer Address Verification\n3. Batch Number Confirmation\n4. Manufacturing Date Check\n5. Product Details Clarification\n6. MRP and Expiry Date Inquiry\n7. Product Quality Issue\n8. UID Number Verification\n9. Packet Replacement Process\n10. Customer Complaint Resolution\n11. Packing and Dispatch Details\n12. Goods Delivery Status\n13. Replacement Packet Arrangement\n14. WhatsApp Contact Information\n15. Flour Quantity Verification",
+    "Resolution": "Based on the conversation, it appears that the Customer's issue is not completely resolved yet as there is still confusion regarding the replacement of two packets and the customers calling in to inform about the problem.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "No.",
+    "Was there any profanity on the call": "No.",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 604.3909999999989,
+    "num_silences": 226
+}

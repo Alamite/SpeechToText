@@ -1,0 +1,732 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0737",
+            "end_time": "0.1388",
+            "original_transcript": "you are speaking to Praveen How may I help you today Hello",
+            "translated_transcript": "you are speaking to Praveen How can I help you today Hello",
+            "tone": "Neutral",
+            "rate_of_speech": "184.19",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "praveen"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.1487",
+            "end_time": "0.1592",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hallo",
+            "tone": "Neutral",
+            "rate_of_speech": "95.24",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hallo"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.1728",
+            "end_time": "0.1792",
+            "original_transcript": "sir",
+            "translated_transcript": "cheese",
+            "tone": "Neutral",
+            "rate_of_speech": "157.48",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.3375",
+            "end_time": "0.3488",
+            "original_transcript": "হ্যাঁ",
+            "translated_transcript": "Yes",
+            "tone": "Neutral",
+            "rate_of_speech": "88.24",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.3587",
+            "end_time": "0.3953",
+            "original_transcript": "details check করলে শুভ নাম বতাই আপকা",
+            "translated_transcript": "If you check the details Happy Name Bothai Apka",
+            "tone": "Happy",
+            "rate_of_speech": "245.57",
+            "emotion": "joy",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "happy name bothai apka"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.4158",
+            "end_time": "0.4417",
+            "original_transcript": "না নাম তো দীপক র",
+            "translated_transcript": "No name is Deepak R",
+            "tone": "Neutral",
+            "rate_of_speech": "193.55",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "deepak r"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.4513",
+            "end_time": "0.4853",
+            "original_transcript": "line call disconnect",
+            "translated_transcript": "Disconnect the line call",
+            "tone": "Neutral",
+            "rate_of_speech": "117.59",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "disconnect"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.5623",
+            "end_time": "1.636",
+            "original_transcript": "নমস্তে তর তরফ",
+            "translated_transcript": "Namaste Taraf",
+            "tone": "Neutral",
+            "rate_of_speech": "27.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "namaste taraf"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.7007",
+            "end_time": "1.7315",
+            "original_transcript": "Hello sir আওয়াজ শুন",
+            "translated_transcript": "Hello sir Noise Shun",
+            "tone": "Neutral",
+            "rate_of_speech": "129.80",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "noise shun"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.7425",
+            "end_time": "1.7905",
+            "original_transcript": "ঠিক জানি",
+            "translated_transcript": "I know exactly.",
+            "tone": "Neutral",
+            "rate_of_speech": "62.50",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.9313",
+            "end_time": "2.014",
+            "original_transcript": "class",
+            "translated_transcript": "klasse",
+            "tone": "Neutral",
+            "rate_of_speech": "12.10",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.0296",
+            "end_time": "2.0535",
+            "original_transcript": "নেই",
+            "translated_transcript": "None",
+            "tone": "Neutral",
+            "rate_of_speech": "41.96",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.0758",
+            "end_time": "2.0981",
+            "original_transcript": "কইসে",
+            "translated_transcript": "In the case",
+            "tone": "Neutral",
+            "rate_of_speech": "134.43",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.1132",
+            "end_time": "2.1421",
+            "original_transcript": "কেনেসা পেনে",
+            "translated_transcript": "Kenessa Paine",
+            "tone": "Neutral",
+            "rate_of_speech": "69.01",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "kenessa paine"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.1597",
+            "end_time": "2.2082",
+            "original_transcript": "কোন কে আমি জানি",
+            "translated_transcript": "Who do I know",
+            "tone": "Neutral",
+            "rate_of_speech": "82.47",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "who"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.3543",
+            "end_time": "2.8168",
+            "original_transcript": "হাজি বিল",
+            "translated_transcript": "Haji Bill",
+            "tone": "Neutral",
+            "rate_of_speech": "4.32",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "haji bill"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.052",
+            "end_time": "3.1237",
+            "original_transcript": "ITC ITC classmate",
+            "translated_transcript": "ITC ITC classmate",
+            "tone": "Neutral",
+            "rate_of_speech": "41.86",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "itc itc"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.6268",
+            "end_time": "3.6473",
+            "original_transcript": "producer",
+            "translated_transcript": "produsent",
+            "tone": "Neutral",
+            "rate_of_speech": "48.82",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.668",
+            "end_time": "3.6908",
+            "original_transcript": "producer",
+            "translated_transcript": "produsent",
+            "tone": "Neutral",
+            "rate_of_speech": "43.83",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.7045",
+            "end_time": "3.891",
+            "original_transcript": "call customer call attend",
+            "translated_transcript": "call customer call attend",
+            "tone": "Neutral",
+            "rate_of_speech": "21.45",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.906",
+            "end_time": "3.9806",
+            "original_transcript": "class classmate",
+            "translated_transcript": "classmate",
+            "tone": "Neutral",
+            "rate_of_speech": "13.40",
+            "emotion": "admiration",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.9926",
+            "end_time": "4.0063",
+            "original_transcript": "হ্যাঁ",
+            "translated_transcript": "Yes",
+            "tone": "Neutral",
+            "rate_of_speech": "73.08",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.022",
+            "end_time": "4.0595",
+            "original_transcript": "ITC লিখা",
+            "translated_transcript": "Write ITC",
+            "tone": "Neutral",
+            "rate_of_speech": "53.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "itc"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.0777",
+            "end_time": "4.1953",
+            "original_transcript": "whatsapp number share share",
+            "translated_transcript": "whatsapp number share",
+            "tone": "Neutral",
+            "rate_of_speech": "25.50",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "whatsapp number share"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.2202",
+            "end_time": "4.2488",
+            "original_transcript": "sir",
+            "translated_transcript": "cheese",
+            "tone": "Neutral",
+            "rate_of_speech": "34.90",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.294",
+            "end_time": "4.3508",
+            "original_transcript": "আমি জানি চাই আমি",
+            "translated_transcript": "I want to know I",
+            "tone": "Neutral",
+            "rate_of_speech": "88.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.376",
+            "end_time": "4.467",
+            "original_transcript": "whatsapp number share share",
+            "translated_transcript": "whatsapp number share",
+            "tone": "Neutral",
+            "rate_of_speech": "32.97",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "whatsapp number share"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.485",
+            "end_time": "4.497",
+            "original_transcript": "হ্যা",
+            "translated_transcript": "Yes",
+            "tone": "Neutral",
+            "rate_of_speech": "83.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.511",
+            "end_time": "4.5905",
+            "original_transcript": "whatsapp number share করো photo share করে note করো whatsapp number",
+            "translated_transcript": "whatsapp number Share photo share note whatsapp number",
+            "tone": "Neutral",
+            "rate_of_speech": "100.65",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "whatsapp number",
+                "share",
+                "photo share note whatsapp number"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.6858",
+            "end_time": "4.7392",
+            "original_transcript": "promise of quality",
+            "translated_transcript": "Promise of quality",
+            "tone": "Neutral",
+            "rate_of_speech": "56.23",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "promise"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.8452",
+            "end_time": "4.8946",
+            "original_transcript": "photo share",
+            "translated_transcript": "delen foto",
+            "tone": "Neutral",
+            "rate_of_speech": "40.40",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "delen foto"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.9043",
+            "end_time": "4.921",
+            "original_transcript": "কে রহিত জি",
+            "translated_transcript": "K Rahit G",
+            "tone": "Neutral",
+            "rate_of_speech": "180.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "k rahit g"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.941",
+            "end_time": "4.9533",
+            "original_transcript": "মাটিকে",
+            "translated_transcript": "to the ground",
+            "tone": "Neutral",
+            "rate_of_speech": "242.91",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.9668",
+            "end_time": "4.9878",
+            "original_transcript": "number note করো",
+            "translated_transcript": "Make a note of the number",
+            "tone": "Neutral",
+            "rate_of_speech": "285.94",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.0153",
+            "end_time": "5.0487",
+            "original_transcript": "nine six zero six",
+            "translated_transcript": "nine six zero six",
+            "tone": "Neutral",
+            "rate_of_speech": "120.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.1142",
+            "end_time": "5.1946",
+            "original_transcript": "nine six zero six",
+            "translated_transcript": "nine six zero six",
+            "tone": "Neutral",
+            "rate_of_speech": "49.70",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.2137",
+            "end_time": "5.2263",
+            "original_transcript": "ঠিক",
+            "translated_transcript": "Exactly",
+            "tone": "Neutral",
+            "rate_of_speech": "79.05",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "exactly"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.2487",
+            "end_time": "5.2748",
+            "original_transcript": "double nine six",
+            "translated_transcript": "double nine six",
+            "tone": "Neutral",
+            "rate_of_speech": "114.72",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.2887",
+            "end_time": "5.3073",
+            "original_transcript": "double nine",
+            "translated_transcript": "double nine",
+            "tone": "Neutral",
+            "rate_of_speech": "107.14",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.3073",
+            "end_time": "5.3173",
+            "original_transcript": "six",
+            "translated_transcript": "six",
+            "tone": "Neutral",
+            "rate_of_speech": "100.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.3362",
+            "end_time": "5.364",
+            "original_transcript": "double nine zero",
+            "translated_transcript": "double nine zero",
+            "tone": "Neutral",
+            "rate_of_speech": "107.85",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.3855",
+            "end_time": "5.4086",
+            "original_transcript": "Double Right",
+            "translated_transcript": "Doble rechts",
+            "tone": "Neutral",
+            "rate_of_speech": "86.39",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "doble"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.421",
+            "end_time": "5.5118",
+            "original_transcript": "nine six zero six double nine six nine nine zero",
+            "translated_transcript": "nine six zero six double nine six nine nine zero",
+            "tone": "Neutral",
+            "rate_of_speech": "110.11",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.5285",
+            "end_time": "5.6048",
+            "original_transcript": "nine six zero six double nine six double nine zero ঠিক আছে",
+            "translated_transcript": "nine six zero six double nine six double nine zero Okay",
+            "tone": "Neutral",
+            "rate_of_speech": "144.07",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.6188",
+            "end_time": "5.633",
+            "original_transcript": "হম",
+            "translated_transcript": "Hum",
+            "tone": "Neutral",
+            "rate_of_speech": "70.59",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "hum"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.6435",
+            "end_time": "5.765",
+            "original_transcript": "thank you",
+            "translated_transcript": "thank you",
+            "tone": "Neutral",
+            "rate_of_speech": "16.46",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.7768",
+            "end_time": "5.853",
+            "original_transcript": "photo share করলি কি জায়গা",
+            "translated_transcript": "Where to share a photo",
+            "tone": "Neutral",
+            "rate_of_speech": "65.65",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.8956",
+            "end_time": "6.0601",
+            "original_transcript": "brand brand classmate",
+            "translated_transcript": "brand brand classmate",
+            "tone": "Neutral",
+            "rate_of_speech": "18.24",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "brand brand classmate"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.0915",
+            "end_time": "6.1522",
+            "original_transcript": "কাশ্মীরকে বাড়ি মে নোটবুক",
+            "translated_transcript": "Kashmir Home May Notebook",
+            "tone": "Neutral",
+            "rate_of_speech": "65.92",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "kashmir",
+                "may notebook"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.1715",
+            "end_time": "6.202",
+            "original_transcript": "ছাতি নোটবুককে বা",
+            "translated_transcript": "Umbrella notebook or",
+            "tone": "Neutral",
+            "rate_of_speech": "98.41",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "umbrella"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.2133",
+            "end_time": "6.3206",
+            "original_transcript": "sir photo share photo share",
+            "translated_transcript": "sir photo share photo share",
+            "tone": "Neutral",
+            "rate_of_speech": "46.58",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "sir photo share photo share"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.3987",
+            "end_time": "6.442",
+            "original_transcript": "note book photo share করেছি",
+            "translated_transcript": "I shared a note book photo.",
+            "tone": "Neutral",
+            "rate_of_speech": "138.51",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "note book photo"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.5321",
+            "end_time": "6.563",
+            "original_transcript": "promise",
+            "translated_transcript": "Promise",
+            "tone": "Neutral",
+            "rate_of_speech": "32.43",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "promise"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.577",
+            "end_time": "6.6343",
+            "original_transcript": "qual",
+            "translated_transcript": "which",
+            "tone": "Neutral",
+            "rate_of_speech": "17.44",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        }
+    ],
+    "translated_segments": "you are speaking to Praveen How can I help you today Hello Hallo cheese Yes If you check the details Happy Name Bothai Apka No name is Deepak R Disconnect the line call Namaste Taraf Hello sir Noise Shun I know exactly. klasse None In the case Kenessa Paine Who do I know Haji Bill ITC ITC classmate produsent produsent call customer call attend classmate Yes Write ITC whatsapp number share cheese I want to know I whatsapp number share Yes whatsapp number Share photo share note whatsapp number Promise of quality delen foto K Rahit G to the ground Make a note of the number nine six zero six nine six zero six Exactly double nine six double nine six double nine zero Doble rechts nine six zero six double nine six nine nine zero nine six zero six double nine six double nine zero Okay Hum thank you Where to share a photo brand brand classmate Kashmir Home May Notebook Umbrella notebook or sir photo share photo share I shared a note book photo. Promise which ",
+    "speaker_a_segments": "you are speaking to Praveen How can I help you today Hello cheese If you check the details Happy Name Bothai Apka Disconnect the line call Namaste Taraf Hello sir Noise Shun I know exactly. klasse Kenessa Paine Who do I know Haji Bill ITC ITC classmate produsent classmate Write ITC whatsapp number share cheese I want to know I whatsapp number share whatsapp number Share photo share note whatsapp number delen foto K Rahit G Make a note of the number nine six zero six nine six zero six double nine six six double nine zero nine six zero six double nine six double nine zero Okay thank you Where to share a photo brand brand classmate sir photo share photo share I shared a note book photo. ",
+    "speaker_b_segments": "Hallo Yes No name is Deepak R None In the case produsent call customer call attend Yes Yes Promise of quality to the ground Exactly double nine Doble rechts nine six zero six double nine six nine nine zero Hum Kashmir Home May Notebook Umbrella notebook or Promise which ",
+    "summary": "Deepak R. got in touch with Praveen, a customer service representative, to find out the WhatsApp number of their classmate Kenessa Paine. They were classmates in ITC and also produce a notebook brand for the company. Praveen, who seems to be disorganized, tries to find the number but can't locate it. He then decides to share a photo of the notebook, to which Deepak asks if he can share it at his home.",
+    "speaker_a_summary": "Praveen wants to know the WhatsApp number of his classmate from ITC. You asked Praveen to share the number and you will share a photo of the notebook that you have as a note, which he acknowledges.",
+    "speaker_b_summary": "Deepak R, a customer service representative from Kashmir Home, answered a call from a customer who requested assistance in correcting a quality issue with their order of a notebook and umbrella. The customer was promised good quality products and exceptional customer service, with the representative committing to resolving the issue as soon as possible. The customer was then provided with a phone number to reach the customer service team, which is 996 09 06 99 99.",
+    "cohere_points": "- Praveen, a customer, is frustrated with the poor network connection and unclear sound on the call.\n- He wants the caller to write down the ITC's WhatsApp number, and to share a photo of the notebook with a promise of quality. \n- The caller is asked to note down the number 96000696. \n- The conversation ends with thanking the caller and discussing where to share the photo. \n- Key phrases include network issues, contact information, notebook photo, and quality promise.",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "1. Speaking to Praveen\n2. Checking details\n3. Happy name\n4. Disconnect the line\n5. Namaste Taraf\n6. Hello sir\n7. Noise Shun\n8. I know exactly\n9. Classmate produsent\n10. Call customer\n11. Attend classmate\n12. WhatsApp number share\n13. Share photo\n14. Promise of quality\n15. Share a photo brand",
+    "Resolution": "The customer issue is not resolved as there is confusion and lack of clarity in communication.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "No, the caller did not display empathy in the conversation provided.",
+    "Was there any profanity on the call": "No",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 248.03599999999983,
+    "num_silences": 85
+}
