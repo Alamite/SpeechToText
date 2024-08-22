@@ -1,0 +1,657 @@
+{
+    "segments": [
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.0373",
+            "end_time": "0.0932",
+            "original_transcript": "good morning welcome to ITC নামল সহায়তা কর",
+            "translated_transcript": "good morning welcome to help ITC Namal",
+            "tone": "Happy",
+            "rate_of_speech": "125.37",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "itc namal"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.11",
+            "end_time": "0.5948",
+            "original_transcript": "actually",
+            "translated_transcript": "in actuality",
+            "tone": "Neutral",
+            "rate_of_speech": "4.13",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.5977",
+            "end_time": "1.0055",
+            "original_transcript": "contact company experience distributor distributor contact number",
+            "translated_transcript": "contact company experience distributor distributor contact number",
+            "tone": "Neutral",
+            "rate_of_speech": "17.16",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "contact company experience distributor distributor contact number"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.0317",
+            "end_time": "1.362",
+            "original_transcript": "I am so sorry contact number request forward distributor",
+            "translated_transcript": "I am so sorry contact number request forward distributor",
+            "tone": "Sad",
+            "rate_of_speech": "27.25",
+            "emotion": "remorse",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "sorry contact number request"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.366",
+            "end_time": "1.6537",
+            "original_transcript": "contact documents",
+            "translated_transcript": "contact documents",
+            "tone": "Neutral",
+            "rate_of_speech": "6.95",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "contact documents"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.6568",
+            "end_time": "1.6735",
+            "original_transcript": "last",
+            "translated_transcript": "laatste",
+            "tone": "Neutral",
+            "rate_of_speech": "60.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.6735",
+            "end_time": "1.9874",
+            "original_transcript": "week product others company",
+            "translated_transcript": "week product other company",
+            "tone": "Neutral",
+            "rate_of_speech": "12.74",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "week product"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.9876",
+            "end_time": "2.2702",
+            "original_transcript": "distributor distributor emergency contact",
+            "translated_transcript": "distributor distributor emergency contact",
+            "tone": "Neutral",
+            "rate_of_speech": "14.15",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "distributor distributor emergency contact"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.4009",
+            "end_time": "2.4463",
+            "original_transcript": "double seven nine seven three seven three double nine",
+            "translated_transcript": "double seven nine seven three seven three double nine",
+            "tone": "Neutral",
+            "rate_of_speech": "198.17",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.4582",
+            "end_time": "2.5438",
+            "original_transcript": "okay sir",
+            "translated_transcript": "okay cheese",
+            "tone": "Neutral",
+            "rate_of_speech": "23.35",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay cheese"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "2.5562",
+            "end_time": "2.5685",
+            "original_transcript": "গোপালকে",
+            "translated_transcript": "Gopalke",
+            "tone": "Neutral",
+            "rate_of_speech": "80.97",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "gopalke"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.6095",
+            "end_time": "2.6282",
+            "original_transcript": "distributor",
+            "translated_transcript": "distribuïdor",
+            "tone": "Neutral",
+            "rate_of_speech": "53.57",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.649",
+            "end_time": "2.7176",
+            "original_transcript": "distributor",
+            "translated_transcript": "distribuïdor",
+            "tone": "Neutral",
+            "rate_of_speech": "14.57",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "2.7358",
+            "end_time": "2.8702",
+            "original_transcript": "distributor",
+            "translated_transcript": "distribuïdor",
+            "tone": "Neutral",
+            "rate_of_speech": "7.44",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.161",
+            "end_time": "3.183",
+            "original_transcript": "T A R T H",
+            "translated_transcript": "T A R T H",
+            "tone": "Neutral",
+            "rate_of_speech": "227.45",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "r t h"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.1928",
+            "end_time": "3.2242",
+            "original_transcript": "P A R T H A পার্থ",
+            "translated_transcript": "P A R T H A Perth",
+            "tone": "Neutral",
+            "rate_of_speech": "223.52",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "r t h",
+                "perth"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.2372",
+            "end_time": "3.2575",
+            "original_transcript": "পার্থ B",
+            "translated_transcript": "Perth B",
+            "tone": "Neutral",
+            "rate_of_speech": "98.36",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "perth"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.2668",
+            "end_time": "3.2867",
+            "original_transcript": "B H A double T A.",
+            "translated_transcript": "B H A double T A.",
+            "tone": "Neutral",
+            "rate_of_speech": "302.52",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.3095",
+            "end_time": "3.3275",
+            "original_transcript": "email ID",
+            "translated_transcript": "E-Mail ID",
+            "tone": "Neutral",
+            "rate_of_speech": "111.21",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "e-mail id"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.3397",
+            "end_time": "3.4058",
+            "original_transcript": "Pha dot bhatta twenty-six at the rate gmail dot com",
+            "translated_transcript": "Pha dot bhatta twenty-six at the rate gmail dot com",
+            "tone": "Neutral",
+            "rate_of_speech": "151.13",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pha",
+                "dot bhatta twenty-six",
+                "rate gmail dot com"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.4412",
+            "end_time": "3.5112",
+            "original_transcript": "P A R T H A B A T",
+            "translated_transcript": "P A R T H A B A T",
+            "tone": "Neutral",
+            "rate_of_speech": "128.60",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "r t h"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.5233",
+            "end_time": "3.5267",
+            "original_transcript": "twenty",
+            "translated_transcript": "dång",
+            "tone": "Neutral",
+            "rate_of_speech": "298.51",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.53",
+            "end_time": "3.536",
+            "original_transcript": "six",
+            "translated_transcript": "six",
+            "tone": "Neutral",
+            "rate_of_speech": "166.67",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.5558",
+            "end_time": "3.5707",
+            "original_transcript": "at the rate gmail dot com at",
+            "translated_transcript": "at the rate gmail dot com at",
+            "tone": "Neutral",
+            "rate_of_speech": "471.91",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "rate gmail dot com"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.5707",
+            "end_time": "3.6823",
+            "original_transcript": "the rate gmail dot com location গোল বাজার আদর্শ বালিকা বিদ্যালয়",
+            "translated_transcript": "the rate gmail dot com location round market ideal girl school",
+            "tone": "Happy",
+            "rate_of_speech": "98.51",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "rate gmail dot com location round market",
+                "ideal girl school"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.6985",
+            "end_time": "3.7473",
+            "original_transcript": "গোল বাজার",
+            "translated_transcript": "Round Market",
+            "tone": "Neutral",
+            "rate_of_speech": "40.97",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "market"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.7585",
+            "end_time": "3.819",
+            "original_transcript": "near আদর্শ বালিকা বিদ্যালয়",
+            "translated_transcript": "near Ideal Girls School",
+            "tone": "Happy",
+            "rate_of_speech": "66.12",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ideal girls"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.8426",
+            "end_time": "3.9123",
+            "original_transcript": "pin code seven four three triple two",
+            "translated_transcript": "pin code seven four three triple two",
+            "tone": "Neutral",
+            "rate_of_speech": "100.45",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pin code"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.936",
+            "end_time": "3.959",
+            "original_transcript": "আদর্শ বিদ্যা বিদ্যালয়",
+            "translated_transcript": "School of Ideology",
+            "tone": "Neutral",
+            "rate_of_speech": "130.53",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ideology"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.9705",
+            "end_time": "4.05",
+            "original_transcript": "আদর্শ বিদ্যালয় আর pin code seven four three triple two",
+            "translated_transcript": "Standard school R pin code seven four three triple two",
+            "tone": "Neutral",
+            "rate_of_speech": "125.76",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "standard school",
+                "pin code"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.0642",
+            "end_time": "4.088",
+            "original_transcript": "seven four three triple two",
+            "translated_transcript": "seven four three triple two",
+            "tone": "Neutral",
+            "rate_of_speech": "209.94",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.0997",
+            "end_time": "4.1387",
+            "original_transcript": "আজই contactor নিয়ে গিয়ে বলবো",
+            "translated_transcript": "Today I'll go over the contactor and tell",
+            "tone": "Neutral",
+            "rate_of_speech": "205.04",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.1513",
+            "end_time": "4.2357",
+            "original_transcript": "ঠিক আছে sir forward করবার দেখলি যে gold gold",
+            "translated_transcript": "All right sir, let's see that gold is gold.",
+            "tone": "Happy",
+            "rate_of_speech": "106.74",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "right sir"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.2572",
+            "end_time": "4.2645",
+            "original_transcript": "গোল গোল",
+            "translated_transcript": "Round goals",
+            "tone": "Neutral",
+            "rate_of_speech": "272.73",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "round goals"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.2813",
+            "end_time": "4.6695",
+            "original_transcript": "গোল আদর্শ বালিকা বিদ্যালয় আছে",
+            "translated_transcript": "The goal is the ideal girl's school",
+            "tone": "Happy",
+            "rate_of_speech": "18.03",
+            "emotion": "desire",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "ideal girl 's school"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.911",
+            "end_time": "4.9338",
+            "original_transcript": "আচ্ছা কদম লেগেছে",
+            "translated_transcript": "Well, I liked the words.",
+            "tone": "Happy",
+            "rate_of_speech": "219.14",
+            "emotion": "love",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "well"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.9603",
+            "end_time": "4.992",
+            "original_transcript": "মিশরে কাবুতে",
+            "translated_transcript": "In Kaboo, Egypt",
+            "tone": "Neutral",
+            "rate_of_speech": "94.74",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "kaboo",
+                "egypt"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.3177",
+            "end_time": "5.3423",
+            "original_transcript": "কবে যাবে",
+            "translated_transcript": "When to go",
+            "tone": "Neutral",
+            "rate_of_speech": "121.54",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.5157",
+            "end_time": "5.5287",
+            "original_transcript": "ভালো আছি",
+            "translated_transcript": "I'm good.",
+            "tone": "Happy",
+            "rate_of_speech": "153.85",
+            "emotion": "admiration",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "'m good"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.5637",
+            "end_time": "5.5863",
+            "original_transcript": "আমি লক্ষ্য করেছি দেখেছি",
+            "translated_transcript": "I noticed I saw",
+            "tone": "Neutral",
+            "rate_of_speech": "176.60",
+            "emotion": "realization",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.5961",
+            "end_time": "5.6903",
+            "original_transcript": "পরে কথা বলবো পরে ফোন করে আমাকে ফোন কর",
+            "translated_transcript": "I'll talk later. Call me later.",
+            "tone": "Neutral",
+            "rate_of_speech": "63.71",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "'ll talk",
+                "call"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.7017",
+            "end_time": "5.7085",
+            "original_transcript": "hello",
+            "translated_transcript": "silav",
+            "tone": "Neutral",
+            "rate_of_speech": "146.34",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.721",
+            "end_time": "5.8773",
+            "original_transcript": "request forward requirement contact",
+            "translated_transcript": "request forward requirement contact",
+            "tone": "Neutral",
+            "rate_of_speech": "25.59",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "requirement contact"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.8868",
+            "end_time": "5.9002",
+            "original_transcript": "thank you",
+            "translated_transcript": "thank you",
+            "tone": "Neutral",
+            "rate_of_speech": "149.81",
+            "emotion": "gratitude",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.1247",
+            "end_time": "6.2283",
+            "original_transcript": "thank you so much",
+            "translated_transcript": "thank you so much",
+            "tone": "Neutral",
+            "rate_of_speech": "38.59",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.2583",
+            "end_time": "6.2732",
+            "original_transcript": "Thanks",
+            "translated_transcript": "Grazie",
+            "tone": "Neutral",
+            "rate_of_speech": "67.42",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "grazie"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.3792",
+            "end_time": "6.4548",
+            "original_transcript": "টাকা দাঁড়া একটা message ঢুকছে দেখলাম",
+            "translated_transcript": "I saw a message coming in for money.",
+            "tone": "Neutral",
+            "rate_of_speech": "105.73",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        }
+    ],
+    "translated_segments": "good morning welcome to help ITC Namal in actuality contact company experience distributor distributor contact number I am so sorry contact number request forward distributor contact documents laatste week product other company distributor distributor emergency contact double seven nine seven three seven three double nine okay cheese Gopalke distribuïdor distribuïdor distribuïdor T A R T H P A R T H A Perth Perth B B H A double T A. E-Mail ID Pha dot bhatta twenty-six at the rate gmail dot com P A R T H A B A T dång six at the rate gmail dot com at the rate gmail dot com location round market ideal girl school Round Market near Ideal Girls School pin code seven four three triple two School of Ideology Standard school R pin code seven four three triple two seven four three triple two Today I'll go over the contactor and tell All right sir, let's see that gold is gold. Round goals The goal is the ideal girl's school Well, I liked the words. In Kaboo, Egypt When to go I'm good. I noticed I saw I'll talk later. Call me later. silav request forward requirement contact thank you thank you so much Grazie I saw a message coming in for money. ",
+    "speaker_a_segments": "good morning welcome to help ITC Namal I am so sorry contact number request forward distributor contact documents laatste double seven nine seven three seven three double nine distribuïdor distribuïdor distribuïdor T A R T H Perth B E-Mail ID P A R T H A B A T dång at the rate gmail dot com at Round Market School of Ideology seven four three triple two All right sir, let's see that gold is gold. The goal is the ideal girl's school request forward requirement contact thank you so much ",
+    "speaker_b_segments": "in actuality contact company experience distributor distributor contact number week product other company distributor distributor emergency contact okay cheese Gopalke P A R T H A Perth B H A double T A. Pha dot bhatta twenty-six at the rate gmail dot com six the rate gmail dot com location round market ideal girl school near Ideal Girls School pin code seven four three triple two Standard school R pin code seven four three triple two Today I'll go over the contactor and tell Round goals Well, I liked the words. In Kaboo, Egypt When to go I'm good. I noticed I saw I'll talk later. Call me later. silav thank you Grazie I saw a message coming in for money. ",
+    "summary": "ITC Namal wants to get in contact with a distributor of a company. The distributor's contact number, emergency contact details, e-mail ID, and location were provided by ITC Namal, who also indicated that the distributor's name is Gopalke. The contact information and the name of the distributor were given for the company itself as well. ITC Namal will review the contact information and get back to the distributor later.",
+    "speaker_a_summary": "ITC Namal wants you to forward the contact number and documents of a distributor to double seven nine seven three seven three double nine. The distributor's name and email are given as T A R T H and PARTHABAT respectively. The contact is in regards to gold and their ideal girl's school.",
+    "speaker_b_summary": "Gopalke, a distributor, can be contacted through the contact number provided, on weekdays during working hours. They deal with an array of products and can be located near Ideal Girls School, Pin Code 743 222. In case of emergencies they can be reached at the email addresses: patha.bhatta26@gmail.com and silav.gopalke@gmail.com.",
+    "cohere_points": "- Namal from ITC Namal wants to contact a distributor of a company in the emergency.\n- Gopal can be contacted on the phone number and email ID given.\n- The distributor is located near Round Market, Ideal Girl School, Standard School, Pin Code 743302 in Kaboo, Egypt. \n- Gopal can be contacted regarding a previous discussion about requirements. \n- Namal saw a message about money coming in and now wants to discuss it.",
+    "opening_comments": "No",
+    "closing_comments": "No",
+    "Topic": "1. Good morning welcome\n2. ITC Namal\n3. Contact company experience\n4. Distributor contact number\n5. Request forward distributor\n6. Contact documents laatste week\n7. Product other company\n8. Emergency contact\n9. Distributor Gopalke\n10. Distributor T A R T H\n11. Perth B B H A\n12. E-Mail ID\n13. Round market location\n14. Ideal girl school\n15. Pin code seven",
+    "Resolution": "Based on the text provided, it seems that the customer's issue is not resolved as there is mention of forwarding requirements and contact information.",
+    "Has the Agent Ask for callers Name": "no",
+    "Has the Agent Ask for callers Email_id": "no",
+    "Has the Agent Ask for callers Address": "no",
+    "Did the caller Displayed Empathy": "No. The conversation does not display empathy towards the caller or any particular situation.",
+    "Was there any profanity on the call": "No.",
+    "Interaction": "Query",
+    "Discipline": "Junk",
+    "Intent": "Junk",
+    "total_silence_duration": 247.01499999999984,
+    "num_silences": 59
+}
