@@ -55,6 +55,7 @@ function Transcript({ jsonData, highlight, translate, onTextClick, onClicked, cu
     const [tooltipOpen, setTooltipOpen] = useState(false);
     const [clicked, setClicked] = useState(false);
     const [globalTranslate, setGlobalTranslate] = useState(translate);
+    const [diarization, setDiarization] = useState();
     const [items, setItems] = useState([]);
     const transcriptRef = useRef(null);
 
@@ -76,6 +77,11 @@ function Transcript({ jsonData, highlight, translate, onTextClick, onClicked, cu
                 translate: translate,
             }));
             setItems(newItems);
+
+            if("diarization" in jsonData && jsonData.diarization == false)
+                setDiarization(false);
+            else
+                setDiarization(true);
         }
     }, [jsonData, translate]);
 
@@ -115,6 +121,9 @@ function Transcript({ jsonData, highlight, translate, onTextClick, onClicked, cu
     return (
         <div className='transcript-content' ref={transcriptRef}>
             <Container fluid style={{padding:"none !important"}}>
+                {diarization? <div>
+
+                
                 {items.map((item, index) => (
                     <div key={index} className='highlight-background' id={`transcript-item-${index}`}>
                         <div 
@@ -182,6 +191,15 @@ function Transcript({ jsonData, highlight, translate, onTextClick, onClicked, cu
                         </div>
                     </div>
                 ))}
+            </div> :<div>
+            <div className='sentiment-content'>
+            {items.map((item, index) => (
+                <p>{item.text}</p>
+            ))}
+            {/* <h3>Sentiment Levels</h3>              Sentiment levels chart
+            <SentimentBarChart/> */}
+        </div>
+                </div>}
             </Container>
         </div>
     );
