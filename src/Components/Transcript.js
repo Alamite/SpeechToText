@@ -6,7 +6,7 @@ import { faSmile, faMeh, faFrown, faSailboat, faJetFighter, faCarSide, faCircleI
 import smile from '../Data/positiveGreen.png';
 import meh from '../Data/neutralYellow.png';
 import frown from '../Data/negativeIcon2.png';
-import transcriptData from '../Data/TranscriptOutput4.json';  // Corrected path to the JSON file
+
 
 const getIconByEmotion = (sentiment) => {
     switch (sentiment.toLowerCase()) {
@@ -58,6 +58,7 @@ function Transcript({ jsonData, highlight, translate, onTextClick, onClicked, cu
     const [diarization, setDiarization] = useState();
     const [items, setItems] = useState([]);
     const transcriptRef = useRef(null);
+    const [paragraphs, setParagraphs] = useState("Loading");
 
     useEffect(() => {
         if (jsonData && jsonData.segments) {
@@ -79,7 +80,27 @@ function Transcript({ jsonData, highlight, translate, onTextClick, onClicked, cu
             setItems(newItems);
 
             if("diarization" in jsonData && jsonData.diarization == false)
+            {
                 setDiarization(false);
+                const text =  jsonData.segments[0].original_transcript;
+
+                // Matches text ending with . ! or ?
+                const sentences = text.match(/[^.!?]+[.!?]+/g) || []; 
+    
+                // Define the chunk size for how many sentences before a line break
+                const chunkSize = 25; 
+                const chunks = [];
+            
+                // Group sentences into chunks of 8
+                for (let i = 0; i < sentences.length; i += chunkSize) {
+                  chunks.push(sentences.slice(i, i + chunkSize).join(' '));
+                }
+            
+                // Join the chunks with '\n' to insert newlines after every 8 sentences
+                setParagraphs(chunks.join('\n'));
+
+            }
+                
             else
                 setDiarization(true);
         }
@@ -193,11 +214,11 @@ function Transcript({ jsonData, highlight, translate, onTextClick, onClicked, cu
                 ))}
             </div> :<div>
             <div className='sentiment-content'>
-            {items.map((item, index) => (
-                <p>{item.text}</p>
-            ))}
-            {/* <h3>Sentiment Levels</h3>              Sentiment levels chart
-            <SentimentBarChart/> */}
+  
+            {paragraphs.split('\n').map((line, index) => (
+        <p key={index}>{line}</p>
+      ))}
+ 
         </div>
                 </div>}
             </Container>
