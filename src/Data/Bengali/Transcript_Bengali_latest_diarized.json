@@ -1,0 +1,4038 @@
+{
+    "task": "translate",
+    "language": "english",
+    "segments": [
+        {
+            "id": 0,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "0.0000",
+            "end": "11.0000",
+            "translated_transcript": " Thank you for calling ITC, my name is Vikram, how may I help you today, hello, Namaste sir",
+            "original_transcript": " Thank you for calling ITC, my name is Vikram, how may I help you today, hello, Namaste sir"
+        },
+        {
+            "id": 0,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "0.0000",
+            "end": "16.8400",
+            "translated_transcript": " Next question please?",
+            "original_transcript": " Next question please?"
+        },
+        {
+            "id": 1,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "11.0000",
+            "end": "21.0000",
+            "translated_transcript": " ITC, my name is Vikram, tell me sir, how may I help you today, you want to talk in Bengali,",
+            "original_transcript": " ITC, my name is Vikram, tell me sir, how may I help you today, you want to talk in Bengali,"
+        },
+        {
+            "id": 1,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "17.8400",
+            "end": "19.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 2,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "19.8400",
+            "end": "21.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 2,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "21.0000",
+            "end": "28.0000",
+            "translated_transcript": " our agent is available in Bengali, I will transfer the call to him, hello, sir you want to",
+            "original_transcript": " our agent is available in Bengali, I will transfer the call to him, hello, sir you want to"
+        },
+        {
+            "id": 3,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "21.8400",
+            "end": "23.8400",
+            "translated_transcript": " Hello",
+            "original_transcript": " Hello"
+        },
+        {
+            "id": 4,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "25.8400",
+            "end": "27.8400",
+            "translated_transcript": " Yes, tell me",
+            "original_transcript": " Yes, tell me"
+        },
+        {
+            "id": 3,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "28.0000",
+            "end": "32.0000",
+            "translated_transcript": " talk in Bengali, our agent is in Bengali, I will transfer the call to him, talk to him,",
+            "original_transcript": " talk in Bengali, our agent is in Bengali, I will transfer the call to him, talk to him,"
+        },
+        {
+            "id": 5,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "29.8400",
+            "end": "31.8400",
+            "translated_transcript": " Yes",
+            "original_transcript": " Yes"
+        },
+        {
+            "id": 6,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "31.8400",
+            "end": "33.8400",
+            "translated_transcript": " Yes, yes, yes",
+            "original_transcript": " Yes, yes, yes"
+        },
+        {
+            "id": 4,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "32.0000",
+            "end": "34.0000",
+            "translated_transcript": " okay, thank you very much.",
+            "original_transcript": " okay, thank you very much."
+        },
+        {
+            "id": 7,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "33.8400",
+            "end": "35.8400",
+            "translated_transcript": " Yes, yes, yes",
+            "original_transcript": " Yes, yes, yes"
+        },
+        {
+            "id": 8,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "39.8400",
+            "end": "41.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 9,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "41.8400",
+            "end": "43.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 10,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "43.8400",
+            "end": "45.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 11,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "46.8400",
+            "end": "48.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 12,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "52.8400",
+            "end": "54.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 13,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "54.8400",
+            "end": "56.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 14,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "57.8400",
+            "end": "59.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 15,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "60.8400",
+            "end": "62.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 16,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "63.8400",
+            "end": "65.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 17,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "67.8400",
+            "end": "69.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 18,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "70.8400",
+            "end": "72.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 19,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "72.8400",
+            "end": "74.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 20,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "74.8400",
+            "end": "76.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 5,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "81.0000",
+            "end": "101.0000",
+            "translated_transcript": " Thank you very much.",
+            "original_transcript": " Thank you very much."
+        },
+        {
+            "id": 21,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "81.8400",
+            "end": "83.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 22,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "88.8400",
+            "end": "91.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 23,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "91.8400",
+            "end": "93.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 24,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "93.8400",
+            "end": "95.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 25,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "95.8400",
+            "end": "97.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 26,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "98.8400",
+            "end": "100.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 6,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "101.0000",
+            "end": "116.0000",
+            "translated_transcript": " Thank you very much.",
+            "original_transcript": " Thank you very much."
+        },
+        {
+            "id": 27,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "104.8400",
+            "end": "106.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 28,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "108.8400",
+            "end": "110.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 29,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "112.8400",
+            "end": "114.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 7,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "116.0000",
+            "end": "136.0000",
+            "translated_transcript": " Thank you very much.",
+            "original_transcript": " Thank you very much."
+        },
+        {
+            "id": 30,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "126.8400",
+            "end": "128.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 31,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "128.8400",
+            "end": "133.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 32,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "134.8400",
+            "end": "136.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 8,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "136.0000",
+            "end": "156.0000",
+            "translated_transcript": " Thank you very much.",
+            "original_transcript": " Thank you very much."
+        },
+        {
+            "id": 33,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "139.8400",
+            "end": "141.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 34,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "142.8400",
+            "end": "144.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 35,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "144.8400",
+            "end": "146.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 36,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "148.8400",
+            "end": "150.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 37,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "150.8400",
+            "end": "152.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 38,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "152.8400",
+            "end": "154.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 39,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "154.8400",
+            "end": "160.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 9,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "156.0000",
+            "end": "176.0000",
+            "translated_transcript": " Thank you very much.",
+            "original_transcript": " Thank you very much."
+        },
+        {
+            "id": 40,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "163.8400",
+            "end": "166.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 41,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "167.8400",
+            "end": "171.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 42,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "173.8400",
+            "end": "176.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 10,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "176.0000",
+            "end": "202.0000",
+            "translated_transcript": " Thank you very much.",
+            "original_transcript": " Thank you very much."
+        },
+        {
+            "id": 43,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "180.8400",
+            "end": "183.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 44,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "184.8400",
+            "end": "187.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 45,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "189.8400",
+            "end": "192.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 46,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "193.8400",
+            "end": "196.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 47,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "204.8400",
+            "end": "207.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 11,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "206.0000",
+            "end": "226.0000",
+            "translated_transcript": " Thank you very much.",
+            "original_transcript": " Thank you very much."
+        },
+        {
+            "id": 48,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "208.8400",
+            "end": "211.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 49,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "213.8400",
+            "end": "216.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 50,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "223.8400",
+            "end": "226.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 12,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "226.0000",
+            "end": "254.0000",
+            "translated_transcript": " Thank you very much.",
+            "original_transcript": " Thank you very much."
+        },
+        {
+            "id": 51,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "228.8400",
+            "end": "231.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 52,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "231.8400",
+            "end": "234.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 53,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "239.8400",
+            "end": "242.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 54,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "248.8400",
+            "end": "251.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 13,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "254.0000",
+            "end": "279.0000",
+            "translated_transcript": " Thank you very much.",
+            "original_transcript": " Thank you very much."
+        },
+        {
+            "id": 55,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "255.8400",
+            "end": "258.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 56,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "261.8400",
+            "end": "264.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 57,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "270.8400",
+            "end": "273.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 14,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "284.0000",
+            "end": "304.0000",
+            "translated_transcript": " Thank you very much.",
+            "original_transcript": " Thank you very much."
+        },
+        {
+            "id": 58,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "291.8400",
+            "end": "294.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 15,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "304.0000",
+            "end": "331.0000",
+            "translated_transcript": " Thank you very much.",
+            "original_transcript": " Thank you very much."
+        },
+        {
+            "id": 59,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "306.8400",
+            "end": "309.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 60,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "312.8400",
+            "end": "315.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 61,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "322.8400",
+            "end": "325.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 62,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "326.8400",
+            "end": "329.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 16,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "331.0000",
+            "end": "360.0000",
+            "translated_transcript": " Thank you very much.",
+            "original_transcript": " Thank you very much."
+        },
+        {
+            "id": 63,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "331.8400",
+            "end": "334.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 64,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "334.8400",
+            "end": "337.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 65,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "350.8400",
+            "end": "353.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 66,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "354.8400",
+            "end": "357.8400",
+            "translated_transcript": " Speak in Bengali",
+            "original_transcript": " Speak in Bengali"
+        },
+        {
+            "id": 17,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "361.0000",
+            "end": "389.0000",
+            "translated_transcript": " Thank you very much.",
+            "original_transcript": " Thank you very much."
+        },
+        {
+            "id": 67,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "364.8400",
+            "end": "367.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 68,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "371.8400",
+            "end": "374.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 69,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "376.8400",
+            "end": "379.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 70,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "383.8400",
+            "end": "386.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 71,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "388.8400",
+            "end": "391.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 18,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "389.0000",
+            "end": "417.0000",
+            "translated_transcript": " Thank you very much.",
+            "original_transcript": " Thank you very much."
+        },
+        {
+            "id": 72,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "394.8400",
+            "end": "397.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 73,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "414.8400",
+            "end": "417.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 19,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "417.0000",
+            "end": "446.0000",
+            "translated_transcript": " Thank you very much.",
+            "original_transcript": " Thank you very much."
+        },
+        {
+            "id": 74,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "424.8400",
+            "end": "427.8400",
+            "translated_transcript": " 5",
+            "original_transcript": " 5"
+        },
+        {
+            "id": 75,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "427.8400",
+            "end": "430.8400",
+            "translated_transcript": " 120",
+            "original_transcript": " 120"
+        },
+        {
+            "id": 76,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "430.8400",
+            "end": "433.8400",
+            "translated_transcript": " E",
+            "original_transcript": " E"
+        },
+        {
+            "id": 77,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "433.8400",
+            "end": "436.8400",
+            "translated_transcript": " S",
+            "original_transcript": " S"
+        },
+        {
+            "id": 78,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "436.8400",
+            "end": "439.8400",
+            "translated_transcript": " B",
+            "original_transcript": " B"
+        },
+        {
+            "id": 79,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "439.8400",
+            "end": "442.8400",
+            "translated_transcript": " R",
+            "original_transcript": " R"
+        },
+        {
+            "id": 20,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "446.0000",
+            "end": "475.0000",
+            "translated_transcript": " Thank you very much.",
+            "original_transcript": " Thank you very much."
+        },
+        {
+            "id": 80,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "448.8400",
+            "end": "451.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 81,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "454.8400",
+            "end": "457.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 82,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "457.8400",
+            "end": "460.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 83,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "460.8400",
+            "end": "463.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 84,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "463.8400",
+            "end": "466.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 85,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "466.8400",
+            "end": "469.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 86,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "469.8400",
+            "end": "472.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 87,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "472.8400",
+            "end": "475.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 88,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "475.8400",
+            "end": "478.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 21,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "476.0000",
+            "end": "500.0000",
+            "translated_transcript": " Thank you very much.",
+            "original_transcript": " Thank you very much."
+        },
+        {
+            "id": 89,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "478.8400",
+            "end": "481.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 90,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "481.8400",
+            "end": "484.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 91,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "484.8400",
+            "end": "487.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 92,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "487.8400",
+            "end": "490.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 93,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "490.8400",
+            "end": "493.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 94,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "493.8400",
+            "end": "496.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 95,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "496.8400",
+            "end": "499.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 96,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "499.8400",
+            "end": "502.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 97,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "502.8400",
+            "end": "505.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 98,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "505.8400",
+            "end": "508.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 99,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "508.8400",
+            "end": "511.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 100,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "511.8400",
+            "end": "514.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 101,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "514.8400",
+            "end": "517.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 102,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "517.8400",
+            "end": "520.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 103,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "520.8400",
+            "end": "523.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 104,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "523.8400",
+            "end": "526.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 105,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "526.8400",
+            "end": "529.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 106,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "529.8400",
+            "end": "532.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 107,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "532.8400",
+            "end": "535.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 108,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "535.8400",
+            "end": "538.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 109,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "538.8400",
+            "end": "541.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 110,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "541.8400",
+            "end": "544.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 111,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "544.8400",
+            "end": "547.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 112,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "547.8400",
+            "end": "550.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 113,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "550.8400",
+            "end": "553.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 114,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "553.8400",
+            "end": "556.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 115,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "556.8400",
+            "end": "559.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 116,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "559.8400",
+            "end": "562.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 22,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "560.0000",
+            "end": "565.0000",
+            "translated_transcript": " Complaint",
+            "original_transcript": " Complaint"
+        },
+        {
+            "id": 117,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "562.8400",
+            "end": "565.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 23,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "565.0000",
+            "end": "570.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 118,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "565.8400",
+            "end": "568.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 119,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "568.8400",
+            "end": "571.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 24,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "570.0000",
+            "end": "575.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 120,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "571.8400",
+            "end": "574.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 121,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "574.8400",
+            "end": "577.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 25,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "575.0000",
+            "end": "580.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 122,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "577.8400",
+            "end": "580.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 26,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "580.0000",
+            "end": "585.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 123,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "580.8400",
+            "end": "583.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 124,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "583.8400",
+            "end": "586.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 27,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "585.0000",
+            "end": "590.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 125,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "586.8400",
+            "end": "589.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 126,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "589.8400",
+            "end": "592.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 28,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "590.0000",
+            "end": "595.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 127,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "592.8400",
+            "end": "595.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 29,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "595.0000",
+            "end": "600.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 128,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "595.8400",
+            "end": "598.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 129,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "598.8400",
+            "end": "601.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 30,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "600.0000",
+            "end": "605.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 130,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "601.8400",
+            "end": "604.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 131,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "604.8400",
+            "end": "607.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 31,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "605.0000",
+            "end": "610.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 132,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "607.8400",
+            "end": "610.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 32,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "610.0000",
+            "end": "615.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 133,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "610.8400",
+            "end": "613.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 134,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "613.8400",
+            "end": "616.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 33,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "615.0000",
+            "end": "620.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 135,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "617.8400",
+            "end": "620.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 34,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "620.0000",
+            "end": "625.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 136,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "620.8400",
+            "end": "623.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 137,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "623.8400",
+            "end": "626.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 35,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "625.0000",
+            "end": "630.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 138,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "626.8400",
+            "end": "629.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 139,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "629.8400",
+            "end": "632.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 36,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "630.0000",
+            "end": "635.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 140,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "632.8400",
+            "end": "635.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 37,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "635.0000",
+            "end": "640.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 141,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "635.8400",
+            "end": "638.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 142,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "638.8400",
+            "end": "641.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 38,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "640.0000",
+            "end": "645.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 143,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "641.8400",
+            "end": "644.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 144,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "644.8400",
+            "end": "647.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 39,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "645.0000",
+            "end": "650.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 145,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "647.8400",
+            "end": "650.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 40,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "650.0000",
+            "end": "655.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 146,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "650.8400",
+            "end": "653.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 147,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "653.8400",
+            "end": "656.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 41,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "655.0000",
+            "end": "660.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 148,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "656.8400",
+            "end": "659.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 149,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "659.8400",
+            "end": "662.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 42,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "660.0000",
+            "end": "665.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 150,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "662.8400",
+            "end": "665.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 43,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "665.0000",
+            "end": "670.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 151,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "665.8400",
+            "end": "668.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 152,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "668.8400",
+            "end": "671.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 44,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "670.0000",
+            "end": "675.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 153,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "671.8400",
+            "end": "674.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 154,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "674.8400",
+            "end": "677.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 45,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "675.0000",
+            "end": "680.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 155,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "677.8400",
+            "end": "680.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 46,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "680.0000",
+            "end": "685.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 156,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "680.8400",
+            "end": "683.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 157,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "683.8400",
+            "end": "686.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 47,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "685.0000",
+            "end": "690.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 158,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "686.8400",
+            "end": "689.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 159,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "689.8400",
+            "end": "692.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 48,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "690.0000",
+            "end": "695.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 160,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "692.8400",
+            "end": "695.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 49,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "695.0000",
+            "end": "700.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 161,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "695.8400",
+            "end": "698.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 162,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "698.8400",
+            "end": "701.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 50,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "700.0000",
+            "end": "705.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 163,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "701.8400",
+            "end": "704.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 164,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "704.8400",
+            "end": "707.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 51,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "705.0000",
+            "end": "710.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 165,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "707.8400",
+            "end": "710.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 52,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "710.0000",
+            "end": "715.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 166,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "710.8400",
+            "end": "713.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 167,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "713.8400",
+            "end": "716.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 53,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "715.0000",
+            "end": "720.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 168,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "716.8400",
+            "end": "719.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 169,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "719.8400",
+            "end": "722.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 54,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "720.0000",
+            "end": "725.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 170,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "722.8400",
+            "end": "725.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 55,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "725.0000",
+            "end": "730.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 171,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "725.8400",
+            "end": "728.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 172,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "728.8400",
+            "end": "731.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 56,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "730.0000",
+            "end": "735.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 173,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "731.8400",
+            "end": "734.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 174,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "734.8400",
+            "end": "737.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 57,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "735.0000",
+            "end": "740.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 175,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "737.8400",
+            "end": "740.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 58,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "740.0000",
+            "end": "745.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 176,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "740.8400",
+            "end": "743.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 177,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "743.8400",
+            "end": "746.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 59,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "745.0000",
+            "end": "750.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 178,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "746.8400",
+            "end": "749.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 179,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "749.8400",
+            "end": "752.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 60,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "750.0000",
+            "end": "755.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 180,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "752.8400",
+            "end": "755.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 61,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "755.0000",
+            "end": "760.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 181,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "755.8400",
+            "end": "758.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 182,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "758.8400",
+            "end": "761.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 62,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "760.0000",
+            "end": "765.0000",
+            "translated_transcript": " complaint",
+            "original_transcript": " complaint"
+        },
+        {
+            "id": 183,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "761.8400",
+            "end": "764.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 184,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "764.8400",
+            "end": "767.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 185,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "767.8400",
+            "end": "770.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 186,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "770.8400",
+            "end": "773.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 187,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "773.8400",
+            "end": "776.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        },
+        {
+            "id": 188,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "776.8400",
+            "end": "779.8400",
+            "translated_transcript": " Speaking in Bengali",
+            "original_transcript": " Speaking in Bengali"
+        }
+    ]
+}

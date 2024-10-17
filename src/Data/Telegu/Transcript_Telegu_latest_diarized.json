@@ -1,0 +1,5718 @@
+{
+    "task": "translate",
+    "language": "english",
+    "segments": [
+        {
+            "id": 0,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "0.0000",
+            "end": "7.0000",
+            "translated_transcript": " Thank you for calling ITC, Sushant Rao, may I help you?",
+            "original_transcript": " Thank you for calling ITC, Sushant Rao, may I help you?"
+        },
+        {
+            "id": 0,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "0.0000",
+            "end": "19.6000",
+            "translated_transcript": " Speaker from Andhera Pradesh",
+            "original_transcript": " Speaker from Andhera Pradesh"
+        },
+        {
+            "id": 1,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "7.0000",
+            "end": "10.0000",
+            "translated_transcript": " Hello?",
+            "original_transcript": " Hello?"
+        },
+        {
+            "id": 2,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "10.0000",
+            "end": "17.0000",
+            "translated_transcript": " Sepenta, ITC company call to Sepenta.",
+            "original_transcript": " Sepenta, ITC company call to Sepenta."
+        },
+        {
+            "id": 3,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "17.0000",
+            "end": "21.0000",
+            "translated_transcript": " Okay, Sepenta.",
+            "original_transcript": " Okay, Sepenta."
+        },
+        {
+            "id": 4,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "21.0000",
+            "end": "27.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 5,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "27.0000",
+            "end": "34.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 6,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "34.0000",
+            "end": "41.0000",
+            "translated_transcript": " Sepenta, Sepenta.",
+            "original_transcript": " Sepenta, Sepenta."
+        },
+        {
+            "id": 7,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "41.0000",
+            "end": "42.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 8,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "42.0000",
+            "end": "47.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 9,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "47.0000",
+            "end": "52.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 10,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "52.0000",
+            "end": "77.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 11,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "77.0000",
+            "end": "78.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 12,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "78.0000",
+            "end": "79.0000",
+            "translated_transcript": " Thank you.",
+            "original_transcript": " Thank you."
+        },
+        {
+            "id": 13,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "108.0000",
+            "end": "111.0000",
+            "translated_transcript": " Hello.",
+            "original_transcript": " Hello."
+        },
+        {
+            "id": 1,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "110.6000",
+            "end": "111.6000",
+            "translated_transcript": " Tell me Madam",
+            "original_transcript": " Tell me Madam"
+        },
+        {
+            "id": 14,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "111.0000",
+            "end": "117.0000",
+            "translated_transcript": " Hello.",
+            "original_transcript": " Hello."
+        },
+        {
+            "id": 2,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "113.6000",
+            "end": "114.6000",
+            "translated_transcript": " Brahmam",
+            "original_transcript": " Brahmam"
+        },
+        {
+            "id": 3,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "114.6000",
+            "end": "115.6000",
+            "translated_transcript": " Yes Madam",
+            "original_transcript": " Yes Madam"
+        },
+        {
+            "id": 15,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "117.0000",
+            "end": "141.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 4,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "124.6000",
+            "end": "125.6000",
+            "translated_transcript": " Yes Madam",
+            "original_transcript": " Yes Madam"
+        },
+        {
+            "id": 5,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "125.6000",
+            "end": "126.6000",
+            "translated_transcript": " Yes Madam",
+            "original_transcript": " Yes Madam"
+        },
+        {
+            "id": 6,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "126.6000",
+            "end": "127.6000",
+            "translated_transcript": " I am trying Madam",
+            "original_transcript": " I am trying Madam"
+        },
+        {
+            "id": 7,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "127.6000",
+            "end": "128.6000",
+            "translated_transcript": " I have already placed the order",
+            "original_transcript": " I have already placed the order"
+        },
+        {
+            "id": 8,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "129.6000",
+            "end": "130.6000",
+            "translated_transcript": " The material is not coming fast",
+            "original_transcript": " The material is not coming fast"
+        },
+        {
+            "id": 9,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "131.6000",
+            "end": "132.6000",
+            "translated_transcript": " Then?",
+            "original_transcript": " Then?"
+        },
+        {
+            "id": 10,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "135.6000",
+            "end": "136.6000",
+            "translated_transcript": " I am telling you Madam",
+            "original_transcript": " I am telling you Madam"
+        },
+        {
+            "id": 11,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "136.6000",
+            "end": "137.6000",
+            "translated_transcript": " Last tip",
+            "original_transcript": " Last tip"
+        },
+        {
+            "id": 12,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "139.6000",
+            "end": "140.6000",
+            "translated_transcript": " Hello",
+            "original_transcript": " Hello"
+        },
+        {
+            "id": 16,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "141.0000",
+            "end": "151.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 13,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "143.6000",
+            "end": "144.6000",
+            "translated_transcript": " I told you about the last tip",
+            "original_transcript": " I told you about the last tip"
+        },
+        {
+            "id": 14,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "144.6000",
+            "end": "146.6000",
+            "translated_transcript": " It will take 2 weeks Madam",
+            "original_transcript": " It will take 2 weeks Madam"
+        },
+        {
+            "id": 15,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "146.6000",
+            "end": "147.6000",
+            "translated_transcript": " Otherwise",
+            "original_transcript": " Otherwise"
+        },
+        {
+            "id": 16,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "147.6000",
+            "end": "149.6000",
+            "translated_transcript": " The salesman came and prompted me",
+            "original_transcript": " The salesman came and prompted me"
+        },
+        {
+            "id": 17,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "151.0000",
+            "end": "169.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 17,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "151.6000",
+            "end": "153.6000",
+            "translated_transcript": " An order came Madam",
+            "original_transcript": " An order came Madam"
+        },
+        {
+            "id": 18,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "153.6000",
+            "end": "154.6000",
+            "translated_transcript": " The order came",
+            "original_transcript": " The order came"
+        },
+        {
+            "id": 19,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "154.6000",
+            "end": "155.6000",
+            "translated_transcript": " After 3 weeks",
+            "original_transcript": " After 3 weeks"
+        },
+        {
+            "id": 20,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "155.6000",
+            "end": "156.6000",
+            "translated_transcript": " The bill came",
+            "original_transcript": " The bill came"
+        },
+        {
+            "id": 21,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "156.6000",
+            "end": "157.6000",
+            "translated_transcript": " The salesman came last week",
+            "original_transcript": " The salesman came last week"
+        },
+        {
+            "id": 22,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "157.6000",
+            "end": "159.6000",
+            "translated_transcript": " He came on Thursday and took the order",
+            "original_transcript": " He came on Thursday and took the order"
+        },
+        {
+            "id": 23,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "161.6000",
+            "end": "162.6000",
+            "translated_transcript": " That day",
+            "original_transcript": " That day"
+        },
+        {
+            "id": 24,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "162.6000",
+            "end": "163.6000",
+            "translated_transcript": " He asked the rate",
+            "original_transcript": " He asked the rate"
+        },
+        {
+            "id": 25,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "163.6000",
+            "end": "164.6000",
+            "translated_transcript": " I said I don't know",
+            "original_transcript": " I said I don't know"
+        },
+        {
+            "id": 26,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "164.6000",
+            "end": "165.6000",
+            "translated_transcript": " He came in the morning",
+            "original_transcript": " He came in the morning"
+        },
+        {
+            "id": 27,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "165.6000",
+            "end": "166.6000",
+            "translated_transcript": " He said he will come in the evening",
+            "original_transcript": " He said he will come in the evening"
+        },
+        {
+            "id": 28,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "166.6000",
+            "end": "167.6000",
+            "translated_transcript": " He said that and left",
+            "original_transcript": " He said that and left"
+        },
+        {
+            "id": 18,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "169.0000",
+            "end": "191.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 29,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "169.6000",
+            "end": "170.6000",
+            "translated_transcript": " He didn't come again",
+            "original_transcript": " He didn't come again"
+        },
+        {
+            "id": 30,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "170.6000",
+            "end": "171.6000",
+            "translated_transcript": " He doesn't want the material",
+            "original_transcript": " He doesn't want the material"
+        },
+        {
+            "id": 31,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "172.6000",
+            "end": "174.6000",
+            "translated_transcript": " He didn't come on Thursday again",
+            "original_transcript": " He didn't come on Thursday again"
+        },
+        {
+            "id": 32,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "178.6000",
+            "end": "179.6000",
+            "translated_transcript": " Today",
+            "original_transcript": " Today"
+        },
+        {
+            "id": 33,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "179.6000",
+            "end": "180.6000",
+            "translated_transcript": " I called the company",
+            "original_transcript": " I called the company"
+        },
+        {
+            "id": 34,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "180.6000",
+            "end": "181.6000",
+            "translated_transcript": " To get the material",
+            "original_transcript": " To get the material"
+        },
+        {
+            "id": 35,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "183.6000",
+            "end": "184.6000",
+            "translated_transcript": " They will call",
+            "original_transcript": " They will call"
+        },
+        {
+            "id": 36,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "185.6000",
+            "end": "186.6000",
+            "translated_transcript": " Hello",
+            "original_transcript": " Hello"
+        },
+        {
+            "id": 37,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "188.6000",
+            "end": "189.6000",
+            "translated_transcript": " I called the local agency",
+            "original_transcript": " I called the local agency"
+        },
+        {
+            "id": 38,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "190.6000",
+            "end": "191.6000",
+            "translated_transcript": " Manickapriya Agency",
+            "original_transcript": " Manickapriya Agency"
+        },
+        {
+            "id": 19,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "191.0000",
+            "end": "193.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 20,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "193.0000",
+            "end": "204.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 39,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "193.6000",
+            "end": "194.6000",
+            "translated_transcript": " Hello",
+            "original_transcript": " Hello"
+        },
+        {
+            "id": 40,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "195.6000",
+            "end": "196.6000",
+            "translated_transcript": " Manickapriya Agency",
+            "original_transcript": " Manickapriya Agency"
+        },
+        {
+            "id": 41,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "199.6000",
+            "end": "200.6000",
+            "translated_transcript": " I called",
+            "original_transcript": " I called"
+        },
+        {
+            "id": 42,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "200.6000",
+            "end": "201.6000",
+            "translated_transcript": " They said they are coming tomorrow",
+            "original_transcript": " They said they are coming tomorrow"
+        },
+        {
+            "id": 43,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "201.6000",
+            "end": "202.6000",
+            "translated_transcript": " They didn't call",
+            "original_transcript": " They didn't call"
+        },
+        {
+            "id": 44,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "203.6000",
+            "end": "204.6000",
+            "translated_transcript": " Again I called",
+            "original_transcript": " Again I called"
+        },
+        {
+            "id": 45,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "206.6000",
+            "end": "207.6000",
+            "translated_transcript": " I called and asked",
+            "original_transcript": " I called and asked"
+        },
+        {
+            "id": 46,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "208.6000",
+            "end": "209.6000",
+            "translated_transcript": " The salesman will come",
+            "original_transcript": " The salesman will come"
+        },
+        {
+            "id": 47,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "210.6000",
+            "end": "211.6000",
+            "translated_transcript": " He said that he will come",
+            "original_transcript": " He said that he will come"
+        },
+        {
+            "id": 48,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "212.6000",
+            "end": "213.6000",
+            "translated_transcript": " I said I want the material",
+            "original_transcript": " I said I want the material"
+        },
+        {
+            "id": 49,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "213.6000",
+            "end": "214.6000",
+            "translated_transcript": " I will come tomorrow",
+            "original_transcript": " I will come tomorrow"
+        },
+        {
+            "id": 50,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "216.6000",
+            "end": "217.6000",
+            "translated_transcript": " They said the material is not coming",
+            "original_transcript": " They said the material is not coming"
+        },
+        {
+            "id": 51,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "218.6000",
+            "end": "219.6000",
+            "translated_transcript": " I said tell me the rate",
+            "original_transcript": " I said tell me the rate"
+        },
+        {
+            "id": 52,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "220.6000",
+            "end": "221.6000",
+            "translated_transcript": " I will tell you the order",
+            "original_transcript": " I will tell you the order"
+        },
+        {
+            "id": 53,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "221.6000",
+            "end": "222.6000",
+            "translated_transcript": " They said the material is not coming",
+            "original_transcript": " They said the material is not coming"
+        },
+        {
+            "id": 21,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "223.0000",
+            "end": "233.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 54,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "223.6000",
+            "end": "224.6000",
+            "translated_transcript": " I said the material is not coming",
+            "original_transcript": " I said the material is not coming"
+        },
+        {
+            "id": 55,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "224.6000",
+            "end": "225.6000",
+            "translated_transcript": " I asked if the material is coming",
+            "original_transcript": " I asked if the material is coming"
+        },
+        {
+            "id": 56,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "225.6000",
+            "end": "226.6000",
+            "translated_transcript": " Or is it less",
+            "original_transcript": " Or is it less"
+        },
+        {
+            "id": 57,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "226.6000",
+            "end": "227.6000",
+            "translated_transcript": " I asked like this",
+            "original_transcript": " I asked like this"
+        },
+        {
+            "id": 58,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "229.6000",
+            "end": "230.6000",
+            "translated_transcript": " They said the material is not coming",
+            "original_transcript": " They said the material is not coming"
+        },
+        {
+            "id": 22,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "233.0000",
+            "end": "251.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 59,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "233.6000",
+            "end": "234.6000",
+            "translated_transcript": " I asked",
+            "original_transcript": " I asked"
+        },
+        {
+            "id": 60,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "235.6000",
+            "end": "237.6000",
+            "translated_transcript": " There was another salesman",
+            "original_transcript": " There was another salesman"
+        },
+        {
+            "id": 61,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "238.6000",
+            "end": "239.6000",
+            "translated_transcript": " 3-4 years ago",
+            "original_transcript": " 3-4 years ago"
+        },
+        {
+            "id": 62,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "240.6000",
+            "end": "241.6000",
+            "translated_transcript": " I called him",
+            "original_transcript": " I called him"
+        },
+        {
+            "id": 63,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "241.6000",
+            "end": "242.6000",
+            "translated_transcript": " In the quality",
+            "original_transcript": " In the quality"
+        },
+        {
+            "id": 64,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "243.6000",
+            "end": "244.6000",
+            "translated_transcript": " Last week",
+            "original_transcript": " Last week"
+        },
+        {
+            "id": 65,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "244.6000",
+            "end": "245.6000",
+            "translated_transcript": " I called him",
+            "original_transcript": " I called him"
+        },
+        {
+            "id": 66,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "245.6000",
+            "end": "247.6000",
+            "translated_transcript": " He gave me 2 sticks and 2 bundles of tissue",
+            "original_transcript": " He gave me 2 sticks and 2 bundles of tissue"
+        },
+        {
+            "id": 67,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "247.6000",
+            "end": "248.6000",
+            "translated_transcript": " 2 cases",
+            "original_transcript": " 2 cases"
+        },
+        {
+            "id": 68,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "248.6000",
+            "end": "249.6000",
+            "translated_transcript": " I gave him money",
+            "original_transcript": " I gave him money"
+        },
+        {
+            "id": 69,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "250.6000",
+            "end": "251.6000",
+            "translated_transcript": " Now",
+            "original_transcript": " Now"
+        },
+        {
+            "id": 23,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "251.0000",
+            "end": "266.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 70,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "251.6000",
+            "end": "252.6000",
+            "translated_transcript": " There is a new journal",
+            "original_transcript": " There is a new journal"
+        },
+        {
+            "id": 71,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "252.6000",
+            "end": "253.6000",
+            "translated_transcript": " Billing is there",
+            "original_transcript": " Billing is there"
+        },
+        {
+            "id": 72,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "253.6000",
+            "end": "254.6000",
+            "translated_transcript": " Delivery is coming",
+            "original_transcript": " Delivery is coming"
+        },
+        {
+            "id": 73,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "254.6000",
+            "end": "255.6000",
+            "translated_transcript": " It was not good",
+            "original_transcript": " It was not good"
+        },
+        {
+            "id": 74,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "255.6000",
+            "end": "256.6000",
+            "translated_transcript": " It was not good since 2 months",
+            "original_transcript": " It was not good since 2 months"
+        },
+        {
+            "id": 75,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "257.6000",
+            "end": "258.6000",
+            "translated_transcript": " That is the matter",
+            "original_transcript": " That is the matter"
+        },
+        {
+            "id": 76,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "259.6000",
+            "end": "260.6000",
+            "translated_transcript": " If it is there",
+            "original_transcript": " If it is there"
+        },
+        {
+            "id": 77,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "260.6000",
+            "end": "261.6000",
+            "translated_transcript": " It will not work",
+            "original_transcript": " It will not work"
+        },
+        {
+            "id": 78,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "261.6000",
+            "end": "262.6000",
+            "translated_transcript": " What should I do",
+            "original_transcript": " What should I do"
+        },
+        {
+            "id": 79,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "262.6000",
+            "end": "263.6000",
+            "translated_transcript": " With my situation",
+            "original_transcript": " With my situation"
+        },
+        {
+            "id": 80,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "263.6000",
+            "end": "264.6000",
+            "translated_transcript": " I tipped it down",
+            "original_transcript": " I tipped it down"
+        },
+        {
+            "id": 24,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "266.0000",
+            "end": "281.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 81,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "270.6000",
+            "end": "271.6000",
+            "translated_transcript": " That is it",
+            "original_transcript": " That is it"
+        },
+        {
+            "id": 82,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "271.6000",
+            "end": "272.6000",
+            "translated_transcript": " The material is coming",
+            "original_transcript": " The material is coming"
+        },
+        {
+            "id": 83,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "273.6000",
+            "end": "274.6000",
+            "translated_transcript": " The salesman will come",
+            "original_transcript": " The salesman will come"
+        },
+        {
+            "id": 84,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "274.6000",
+            "end": "275.6000",
+            "translated_transcript": " He will bring the material",
+            "original_transcript": " He will bring the material"
+        },
+        {
+            "id": 85,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "275.6000",
+            "end": "276.6000",
+            "translated_transcript": " He will put it in the app",
+            "original_transcript": " He will put it in the app"
+        },
+        {
+            "id": 86,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "276.6000",
+            "end": "277.6000",
+            "translated_transcript": " Billing is coming",
+            "original_transcript": " Billing is coming"
+        },
+        {
+            "id": 87,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "277.6000",
+            "end": "278.6000",
+            "translated_transcript": " Everything is normal",
+            "original_transcript": " Everything is normal"
+        },
+        {
+            "id": 88,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "278.6000",
+            "end": "279.6000",
+            "translated_transcript": " The material is not coming",
+            "original_transcript": " The material is not coming"
+        },
+        {
+            "id": 25,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "281.0000",
+            "end": "291.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 89,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "283.6000",
+            "end": "284.6000",
+            "translated_transcript": " Agarbatti 2 sticks",
+            "original_transcript": " Agarbatti 2 sticks"
+        },
+        {
+            "id": 90,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "285.6000",
+            "end": "286.6000",
+            "translated_transcript": " The material is not coming",
+            "original_transcript": " The material is not coming"
+        },
+        {
+            "id": 91,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "287.6000",
+            "end": "288.6000",
+            "translated_transcript": " The material is not coming",
+            "original_transcript": " The material is not coming"
+        },
+        {
+            "id": 92,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "290.6000",
+            "end": "291.6000",
+            "translated_transcript": " Yes",
+            "original_transcript": " Yes"
+        },
+        {
+            "id": 93,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "291.6000",
+            "end": "292.6000",
+            "translated_transcript": " Yes",
+            "original_transcript": " Yes"
+        },
+        {
+            "id": 94,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "297.6000",
+            "end": "298.6000",
+            "translated_transcript": " Yes",
+            "original_transcript": " Yes"
+        },
+        {
+            "id": 95,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "298.6000",
+            "end": "299.6000",
+            "translated_transcript": " Singam city",
+            "original_transcript": " Singam city"
+        },
+        {
+            "id": 96,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "299.6000",
+            "end": "300.6000",
+            "translated_transcript": " Don't write Singam city",
+            "original_transcript": " Don't write Singam city"
+        },
+        {
+            "id": 97,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "300.6000",
+            "end": "301.6000",
+            "translated_transcript": " Nagapuram",
+            "original_transcript": " Nagapuram"
+        },
+        {
+            "id": 98,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "301.6000",
+            "end": "302.6000",
+            "translated_transcript": " Which Nagapuram",
+            "original_transcript": " Which Nagapuram"
+        },
+        {
+            "id": 99,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "302.6000",
+            "end": "303.6000",
+            "translated_transcript": " I don't know",
+            "original_transcript": " I don't know"
+        },
+        {
+            "id": 100,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "306.6000",
+            "end": "307.6000",
+            "translated_transcript": " Madam",
+            "original_transcript": " Madam"
+        },
+        {
+            "id": 101,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "307.6000",
+            "end": "308.6000",
+            "translated_transcript": " Madam",
+            "original_transcript": " Madam"
+        },
+        {
+            "id": 26,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "311.0000",
+            "end": "325.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 102,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "311.6000",
+            "end": "312.6000",
+            "translated_transcript": " The material is not coming",
+            "original_transcript": " The material is not coming"
+        },
+        {
+            "id": 103,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "312.6000",
+            "end": "313.6000",
+            "translated_transcript": " They stopped",
+            "original_transcript": " They stopped"
+        },
+        {
+            "id": 104,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "317.6000",
+            "end": "318.6000",
+            "translated_transcript": " Billing",
+            "original_transcript": " Billing"
+        },
+        {
+            "id": 105,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "318.6000",
+            "end": "319.6000",
+            "translated_transcript": " B-R-A-H-M-A-M",
+            "original_transcript": " B-R-A-H-M-A-M"
+        },
+        {
+            "id": 106,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "319.6000",
+            "end": "320.6000",
+            "translated_transcript": " Brahmam",
+            "original_transcript": " Brahmam"
+        },
+        {
+            "id": 107,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "322.6000",
+            "end": "323.6000",
+            "translated_transcript": " B-R-A-H",
+            "original_transcript": " B-R-A-H"
+        },
+        {
+            "id": 27,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "325.0000",
+            "end": "344.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 108,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "326.6000",
+            "end": "327.6000",
+            "translated_transcript": " M-A-M",
+            "original_transcript": " M-A-M"
+        },
+        {
+            "id": 109,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "330.6000",
+            "end": "331.6000",
+            "translated_transcript": " The material is there",
+            "original_transcript": " The material is there"
+        },
+        {
+            "id": 110,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "331.6000",
+            "end": "332.6000",
+            "translated_transcript": " Madam",
+            "original_transcript": " Madam"
+        },
+        {
+            "id": 111,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "332.6000",
+            "end": "333.6000",
+            "translated_transcript": " I have to look at the cell and tell",
+            "original_transcript": " I have to look at the cell and tell"
+        },
+        {
+            "id": 112,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "334.6000",
+            "end": "335.6000",
+            "translated_transcript": " Should I tell the operation",
+            "original_transcript": " Should I tell the operation"
+        },
+        {
+            "id": 113,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "336.6000",
+            "end": "337.6000",
+            "translated_transcript": " Yes",
+            "original_transcript": " Yes"
+        },
+        {
+            "id": 114,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "337.6000",
+            "end": "338.6000",
+            "translated_transcript": " Operation",
+            "original_transcript": " Operation"
+        },
+        {
+            "id": 115,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "348.6000",
+            "end": "349.6000",
+            "translated_transcript": " Yes",
+            "original_transcript": " Yes"
+        },
+        {
+            "id": 116,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "349.6000",
+            "end": "350.6000",
+            "translated_transcript": " Yes",
+            "original_transcript": " Yes"
+        },
+        {
+            "id": 117,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "350.6000",
+            "end": "351.6000",
+            "translated_transcript": " Yes",
+            "original_transcript": " Yes"
+        },
+        {
+            "id": 118,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "351.6000",
+            "end": "352.6000",
+            "translated_transcript": " Yes",
+            "original_transcript": " Yes"
+        },
+        {
+            "id": 119,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "352.6000",
+            "end": "353.6000",
+            "translated_transcript": " Yes",
+            "original_transcript": " Yes"
+        },
+        {
+            "id": 120,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "353.6000",
+            "end": "354.6000",
+            "translated_transcript": " Yes",
+            "original_transcript": " Yes"
+        },
+        {
+            "id": 121,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "354.6000",
+            "end": "355.6000",
+            "translated_transcript": " Yes",
+            "original_transcript": " Yes"
+        },
+        {
+            "id": 28,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "355.0000",
+            "end": "365.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 122,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "355.6000",
+            "end": "356.6000",
+            "translated_transcript": " Yes",
+            "original_transcript": " Yes"
+        },
+        {
+            "id": 123,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "356.6000",
+            "end": "357.6000",
+            "translated_transcript": " Yes",
+            "original_transcript": " Yes"
+        },
+        {
+            "id": 124,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "357.6000",
+            "end": "358.6000",
+            "translated_transcript": " Yes",
+            "original_transcript": " Yes"
+        },
+        {
+            "id": 125,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "358.6000",
+            "end": "359.6000",
+            "translated_transcript": " Yes",
+            "original_transcript": " Yes"
+        },
+        {
+            "id": 126,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "359.6000",
+            "end": "360.6000",
+            "translated_transcript": " Yes",
+            "original_transcript": " Yes"
+        },
+        {
+            "id": 127,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "360.6000",
+            "end": "361.6000",
+            "translated_transcript": " Yes",
+            "original_transcript": " Yes"
+        },
+        {
+            "id": 128,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "361.6000",
+            "end": "362.6000",
+            "translated_transcript": " Madam",
+            "original_transcript": " Madam"
+        },
+        {
+            "id": 129,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "362.6000",
+            "end": "363.6000",
+            "translated_transcript": " I have to look at the cell",
+            "original_transcript": " I have to look at the cell"
+        },
+        {
+            "id": 130,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "363.6000",
+            "end": "364.6000",
+            "translated_transcript": " B-R-A-H-M-A-M",
+            "original_transcript": " B-R-A-H-M-A-M"
+        },
+        {
+            "id": 131,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "364.6000",
+            "end": "365.6000",
+            "translated_transcript": " Brahmam",
+            "original_transcript": " Brahmam"
+        },
+        {
+            "id": 29,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "365.0000",
+            "end": "375.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 132,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "368.6000",
+            "end": "369.6000",
+            "translated_transcript": " The material",
+            "original_transcript": " The material"
+        },
+        {
+            "id": 133,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "372.6000",
+            "end": "373.6000",
+            "translated_transcript": " B-R-A-H-M-A-M",
+            "original_transcript": " B-R-A-H-M-A-M"
+        },
+        {
+            "id": 30,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "375.0000",
+            "end": "385.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 134,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "375.6000",
+            "end": "376.6000",
+            "translated_transcript": " Brahmam",
+            "original_transcript": " Brahmam"
+        },
+        {
+            "id": 135,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "376.6000",
+            "end": "377.6000",
+            "translated_transcript": " F-E-T-T-I",
+            "original_transcript": " F-E-T-T-I"
+        },
+        {
+            "id": 136,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "378.6000",
+            "end": "379.6000",
+            "translated_transcript": " F-E-T-T-I",
+            "original_transcript": " F-E-T-T-I"
+        },
+        {
+            "id": 137,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "383.6000",
+            "end": "384.6000",
+            "translated_transcript": " T-T-I",
+            "original_transcript": " T-T-I"
+        },
+        {
+            "id": 31,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "385.0000",
+            "end": "395.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 138,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "387.6000",
+            "end": "388.6000",
+            "translated_transcript": " B-R-U-H",
+            "original_transcript": " B-R-U-H"
+        },
+        {
+            "id": 139,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "391.6000",
+            "end": "392.6000",
+            "translated_transcript": " M-A-M",
+            "original_transcript": " M-A-M"
+        },
+        {
+            "id": 32,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "395.0000",
+            "end": "405.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 140,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "400.6000",
+            "end": "401.6000",
+            "translated_transcript": " Brahmam",
+            "original_transcript": " Brahmam"
+        },
+        {
+            "id": 33,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "405.0000",
+            "end": "415.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 141,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "407.6000",
+            "end": "408.6000",
+            "translated_transcript": " B-R-A-H-M-A-M",
+            "original_transcript": " B-R-A-H-M-A-M"
+        },
+        {
+            "id": 142,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "411.6000",
+            "end": "412.6000",
+            "translated_transcript": " 7-9-7",
+            "original_transcript": " 7-9-7"
+        },
+        {
+            "id": 34,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "415.0000",
+            "end": "425.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 143,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "416.6000",
+            "end": "417.6000",
+            "translated_transcript": " Adrian Agassi",
+            "original_transcript": " Adrian Agassi"
+        },
+        {
+            "id": 144,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "418.6000",
+            "end": "419.6000",
+            "translated_transcript": " G-9.com",
+            "original_transcript": " G-9.com"
+        },
+        {
+            "id": 145,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "423.6000",
+            "end": "424.6000",
+            "translated_transcript": " Say it again",
+            "original_transcript": " Say it again"
+        },
+        {
+            "id": 35,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "425.0000",
+            "end": "435.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 146,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "428.6000",
+            "end": "429.6000",
+            "translated_transcript": " S-I-M",
+            "original_transcript": " S-I-M"
+        },
+        {
+            "id": 147,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "429.6000",
+            "end": "430.6000",
+            "translated_transcript": " G-A-M",
+            "original_transcript": " G-A-M"
+        },
+        {
+            "id": 148,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "430.6000",
+            "end": "431.6000",
+            "translated_transcript": " Chingam",
+            "original_transcript": " Chingam"
+        },
+        {
+            "id": 149,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "433.6000",
+            "end": "434.6000",
+            "translated_transcript": " M",
+            "original_transcript": " M"
+        },
+        {
+            "id": 150,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "434.6000",
+            "end": "435.6000",
+            "translated_transcript": " G-A-M",
+            "original_transcript": " G-A-M"
+        },
+        {
+            "id": 36,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "435.0000",
+            "end": "445.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 151,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "435.6000",
+            "end": "436.6000",
+            "translated_transcript": " G-A-M",
+            "original_transcript": " G-A-M"
+        },
+        {
+            "id": 152,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "436.6000",
+            "end": "437.6000",
+            "translated_transcript": " Chingam",
+            "original_transcript": " Chingam"
+        },
+        {
+            "id": 153,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "442.6000",
+            "end": "443.6000",
+            "translated_transcript": " S-I-M",
+            "original_transcript": " S-I-M"
+        },
+        {
+            "id": 37,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "445.0000",
+            "end": "455.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 154,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "446.6000",
+            "end": "447.6000",
+            "translated_transcript": " G",
+            "original_transcript": " G"
+        },
+        {
+            "id": 155,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "448.6000",
+            "end": "449.6000",
+            "translated_transcript": " A-M",
+            "original_transcript": " A-M"
+        },
+        {
+            "id": 156,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "454.6000",
+            "end": "455.6000",
+            "translated_transcript": " Mango",
+            "original_transcript": " Mango"
+        },
+        {
+            "id": 38,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "455.0000",
+            "end": "458.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 39,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "458.0000",
+            "end": "461.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 157,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "458.6000",
+            "end": "459.6000",
+            "translated_transcript": " 50-50",
+            "original_transcript": " 50-50"
+        },
+        {
+            "id": 158,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "459.6000",
+            "end": "460.6000",
+            "translated_transcript": " S-E-T-T-I",
+            "original_transcript": " S-E-T-T-I"
+        },
+        {
+            "id": 40,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "461.0000",
+            "end": "465.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 159,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "463.6000",
+            "end": "464.6000",
+            "translated_transcript": " S-E-T-T-I",
+            "original_transcript": " S-E-T-T-I"
+        },
+        {
+            "id": 41,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "465.0000",
+            "end": "478.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 160,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "465.6000",
+            "end": "466.6000",
+            "translated_transcript": " S-E-T-T-I",
+            "original_transcript": " S-E-T-T-I"
+        },
+        {
+            "id": 161,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "471.6000",
+            "end": "472.6000",
+            "translated_transcript": " Hello",
+            "original_transcript": " Hello"
+        },
+        {
+            "id": 162,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "474.6000",
+            "end": "475.6000",
+            "translated_transcript": " Yes, Brahmam",
+            "original_transcript": " Yes, Brahmam"
+        },
+        {
+            "id": 163,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "475.6000",
+            "end": "476.6000",
+            "translated_transcript": " B-R-A-H-M-A-M",
+            "original_transcript": " B-R-A-H-M-A-M"
+        },
+        {
+            "id": 42,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "478.0000",
+            "end": "487.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 164,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "480.6000",
+            "end": "481.6000",
+            "translated_transcript": " Yes, I understand",
+            "original_transcript": " Yes, I understand"
+        },
+        {
+            "id": 165,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "484.6000",
+            "end": "485.6000",
+            "translated_transcript": " Anjaneya Tragus",
+            "original_transcript": " Anjaneya Tragus"
+        },
+        {
+            "id": 43,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "487.0000",
+            "end": "492.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 166,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "488.6000",
+            "end": "490.6000",
+            "translated_transcript": " Opposite Mahalamma Temple",
+            "original_transcript": " Opposite Mahalamma Temple"
+        },
+        {
+            "id": 167,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "490.6000",
+            "end": "491.6000",
+            "translated_transcript": " Mahalamma Temple",
+            "original_transcript": " Mahalamma Temple"
+        },
+        {
+            "id": 44,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "492.0000",
+            "end": "497.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 168,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "495.6000",
+            "end": "496.6000",
+            "translated_transcript": " Mahalamma Temple",
+            "original_transcript": " Mahalamma Temple"
+        },
+        {
+            "id": 45,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "497.0000",
+            "end": "505.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 46,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "505.0000",
+            "end": "512.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 169,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "507.6000",
+            "end": "508.6000",
+            "translated_transcript": " 534",
+            "original_transcript": " 534"
+        },
+        {
+            "id": 170,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "510.6000",
+            "end": "511.6000",
+            "translated_transcript": " 201",
+            "original_transcript": " 201"
+        },
+        {
+            "id": 47,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "512.0000",
+            "end": "522.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 171,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "520.6000",
+            "end": "521.6000",
+            "translated_transcript": " Mahalamma",
+            "original_transcript": " Mahalamma"
+        },
+        {
+            "id": 48,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "522.0000",
+            "end": "524.0000",
+            "translated_transcript": " Thank you.",
+            "original_transcript": " Thank you."
+        },
+        {
+            "id": 49,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "524.0000",
+            "end": "553.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 172,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "551.6000",
+            "end": "552.6000",
+            "translated_transcript": " B-R-A-H-M-A-M",
+            "original_transcript": " B-R-A-H-M-A-M"
+        },
+        {
+            "id": 50,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "553.0000",
+            "end": "558.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 173,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "557.6000",
+            "end": "558.6000",
+            "translated_transcript": " S-E-T-T-I",
+            "original_transcript": " S-E-T-T-I"
+        },
+        {
+            "id": 51,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "558.0000",
+            "end": "563.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 174,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "560.6000",
+            "end": "561.6000",
+            "translated_transcript": " S-E-T-T-I",
+            "original_transcript": " S-E-T-T-I"
+        },
+        {
+            "id": 52,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "563.0000",
+            "end": "568.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 53,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "568.0000",
+            "end": "587.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 175,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "568.6000",
+            "end": "569.6000",
+            "translated_transcript": " B-R-A-H-M-A-M",
+            "original_transcript": " B-R-A-H-M-A-M"
+        },
+        {
+            "id": 176,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "569.6000",
+            "end": "570.6000",
+            "translated_transcript": " 6-5",
+            "original_transcript": " 6-5"
+        },
+        {
+            "id": 177,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "570.6000",
+            "end": "571.6000",
+            "translated_transcript": " 6-5",
+            "original_transcript": " 6-5"
+        },
+        {
+            "id": 178,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "571.6000",
+            "end": "572.6000",
+            "translated_transcript": " 6",
+            "original_transcript": " 6"
+        },
+        {
+            "id": 179,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "572.6000",
+            "end": "573.6000",
+            "translated_transcript": " 5",
+            "original_transcript": " 5"
+        },
+        {
+            "id": 180,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "573.6000",
+            "end": "574.6000",
+            "translated_transcript": " 5",
+            "original_transcript": " 5"
+        },
+        {
+            "id": 181,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "574.6000",
+            "end": "575.6000",
+            "translated_transcript": " 6",
+            "original_transcript": " 6"
+        },
+        {
+            "id": 182,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "575.6000",
+            "end": "576.6000",
+            "translated_transcript": " 6",
+            "original_transcript": " 6"
+        },
+        {
+            "id": 183,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "576.6000",
+            "end": "577.6000",
+            "translated_transcript": " 5",
+            "original_transcript": " 5"
+        },
+        {
+            "id": 184,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "577.6000",
+            "end": "578.6000",
+            "translated_transcript": " 6",
+            "original_transcript": " 6"
+        },
+        {
+            "id": 185,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "578.6000",
+            "end": "579.6000",
+            "translated_transcript": " 6",
+            "original_transcript": " 6"
+        },
+        {
+            "id": 186,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "579.6000",
+            "end": "580.6000",
+            "translated_transcript": " 5",
+            "original_transcript": " 5"
+        },
+        {
+            "id": 187,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "580.6000",
+            "end": "581.6000",
+            "translated_transcript": " 5",
+            "original_transcript": " 5"
+        },
+        {
+            "id": 188,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "581.6000",
+            "end": "582.6000",
+            "translated_transcript": " 6",
+            "original_transcript": " 6"
+        },
+        {
+            "id": 189,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "582.6000",
+            "end": "583.6000",
+            "translated_transcript": " 5",
+            "original_transcript": " 5"
+        },
+        {
+            "id": 190,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "583.6000",
+            "end": "584.6000",
+            "translated_transcript": " 6",
+            "original_transcript": " 6"
+        },
+        {
+            "id": 191,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "584.6000",
+            "end": "585.6000",
+            "translated_transcript": " 5",
+            "original_transcript": " 5"
+        },
+        {
+            "id": 192,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "585.6000",
+            "end": "586.6000",
+            "translated_transcript": " 6",
+            "original_transcript": " 6"
+        },
+        {
+            "id": 193,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "586.6000",
+            "end": "587.6000",
+            "translated_transcript": " 5",
+            "original_transcript": " 5"
+        },
+        {
+            "id": 194,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "587.6000",
+            "end": "588.6000",
+            "translated_transcript": " 2",
+            "original_transcript": " 2"
+        },
+        {
+            "id": 54,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "588.0000",
+            "end": "602.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 195,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "588.6000",
+            "end": "589.6000",
+            "translated_transcript": " 1",
+            "original_transcript": " 1"
+        },
+        {
+            "id": 196,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "589.6000",
+            "end": "590.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 197,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "590.6000",
+            "end": "591.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 198,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "591.6000",
+            "end": "592.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 199,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "593.6000",
+            "end": "594.6000",
+            "translated_transcript": " 1",
+            "original_transcript": " 1"
+        },
+        {
+            "id": 200,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "594.6000",
+            "end": "595.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 201,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "595.6000",
+            "end": "596.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 202,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "596.6000",
+            "end": "597.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 203,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "597.6000",
+            "end": "598.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 204,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "598.6000",
+            "end": "599.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 205,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "599.6000",
+            "end": "600.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 206,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "600.6000",
+            "end": "601.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 207,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "601.6000",
+            "end": "602.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 208,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "602.6000",
+            "end": "603.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 55,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "603.0000",
+            "end": "612.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 209,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "603.6000",
+            "end": "604.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 210,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "604.6000",
+            "end": "605.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 211,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "605.6000",
+            "end": "606.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 212,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "606.6000",
+            "end": "607.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 213,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "607.6000",
+            "end": "608.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 214,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "608.6000",
+            "end": "609.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 215,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "609.6000",
+            "end": "610.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 216,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "610.6000",
+            "end": "611.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 217,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "611.6000",
+            "end": "612.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 56,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "612.0000",
+            "end": "622.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 218,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "612.6000",
+            "end": "613.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 219,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "613.6000",
+            "end": "614.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 220,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "614.6000",
+            "end": "615.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 221,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "615.6000",
+            "end": "616.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 222,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "616.6000",
+            "end": "617.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 223,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "617.6000",
+            "end": "618.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 224,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "618.6000",
+            "end": "619.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 225,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "619.6000",
+            "end": "620.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 226,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "620.6000",
+            "end": "621.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 227,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "621.6000",
+            "end": "622.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 57,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "622.0000",
+            "end": "632.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 228,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "622.6000",
+            "end": "623.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 229,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "623.6000",
+            "end": "624.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 230,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "624.6000",
+            "end": "625.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 231,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "625.6000",
+            "end": "626.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 232,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "626.6000",
+            "end": "627.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 233,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "627.6000",
+            "end": "628.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 234,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "628.6000",
+            "end": "629.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 235,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "629.6000",
+            "end": "630.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 236,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "630.6000",
+            "end": "631.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 237,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "631.6000",
+            "end": "632.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 58,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "632.0000",
+            "end": "642.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 238,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "632.6000",
+            "end": "633.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 239,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "633.6000",
+            "end": "634.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 240,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "634.6000",
+            "end": "635.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 241,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "635.6000",
+            "end": "636.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 242,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "636.6000",
+            "end": "637.6000",
+            "translated_transcript": " 6",
+            "original_transcript": " 6"
+        },
+        {
+            "id": 243,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "637.6000",
+            "end": "638.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 244,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "638.6000",
+            "end": "639.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 245,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "639.6000",
+            "end": "640.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 246,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "640.6000",
+            "end": "641.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 247,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "641.6000",
+            "end": "642.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 59,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "642.0000",
+            "end": "652.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 248,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "642.6000",
+            "end": "643.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 249,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "643.6000",
+            "end": "644.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 250,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "644.6000",
+            "end": "645.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 251,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "645.6000",
+            "end": "646.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 252,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "646.6000",
+            "end": "647.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 253,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "647.6000",
+            "end": "648.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 254,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "648.6000",
+            "end": "649.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 255,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "649.6000",
+            "end": "650.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 256,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "650.6000",
+            "end": "651.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 257,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "651.6000",
+            "end": "652.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 60,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "652.0000",
+            "end": "662.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 258,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "652.6000",
+            "end": "653.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 259,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "653.6000",
+            "end": "654.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 260,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "654.6000",
+            "end": "655.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 261,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "655.6000",
+            "end": "656.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 262,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "656.6000",
+            "end": "657.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 263,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "657.6000",
+            "end": "658.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 264,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "658.6000",
+            "end": "659.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 265,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "659.6000",
+            "end": "660.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 266,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "660.6000",
+            "end": "661.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 267,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "661.6000",
+            "end": "662.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 61,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "662.0000",
+            "end": "688.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 268,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "662.6000",
+            "end": "663.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 269,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "663.6000",
+            "end": "664.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 270,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "664.6000",
+            "end": "665.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 271,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "665.6000",
+            "end": "666.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 272,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "666.6000",
+            "end": "667.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 273,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "667.6000",
+            "end": "668.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 274,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "668.6000",
+            "end": "669.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 275,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "669.6000",
+            "end": "670.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 276,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "670.6000",
+            "end": "671.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 277,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "671.6000",
+            "end": "672.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 278,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "672.6000",
+            "end": "675.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 279,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "675.6000",
+            "end": "676.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 280,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "676.6000",
+            "end": "677.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 281,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "677.6000",
+            "end": "678.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 282,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "678.6000",
+            "end": "679.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 283,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "679.6000",
+            "end": "680.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 284,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "680.6000",
+            "end": "681.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 285,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "681.6000",
+            "end": "682.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 286,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "682.6000",
+            "end": "683.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 287,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "683.6000",
+            "end": "684.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 288,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "684.6000",
+            "end": "685.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 289,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "685.6000",
+            "end": "686.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 290,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "686.6000",
+            "end": "687.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 62,
+            "speaker_label": "spk_0",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "688.0000",
+            "end": "695.0000",
+            "translated_transcript": " Okay.",
+            "original_transcript": " Okay."
+        },
+        {
+            "id": 291,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "692.6000",
+            "end": "693.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 292,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "693.6000",
+            "end": "694.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        },
+        {
+            "id": 293,
+            "speaker_label": "spk_1",
+            "rate_of_speech": "301.84",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "good morning",
+                "ic",
+                "good morning"
+            ],
+            "start": "694.6000",
+            "end": "695.6000",
+            "translated_transcript": " 0",
+            "original_transcript": " 0"
+        }
+    ]
+}
