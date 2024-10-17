@@ -18,7 +18,7 @@ function Uploader({ startTime, clicked, onTimeUpdate, onSelectFile, audioFile })
 
     useEffect(() => {
         fetch('https://inscribe.3cctpl.co.in/api/files')   
-        //fetch('http://localhost:3001/api/files')
+        // fetch('http://localhost:3001/api/files')
             .then(response => {
                 if (!response.ok) {
                     throw new Error('Network response was not ok');
