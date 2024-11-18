@@ -2,922 +2,352 @@
     "segments": [
         {
             "speaker_label": "spk_0",
-            "start_time": "0.0332",
-            "end_time": "0.1078",
-            "original_transcript": "Thanks for calling ITC You're speaking to Pravin How may I help you today Hello",
-            "translated_transcript": "Thanks for calling ITC You're speaking to Pravin How can I help you today Hello",
+            "start_time": "0.0237",
+            "end_time": "0.0715",
+            "original_transcript": "Thank you for calling the M My name is Ikram How may I help you today",
+            "translated_transcript": "Thank you for calling M. My name is Ikram. How can I",
             "tone": "Neutral",
-            "rate_of_speech": "200.94",
+            "rate_of_speech": "250.87",
             "emotion": "gratitude",
-            "sentiment_label": "Positive",
-            "keywords": [
-                "thanks",
-                "itc",
-                "pravin"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "0.13",
-            "end_time": "0.1395",
-            "original_transcript": "Hello",
-            "translated_transcript": "Hallo",
-            "tone": "Neutral",
-            "rate_of_speech": "105.45",
-            "emotion": "neutral",
             "sentiment_label": "Neutral",
-            "keywords": [
-                "hallo"
-            ]
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "0.1548",
-            "end_time": "0.498",
-            "original_transcript": "sir Um I'm a retailer Uh me a pin code 784001 BRANJ",
-            "translated_transcript": "sir Um I'm a retailer Uh me a pin code 784001 BRANCH",
-            "tone": "Neutral",
-            "rate_of_speech": "34.97",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "um",
-                "uh",
-                "pin code",
-                "branch"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "0.5073",
-            "end_time": "0.6353",
-            "original_transcript": "Ok let check OK my detail check after your call So do the line for B area call could disconnect now Correct Sir",
-            "translated_transcript": "Ok, let's check OK my detail check after your call So do the line for B area call could be disconnected now Correct Sir",
-            "tone": "Neutral",
-            "rate_of_speech": "187.52",
-            "emotion": "neutral",
-            "sentiment_label": "Positive",
-            "keywords": [
-                "ok",
-                "'s check",
-                "detail check",
-                "b area",
-                "correct sir"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "0.6641",
-            "end_time": "0.6778",
-            "original_transcript": "Ma",
-            "translated_transcript": "Today",
-            "tone": "Neutral",
-            "rate_of_speech": "73.17",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": []
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "0.8781",
-            "end_time": "0.8887",
-            "original_transcript": "hello",
-            "translated_transcript": "silav",
-            "tone": "Neutral",
-            "rate_of_speech": "95.24",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": []
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "1.0507",
-            "end_time": "1.075",
-            "original_transcript": "Line to than you",
-            "translated_transcript": "Línea de que te",
-            "tone": "Neutral",
-            "rate_of_speech": "164.38",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "línea",
-                "que te"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "1.0907",
-            "end_time": "1.2028",
-            "original_transcript": "who transfer around in",
-            "translated_transcript": "who transfers around in",
-            "tone": "Neutral",
-            "rate_of_speech": "35.67",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": []
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "1.3542",
-            "end_time": "1.6725",
-            "original_transcript": "Thank you for calling ITC This is how may I help you Uh me but just a different uh sir uh or or the other place sir or distributor of the problem",
-            "translated_transcript": "Thank you for calling ITC This is how I can help you Uh me but just a different uh sir or the other place sir or distributor of the problem",
-            "tone": "Neutral",
-            "rate_of_speech": "94.25",
-            "emotion": "gratitude",
-            "sentiment_label": "Negative",
             "keywords": [
                 "thank",
-                "itc",
-                "uh",
-                "different uh sir",
-                "place sir"
+                "m.",
+                "ikram"
             ]
         },
         {
-            "speaker_label": "spk_1",
-            "start_time": "1.6823",
-            "end_time": "1.7423",
-            "original_transcript": "What A or distributor A distributor",
-            "translated_transcript": "What A or distributor A distributor",
+            "speaker_label": "spk_0",
+            "start_time": "0.095",
+            "end_time": "0.1063",
+            "original_transcript": "Yeah Hello",
+            "translated_transcript": "Hello",
             "tone": "Neutral",
-            "rate_of_speech": "100.00",
+            "rate_of_speech": "88.11",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
             "keywords": []
         },
         {
             "speaker_label": "spk_1",
-            "start_time": "1.7515",
-            "end_time": "1.817",
-            "original_transcript": "Malik is a is a but their staff",
-            "translated_transcript": "Malik is a but their staff",
+            "start_time": "0.133",
+            "end_time": "0.1421",
+            "original_transcript": "Hello",
+            "translated_transcript": "Hello",
             "tone": "Neutral",
-            "rate_of_speech": "91.60",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "malik"
-            ]
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "1.8255",
-            "end_time": "1.9217",
-            "original_transcript": "those those person who working in the computer or something like that",
-            "translated_transcript": "a persona que funciona en la computadora o algo como",
-            "tone": "Neutral",
-            "rate_of_speech": "103.97",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "persona que funciona",
-                "computadora o algo como"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "1.9302",
-            "end_time": "1.9323",
-            "original_transcript": "So",
-            "translated_transcript": "Salt",
-            "tone": "Neutral",
-            "rate_of_speech": "458.02",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": []
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "1.9325",
-            "end_time": "2.224",
-            "original_transcript": "these people said Can I get They have not received the order But I have got the screenshot of the order Order number order order items everything But every time they give they have not received the order They have not received the order and that's why they could not deliver the items But how is possible",
-            "translated_transcript": "Questi persone disse possono possono fare non ricevuto l'ordine, ma ho avuto la screenshot dell'ordine ordine numero di ordine, tutti i tutti i già non ricevuto il ordine.",
-            "tone": "Neutral",
-            "rate_of_speech": "96.05",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "questi",
-                "persone disse possono possono fare non ricevuto l'ordine",
-                "ma ho avuto",
-                "screenshot dell'ordine ordine numero di ordine",
-                "tutti i tutti i già non ricevuto il ordine"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "2.2313",
-            "end_time": "2.284",
-            "original_transcript": "I will raise a complaint from my side and we will forward to the",
-            "translated_transcript": "I will raise a complaint from my side and we will forward to the",
-            "tone": "Neutral",
-            "rate_of_speech": "265.91",
-            "emotion": "neutral",
-            "sentiment_label": "Negative",
-            "keywords": []
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "2.2885",
-            "end_time": "2.3478",
-            "original_transcript": "uh so that I want some more details sir your name is",
-            "translated_transcript": "so that I want some more details sir your name is",
-            "tone": "Neutral",
-            "rate_of_speech": "185.39",
-            "emotion": "neutral",
-            "sentiment_label": "Positive",
-            "keywords": [
-                "details sir"
-            ]
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "2.3703",
-            "end_time": "2.6138",
-            "original_transcript": "I already seen You got a mail I know I PC care.com something like that I PC I said I'm using your email You know I said I do I already out there",
-            "translated_transcript": "Je suis déjà vu Je vous avez un mail Je le savoir PC care.com algo comme que Je PC Je dit J'est vous avez votre e-mail Jous vous avez dit le dit que j'ai de j'est pas",
-            "tone": "Neutral",
-            "rate_of_speech": "151.95",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "je",
-                "suis déjà vu",
-                "je",
-                "vous avez un",
-                "je",
-                "pc",
-                "care.com algo comme que",
-                "je pc je",
-                "j'est",
-                "vous avez votre e-mail",
-                "jous",
-                "vous avez dit",
-                "dit que j'ai",
-                "j'est pas"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "2.623",
-            "end_time": "2.691",
-            "original_transcript": "Uh sir can you please share your mail ID sir So",
-            "translated_transcript": "Uh sir can you please share your email id sir So",
-            "tone": "Neutral",
-            "rate_of_speech": "161.76",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "uh",
-                "email id sir"
-            ]
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "2.6912",
-            "end_time": "2.7637",
-            "original_transcript": "that a RAN PR a NJIT",
-            "translated_transcript": "que a RAN PR a NJIT",
-            "tone": "Neutral",
-            "rate_of_speech": "82.76",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "ran pr",
-                "njit"
-            ]
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "2.7737",
-            "end_time": "2.8225",
-            "original_transcript": "BHUYAN",
-            "translated_transcript": "BHUYAN",
-            "tone": "Neutral",
-            "rate_of_speech": "20.47",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "bhuyan"
-            ]
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "2.8343",
-            "end_time": "2.8548",
-            "original_transcript": "000",
-            "translated_transcript": "000",
-            "tone": "Neutral",
-            "rate_of_speech": "48.78",
+            "rate_of_speech": "109.29",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
             "keywords": []
         },
         {
             "speaker_label": "spk_0",
-            "start_time": "2.8635",
-            "end_time": "2.876",
-            "original_transcript": "OK",
-            "translated_transcript": "OK",
+            "start_time": "0.1455",
+            "end_time": "0.1565",
+            "original_transcript": "Hello",
+            "translated_transcript": ", how are you?\n\n\nNamaskaram, nee endha?",
             "tone": "Neutral",
-            "rate_of_speech": "80.00",
-            "emotion": "neutral",
-            "sentiment_label": "Positive",
-            "keywords": []
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "2.8837",
-            "end_time": "2.9087",
-            "original_transcript": "at gmail.com",
-            "translated_transcript": "at gmail.com",
-            "tone": "Neutral",
-            "rate_of_speech": "80.00",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": []
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "2.9145",
-            "end_time": "2.9435",
-            "original_transcript": "Uh triple zero sir",
-            "translated_transcript": "Uh triple zero cheese",
-            "tone": "Neutral",
-            "rate_of_speech": "137.85",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "uh",
-                "triple zero cheese"
-            ]
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "2.954",
-            "end_time": "2.9685",
-            "original_transcript": "Triple zero",
-            "translated_transcript": "Triple zero",
-            "tone": "Neutral",
-            "rate_of_speech": "137.93",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "triple"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "3.0",
-            "end_time": "3.002",
-            "original_transcript": "sir",
-            "translated_transcript": "cheese",
-            "tone": "Neutral",
-            "rate_of_speech": "504.20",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": []
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "3.0343",
-            "end_time": "3.204",
-            "original_transcript": "Today Only today that uh one of this uh this issue has been raised Uh there's a complaint already raised through IT un the APP in 21st of July only",
-            "translated_transcript": "Hoy solo hoy que uh una de esta uh esta problema ha sido risada Uh ha un complaento a solo en el 21 de julio",
-            "tone": "Neutral",
-            "rate_of_speech": "147.33",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "hoy",
-                "solo hoy que uh una",
-                "esta uh esta problema",
-                "sido risada",
-                "uh",
-                "un complaento"
-            ]
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "3.2148",
-            "end_time": "3.363",
-            "original_transcript": "uh if you can check out the I'm able to check out the status of the company is pending I already logged in July 25",
-            "translated_transcript": "if you can check out the status of the company is pending I am already logged in July 25",
-            "tone": "Neutral",
-            "rate_of_speech": "128.23",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "july"
-            ]
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "3.3725",
-            "end_time": "3.3813",
-            "original_transcript": "The",
-            "translated_transcript": "The",
-            "tone": "Neutral",
-            "rate_of_speech": "113.21",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": []
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "3.4248",
-            "end_time": "3.4941",
-            "original_transcript": "complaint number or anything you got from our side sir Any reference number or anything",
-            "translated_transcript": "Numero di complaenza o qualsiasi ottenuto dal nostro sito, qualsiasi numero di riferimento o qualsiasi",
-            "tone": "Neutral",
-            "rate_of_speech": "216.40",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "numero",
-                "di complaenza o qualsiasi ottenuto dal nostro sito",
-                "qualsiasi numero di riferimento o qualsiasi"
-            ]
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "3.5092",
-            "end_time": "3.5158",
-            "original_transcript": "Pardon",
-            "translated_transcript": "Pardon",
-            "tone": "Neutral",
-            "rate_of_speech": "150.38",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "pardon"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "3.5282",
-            "end_time": "3.5843",
-            "original_transcript": "Uh did you got any reference number regarding this sir Any",
-            "translated_transcript": "Did you get a reference number regarding this sir",
-            "tone": "Neutral",
-            "rate_of_speech": "160.28",
+            "rate_of_speech": "635.40",
             "emotion": "curiosity",
             "sentiment_label": "Neutral",
             "keywords": [
-                "reference number"
+                "namaskaram",
+                "nee endha"
             ]
         },
         {
             "speaker_label": "spk_1",
-            "start_time": "3.5968",
-            "end_time": "3.6883",
-            "original_transcript": "one The screen sir I've already shared with you in the email ID It's the email that I send it to you",
-            "translated_transcript": "un Een el pantalla sir Je ha compartit avec vous en l'ID de l'e-mail Iz le e-mail que j'à vous envier",
+            "start_time": "0.1667",
+            "end_time": "0.183",
+            "original_transcript": "Yeah can you hear",
+            "translated_transcript": "me\n\nYes, can you hear me?",
             "tone": "Neutral",
-            "rate_of_speech": "229.47",
+            "rate_of_speech": "367.72",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "0.1902",
+            "end_time": "0.2121",
+            "original_transcript": "Yes sir I'm audible to you sir",
+            "translated_transcript": "Yes sir, I am audible to you sir.",
+            "tone": "Neutral",
+            "rate_of_speech": "363.64",
+            "emotion": "approval",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.2213",
+            "end_time": "0.3621",
+            "original_transcript": "OK uh so dinner is here So actually I had ordered this chocolate ganas from travel Uh two pet actually",
+            "translated_transcript": "Okay, so dinner is here. Actually, I had ordered this chocolate gan",
+            "tone": "Neutral",
+            "rate_of_speech": "85.21",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
             "keywords": [
-                "een",
-                "el pantalla sir",
-                "je",
-                "compartit avec vous",
-                "iz",
-                "e-mail que j",
-                "à vous envier"
+                "okay",
+                "chocolate gan"
             ]
         },
         {
-            "speaker_label": "spk_0",
-            "start_time": "3.7147",
-            "end_time": "3.7435",
-            "original_transcript": "I",
-            "translated_transcript": "I",
-            "tone": "Neutral",
-            "rate_of_speech": "34.68",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": []
-        },
-        {
             "speaker_label": "spk_1",
-            "start_time": "3.7437",
-            "end_time": "4.0937",
-            "original_transcript": "put a complaint to the one screenshot appeared One window pops up regarding the complaint Whatever the complaint and all these things And the status is as pending The screenshot is attached to the email that I sent it to you a few minutes back",
-            "translated_transcript": "put a complaint to the one screenshot appeared One window pops up regarding the complaint Whatever the complaint and all these things And the status is as pending The screenshot is attached to the email that I sent it to you a few minutes back",
-            "tone": "Neutral",
-            "rate_of_speech": "128.57",
-            "emotion": "neutral",
-            "sentiment_label": "Negative",
-            "keywords": []
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "4.1073",
-            "end_time": "4.1806",
-            "original_transcript": "So you say you say you are saying that you send the email email on today Right sir",
-            "translated_transcript": "So you say you are saying that you send the email on today Right sir",
+            "start_time": "0.3731",
+            "end_time": "0.8423",
+            "original_transcript": "OK so I had ordered uh using zat only So actually out of the two packets one I had consumed and the one was on No point So today I opened that and I could see like it's completely like uh fungus and all has happened and it was packaged in the backside I can see that it was packaged on fourth of July and uh used by Is it written by 15th of September",
+            "translated_transcript": "Okay, so I had ordered using Zat only. So, out",
             "tone": "Happy",
-            "rate_of_speech": "204.59",
+            "rate_of_speech": "21.31",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay",
+                "zat"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "0.849",
+            "end_time": "1.0227",
+            "original_transcript": "So it's within the due date also And today only I opened the second packet First one was good Second packet When Today I opened It's completely full of fungus",
+            "translated_transcript": "So, it's still within the deadline. Today, I opened the",
+            "tone": "Neutral",
+            "rate_of_speech": "57.58",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.043",
+            "end_time": "1.31",
+            "original_transcript": "Uh so sorry to hear this Miss uh finish You're experiencing the product Uh definitely Will uh raise a complaint for regarding this But I wanted to know the chocolate when it got delivered from your tomato This is the packet and you got any tamper or something like that No",
+            "translated_transcript": "problem\n\nI am sorry to hear this, Miss. You have finished experiencing the",
+            "tone": "Sad",
+            "rate_of_speech": "48.69",
+            "emotion": "remorse",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "miss"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.3102",
+            "end_time": "1.5048",
+            "original_transcript": "not tampered That outer Uh like that That transfer and poly wrapping is there right outside of that travel pet So that was also not tempered So now only I opened",
+            "translated_transcript": "Not tampered. The outer layer is intact, just like that.",
+            "tone": "Neutral",
+            "rate_of_speech": "51.37",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "outer layer"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "1.5111",
+            "end_time": "1.551",
+            "original_transcript": "and after opening I could see like it's full of",
+            "translated_transcript": "stars\n\nAfter opening, I could see that it was filled with stars.",
+            "tone": "Happy",
+            "rate_of_speech": "301.26",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.5512",
+            "end_time": "1.5606",
+            "original_transcript": "fungus",
+            "translated_transcript": "ഫംഗസ്",
+            "tone": "Neutral",
+            "rate_of_speech": "105.26",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.5725",
+            "end_time": "1.7018",
+            "original_transcript": "OK so you ordered from online So no normally how you store the chocolate is in the room temperature you have to charge",
+            "translated_transcript": "it\n\n\nOkay, so you ordered online. Normally, the way you store",
+            "tone": "Happy",
+            "rate_of_speech": "85.04",
             "emotion": "neutral",
             "sentiment_label": "Positive",
             "keywords": [
-                "right"
+                "okay",
+                "normally"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.718",
+            "end_time": "1.7183",
+            "original_transcript": "Uh",
+            "translated_transcript": ", ഞാൻ അതു",
+            "tone": "Neutral",
+            "rate_of_speech": "9473.68",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ഞാൻ അതു"
             ]
         },
         {
             "speaker_label": "spk_1",
-            "start_time": "4.1908",
-            "end_time": "4.4803",
-            "original_transcript": "III I send the email uh today say around half an hour back and that uh in that email I attached one screenshot The screenshot is of a complaint which is which was launched in 21st of July regarding the same programme",
-            "translated_transcript": "III Sent the email uh today says about half an hour back and that uh in that email I attached a screenshot is of a complaint which was launched in 21st of July regarding the same programs",
-            "tone": "Neutral",
-            "rate_of_speech": "127.80",
+            "start_time": "1.7202",
+            "end_time": "1.8243",
+            "original_transcript": "it's uh uh room temperature only Like in Bangalore I mean it's normally",
+            "translated_transcript": "hot\n\nIt's just room temperature, like in Bangalore. I mean, it",
+            "tone": "Sad",
+            "rate_of_speech": "105.60",
             "emotion": "neutral",
             "sentiment_label": "Negative",
             "keywords": [
-                "iii",
-                "email uh",
-                "july"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "4.5013",
-            "end_time": "4.591",
-            "original_transcript": "Uh sir that is uh July 2022 You are saying sir or this year",
-            "translated_transcript": "Uh sir that is uh July 2022 You are saying sir or this year",
-            "tone": "Neutral",
-            "rate_of_speech": "156.13",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "uh",
-                "july"
+                "room temperature",
+                "bangalore"
             ]
         },
         {
             "speaker_label": "spk_1",
-            "start_time": "4.5912",
-            "end_time": "4.6373",
-            "original_transcript": "21st of July The complaint is 21st of July",
-            "translated_transcript": "21st of July The complaint is 21st of July",
+            "start_time": "1.834",
+            "end_time": "1.8493",
+            "original_transcript": "cold only",
+            "translated_transcript": "ചൂണ്ടിലേ",
             "tone": "Neutral",
-            "rate_of_speech": "195.02",
+            "rate_of_speech": "65.29",
             "emotion": "neutral",
-            "sentiment_label": "Negative",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "1.8728",
+            "end_time": "2.009",
+            "original_transcript": "OK so the room temperature So the when the package was delivered there is any ice packing Something like that It was there or how",
+            "translated_transcript": "Okay, so what is the room temperature? Was there any ice packing",
+            "tone": "Neutral",
+            "rate_of_speech": "88.13",
+            "emotion": "curiosity",
+            "sentiment_label": "Positive",
             "keywords": [
-                "july",
-                "july"
+                "okay",
+                "room temperature",
+                "was"
             ]
         },
         {
             "speaker_label": "spk_0",
-            "start_time": "4.6455",
-            "end_time": "4.6601",
-            "original_transcript": "this year sir",
-            "translated_transcript": "this year cheese",
+            "start_time": "2.0218",
+            "end_time": "2.0222",
+            "original_transcript": "Oh",
+            "translated_transcript": "അമ്മേ, എന",
             "tone": "Neutral",
-            "rate_of_speech": "204.78",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "year cheese"
-            ]
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "4.6693",
-            "end_time": "4.7015",
-            "original_transcript": "This year 24 of July to 23",
-            "translated_transcript": "This year from July 24 to 23",
-            "tone": "Neutral",
-            "rate_of_speech": "217.73",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "july"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "4.7118",
-            "end_time": "4.7908",
-            "original_transcript": "Sir I will again confirm your email ID PR ING I",
-            "translated_transcript": "Sir I will again confirm your email ID PR ING I",
-            "tone": "Neutral",
-            "rate_of_speech": "139.21",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "sir",
-                "id pr ing"
-            ]
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "4.8013",
-            "end_time": "4.8675",
-            "original_transcript": "I'll just I'll just spell it out P for Punjab A for at",
-            "translated_transcript": "I'll just spell it out P for Punjab A for",
-            "tone": "Neutral",
-            "rate_of_speech": "151.13",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "punjab"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "4.8812",
-            "end_time": "4.8892",
-            "original_transcript": "P for",
-            "translated_transcript": "P for",
-            "tone": "Neutral",
-            "rate_of_speech": "249.48",
+            "rate_of_speech": "5714.29",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
             "keywords": []
         },
         {
             "speaker_label": "spk_1",
-            "start_time": "4.8963",
-            "end_time": "4.8976",
-            "original_transcript": "Rajasthan",
-            "translated_transcript": "Rajasthan",
-            "tone": "Neutral",
-            "rate_of_speech": "750.00",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
+            "start_time": "2.0242",
+            "end_time": "2.0433",
+            "original_transcript": "sorry Any",
+            "translated_transcript": "Sorry, I apologize.",
+            "tone": "Sad",
+            "rate_of_speech": "156.52",
+            "emotion": "remorse",
+            "sentiment_label": "Negative",
             "keywords": [
-                "rajasthan"
+                "sorry"
             ]
         },
         {
             "speaker_label": "spk_0",
-            "start_time": "4.9032",
-            "end_time": "5.1462",
-            "original_transcript": "P for Punjab R for Rajasthan A for uh asam N for Nagpur J for Jammu I for India T for Tamil Nadu or B for Bangalore H for Hyderabad Uh",
-            "translated_transcript": "P for Punjab R for Rajasthan A for uh asam N for Nagpur J for Jammu I for India T for Tamil Nadu or B for Bangalore H for Hyderabad Uh",
+            "start_time": "2.0512",
+            "end_time": "2.1865",
+            "original_transcript": "packing of the chocolate Uh W uh white packing hose is just normal Packing or what is a nice pack",
+            "translated_transcript": "The chocolate is packed in a white packaging, which is just a regular packing",
             "tone": "Neutral",
-            "rate_of_speech": "127.58",
+            "rate_of_speech": "103.44",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
-            "keywords": [
-                "punjab r",
-                "rajasthan",
-                "uh asam",
-                "nagpur j",
-                "jammu",
-                "india t",
-                "tamil nadu",
-                "bangalore h",
-                "hyderabad uh"
-            ]
+            "keywords": []
         },
         {
             "speaker_label": "spk_0",
-            "start_time": "5.1495",
-            "end_time": "5.3208",
-            "original_transcript": "and U for umbrella Y for yak A for Andhra N for Nagpur or Triple zero at the rate gmail.com correct",
-            "translated_transcript": "and U for umbrella Y for Andhra N for Nagpur or Triple zero at the rate gmail.com correct",
-            "tone": "Neutral",
-            "rate_of_speech": "105.06",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "andhra n",
-                "nagpur",
-                "triple",
-                "rate gmail.com"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "5.3362",
-            "end_time": "5.3882",
-            "original_transcript": "Rata is the main Receive an ikea a performance",
-            "translated_transcript": "Rate is the main Receive an ikea a performance",
-            "tone": "Neutral",
-            "rate_of_speech": "173.08",
+            "start_time": "2.2022",
+            "end_time": "2.2102",
+            "original_transcript": "Normal",
+            "translated_transcript": "Normal",
+            "tone": "Happy",
+            "rate_of_speech": "125.00",
             "emotion": "neutral",
             "sentiment_label": "Positive",
             "keywords": [
-                "rate",
-                "receive"
+                "normal"
             ]
         },
         {
             "speaker_label": "spk_1",
-            "start_time": "5.512",
-            "end_time": "5.5513",
-            "original_transcript": "I I uh I just uh",
-            "translated_transcript": "And I uh I just uh",
+            "start_time": "2.2103",
+            "end_time": "2.2288",
+            "original_transcript": "Normal packet No ice pack",
+            "translated_transcript": "Regular package without ice pack.",
             "tone": "Neutral",
-            "rate_of_speech": "152.61",
+            "rate_of_speech": "270.27",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
-            "keywords": []
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "5.5742",
-            "end_time": "5.6248",
-            "original_transcript": "IT cares at itc.in",
-            "translated_transcript": "IT cares at itc.in",
-            "tone": "Neutral",
-            "rate_of_speech": "78.97",
-            "emotion": "caring",
-            "sentiment_label": "Neutral",
             "keywords": [
-                "it"
+                "regular",
+                "ice pack"
             ]
         },
         {
             "speaker_label": "spk_0",
-            "start_time": "5.6363",
-            "end_time": "5.7142",
-            "original_transcript": "sir ITCKITCCARES at the ITC dot",
-            "translated_transcript": "see ITCKITCCARES at the ITC dot",
+            "start_time": "2.2393",
+            "end_time": "2.2633",
+            "original_transcript": "ice pack",
+            "translated_transcript": "ice pack",
             "tone": "Neutral",
-            "rate_of_speech": "77.07",
+            "rate_of_speech": "83.33",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
             "keywords": [
-                "itckitccares",
-                "itc"
-            ]
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "5.732",
-            "end_time": "5.8273",
-            "original_transcript": "I'll just I'll just I'll just send it You can take it out",
-            "translated_transcript": "I'll just I'll just send it You can take it out",
-            "tone": "Neutral",
-            "rate_of_speech": "115.38",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": []
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "5.8375",
-            "end_time": "6.0816",
-            "original_transcript": "or uh Or I can take a complaint from my my side sir because I but uh I think um you said can you please check in the phone or the system sir Which mail ID you have sent the centre",
-            "translated_transcript": "Or uh Or I can take a complaint from my side sir because I but uh I think you said you can check in the phone or the system sir Which mail ID you have sent to the center",
-            "tone": "Neutral",
-            "rate_of_speech": "159.74",
-            "emotion": "neutral",
-            "sentiment_label": "Negative",
-            "keywords": [
-                "side sir",
-                "system sir",
-                "id"
-            ]
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "6.0837",
-            "end_time": "6.1048",
-            "original_transcript": "name",
-            "translated_transcript": "navn",
-            "tone": "Neutral",
-            "rate_of_speech": "47.21",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": []
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "6.9658",
-            "end_time": "6.9945",
-            "original_transcript": "again I have weekend this weekend ticket",
-            "translated_transcript": "I have another weekend this weekend ticket",
-            "tone": "Neutral",
-            "rate_of_speech": "244.19",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "weekend ticket"
+                "ice pack"
             ]
         },
         {
             "speaker_label": "spk_0",
-            "start_time": "7.0076",
-            "end_time": "7.0203",
-            "original_transcript": "Hello sir",
-            "translated_transcript": "Hello sir",
+            "start_time": "2.2738",
+            "end_time": "2.3792",
+            "original_transcript": "OK so definitely we raise a complaint about this So can I put a call for a minute for a hold sir Just so I get complaint for this",
+            "translated_transcript": "Okay, so we will definitely file a complaint about this. Can I",
             "tone": "Neutral",
-            "rate_of_speech": "157.69",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": []
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "7.0353",
-            "end_time": "7.056",
-            "original_transcript": "I recently this again",
-            "translated_transcript": "Eu recentemente esto ancora",
-            "tone": "Neutral",
-            "rate_of_speech": "193.55",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "eu",
-                "recentemente esto ancora"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "7.0671",
-            "end_time": "7.0957",
-            "original_transcript": "Oh you resend it again OK",
-            "translated_transcript": "Oh you resend it again OK",
-            "tone": "Neutral",
-            "rate_of_speech": "210.53",
-            "emotion": "neutral",
+            "rate_of_speech": "113.91",
+            "emotion": "approval",
             "sentiment_label": "Positive",
             "keywords": [
-                "oh"
+                "okay"
             ]
         },
         {
-            "speaker_label": "spk_1",
-            "start_time": "7.1012",
-            "end_time": "7.118",
-            "original_transcript": "you can if you can take it out",
-            "translated_transcript": "you can if you can take it out",
-            "tone": "Neutral",
-            "rate_of_speech": "475.72",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": []
-        },
-        {
             "speaker_label": "spk_0",
-            "start_time": "7.1295",
-            "end_time": "7.1538",
-            "original_transcript": "please be online Let me check",
-            "translated_transcript": "please be online Let me check",
+            "start_time": "2.3897",
+            "end_time": "2.4173",
+            "original_transcript": "please be online please",
+            "translated_transcript": "Please stay online, please.",
             "tone": "Neutral",
-            "rate_of_speech": "246.41",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": []
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "7.2288",
-            "end_time": "7.2638",
-            "original_transcript": "sir Uh which mail ID do you have sent sir",
-            "translated_transcript": "sir Uh, which mail ID you have sent sir",
-            "tone": "Neutral",
-            "rate_of_speech": "257.27",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "uh",
-                "id"
-            ]
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "7.2772",
-            "end_time": "7.2973",
-            "original_transcript": "ITC",
-            "translated_transcript": "ITC",
-            "tone": "Neutral",
-            "rate_of_speech": "49.63",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "itc"
-            ]
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "7.3068",
-            "end_time": "7.3457",
-            "original_transcript": "cares at itc.in",
-            "translated_transcript": "cares at itc.in",
-            "tone": "Neutral",
-            "rate_of_speech": "77.29",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": []
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "7.3873",
-            "end_time": "7.4093",
-            "original_transcript": "Please be online sir",
-            "translated_transcript": "Please be online",
-            "tone": "Neutral",
-            "rate_of_speech": "136.36",
+            "rate_of_speech": "144.67",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
             "keywords": [
@@ -926,770 +356,1168 @@
         },
         {
             "speaker_label": "spk_0",
-            "start_time": "7.4375",
-            "end_time": "7.6775",
-            "original_transcript": "ITC spelling Repeat that ITCTARES at the ITC dot It ID sir",
-            "translated_transcript": "ITC Spelling Repeat that ITCTARES at the ITC dot It ID",
+            "start_time": "3.4792",
+            "end_time": "3.8577",
+            "original_transcript": "Hello Hello Hello Mrs We will register complaint for this So before that I want to tell you see our ITC food product Uh no Before delay to the matter we will maintain our ex quality measures and manufacturing to solve and deliver to the market So we have found some issue with the product Definitely is a complaint What is the reason Because we investigate What is the issue in that",
+            "translated_transcript": "Hello Mrs, we will file a complaint for this. But before that,",
             "tone": "Neutral",
-            "rate_of_speech": "45.84",
+            "rate_of_speech": "31.70",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "3.8608",
+            "end_time": "3.918",
+            "original_transcript": "We got uh fungus So we need a sample for",
+            "translated_transcript": "the lab\n\nWe have a fungus, so we need a sample for the laboratory",
+            "tone": "Neutral",
+            "rate_of_speech": "244.83",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "3.9301",
+            "end_time": "4.3438",
+            "original_transcript": "I had ordered two packets that order details Also I can clear so out of two packets like uh the first one yesterday only it was over So 11 piece I was eating So then I opened the second packet today so I could see like this So in the same condition one packet was absolutely fine Even until yesterday I was eating that the second packet which was not in not tampered in any way",
+            "translated_transcript": "I had ordered two packets, and the order details were also clear. Out",
+            "tone": "Neutral",
+            "rate_of_speech": "31.43",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "order details"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.3512",
+            "end_time": "4.5892",
+            "original_transcript": "when I opened it It's full of fungus so I don't know like this is some third or fourth time I am ordering So it's not like uh first time I don't know how to store it and all so earlier products are very good",
+            "translated_transcript": "When I opened it, it was full of fungus. This is probably the",
+            "tone": "Happy",
+            "rate_of_speech": "54.62",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.6008",
+            "end_time": "4.7018",
+            "original_transcript": "This one is not 1000 ₹25 And after seeing like like",
+            "translated_transcript": "This one is not worth 1000 rupees, and it doesn't",
+            "tone": "Neutral",
+            "rate_of_speech": "99.01",
+            "emotion": "disapproval",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "4.7112",
+            "end_time": "4.7507",
+            "original_transcript": "really sad to see that packet in that condition",
+            "translated_transcript": "It's heartbreaking to see that packet in such a state.",
+            "tone": "Neutral",
+            "rate_of_speech": "253.16",
+            "emotion": "sadness",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "4.7557",
+            "end_time": "5.0982",
+            "original_transcript": "No problem So we register a complaint from your for registering I need a packet detail and your email ID and your address so that our executive will visit your place and he'll collect the sample Uh which we have now So I uh we'll send it to our concern team for checking And the same time we'll have the company Google get We will replace a new pack and we'll give you OK",
+            "translated_transcript": "There is no problem. We will register a complaint on your behalf.",
+            "tone": "Neutral",
+            "rate_of_speech": "35.03",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.1038",
+            "end_time": "5.1543",
+            "original_transcript": "OK so what Uh I will I mean",
+            "translated_transcript": "Okay, so what do you mean?",
+            "tone": "Happy",
+            "rate_of_speech": "118.81",
+            "emotion": "curiosity",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.1662",
+            "end_time": "5.2008",
+            "original_transcript": "yeah your email ID and address I need",
+            "translated_transcript": "Yes, I need your email ID and address.",
+            "tone": "Neutral",
+            "rate_of_speech": "230.88",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
             "keywords": [
-                "itc spelling repeat",
-                "itctares",
-                "itc",
                 "id"
             ]
         },
         {
-            "speaker_label": "spk_0",
-            "start_time": "7.7627",
-            "end_time": "7.8005",
-            "original_transcript": "Rata Kamar receive ikea Sir",
-            "translated_transcript": "Flat Rooms receive ikea Sir",
+            "speaker_label": "spk_1",
+            "start_time": "5.219",
+            "end_time": "5.2565",
+            "original_transcript": "my email ID and address Right",
+            "translated_transcript": "now, I cannot provide you with my email ID and address.",
             "tone": "Neutral",
-            "rate_of_speech": "132.22",
+            "rate_of_speech": "293.33",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "id"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.268",
+            "end_time": "5.3113",
+            "original_transcript": "OK so email ID is dens Pradhan",
+            "translated_transcript": "OK, so the email ID is dens Pradhan.",
+            "tone": "Neutral",
+            "rate_of_speech": "184.62",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "id",
+                "pradhan"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.333",
+            "end_time": "5.4113",
+            "original_transcript": "The order was placed by my wife so it's fine",
+            "translated_transcript": "The order was placed by my wife, so it's okay.",
+            "tone": "Neutral",
+            "rate_of_speech": "127.69",
+            "emotion": "approval",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "'s okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.4226",
+            "end_time": "5.4927",
+            "original_transcript": "Uh so my email ID is DDINESH",
+            "translated_transcript": "@gmail.com\n\nUh, so my email ID is DDINESH@gmail.com",
+            "tone": "Neutral",
+            "rate_of_speech": "114.29",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "@ gmail.com",
+                "uh",
+                "id",
+                "ddinesh",
+                "@ gmail.com"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.5112",
+            "end_time": "5.5485",
+            "original_transcript": "BINT",
+            "translated_transcript": "A\n\nBinta is a common name in Malayalam, which means \"star",
+            "tone": "Neutral",
+            "rate_of_speech": "294.64",
             "emotion": "neutral",
             "sentiment_label": "Negative",
             "keywords": [
-                "flat rooms",
-                "sir"
+                "binta",
+                "common name",
+                "malayalam"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.554",
+            "end_time": "5.6586",
+            "original_transcript": "Esh for adhan PP for P PR a THAN",
+            "translated_transcript": "Esh stands for the call to prayer, PP stands for Prayer Point",
+            "tone": "Neutral",
+            "rate_of_speech": "114.65",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "esh",
+                "pp",
+                "prayer"
             ]
         },
         {
             "speaker_label": "spk_0",
-            "start_time": "7.8122",
-            "end_time": "7.968",
-            "original_transcript": "Uh a can give you sir uh Akara details BNSRO Dukan Kapur you know",
-            "translated_transcript": "Uh a can give you sir uh Akara details BNSRO Dukan Kapur you know",
+            "start_time": "5.6683",
+            "end_time": "5.6787",
+            "original_transcript": "OK",
+            "translated_transcript": ", ഞാൻ പോക",
             "tone": "Neutral",
-            "rate_of_speech": "89.85",
+            "rate_of_speech": "290.32",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ഞാൻ പോക"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.6883",
+            "end_time": "5.7325",
+            "original_transcript": "one double 92 at Gmail.com",
+            "translated_transcript": "one double 92 at Gmail.com",
+            "tone": "Neutral",
+            "rate_of_speech": "113.16",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "gmail.com"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.7375",
+            "end_time": "5.7836",
+            "original_transcript": "one Double 92 at Gmail.com",
+            "translated_transcript": "one Double 92 at Gmail.com",
+            "tone": "Neutral",
+            "rate_of_speech": "108.34",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "gmail.com"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.7927",
+            "end_time": "5.8688",
+            "original_transcript": "So it's vines Pradhan one double 92 at Gmail.com",
+            "translated_transcript": "It's the email address vinespradhan192@gmail.com.",
+            "tone": "Neutral",
+            "rate_of_speech": "65.63",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "email address vinespradhan192 @ gmail.com"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.884",
+            "end_time": "5.9466",
+            "original_transcript": "Ok And your name Uh Vinesh That's it No no last name for this",
+            "translated_transcript": "Okay, and your name? Uh, Vinesh. That's it",
+            "tone": "Neutral",
+            "rate_of_speech": "127.69",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay",
+                "uh",
+                "vinesh"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "5.9553",
+            "end_time": "5.9878",
+            "original_transcript": "PV P",
+            "translated_transcript": "onnammal\n\nPV Ponnammal is a renowned Carnatic musician from",
+            "tone": "Neutral",
+            "rate_of_speech": "277.07",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "pv ponnammal",
+                "carnatic"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "5.997",
+            "end_time": "6.0448",
+            "original_transcript": "Uh DB or D This is uh",
+            "translated_transcript": "Uh DB or D, this is uh.",
+            "tone": "Neutral",
+            "rate_of_speech": "146.34",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "uh db"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.0558",
+            "end_time": "6.0581",
+            "original_transcript": "DDD",
+            "translated_transcript": "There is no direct translation for \"DDD\" in Malayalam as it is",
+            "tone": "Neutral",
+            "rate_of_speech": "5179.86",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "direct translation",
+                "ddd",
+                "malayalam"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.0803",
+            "end_time": "6.0978",
+            "original_transcript": "Ok sorry",
+            "translated_transcript": "Okay, sorry.",
+            "tone": "Neutral",
+            "rate_of_speech": "114.39",
+            "emotion": "remorse",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "okay"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.14",
+            "end_time": "6.1767",
+            "original_transcript": "And uh your number is same sir Which you're calling",
+            "translated_transcript": "And your number is the same, sir, which you are calling.",
+            "tone": "Neutral",
+            "rate_of_speech": "299.86",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.186",
+            "end_time": "6.1937",
+            "original_transcript": "Yeah",
+            "translated_transcript": ", ഞാൻ അതു",
+            "tone": "Neutral",
+            "rate_of_speech": "392.16",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ഞാൻ അതു"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.2048",
+            "end_time": "6.248",
+            "original_transcript": "OK no problem Your address sir Where do you say",
+            "translated_transcript": "It's fine, no problem. What is your address, sir?",
+            "tone": "Neutral",
+            "rate_of_speech": "208.49",
+            "emotion": "curiosity",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "'s fine"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.2643",
+            "end_time": "6.313",
+            "original_transcript": "Uh it's uh uh 002",
+            "translated_transcript": "Uh, it's uh uh 002.",
+            "tone": "Neutral",
+            "rate_of_speech": "102.74",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
             "keywords": [
                 "uh",
-                "sir uh",
-                "akara",
-                "bnsro dukan kapur"
+                "'s uh uh"
             ]
         },
         {
             "speaker_label": "spk_0",
-            "start_time": "8.031",
-            "end_time": "8.0446",
-            "original_transcript": "Hello",
-            "translated_transcript": "Hallo",
+            "start_time": "6.3257",
+            "end_time": "6.3346",
+            "original_transcript": "Mhm",
+            "translated_transcript": ", njan ente ammaye kandu\n\nHmm, I saw",
             "tone": "Neutral",
-            "rate_of_speech": "73.17",
+            "rate_of_speech": "890.54",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
             "keywords": [
-                "hallo"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "8.1716",
-            "end_time": "8.1862",
-            "original_transcript": "Hello",
-            "translated_transcript": "Hallo",
-            "tone": "Neutral",
-            "rate_of_speech": "68.89",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "hallo"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "8.2783",
-            "end_time": "8.2863",
-            "original_transcript": "I",
-            "translated_transcript": "I",
-            "tone": "Neutral",
-            "rate_of_speech": "125.26",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": []
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "8.2865",
-            "end_time": "8.34",
-            "original_transcript": "have received a response from you also",
-            "translated_transcript": "ha ricevuto una risposta da ti anche",
-            "tone": "Neutral",
-            "rate_of_speech": "130.88",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "ricevuto una risposta da ti anche"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "8.3488",
-            "end_time": "8.3678",
-            "original_transcript": "and now you receive it Sir",
-            "translated_transcript": "and now you receive it Sir",
-            "tone": "Neutral",
-            "rate_of_speech": "315.51",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "sir"
+                "njan ente ammaye kandu",
+                "hmm"
             ]
         },
         {
             "speaker_label": "spk_1",
-            "start_time": "8.38",
-            "end_time": "8.4073",
-            "original_transcript": "I have received response",
-            "translated_transcript": "Jeg har få en svar",
+            "start_time": "6.3468",
+            "end_time": "6.4023",
+            "original_transcript": "Vara homes VV AJ",
+            "translated_transcript": "Vara Homes VV AJ",
             "tone": "Neutral",
-            "rate_of_speech": "182.82",
+            "rate_of_speech": "72.05",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
             "keywords": [
-                "jeg",
-                "har få"
+                "vara homes vv aj"
             ]
         },
         {
             "speaker_label": "spk_0",
-            "start_time": "8.414",
-            "end_time": "8.4638",
-            "original_transcript": "Uh huh What's the reference number sir",
-            "translated_transcript": "Uh huh What's the reference number sir",
+            "start_time": "6.4117",
+            "end_time": "6.4245",
+            "original_transcript": "You hear that",
+            "translated_transcript": "?\n\n\nനീ കേട്ട",
             "tone": "Neutral",
-            "rate_of_speech": "140.47",
+            "rate_of_speech": "233.77",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
             "keywords": [
-                "uh",
-                "reference number sir"
-            ]
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "8.6022",
-            "end_time": "8.6381",
-            "original_transcript": "1726 712",
-            "translated_transcript": "1726,712",
-            "tone": "Neutral",
-            "rate_of_speech": "27.79",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": []
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "8.6513",
-            "end_time": "8.6892",
-            "original_transcript": "171726",
-            "translated_transcript": "171726",
-            "tone": "Neutral",
-            "rate_of_speech": "26.44",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": []
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "8.6893",
-            "end_time": "8.7298",
-            "original_transcript": "1726 712",
-            "translated_transcript": "1726,712",
-            "tone": "Neutral",
-            "rate_of_speech": "24.69",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": []
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "8.759",
-            "end_time": "8.8123",
-            "original_transcript": "sir 1726712 Correct Sir",
-            "translated_transcript": "Sir 1726712 Correct Sir",
-            "tone": "Neutral",
-            "rate_of_speech": "75.00",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "sir",
-                "correct sir"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "8.8407",
-            "end_time": "8.86",
-            "original_transcript": "Please be online Sir",
-            "translated_transcript": "Please be online Sir",
-            "tone": "Neutral",
-            "rate_of_speech": "207.08",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "please",
-                "sir"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "9.0308",
-            "end_time": "9.1295",
-            "original_transcript": "Yes sir You have send the image but uh there is no images that we received sir You send the image also sir",
-            "translated_transcript": "Ja sir Du har sendt den bilde, men er det er ingen bilder som vi ontvangen siren Sie du sendt den bilde",
-            "tone": "Neutral",
-            "rate_of_speech": "222.94",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "ja",
-                "har sendt den bilde",
-                "men er det er ingen bilder som vi ontvangen siren",
-                "sie",
-                "du sendt den bilde"
+                "നീ കേട്ട"
             ]
         },
         {
             "speaker_label": "spk_1",
-            "start_time": "9.1452",
-            "end_time": "9.205",
-            "original_transcript": "Oh at that When I got this I got I'll send the",
-            "translated_transcript": "Oh, when I got this I got I'll send the",
+            "start_time": "6.4377",
+            "end_time": "6.4537",
+            "original_transcript": "RANG",
+            "translated_transcript": "A RAJAN\n\nRanga Rajan is a common name in Kerala,",
             "tone": "Neutral",
-            "rate_of_speech": "167.18",
+            "rate_of_speech": "625.00",
             "emotion": "neutral",
-            "sentiment_label": "Neutral",
+            "sentiment_label": "Negative",
             "keywords": [
-                "oh"
+                "rajan ranga rajan",
+                "common name",
+                "kerala"
             ]
         },
         {
             "speaker_label": "spk_0",
-            "start_time": "9.2292",
-            "end_time": "9.2426",
+            "start_time": "6.4622",
+            "end_time": "6.4905",
+            "original_transcript": "RAND",
+            "translated_transcript": "U PERUKAL\n\nTWO NAMES",
+            "tone": "Neutral",
+            "rate_of_speech": "141.26",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "u perukal two names"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.5",
+            "end_time": "6.5253",
+            "original_transcript": "wang homes",
+            "translated_transcript": "Wang Homes",
+            "tone": "Neutral",
+            "rate_of_speech": "79.00",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "wang homes"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.5455",
+            "end_time": "6.5565",
             "original_transcript": "OK",
             "translated_transcript": "OK",
             "tone": "Neutral",
-            "rate_of_speech": "74.17",
+            "rate_of_speech": "90.91",
             "emotion": "neutral",
             "sentiment_label": "Positive",
             "keywords": []
         },
         {
             "speaker_label": "spk_1",
-            "start_time": "9.294",
-            "end_time": "9.338",
-            "original_transcript": "You can uh uh cut down the phone I listen you ask",
-            "translated_transcript": "You can uh uh cut down the phone I listen to you ask",
+            "start_time": "6.5677",
+            "end_time": "6.5912",
+            "original_transcript": "ECT road",
+            "translated_transcript": "ഇന്ന് അവസ",
             "tone": "Neutral",
-            "rate_of_speech": "295.45",
+            "rate_of_speech": "85.05",
             "emotion": "neutral",
-            "sentiment_label": "Negative",
+            "sentiment_label": "Neutral",
             "keywords": [
-                "uh uh"
+                "ഇന്ന് അവസ"
             ]
         },
         {
             "speaker_label": "spk_0",
-            "start_time": "9.3537",
-            "end_time": "9.4195",
-            "original_transcript": "Oh you will Recently sir can you please share your address Also sir The shop address",
-            "translated_transcript": "Oh, you will recently be able to share your address Also see the shop address",
-            "tone": "Happy",
-            "rate_of_speech": "227.85",
+            "start_time": "6.6101",
+            "end_time": "6.6198",
+            "original_transcript": "OK",
+            "translated_transcript": ", ഞാൻ ഒരു",
+            "tone": "Neutral",
+            "rate_of_speech": "309.81",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ഞാൻ ഒരു"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.6312",
+            "end_time": "6.648",
+            "original_transcript": "white food",
+            "translated_transcript": "White food",
+            "tone": "Neutral",
+            "rate_of_speech": "118.69",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "white food"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "6.6758",
+            "end_time": "6.6948",
+            "original_transcript": "Wait for Bangalore",
+            "translated_transcript": "Wait for Bangalore \n\nPlease wait for Bangalore.",
+            "tone": "Neutral",
+            "rate_of_speech": "368.10",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "wait",
+                "bangalore please",
+                "bangalore"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.7127",
+            "end_time": "6.737",
+            "original_transcript": "Ok pin code sir",
+            "translated_transcript": "Okay, pin code sir.",
+            "tone": "Neutral",
+            "rate_of_speech": "164.38",
             "emotion": "neutral",
             "sentiment_label": "Positive",
             "keywords": [
-                "oh",
-                "shop address"
+                "okay",
+                "pin code sir"
             ]
         },
         {
             "speaker_label": "spk_1",
-            "start_time": "9.4422",
-            "end_time": "9.5147",
-            "original_transcript": "It's uh yeah So name is NIBEDN",
-            "translated_transcript": "It's uh yeah So name is NIBEDN",
+            "start_time": "6.7507",
+            "end_time": "6.7893",
+            "original_transcript": "56 Double zero Double six",
+            "translated_transcript": "56 Double zero Double six",
             "tone": "Neutral",
-            "rate_of_speech": "96.55",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "'s uh yeah",
-                "nibedn"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "9.537",
-            "end_time": "9.5733",
-            "original_transcript": "NIBEDAN",
-            "translated_transcript": "NIBEDAN",
-            "tone": "Neutral",
-            "rate_of_speech": "27.51",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "nibedan"
-            ]
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "9.5887",
-            "end_time": "9.63",
-            "original_transcript": "Mahara market mahabir Market",
-            "translated_transcript": "Multiple Market Expert Market",
-            "tone": "Neutral",
-            "rate_of_speech": "96.81",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "multiple market expert market"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "9.6557",
-            "end_time": "9.6716",
-            "original_transcript": "market",
-            "translated_transcript": "mercato",
-            "tone": "Neutral",
-            "rate_of_speech": "62.57",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": []
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "9.6828",
-            "end_time": "9.6968",
-            "original_transcript": "84",
-            "translated_transcript": "84",
-            "tone": "Neutral",
-            "rate_of_speech": "71.43",
+            "rate_of_speech": "129.37",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
             "keywords": []
         },
         {
             "speaker_label": "spk_0",
-            "start_time": "9.713",
-            "end_time": "9.7248",
-            "original_transcript": "with that",
-            "translated_transcript": "con questo",
-            "tone": "Neutral",
-            "rate_of_speech": "169.25",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "con questo"
-            ]
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "9.736",
-            "end_time": "9.7872",
-            "original_transcript": "tur TEZPUR",
-            "translated_transcript": "TEZPUR tour",
-            "tone": "Neutral",
-            "rate_of_speech": "39.09",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "tezpur"
-            ]
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "9.7968",
-            "end_time": "9.8213",
-            "original_transcript": "784001",
-            "translated_transcript": "784001",
-            "tone": "Neutral",
-            "rate_of_speech": "40.79",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": []
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "9.8485",
-            "end_time": "9.8658",
-            "original_transcript": "780",
-            "translated_transcript": "780",
-            "tone": "Neutral",
-            "rate_of_speech": "57.64",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": []
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "9.8765",
-            "end_time": "9.9013",
-            "original_transcript": "784001",
-            "translated_transcript": "784001",
-            "tone": "Neutral",
-            "rate_of_speech": "40.27",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": []
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "9.9058",
-            "end_time": "9.9787",
-            "original_transcript": "784001 Awesome Awesome sir",
-            "translated_transcript": "784001 Awesome Awesome cheese",
-            "tone": "Happy",
-            "rate_of_speech": "54.92",
-            "emotion": "admiration",
-            "sentiment_label": "Positive",
-            "keywords": [
-                "awesome awesome"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "9.9872",
-            "end_time": "9.9952",
-            "original_transcript": "Yeah",
-            "translated_transcript": "Ja",
-            "tone": "Neutral",
-            "rate_of_speech": "124.74",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "ja"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "10.0045",
-            "end_time": "10.0785",
-            "original_transcript": "NIBEDAN Correct sir",
-            "translated_transcript": "NIBEDAN Correct cheese",
-            "tone": "Neutral",
-            "rate_of_speech": "40.54",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "nibedan correct"
-            ]
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "10.0913",
-            "end_time": "10.1925",
-            "original_transcript": "NIBEDAN",
-            "translated_transcript": "NIBEDAN",
-            "tone": "Neutral",
-            "rate_of_speech": "9.88",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "nibedan"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "10.2355",
-            "end_time": "10.3213",
-            "original_transcript": "Ok our of those are a mobile number which you sir Ok",
-            "translated_transcript": "Alright, there are a mobile number which you are Ok",
-            "tone": "Neutral",
-            "rate_of_speech": "116.50",
-            "emotion": "neutral",
-            "sentiment_label": "Positive",
-            "keywords": [
-                "alright",
-                "mobile number",
-                "ok"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "10.3633",
-            "end_time": "10.397",
-            "original_transcript": "ok so you will send again also sir",
-            "translated_transcript": "ok so you will send again also sir",
-            "tone": "Neutral",
-            "rate_of_speech": "237.51",
-            "emotion": "neutral",
-            "sentiment_label": "Positive",
-            "keywords": []
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "10.4067",
-            "end_time": "10.4518",
-            "original_transcript": "I'm just sending it right now",
-            "translated_transcript": "I'm just sending it right now",
-            "tone": "Happy",
-            "rate_of_speech": "132.89",
-            "emotion": "neutral",
-            "sentiment_label": "Positive",
-            "keywords": []
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "10.4605",
-            "end_time": "10.4752",
+            "start_time": "6.823",
+            "end_time": "6.8337",
             "original_transcript": "Ok",
-            "translated_transcript": "Ok",
+            "translated_transcript": "ke okke aayi\n\nOne by one they came.",
             "tone": "Neutral",
-            "rate_of_speech": "68.18",
-            "emotion": "approval",
-            "sentiment_label": "Positive",
-            "keywords": [
-                "ok"
-            ]
-        },
-        {
-            "speaker_label": "spk_1",
-            "start_time": "10.5068",
-            "end_time": "10.5158",
-            "original_transcript": "Ok",
-            "translated_transcript": "Ok",
-            "tone": "Neutral",
-            "rate_of_speech": "110.91",
-            "emotion": "approval",
-            "sentiment_label": "Positive",
-            "keywords": [
-                "ok"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "10.5227",
-            "end_time": "10.5665",
-            "original_transcript": "OK Please be online Sir please send uh",
-            "translated_transcript": "OK Please be online Sir please send",
-            "tone": "Neutral",
-            "rate_of_speech": "159.70",
-            "emotion": "neutral",
-            "sentiment_label": "Positive",
-            "keywords": [
-                "please",
-                "sir"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "10.6747",
-            "end_time": "10.7065",
-            "original_transcript": "uh with the screenshot you are saying sir",
-            "translated_transcript": "uh with the screenshot you are saying sir",
-            "tone": "Neutral",
-            "rate_of_speech": "251.18",
+            "rate_of_speech": "751.17",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
-            "keywords": []
+            "keywords": [
+                "ke okke aayi"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.8435",
+            "end_time": "6.8883",
+            "original_transcript": "And the chocolate uh name is its",
+            "translated_transcript": "y bitsy\n\nThe name of the chocolate is Itsy Bitsy.",
+            "tone": "Neutral",
+            "rate_of_speech": "223.05",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "y bitsy",
+                "itsy bitsy"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "6.9058",
+            "end_time": "6.9157",
+            "original_transcript": "uh",
+            "translated_transcript": "h, ഞാൻ അത്",
+            "tone": "Neutral",
+            "rate_of_speech": "305.08",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ഞാൻ അത്"
+            ]
         },
         {
             "speaker_label": "spk_1",
-            "start_time": "10.7215",
-            "end_time": "10.7538",
-            "original_transcript": "I'll send the screenshot of the complaint",
-            "translated_transcript": "I will send the screenshot of the complaint",
+            "start_time": "6.9293",
+            "end_time": "6.9523",
+            "original_transcript": "fell Uh",
+            "translated_transcript": "I fell down.",
             "tone": "Neutral",
-            "rate_of_speech": "247.42",
-            "emotion": "neutral",
+            "rate_of_speech": "130.43",
+            "emotion": "sadness",
             "sentiment_label": "Negative",
             "keywords": []
         },
         {
-            "speaker_label": "spk_0",
-            "start_time": "10.759",
-            "end_time": "10.833",
-            "original_transcript": "OK uh and uh do you uh did you got any reference number sir",
-            "translated_transcript": "OK uh and uh do you uh did you get any reference number sir",
+            "speaker_label": "spk_1",
+            "start_time": "6.9628",
+            "end_time": "7.0272",
+            "original_transcript": "yas reach dark No orders were like that Chocolate ganas",
+            "translated_transcript": "am\n\nThere were no orders for dark chocolate ganache.",
             "tone": "Neutral",
-            "rate_of_speech": "189.19",
+            "rate_of_speech": "139.86",
             "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "dark chocolate ganache"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.1395",
+            "end_time": "7.2348",
+            "original_transcript": "OK And uh batch number There is a back There will be a batch number",
+            "translated_transcript": "Okay, and the batch number? Is there a batch number?",
+            "tone": "Neutral",
+            "rate_of_speech": "104.90",
+            "emotion": "curiosity",
             "sentiment_label": "Positive",
             "keywords": [
-                "ok uh",
-                "reference number sir"
+                "okay",
+                "batch number",
+                "batch number"
             ]
         },
         {
             "speaker_label": "spk_1",
-            "start_time": "10.8518",
-            "end_time": "11.1187",
-            "original_transcript": "No no Uh that email that you have received that reference I have given it to you The number It was the reference which in response to that email which uh again you said you have not received the screenshot so I'll just uh resend the screenshot in the same email ID",
-            "translated_transcript": "No no Uh that email that you have received that reference I have given it to you The number It was the reference which in response to that email which uh again you said you have not received the screenshot so I will just uh resend the screenshot in the same email ID",
+            "start_time": "7.2552",
+            "end_time": "7.3747",
+            "original_transcript": "BBBBB for Bombay",
+            "translated_transcript": "BBBBB stands for Bombay.",
             "tone": "Neutral",
-            "rate_of_speech": "198.63",
+            "rate_of_speech": "33.47",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "bbbbb",
+                "bombay"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.3908",
+            "end_time": "7.4302",
+            "original_transcript": "B DB",
+            "translated_transcript": "I'm sorry, but \"B DB\" does not have a clear meaning",
+            "tone": "Sad",
+            "rate_of_speech": "279.78",
+            "emotion": "remorse",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "db",
+                "clear meaning"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.4395",
+            "end_time": "7.4965",
+            "original_transcript": "BS D Bombay",
+            "translated_transcript": "BS D Bombay\n\nBS D Bombay is not a complete sentence and does not",
+            "tone": "Neutral",
+            "rate_of_speech": "245.54",
+            "emotion": "neutral",
+            "sentiment_label": "Negative",
+            "keywords": [
+                "bs d bombay bs d bombay",
+                "complete sentence"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.5062",
+            "end_time": "7.5622",
+            "original_transcript": "then S Singapore DD",
+            "translated_transcript": "Then the Singapore DD.",
+            "tone": "Neutral",
+            "rate_of_speech": "71.41",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "singapore dd"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.58",
+            "end_time": "7.596",
+            "original_transcript": "04",
+            "translated_transcript": "ജൂലൈ\n\nJuly 04",
+            "tone": "Neutral",
+            "rate_of_speech": "187.30",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "july"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.6073",
+            "end_time": "7.6187",
+            "original_transcript": "OK",
+            "translated_transcript": "OK",
+            "tone": "Neutral",
+            "rate_of_speech": "88.37",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.629",
+            "end_time": "7.6438",
+            "original_transcript": "07",
+            "translated_transcript": "ഒക്ടോബറി",
+            "tone": "Neutral",
+            "rate_of_speech": "67.34",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.6598",
+            "end_time": "7.6716",
+            "original_transcript": "OK",
+            "translated_transcript": ", ഞാൻ തിര",
+            "tone": "Neutral",
+            "rate_of_speech": "253.52",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ഞാൻ തിര"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.6792",
+            "end_time": "7.6918",
+            "original_transcript": "23",
+            "translated_transcript": "ജനുവരി\n\nJanuary",
+            "tone": "Neutral",
+            "rate_of_speech": "157.89",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "january"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.7053",
+            "end_time": "7.715",
+            "original_transcript": "Ok",
+            "translated_transcript": "ke okke aarum ariyilla\n\nNobody knows anything.",
+            "tone": "Neutral",
+            "rate_of_speech": "725.39",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ke okke aarum ariyilla"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.7275",
+            "end_time": "7.796",
+            "original_transcript": "uh that's it B BS T 040723",
+            "translated_transcript": "Uh, that's it. B BS T 040723.",
+            "tone": "Neutral",
+            "rate_of_speech": "102.16",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
             "keywords": [
                 "uh",
-                "uh resend",
-                "id"
+                "bs t"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.8027",
+            "end_time": "7.857",
+            "original_transcript": "Ok packing it Fourth of July 23 Yeah",
+            "translated_transcript": "Okay, I'll pack it for July 23rd.",
+            "tone": "Neutral",
+            "rate_of_speech": "128.83",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "okay",
+                "'ll pack",
+                "july"
             ]
         },
         {
             "speaker_label": "spk_1",
-            "start_time": "11.1278",
-            "end_time": "11.1426",
-            "original_transcript": "I'm just sending it now",
-            "translated_transcript": "I'm just sending it now",
+            "start_time": "7.8725",
+            "end_time": "7.9377",
+            "original_transcript": "and the expiry date was 16th of September 23",
+            "translated_transcript": "The expiry date was September 16th, 23.",
             "tone": "Neutral",
-            "rate_of_speech": "337.08",
+            "rate_of_speech": "107.42",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "expiry date",
+                "september"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "7.954",
+            "end_time": "7.9678",
+            "original_transcript": "In me",
+            "translated_transcript": "enakshi temple, the main deity is Goddess Meenakshi, who",
+            "tone": "Neutral",
+            "rate_of_speech": "649.82",
+            "emotion": "neutral",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "enakshi temple",
+                "main deity",
+                "goddess meenakshi"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "7.9806",
+            "end_time": "8.0213",
+            "original_transcript": "MRP is 1000 25",
+            "translated_transcript": "% എന്നും\n\nThe MRP",
+            "tone": "Neutral",
+            "rate_of_speech": "98.36",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "% എന്നും",
+                "mrp"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.1615",
+            "end_time": "8.2158",
+            "original_transcript": "2025 Qua quantity of the chocolate is",
+            "translated_transcript": "The quantity of chocolate in 2025 is",
+            "tone": "Neutral",
+            "rate_of_speech": "128.83",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": []
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.2392",
+            "end_time": "8.2695",
+            "original_transcript": "uh 124 gramme",
+            "translated_transcript": "124 grams",
+            "tone": "Neutral",
+            "rate_of_speech": "65.93",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
             "keywords": []
         },
         {
             "speaker_label": "spk_0",
-            "start_time": "11.1503",
-            "end_time": "11.161",
-            "original_transcript": "Yes sir",
-            "translated_transcript": "Yes sir",
+            "start_time": "8.3438",
+            "end_time": "8.3523",
+            "original_transcript": "Ok",
+            "translated_transcript": "ke okke kshemam\n\nEverything is fine.",
             "tone": "Neutral",
-            "rate_of_speech": "187.79",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": []
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "11.1773",
-            "end_time": "11.2682",
-            "original_transcript": "OK sir I will raise a complaint and forward to the concern team Sir the team will check and investigate you OK the team will",
-            "translated_transcript": "OK sir i will raise a complaint and forward to the concern team Sir the team will check and investigate you OK the team will",
-            "tone": "Neutral",
-            "rate_of_speech": "275.23",
+            "rate_of_speech": "705.88",
             "emotion": "approval",
             "sentiment_label": "Positive",
             "keywords": [
-                "ok sir i",
-                "concern team",
-                "sir"
+                "ke okke kshemam"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.3688",
+            "end_time": "8.7655",
+            "original_transcript": "Oh thanks for providing the details and the uh package details So uh I need one more help from your side that uh we'll register complaint and we'll uh need some pictures of the product so I'll probably I'll give you one WhatsApp number Can you share me that uh picture of the pro uh product where you uh that uh chocolate picture which you found The fungus and the print on the back side of the chocolate wrapper picture",
+            "translated_transcript": "Thank you for sharing the details and the package details. I need one more",
+            "tone": "Neutral",
+            "rate_of_speech": "35.30",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "thank",
+                "package details"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.7745",
+            "end_time": "8.8922",
+            "original_transcript": "You know the details are batch number batch date and MRP 9606",
+            "translated_transcript": "The details include batch number, batch date, and MRP 9606",
+            "tone": "Neutral",
+            "rate_of_speech": "84.97",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "batch number",
+                "batch date",
+                "mrp"
             ]
         },
         {
             "speaker_label": "spk_1",
-            "start_time": "11.2715",
-            "end_time": "11.284",
-            "original_transcript": "definitely",
-            "translated_transcript": "definitamente",
+            "start_time": "8.9063",
+            "end_time": "8.9335",
+            "original_transcript": "9606",
+            "translated_transcript": "എന്ന സംഖ്യ",
             "tone": "Neutral",
-            "rate_of_speech": "80.00",
+            "rate_of_speech": "73.62",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "എന്ന സംഖ്യ"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.943",
+            "end_time": "8.959",
+            "original_transcript": "996",
+            "translated_transcript": "ഒരു ദിവസ",
+            "tone": "Neutral",
+            "rate_of_speech": "125.13",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ഒരു ദിവസ"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "8.969",
+            "end_time": "8.9875",
+            "original_transcript": "996",
+            "translated_transcript": "ഒരു ദിവസ",
+            "tone": "Neutral",
+            "rate_of_speech": "108.11",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ഒരു ദിവസ"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "8.995",
+            "end_time": "9.0118",
+            "original_transcript": "990",
+            "translated_transcript": "0 കഴിഞ്ഞ വ",
+            "tone": "Neutral",
+            "rate_of_speech": "178.22",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "കഴിഞ്ഞ വ"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "9.0257",
+            "end_time": "9.0433",
+            "original_transcript": "990",
+            "translated_transcript": "ആണ് ഒരു സ",
+            "tone": "Neutral",
+            "rate_of_speech": "169.81",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ആണ് ഒരു സ"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "9.0533",
+            "end_time": "9.0625",
+            "original_transcript": "OK",
+            "translated_transcript": ", ഞാൻ അറി",
+            "tone": "Neutral",
+            "rate_of_speech": "327.27",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "ഞാൻ അറി"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "9.0716",
+            "end_time": "9.4077",
+            "original_transcript": "this is our WhatsApp number So you you will share this through this WhatsApp number the same number or you will have different number You will share the picture No problem OK so you share me that print on the back picture of the wrapper where the details are printed No that picture on the front picture of the chocolate name which was printed on the wrapper",
+            "translated_transcript": "This is our WhatsApp number. So, will you share this through this WhatsApp",
+            "tone": "Neutral",
+            "rate_of_speech": "38.69",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "whatsapp",
+                "whatsapp"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "9.4133",
+            "end_time": "9.6861",
+            "original_transcript": "So and one more reason what you found in the chocolate house got fun So that so that our concern team will be helpful for to check what is the reason behind it Ok so I'll I'll once I register a complaint No So after that I am not very much sure What What time They may call but definitely they'll call you",
+            "translated_transcript": "There is one more reason why you found the chocolate house to be fun",
+            "tone": "Neutral",
+            "rate_of_speech": "51.31",
+            "emotion": "joy",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "chocolate house"
+            ]
+        },
+        {
+            "speaker_label": "spk_0",
+            "start_time": "9.6936",
+            "end_time": "9.7758",
+            "original_transcript": "and uh they'll ask for your convenient time And you tell what is your convenient time for the time",
+            "translated_transcript": "being\n\n\nAnd they will ask for your preferred time. You can then tell",
+            "tone": "Neutral",
+            "rate_of_speech": "158.22",
             "emotion": "neutral",
             "sentiment_label": "Neutral",
             "keywords": []
         },
         {
+            "speaker_label": "spk_1",
+            "start_time": "9.7867",
+            "end_time": "9.8058",
+            "original_transcript": "Within some time",
+            "translated_transcript": ", the sun will set and the moon will rise, casting a beautiful glow over",
+            "tone": "Happy",
+            "rate_of_speech": "783.29",
+            "emotion": "admiration",
+            "sentiment_label": "Positive",
+            "keywords": [
+                "beautiful glow"
+            ]
+        },
+        {
             "speaker_label": "spk_0",
-            "start_time": "11.3127",
-            "end_time": "11.3401",
-            "original_transcript": "please send the details OK sir",
-            "translated_transcript": "please send the details OK sir",
+            "start_time": "9.8113",
+            "end_time": "10.0591",
+            "original_transcript": "they'll call you very shortly There's no much delay in this OK so they'll call you very far So and uh they'll visit to a place and they'll collect the sample at the same time as the company will They'll give you the new pack OK so uh anything else Can I assist you Mr FSH This",
+            "translated_transcript": "is a polite reminder\n\nThey will call you very soon. There won't be",
             "tone": "Neutral",
-            "rate_of_speech": "218.31",
+            "rate_of_speech": "52.45",
             "emotion": "neutral",
             "sentiment_label": "Positive",
             "keywords": [
-                "ok sir"
+                "polite reminder",
+                "wo n't"
+            ]
+        },
+        {
+            "speaker_label": "spk_1",
+            "start_time": "10.0912",
+            "end_time": "10.0942",
+            "original_transcript": "much",
+            "translated_transcript": "attu\n\n\nMuchattu",
+            "tone": "Neutral",
+            "rate_of_speech": "662.98",
+            "emotion": "neutral",
+            "sentiment_label": "Neutral",
+            "keywords": [
+                "muchattu"
             ]
         },
         {
             "speaker_label": "spk_0",
-            "start_time": "11.3892",
-            "end_time": "11.4173",
-            "original_transcript": "Is there anything else I can help you sir",
-            "translated_transcript": "Is there anything else I can help you sir",
+            "start_time": "10.099",
+            "end_time": "10.1395",
+            "original_transcript": "OK thank you Thanks for calling at TCR",
+            "translated_transcript": "OK, thank you. Thank you for calling at TCR.",
             "tone": "Neutral",
-            "rate_of_speech": "319.53",
-            "emotion": "caring",
-            "sentiment_label": "Neutral",
-            "keywords": []
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "11.459",
-            "end_time": "11.4682",
-            "original_transcript": "Hello",
-            "translated_transcript": "Hallo",
-            "tone": "Neutral",
-            "rate_of_speech": "108.89",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
+            "rate_of_speech": "222.31",
+            "emotion": "gratitude",
+            "sentiment_label": "Positive",
             "keywords": [
-                "hallo"
+                "thank",
+                "tcr"
             ]
         },
         {
-            "speaker_label": "spk_0",
-            "start_time": "11.4993",
-            "end_time": "11.5115",
-            "original_transcript": "Hello",
-            "translated_transcript": "Hallo",
+            "speaker_label": "spk_1",
+            "start_time": "10.1507",
+            "end_time": "10.1665",
+            "original_transcript": "Yeah Thank you",
+            "translated_transcript": "Yeah, thank you.",
             "tone": "Neutral",
-            "rate_of_speech": "82.19",
-            "emotion": "neutral",
+            "rate_of_speech": "189.47",
+            "emotion": "gratitude",
             "sentiment_label": "Neutral",
             "keywords": [
-                "hallo"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "11.5585",
-            "end_time": "11.5882",
-            "original_transcript": "Hello Set up line pay Hello",
-            "translated_transcript": "Hello Set up line pay Hello",
-            "tone": "Neutral",
-            "rate_of_speech": "202.36",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "hello set",
-                "line pay"
-            ]
-        },
-        {
-            "speaker_label": "spk_0",
-            "start_time": "11.6276",
-            "end_time": "11.6526",
-            "original_transcript": "Hello Assembly phone Hello",
-            "translated_transcript": "Hello Assembly phone Hello",
-            "tone": "Neutral",
-            "rate_of_speech": "160.00",
-            "emotion": "neutral",
-            "sentiment_label": "Neutral",
-            "keywords": [
-                "assembly phone"
+                "yeah"
             ]
         }
     ],
-    "translated_segments": "Thanks for calling ITC You're speaking to Pravin How can I help you today Hello Hallo sir Um I'm a retailer Uh me a pin code 784001 BRANCH Ok, let's check OK my detail check after your call So do the line for B area call could be disconnected now Correct Sir Today silav Línea de que te who transfers around in Thank you for calling ITC This is how I can help you Uh me but just a different uh sir or the other place sir or distributor of the problem What A or distributor A distributor Malik is a but their staff a persona que funciona en la computadora o algo como Salt Questi persone disse possono possono fare non ricevuto l'ordine, ma ho avuto la screenshot dell'ordine ordine numero di ordine, tutti i tutti i già non ricevuto il ordine. I will raise a complaint from my side and we will forward to the so that I want some more details sir your name is Je suis déjà vu Je vous avez un mail Je le savoir PC care.com algo comme que Je PC Je dit J'est vous avez votre e-mail Jous vous avez dit le dit que j'ai de j'est pas Uh sir can you please share your email id sir So que a RAN PR a NJIT BHUYAN 000 OK at gmail.com Uh triple zero cheese Triple zero cheese Hoy solo hoy que uh una de esta uh esta problema ha sido risada Uh ha un complaento a solo en el 21 de julio if you can check out the status of the company is pending I am already logged in July 25 The Numero di complaenza o qualsiasi ottenuto dal nostro sito, qualsiasi numero di riferimento o qualsiasi Pardon Did you get a reference number regarding this sir un Een el pantalla sir Je ha compartit avec vous en l'ID de l'e-mail Iz le e-mail que j'à vous envier I put a complaint to the one screenshot appeared One window pops up regarding the complaint Whatever the complaint and all these things And the status is as pending The screenshot is attached to the email that I sent it to you a few minutes back So you say you are saying that you send the email on today Right sir III Sent the email uh today says about half an hour back and that uh in that email I attached a screenshot is of a complaint which was launched in 21st of July regarding the same programs Uh sir that is uh July 2022 You are saying sir or this year 21st of July The complaint is 21st of July this year cheese This year from July 24 to 23 Sir I will again confirm your email ID PR ING I I'll just spell it out P for Punjab A for P for Rajasthan P for Punjab R for Rajasthan A for uh asam N for Nagpur J for Jammu I for India T for Tamil Nadu or B for Bangalore H for Hyderabad Uh and U for umbrella Y for Andhra N for Nagpur or Triple zero at the rate gmail.com correct Rate is the main Receive an ikea a performance And I uh I just uh IT cares at itc.in see ITCKITCCARES at the ITC dot I'll just I'll just send it You can take it out Or uh Or I can take a complaint from my side sir because I but uh I think you said you can check in the phone or the system sir Which mail ID you have sent to the center navn I have another weekend this weekend ticket Hello sir Eu recentemente esto ancora Oh you resend it again OK you can if you can take it out please be online Let me check sir Uh, which mail ID you have sent sir ITC cares at itc.in Please be online ITC Spelling Repeat that ITCTARES at the ITC dot It ID Flat Rooms receive ikea Sir Uh a can give you sir uh Akara details BNSRO Dukan Kapur you know Hallo Hallo I ha ricevuto una risposta da ti anche and now you receive it Sir Jeg har få en svar Uh huh What's the reference number sir 1726,712 171726 1726,712 Sir 1726712 Correct Sir Please be online Sir Ja sir Du har sendt den bilde, men er det er ingen bilder som vi ontvangen siren Sie du sendt den bilde Oh, when I got this I got I'll send the OK You can uh uh cut down the phone I listen to you ask Oh, you will recently be able to share your address Also see the shop address It's uh yeah So name is NIBEDN NIBEDAN Multiple Market Expert Market mercato 84 con questo TEZPUR tour 784001 780 784001 784001 Awesome Awesome cheese Ja NIBEDAN Correct cheese NIBEDAN Alright, there are a mobile number which you are Ok ok so you will send again also sir I'm just sending it right now Ok Ok OK Please be online Sir please send uh with the screenshot you are saying sir I will send the screenshot of the complaint OK uh and uh do you uh did you get any reference number sir No no Uh that email that you have received that reference I have given it to you The number It was the reference which in response to that email which uh again you said you have not received the screenshot so I will just uh resend the screenshot in the same email ID I'm just sending it now Yes sir OK sir i will raise a complaint and forward to the concern team Sir the team will check and investigate you OK the team will definitamente please send the details OK sir Is there anything else I can help you sir Hallo Hallo Hello Set up line pay Hello Hello Assembly phone Hello ",
-    "speaker_a_segments": "Thanks for calling ITC You're speaking to Pravin How can I help you today Hello Hallo Ok, let's check OK my detail check after your call So do the line for B area call could be disconnected now Correct Sir Today Línea de que te who transfers around in Thank you for calling ITC This is how I can help you Uh me but just a different uh sir or the other place sir or distributor of the problem Salt I will raise a complaint from my side and we will forward to the so that I want some more details sir your name is Uh sir can you please share your email id sir So OK Uh triple zero cheese cheese Numero di complaenza o qualsiasi ottenuto dal nostro sito, qualsiasi numero di riferimento o qualsiasi Did you get a reference number regarding this sir I So you say you are saying that you send the email on today Right sir Uh sir that is uh July 2022 You are saying sir or this year this year cheese Sir I will again confirm your email ID PR ING I P for P for Punjab R for Rajasthan A for uh asam N for Nagpur J for Jammu I for India T for Tamil Nadu or B for Bangalore H for Hyderabad Uh and U for umbrella Y for Andhra N for Nagpur or Triple zero at the rate gmail.com correct Rate is the main Receive an ikea a performance see ITCKITCCARES at the ITC dot Or uh Or I can take a complaint from my side sir because I but uh I think you said you can check in the phone or the system sir Which mail ID you have sent to the center Hello sir Oh you resend it again OK please be online Let me check sir Uh, which mail ID you have sent sir Please be online ITC Spelling Repeat that ITCTARES at the ITC dot It ID Flat Rooms receive ikea Sir Uh a can give you sir uh Akara details BNSRO Dukan Kapur you know Hallo Hallo I and now you receive it Sir Uh huh What's the reference number sir 171726 Sir 1726712 Correct Sir Please be online Sir Ja sir Du har sendt den bilde, men er det er ingen bilder som vi ontvangen siren Sie du sendt den bilde OK Oh, you will recently be able to share your address Also see the shop address NIBEDAN mercato con questo 780 784001 Awesome Awesome cheese Ja NIBEDAN Correct cheese Alright, there are a mobile number which you are Ok ok so you will send again also sir Ok OK Please be online Sir please send uh with the screenshot you are saying sir OK uh and uh do you uh did you get any reference number sir Yes sir OK sir i will raise a complaint and forward to the concern team Sir the team will check and investigate you OK the team will please send the details OK sir Is there anything else I can help you sir Hallo Hallo Hello Set up line pay Hello Hello Assembly phone Hello ",
-    "speaker_b_segments": "sir Um I'm a retailer Uh me a pin code 784001 BRANCH silav What A or distributor A distributor Malik is a but their staff a persona que funciona en la computadora o algo como Questi persone disse possono possono fare non ricevuto l'ordine, ma ho avuto la screenshot dell'ordine ordine numero di ordine, tutti i tutti i già non ricevuto il ordine. Je suis déjà vu Je vous avez un mail Je le savoir PC care.com algo comme que Je PC Je dit J'est vous avez votre e-mail Jous vous avez dit le dit que j'ai de j'est pas que a RAN PR a NJIT BHUYAN 000 at gmail.com Triple zero Hoy solo hoy que uh una de esta uh esta problema ha sido risada Uh ha un complaento a solo en el 21 de julio if you can check out the status of the company is pending I am already logged in July 25 The Pardon un Een el pantalla sir Je ha compartit avec vous en l'ID de l'e-mail Iz le e-mail que j'à vous envier put a complaint to the one screenshot appeared One window pops up regarding the complaint Whatever the complaint and all these things And the status is as pending The screenshot is attached to the email that I sent it to you a few minutes back III Sent the email uh today says about half an hour back and that uh in that email I attached a screenshot is of a complaint which was launched in 21st of July regarding the same programs 21st of July The complaint is 21st of July This year from July 24 to 23 I'll just spell it out P for Punjab A for Rajasthan And I uh I just uh IT cares at itc.in I'll just I'll just send it You can take it out navn I have another weekend this weekend ticket Eu recentemente esto ancora you can if you can take it out ITC cares at itc.in ha ricevuto una risposta da ti anche Jeg har få en svar 1726,712 1726,712 Oh, when I got this I got I'll send the You can uh uh cut down the phone I listen to you ask It's uh yeah So name is NIBEDN Multiple Market Expert Market 84 TEZPUR tour 784001 784001 NIBEDAN I'm just sending it right now Ok I will send the screenshot of the complaint No no Uh that email that you have received that reference I have given it to you The number It was the reference which in response to that email which uh again you said you have not received the screenshot so I will just uh resend the screenshot in the same email ID I'm just sending it now definitamente ",
-    "summary": "The retailer, situated in Tezpur, Assam, pin code 784001, branch B, wants to know the status of their complaint ID 1726712. They placed an order on July 21st but have not received it. They also state that they have not received any response to the complaint they filed. The customer support representative requests the customer's email, and informs them that they will forward the complaint to the concerned team for investigation. The retailer's email is pr_ing@gmail.com. The call gets disconnected and the retailer calls back. The customer support representative asks the retailer to provide their address and phone number. The retailer's name is NIBEDAN and the phone number is 7780774141. The call ends with the customer support representative promising to forward the complaint to the concerned team.",
-    "speaker_a_summary": "The customer calls ITC and wants to know if it's possible to disconnect the line for the B area call. After checking, the customer is informed that the line can be disconnected. The customer transfers to a different language and complains about a distributor in their area. The operator takes down the necessary information to raise the complaint and asks for a reference number that the customer sent in an email to the center. The customer resends the email and provides the operator with the shop address: NIBEDAN, mercato 780 784001. The operator checks for a reference number and proceeds to connect the customer to the concern team who will check and investigate the issue. The call ends with the operator trying to contact the concern team through different numbers but with no success.",
-    "speaker_b_summary": "A retailer from Tezpur, Assam, India wants to know the status of his order, which he claims he has not received. He is reaching out to the distributor, Malik, and IT Cares at itc.in. The retailer has already filed a complaint on July 21st, and is reaching out again as the status of the company is still pending. The retailer is sending a screenshot of the order to the distributor. The distributor has not yet responded to the retailer's previous communication, but they have provided a reference number for the retailer's order. The retailer is sending another email with the requested information.",
-    "cohere_points": "- User is a retailer from Tezpur, Assam \n- They are experiencing issues with a distributor and wish to file a complaint\n- They are looking for a reference number and details on the status of their complaint. \n- The customer support representative is helpful and will forward the complaint to the concerned team. \n- The call gets disconnected and the receiver calls back.",
-    "opening_comments": "Yes",
+    "translated_segments": "Thank you for calling M. My name is Ikram. How can I Hello Hello , how are you?\n\n\nNamaskaram, nee endha? me\n\nYes, can you hear me? Yes sir, I am audible to you sir. Okay, so dinner is here. Actually, I had ordered this chocolate gan Okay, so I had ordered using Zat only. So, out So, it's still within the deadline. Today, I opened the problem\n\nI am sorry to hear this, Miss. You have finished experiencing the Not tampered. The outer layer is intact, just like that. stars\n\nAfter opening, I could see that it was filled with stars. ഫംഗസ് it\n\n\nOkay, so you ordered online. Normally, the way you store , ഞാൻ അതു hot\n\nIt's just room temperature, like in Bangalore. I mean, it ചൂണ്ടിലേ Okay, so what is the room temperature? Was there any ice packing അമ്മേ, എന Sorry, I apologize. The chocolate is packed in a white packaging, which is just a regular packing Normal Regular package without ice pack. ice pack Okay, so we will definitely file a complaint about this. Can I Please stay online, please. Hello Mrs, we will file a complaint for this. But before that, the lab\n\nWe have a fungus, so we need a sample for the laboratory I had ordered two packets, and the order details were also clear. Out When I opened it, it was full of fungus. This is probably the This one is not worth 1000 rupees, and it doesn't It's heartbreaking to see that packet in such a state. There is no problem. We will register a complaint on your behalf. Okay, so what do you mean? Yes, I need your email ID and address. now, I cannot provide you with my email ID and address. OK, so the email ID is dens Pradhan. The order was placed by my wife, so it's okay. @gmail.com\n\nUh, so my email ID is DDINESH@gmail.com A\n\nBinta is a common name in Malayalam, which means \"star Esh stands for the call to prayer, PP stands for Prayer Point , ഞാൻ പോക one double 92 at Gmail.com one Double 92 at Gmail.com It's the email address vinespradhan192@gmail.com. Okay, and your name? Uh, Vinesh. That's it onnammal\n\nPV Ponnammal is a renowned Carnatic musician from Uh DB or D, this is uh. There is no direct translation for \"DDD\" in Malayalam as it is Okay, sorry. And your number is the same, sir, which you are calling. , ഞാൻ അതു It's fine, no problem. What is your address, sir? Uh, it's uh uh 002. , njan ente ammaye kandu\n\nHmm, I saw Vara Homes VV AJ ?\n\n\nനീ കേട്ട A RAJAN\n\nRanga Rajan is a common name in Kerala, U PERUKAL\n\nTWO NAMES Wang Homes OK ഇന്ന് അവസ , ഞാൻ ഒരു White food Wait for Bangalore \n\nPlease wait for Bangalore. Okay, pin code sir. 56 Double zero Double six ke okke aayi\n\nOne by one they came. y bitsy\n\nThe name of the chocolate is Itsy Bitsy. h, ഞാൻ അത് I fell down. am\n\nThere were no orders for dark chocolate ganache. Okay, and the batch number? Is there a batch number? BBBBB stands for Bombay. I'm sorry, but \"B DB\" does not have a clear meaning BS D Bombay\n\nBS D Bombay is not a complete sentence and does not Then the Singapore DD. ജൂലൈ\n\nJuly 04 OK ഒക്ടോബറി , ഞാൻ തിര ജനുവരി\n\nJanuary ke okke aarum ariyilla\n\nNobody knows anything. Uh, that's it. B BS T 040723. Okay, I'll pack it for July 23rd. The expiry date was September 16th, 23. enakshi temple, the main deity is Goddess Meenakshi, who % എന്നും\n\nThe MRP The quantity of chocolate in 2025 is 124 grams ke okke kshemam\n\nEverything is fine. Thank you for sharing the details and the package details. I need one more The details include batch number, batch date, and MRP 9606 എന്ന സംഖ്യ ഒരു ദിവസ ഒരു ദിവസ 0 കഴിഞ്ഞ വ ആണ് ഒരു സ , ഞാൻ അറി This is our WhatsApp number. So, will you share this through this WhatsApp There is one more reason why you found the chocolate house to be fun being\n\n\nAnd they will ask for your preferred time. You can then tell , the sun will set and the moon will rise, casting a beautiful glow over is a polite reminder\n\nThey will call you very soon. There won't be attu\n\n\nMuchattu OK, thank you. Thank you for calling at TCR. Yeah, thank you. ",
+    "speaker_a_segments": "Thank you for calling M. My name is Ikram. How can I Hello , how are you?\n\n\nNamaskaram, nee endha? Yes sir, I am audible to you sir. problem\n\nI am sorry to hear this, Miss. You have finished experiencing the ഫംഗസ് it\n\n\nOkay, so you ordered online. Normally, the way you store , ഞാൻ അതു Okay, so what is the room temperature? Was there any ice packing അമ്മേ, എന The chocolate is packed in a white packaging, which is just a regular packing Normal ice pack Okay, so we will definitely file a complaint about this. Can I Please stay online, please. Hello Mrs, we will file a complaint for this. But before that, the lab\n\nWe have a fungus, so we need a sample for the laboratory There is no problem. We will register a complaint on your behalf. Yes, I need your email ID and address. A\n\nBinta is a common name in Malayalam, which means \"star , ഞാൻ പോക one Double 92 at Gmail.com Okay, and your name? Uh, Vinesh. That's it Uh DB or D, this is uh. Okay, sorry. And your number is the same, sir, which you are calling. , ഞാൻ അതു It's fine, no problem. What is your address, sir? , njan ente ammaye kandu\n\nHmm, I saw ?\n\n\nനീ കേട്ട U PERUKAL\n\nTWO NAMES OK , ഞാൻ ഒരു Okay, pin code sir. ke okke aayi\n\nOne by one they came. y bitsy\n\nThe name of the chocolate is Itsy Bitsy. h, ഞാൻ അത് Okay, and the batch number? Is there a batch number? I'm sorry, but \"B DB\" does not have a clear meaning OK , ഞാൻ തിര ke okke aarum ariyilla\n\nNobody knows anything. Okay, I'll pack it for July 23rd. enakshi temple, the main deity is Goddess Meenakshi, who The quantity of chocolate in 2025 is ke okke kshemam\n\nEverything is fine. Thank you for sharing the details and the package details. I need one more The details include batch number, batch date, and MRP 9606 ഒരു ദിവസ 0 കഴിഞ്ഞ വ This is our WhatsApp number. So, will you share this through this WhatsApp There is one more reason why you found the chocolate house to be fun being\n\n\nAnd they will ask for your preferred time. You can then tell is a polite reminder\n\nThey will call you very soon. There won't be OK, thank you. Thank you for calling at TCR. ",
+    "speaker_b_segments": "Hello me\n\nYes, can you hear me? Okay, so dinner is here. Actually, I had ordered this chocolate gan Okay, so I had ordered using Zat only. So, out So, it's still within the deadline. Today, I opened the Not tampered. The outer layer is intact, just like that. stars\n\nAfter opening, I could see that it was filled with stars. hot\n\nIt's just room temperature, like in Bangalore. I mean, it ചൂണ്ടിലേ Sorry, I apologize. Regular package without ice pack. I had ordered two packets, and the order details were also clear. Out When I opened it, it was full of fungus. This is probably the This one is not worth 1000 rupees, and it doesn't It's heartbreaking to see that packet in such a state. Okay, so what do you mean? now, I cannot provide you with my email ID and address. OK, so the email ID is dens Pradhan. The order was placed by my wife, so it's okay. @gmail.com\n\nUh, so my email ID is DDINESH@gmail.com Esh stands for the call to prayer, PP stands for Prayer Point one double 92 at Gmail.com It's the email address vinespradhan192@gmail.com. onnammal\n\nPV Ponnammal is a renowned Carnatic musician from There is no direct translation for \"DDD\" in Malayalam as it is Uh, it's uh uh 002. Vara Homes VV AJ A RAJAN\n\nRanga Rajan is a common name in Kerala, Wang Homes ഇന്ന് അവസ White food Wait for Bangalore \n\nPlease wait for Bangalore. 56 Double zero Double six I fell down. am\n\nThere were no orders for dark chocolate ganache. BBBBB stands for Bombay. BS D Bombay\n\nBS D Bombay is not a complete sentence and does not Then the Singapore DD. ജൂലൈ\n\nJuly 04 ഒക്ടോബറി ജനുവരി\n\nJanuary Uh, that's it. B BS T 040723. The expiry date was September 16th, 23. % എന്നും\n\nThe MRP 124 grams എന്ന സംഖ്യ ഒരു ദിവസ ആണ് ഒരു സ , ഞാൻ അറി , the sun will set and the moon will rise, casting a beautiful glow over attu\n\n\nMuchattu Yeah, thank you. ",
+    "summary": "Vinesh, a customer of chocolate company Itsy Bitsy, calls M customer support regarding a disappointing experience with a recent order. Vinesh explains that the order, consisting of a chocolate ganache, was filled with fungus and was not up to standard. M assures Vinesh that they will file a complaint on his behalf and requests his personal details to identify his account, which includes his email address (dinesh@gmail.com), address in Bangalore, and phone number. Itsy Bitsy then asks for the batch number of the chocolate to further investigate the matter, to which Vinesh provides the details. The customer service agent acknowledges the issue and offers to connect Vinesh with the marketing team to further address the matter. Vinesh agrees, and the call ends with thanks from both parties.",
+    "speaker_a_summary": "Ikram from M is assisting a customer who ordered chocolate from their location but was disappointed with the state it arrived in. Ikram files a complaint on their behalf and collects details including their name (Vinesh), email (Double 92 at Gmail.com), address, and phone number. The chocolate was ordered online, and the customer believes the temperature may have affected the state of the chocolate. Ikram collects additional details about the product including its name (Itsy Bitsy), and potential batch number, date, and MRP. The customer is satisfied with the resolution and will be contacted soon for further follow-up.",
+    "speaker_b_summary": "The narrator is disappointed with their order of a chocolate ganache, which they had ordered using the Zat platform. The order was placed by their wife, and they cannot provide their email address or address for a refund or replacement. The chocolate arrived at room temperature and was full of fungus. It is not worth INR 1000 and does not seem safe to consume. The narrator reminds themselves to be more careful with their online orders in the future.",
+    "cohere_points": "- Customer complaints about a faulty Itsy Bitsy chocolate order and hopes to file a complaint\n- Agent helps collect information about the order and tells the customer they will file a complaint but might need more details\n- The customer provides their address and email and describes the problem in more detail",
+    "opening_comments": "No",
     "closing_comments": "No",
-    "Topic": "1. Customer service assistance\n2. Retailer pin code\n3. Checking details\n4. Distributor problem\n5. Order complaint\n6. Email inquiry\n7. Status pending\n8. Reference number\n9. Email communication\n10. Complaint screenshot\n11. Confirming email ID\n12. Resending email\n13. Shop address\n14. Mobile number\n15. Forwarding complaint",
-    "Resolution": "The customer's issue is not resolved yet as they are still in the process of raising a complaint and forwarding it to the concerned team for investigation.",
+    "Topic": "1. Customer complaint about chocolate\n2. Order delivery issue\n3. Fungus in chocolate\n4. Complaint registration process\n5. Email ID verification\n6. Address confirmation\n7. Name clarification\n8. Batch number inquiry\n9. Expiry date analysis\n10. Product details verification\n11. Assistance with packaging\n12. Product quantity clarification\n13. MRP and batch date request\n14. Communication through WhatsApp\n15. Customer service conclusion",
+    "Resolution": "The customer issue regarding receiving chocolate with fungus is not resolved as a complaint is still being filed on their behalf for further investigation and resolution.",
     "Has the Agent Ask for callers Name": "no",
     "Has the Agent Ask for callers Email_id": "no",
     "Has the Agent Ask for callers Address": "no",
-    "Did the caller Displayed Empathy": "Yes.\n\nThe caller displayed empathy by acknowledging the customer's issue, confirming their details, repeating information to ensure accuracy, apologizing for any inconvenience faced, and trying to resolve the complaint by re-sending the screenshot and raising a complaint to the concern team. The caller's efforts to assist and follow up on the customer's concerns showed empathy towards the customer's situation.",
+    "Did the caller Displayed Empathy": "Yes, the caller displayed empathy. The caller showed empathy when they said, \"It's heartbreaking to see that packet in such a state\" after hearing the customer's complaint about receiving chocolate filled with fungus.",
     "Was there any profanity on the call": "No.",
     "Interaction": "Query",
     "Discipline": "Junk",
     "Intent": "Junk",
-    "total_silence_duration": 220.26400000000024,
-    "num_silences": 181
+    "total_silence_duration": 170.29800000000023,
+    "num_silences": 156
 }
