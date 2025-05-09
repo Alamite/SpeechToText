@@ -14,6 +14,8 @@ src\Components\Uploader.js
 
 src\Components\AudioPlayer.js
 
+#### *No changes to path required to run locally*
+
 ## Step 3
 
 ### `npm start`
